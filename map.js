@@ -1,7 +1,7 @@
 import {WIDTH,HEIGHT,clampView,zoomAt,panBy} from '/map-math.js';
 const svg=document.getElementById('political-map'),select=document.getElementById('place'),output=document.getElementById('zoom-level');
-import {locations as trLocations} from '/atlas-locations.js?v=14';
-import {locations as enLocations} from '/atlas-locations-en.js?v=14';
+import {locations as trLocations} from '/atlas-locations.js?v=15';
+import {locations as enLocations} from '/atlas-locations-en.js?v=15';
 const lang=document.documentElement.lang,locations=lang==='en'?enLocations:trLocations;
 
 let view={x:0,y:0,width:WIDTH,height:HEIGHT};const points=new Map();let drag=null;
