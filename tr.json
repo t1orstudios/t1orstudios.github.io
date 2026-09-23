@@ -3,7 +3,7 @@
                      "title":  "Anatarya Cumhuriyeti",
                      "category":  "Ülkeler",
                      "desc":  "Kalyon Denizi’nin doğusunda yer alan üniter cumhuriyet.",
-                     "lead":  "Anatarya Cumhuriyeti, [[kalyon-denizi]] doğusundaki geniş bir yarımada ile iç platolar üzerinde yer alan, başkenti Arkent olan üniter bir cumhuriyettir. Ülke; sanayi üretimi, kara ulaşım ağı ve uzay teknolojileriyle bölgesel bir güç konumundadır. [[kuzey-kusagi]] üyesi olan Anatarya, [[elonya]] ile deniz yetki alanları, ada güvenliği ve askerî gözetleme faaliyetleri konusunda uzun süredir anlaşmazlık yaşamaktadır.\n\n[[gokkale-4]] uydu ve fırlatma kompleksine ev sahipliği yapan ülke, [[kartal-7]] programı nedeniyle [[kriz]] odağına yerleşmiştir. Elonya’nın savaşa gerekçe gösterdiği [[sarpburun-dosyasi]], Anatarya’ya atfedilen bir ilk saldırı planı içerir; dosya gerçekte [[elonya-istihbarati]] tarafından hazırlanmış sahte belgelerden oluşmaktadır.",
+                     "lead":  "Anatarya Cumhuriyeti, [[kalyon-denizi]] doğusundaki geniş bir yarımada ile iç platolar üzerinde yer alan, başkenti Arkent olan üniter bir cumhuriyettir. Batısında Elonya ile kara sınırı bulunurken güney kıyıları Kalyon Denizi\u0027ne, kuzey sınırları ise Avren ana karasının iç bölgelerine uzanır.",
                      "facts":  [
                                    [
                                        "Resmî ad",
@@ -102,7 +102,7 @@
                    "title":  "Elonya Cumhuriyeti",
                    "category":  "Ülkeler",
                    "desc":  "Kalyon Denizi’nin batısında yer alan denizci cumhuriyet.",
-                   "lead":  "Elonya Cumhuriyeti, [[kalyon-denizi]] batısındaki kıyı yarımadası ile ada yerleşimlerinden oluşan parlamenter bir cumhuriyettir. Başkenti Lerya, ülkenin başlıca siyasi ve ticari merkezidir. Deniz taşımacılığı, liman hizmetleri ve ada ekonomileri devletin gelişiminde belirleyici olmuştur.\n\n[[anatarya]] ile birlikte [[kuzey-kusagi]] üyesi olan Elonya, [[kartal-7]] keşif uydusunun fırlatılmasını bölgesel güç dengesine yönelik bir tehdit olarak değerlendirmiştir. [[elonya-istihbarati]] tarafından üretilen [[sarpburun-dosyasi]], hükûmetin Anatarya’ya savaş açarken sunduğu resmî gerekçenin temelini oluşturmuştur.",
+                   "lead":  "Elonya Cumhuriyeti, [[kalyon-denizi]] batısında ve Avren ana karasının güneybatı kesiminde yer alan, başkenti Lerya olan üniter bir kıyı devletidir.",
                    "facts":  [
                                  [
                                      "Resmî ad",
@@ -586,6 +586,10 @@
                                  [
                                      "Anma sözü",
                                      "Dönmeyenlerin nöbeti bitmez."
+                                 ],
+                                 [
+                                     "Tarihî kayıp",
+                                     "DAGGER 06 ([[kara-kasim]])"
                                  ]
                              ],
                    "sections":  [
@@ -607,7 +611,7 @@
                                     ],
                                     [
                                         "2036 sinyali ve Dosya 94-117",
-                                        "2036’da tespit edilen bir sinyal, DAGGER 06’nın 1994’teki son yayınıyla aynı frekans özelliklerini taşıyordu. [[dosya-94-117]] kapsamında iki kaydın karşılaştırılması talep edildi.\n\nBu benzerlik, kayıp uçağın bulunduğu veya mürettebatın hayatta olduğu anlamına gelmez. Sinyalin kaynağı ve Kara Kasım ile bağlantısı, soruşturmanın çözümlenmemiş başlıklarıdır."
+                                        "2036’da tespit edilen bir sinyal, DAGGER 06’nın 1994’teki son yayınıyla aynı frekans özelliklerini taşıyordu. Dosya 94-117 kapsamında iki kaydın karşılaştırılması talep edildi.\n\nBu benzerlik, kayıp uçağın bulunduğu veya mürettebatın hayatta olduğu anlamına gelmez. Sinyalin kaynağı ve Kara Kasım ile bağlantısı, soruşturmanın çözümlenmemiş başlıklarıdır."
                                     ],
                                     [
                                         "GÖKKALE-4 savunması ve SON ŞAFAK",
@@ -1046,7 +1050,7 @@
                           "title":  "İstara Boğazı",
                           "category":  "Coğrafya",
                           "desc":  "Kuzey Denizi ile İç Deniz’i birleştiren dar su geçidi.",
-                          "lead":  "İstara Boğazı, Kuzey Denizi ile İç Deniz arasında uzanan dar deniz geçididir. Boğazın iki yakası da [[anatarya]] toprağıdır ve [[istara]] şehri bu geçidin çevresinde gelişmiştir. Batı yakası [[avrupa]] ana karasına, doğu yakası Anatarya’nın büyük yarımadasına bağlıdır.",
+                          "lead":  "İstara Boğazı, [[kalyon-denizi]] çıkışını Avren ana karasının güney deniz ticaret yollarına bağlayan dar su yoludur.",
                           "facts":  [
                                         [
                                             "Tür",
@@ -2476,103 +2480,47 @@
                          "imageKey":  "patch-iris-indirme",
                          "draft":  false
                      },
-    "dosya-94-117":  {
-                         "lead":  "SÄ±nÄ±flandÄ±rÄ±lmÄ±ÅŸ Dosya 94-117, [[anatarya]] Hava Kuvvetleri KomutanlÄ±ÄŸÄ± ve Ä°stihbarat BaÅŸkanlÄ±ÄŸÄ± tarafÄ±ndan 17 KasÄ±m 1994\u0027te kaybolan DAGGER 06 uÃ§aÄŸÄ± ve 2036 yÄ±lÄ±nda aynÄ± frekanstan alÄ±nan telsiz yayÄ±nÄ± Ã¼zerine aÃ§Ä±lan Ã§ok gizli soruÅŸturma dosyasÄ±dÄ±r. Dosya; havacÄ±lÄ±k kayÄ±tlarÄ±, radar loglarÄ±, sinyal analizleri ve [[elonya-istihbarati]] tarafÄ±ndan yÃ¼rÃ¼tÃ¼lmÃ¼ÅŸ olasÄ± elektronik harp faaliyetlerini inceler.",
-                         "sections":  [
-                                          [
-                                              "DosyanÄ±n aÃ§Ä±lÄ±ÅŸÄ± (1994)",
-                                              "Dosya, [[kara-kasim]] sonrasÄ±nda arama kurtarma raporlarÄ±nÄ±n sonuÃ§suz kalmasÄ± Ã¼zerine aÃ§Ä±ldÄ±. Dosyadaki ilk analizler, uÃ§aÄŸÄ±n telsiz irtibatÄ±nÄ±n kesildiÄŸi 11 saniyelik aralÄ±kta bÃ¶lgede yabancÄ± bir radar karÄ±ÅŸtÄ±rmasÄ± veya radar kÃ¶r noktasÄ± olup olmadÄ±ÄŸÄ±nÄ± araÅŸtÄ±rdÄ±. Ancak hiÃ§bir sonuca ulaÅŸÄ±lamadÄ±."
-                                          ],
-                                          [
-                                              "2036 Sinyali ve dosyanÄ±n yeniden aÃ§Ä±lmasÄ±",
-                                              "2036 yÄ±lÄ± baÅŸlarÄ±nda [[sarpburun-radar-istasyonu]] ve [[kuzey-isaret]] alÄ±cÄ±larÄ±, 243.0 MHz askerÃ® acil durum kanalÄ±nda saniyenin onda biri sÃ¼ren bir taÅŸÄ±yÄ±cÄ± dalga tespit etti. Sinyalin kriptografik modÃ¼lasyonu, 1994 yÄ±lÄ±nda DAGGER 06\u0027ya yÃ¼klenmiÅŸ analog tanÄ±mlama anahtarlarÄ±yla tam uyum gÃ¶steriyordu."
-                                          ],
-                                          [
-                                              "Ä°stihbarat tezleri ve kriz ortamÄ±",
-                                              "Dosyadaki deÄŸerlendirme notlarÄ± iki ana olasÄ±lÄ±k Ã¼zerinde durur: Ä°lki, [[elonya-istihbarati]] unsurlarÄ±nÄ±n [[cam-perde]] hazÄ±rlÄ±ÄŸÄ± sÄ±rasÄ±nda eski Anatarya frekanslarÄ±nÄ± kullanarak kasÄ±tlÄ± bir dezenformasyon veya karÄ±ÅŸtÄ±rma denemesi yapmÄ±ÅŸ olmasÄ±dÄ±r. Ä°kincisi ise uÃ§aÄŸÄ±n enkazÄ±ndan veya bilinmeyen bir aktarÄ±cÄ±dan kaynaklanan gerÃ§ek bir teknik yankÄ±dÄ±r. Dosya halen aÃ§Ä±k durumdadÄ±r."
-                                          ]
-                                      ],
-                         "draft":  false,
-                         "category":  "Belgeler",
-                         "facts":  [
-                                       [
-                                           "Belge kodu",
-                                           "GÃ–K-HVK-94-117/Ã‡G"
-                                       ],
-                                       [
-                                           "SÄ±nÄ±flandÄ±rma",
-                                           "Ã‡ok Gizli (YalnÄ±zca Yetkili Personele)"
-                                       ],
-                                       [
-                                           "HazÄ±rlayan",
-                                           "Anatarya Hava Kuvvetleri ve Ä°stihbarat BaÅŸkanlÄ±ÄŸÄ±"
-                                       ],
-                                       [
-                                           "Olay baÄŸlantÄ±sÄ±",
-                                           "[[kara-kasim]]"
-                                       ],
-                                       [
-                                           "Ä°lgili birlik",
-                                           "[[hancer]] Â· [[kuzey-isaret]]"
-                                       ],
-                                       [
-                                           "Kritik yÄ±l",
-                                           "1994 / 2036"
-                                       ]
-                                   ],
-                         "related":  [
-                                         "kara-kasim",
-                                         "hancer",
-                                         "k4-boran",
-                                         "elonya-istihbarati",
-                                         "sarpburun-radar-istasyonu",
-                                         "cam-perde",
-                                         "kriz"
-                                     ],
-                         "desc":  "DAGGER 06\u0027nÄ±n kaybÄ± ve 2036 sinyali Ã¼zerine yÃ¼rÃ¼tÃ¼len gizli askerÃ® soruÅŸturma.",
-                         "imageKey":  "",
-                         "title":  "SÄ±nÄ±flandÄ±rÄ±lmÄ±ÅŸ Dosya 94-117"
-                     },
     "lerya-deniz-ussu":  {
-                             "lead":  "Lerya Deniz ÃœssÃ¼, [[elonya]] ana karasÄ±ndaki Lerya KÃ¶rfezi kÄ±yÄ±sÄ±nda yer alan en bÃ¼yÃ¼k deniz ve lojistik tesisidir. [[aigaion]] Muharebe Grubu\u0027nun ana konuÅŸlanma limanÄ± olan Ã¼s; kuru havuzlar, mÃ¼himmat depolarÄ± ve deniz komando eÄŸitim alanlarÄ±nÄ± barÄ±ndÄ±rÄ±r. [[kriz]] sÄ±rasÄ±nda bÃ¶lgeye sevk edilen fÄ±rkateynler ve ikmal gemileri buradan hareket etmiÅŸtir.",
-                             "sections":  [
-                                              [
-                                                  "Tesis altyapÄ±sÄ±",
-                                                  "Ãœs; fÄ±rkateyn ve Ã§Ä±karma gemilerinin yanaÅŸabildiÄŸi derin su iskeleleri, yakÄ±t ikmal tesisleri ve yer altÄ± mÃ¼himmat depolarÄ±ndan oluÅŸur. [[kallisto-ikmal]] gemisi sefer Ã¶ncesi lojistik yÃ¼klemesini burada tamamlamÄ±ÅŸtÄ±r. Tesisin iÃ§ kesiminde [[nereus-komando]] birliÄŸine ayrÄ±lmÄ±ÅŸ Ã¶zel eÄŸitim parkurlarÄ± ve bot barÄ±naklarÄ± bulunur."
-                                              ],
-                                              [
-                                                  "Hava ve kÄ±yÄ± gÃ¼venliÄŸi",
-                                                  "Lerya KÃ¶rfezi Ã§evresinin hava savunmasÄ± [[ucaksavar]] tarafÄ±ndan saÄŸlanÄ±r. KÃ¶rfez radar mevzileri ve kÄ±yÄ± bataryalarÄ±, Ã¼ssÃ¼n hava sahasÄ±nÄ± gÃ¼venceye alÄ±r. [[pelagos-devriye]] uÃ§aklarÄ± kÃ¶rfez aÃ§Ä±klarÄ±ndaki deniz trafiÄŸini dÃ¼zenli olarak denetler."
-                                              ],
-                                              [
-                                                  "GÃ–KKALE-4 Krizi\u0027ndeki rolÃ¼",
-                                                  "SavaÅŸ ilanÄ±nÄ±n ardÄ±ndan AIGAION Muharebe Grubu bu Ã¼sten demir alarak [[sarpburun]] aÃ§Ä±klarÄ±na sevk edilmiÅŸtir. HarekÃ¢t sÃ¼resince Ã¼s, yaralÄ± tahliyesi ve lojistik ikmalin ana kalkÄ±ÅŸ noktasÄ± olarak yedekte tutulmaktadÄ±r."
-                                              ]
-                                          ],
-                             "draft":  false,
+                             "title":  "Lerya Deniz Üssü",
                              "category":  "Tesisler",
+                             "desc":  "Elonya Deniz Kuvvetleri\u0027nin ana üssü ve AIGAION grubunun harekât limanı.",
+                             "lead":  "Lerya Deniz Üssü, [[elonya]] ana karasındaki Lerya Körfezi kıyısında kurulu, ülkenin en büyük deniz ve lojistik üssüdür. [[aigaion]] Görev Grubu\u0027nun ana konuşlanma yeri olan tesis; kuru havuzlar, mühimmat ikmal depoları ve deniz komandosu eğitim alanlarına sahiptir. [[kriz]] sırasında bölgeye sevk edilen firkateynler ve ikmal gemileri bu limandan hareket etmiştir.",
                              "facts":  [
                                            [
-                                               "Tesis tÃ¼rÃ¼",
-                                               "AskerÃ® deniz Ã¼ssÃ¼ ve lojistik liman"
+                                               "Tesis türü",
+                                               "Deniz üssü ve ikmal limanı"
                                            ],
                                            [
-                                               "BaÄŸlÄ± Ã¼lke",
+                                               "Bağlı ülke",
                                                "[[elonya]]"
                                            ],
                                            [
                                                "Konum",
-                                               "Lerya KÃ¶rfezi"
+                                               "Lerya Körfezi"
                                            ],
                                            [
-                                               "Ana unsurlar",
-                                               "[[aigaion]] Â· [[nereus-komando]]"
+                                               "Önemli unsurlar",
+                                               "[[aigaion]] · [[nereus-komando]]"
                                            ],
                                            [
-                                               "Hava savunmasÄ±",
+                                               "Hava savunması",
                                                "[[ucaksavar]]"
                                            ]
                                        ],
+                             "sections":  [
+                                              [
+                                                  "Üs altyapısı",
+                                                  "Üs; firkateyn ve çıkarma gemilerinin yanaşabildiği derin su rıhtımları, yakıt dolum tesisleri ve güçlendirilmiş mühimmat sığınaklarından oluşur. [[kallisto-ikmal]] gemisinin sefer hazırlıkları ve ikmal yüklemeleri burada yapılmıştır. Tesisin iç kesiminde [[nereus-komando]] birliğine tahsis edilmiş özel eğitim parkuru ve hücumbot barınakları yer alır."
+                                              ],
+                                              [
+                                                  "Kıyı ve hava güvenliği",
+                                                  "Lerya Körfezi çevresindeki hava sahası güvenliği, [[ucaksavar]] taburu bataryaları tarafından sağlanır. Körfez girişindeki radar istasyonları ve kıyı gözetleme kuleleri üssü korur. [[pelagos-devriye]] filosu da körfez dışındaki deniz yollarında düzenli uçuşlar gerçekleştirir."
+                                              ],
+                                              [
+                                                  "GÖKKALE-4 Krizindeki rolü",
+                                                  "Savaş ilanının ardından AIGAION grubu bu üsten demir alarak [[sarpburun]] açıklarına hareket etmiştir. Kriz süresince tesis, lojistik destek ve sıhhi tahliye noktası olarak teyakkuz hâlinde tutulmuştur."
+                                              ]
+                                          ],
                              "related":  [
                                              "elonya",
                                              "aigaion",
@@ -2582,50 +2530,50 @@
                                              "kalyon-denizi",
                                              "kriz"
                                          ],
-                             "desc":  "Elonya Deniz Kuvvetleri ana Ã¼ssÃ¼ ve AIGAION grubunun kalkÄ±ÅŸ limanÄ±.",
                              "imageKey":  "",
-                             "title":  "Lerya Deniz ÃœssÃ¼"
+                             "draft":  false
                          },
     "sarpburun-radar-istasyonu":  {
-                                      "lead":  "Sarpburun Radar Ä°stasyonu, [[sarpburun]] YarÄ±madasÄ±\u0027nÄ±n yÃ¼ksek sÄ±rtlarÄ±nda kurulu [[anatarya]] erken uyarÄ± ve kÄ±yÄ± gÃ¶zetleme tesisidir. [[gokkale-4]] uydu kompleksinin doÄŸu tepelerinde yer alan tesis, [[kuzey-isaret]] tarafÄ±ndan iÅŸletilir. Kalyon Denizi, ada hava sahasÄ± ve yaklaÅŸma koridorlarÄ±nÄ±n anlÄ±k radar izini [[hancer]] ve hava savunma birliklerine aktarÄ±r.",
-                                      "sections":  [
-                                                       [
-                                                           "KuruluÅŸ ve altyapÄ±",
-                                                           "Ä°stasyon, kÄ±yÄ± boyunca uzanan eski gÃ¶zetleme kulelerinin yerini alan dijital radar ve mikrodalga aktarÄ±m kuleleriyle inÅŸa edilmiÅŸtir. Zorlu daÄŸ koÅŸullarÄ±na dayanÄ±klÄ± radom kubbeleri, kesintisiz gÃ¼Ã§ kaynaklarÄ± ve yer altÄ± haberleÅŸme sÄ±ÄŸÄ±naklarÄ±na sahiptir. GÃ¼venlik hattÄ±nÄ± [[sarp-muhafiz]] birlikleri saÄŸlar."
-                                                       ],
-                                                       [
-                                                           "Operasyonel gÃ¶rev",
-                                                           "Tesis; hava ve su Ã¼stÃ¼ hedeflerinin hÄ±z, irtifa ve rota verilerini birleÅŸtirerek tek bir taktik tablo oluÅŸturur. [[kriz]] sÄ±rasÄ±nda [[elonya]] uÃ§ak ve gemilerinin hareketlerini ilk tespit eden nokta olmuÅŸtur. Elde edilen radar kayÄ±tlarÄ±, [[sarpburun-dosyasi]] iÃ§inde yer alan sahte uÃ§uÅŸ saatlerinin Ã§Ã¼rÃ¼tÃ¼lmesinde kilit rol oynamÄ±ÅŸtÄ±r."
-                                                       ],
-                                                       [
-                                                           "Kara KasÄ±m baÄŸlantÄ±sÄ±",
-                                                           "17 KasÄ±m 1994\u0027te yaÅŸanan [[kara-kasim]] sÄ±rasÄ±nda DAGGER 06\u0027nÄ±n son irtifa kaybÄ± ve sinyal kesintisi bu istasyonun eski analog radarlarÄ± tarafÄ±ndan kaydedilmiÅŸti. 2036 yÄ±lÄ±nda saptanan acil durum sinyali de yine buradaki modern alÄ±cÄ±lar tarafÄ±ndan yakalanarak [[dosya-94-117]] soruÅŸturmasÄ±na eklenmiÅŸtir."
-                                                       ]
-                                                   ],
-                                      "draft":  false,
+                                      "title":  "Sarpburun Radar İstasyonu",
                                       "category":  "Tesisler",
+                                      "desc":  "Anatarya’nın Sarpburun ve Kalyon Denizi hava sahasını izleyen erken ihbar tesisi.",
+                                      "lead":  "Sarpburun Radar İstasyonu, [[anatarya]] Silahlı Kuvvetleri tarafından [[sarpburun]] yarımadasının hâkim sırtlarında işletilen erken ihbar ve kıyı gözetleme tesisidir. [[gokkale-4]] fırlatma kompleksinin doğusundaki kayalıklarda kurulu olan istasyon, [[kuzey-isaret]] muhabere taburuna bağlıdır. Kalyon Denizi ve hava yaklaşma koridorlarının anlık radar izlerini [[hancer]] filosu ve hava savunma birliklerine aktarır.",
                                       "facts":  [
                                                     [
-                                                        "Tesis tÃ¼rÃ¼",
-                                                        "Erken uyarÄ± ve kÄ±yÄ± gÃ¶zetleme radarÄ±"
+                                                        "Tesis türü",
+                                                        "Erken ihbar ve kıyı radarı"
                                                     ],
                                                     [
-                                                        "BaÄŸlÄ± Ã¼lke",
+                                                        "Bağlı ülke",
                                                         "[[anatarya]]"
                                                     ],
                                                     [
-                                                        "Ä°ÅŸleten birlik",
+                                                        "İşleten birlik",
                                                         "[[kuzey-isaret]]"
                                                     ],
                                                     [
                                                         "Konum",
-                                                        "[[sarpburun]] daÄŸlÄ±k sÄ±rtlarÄ±"
+                                                        "[[sarpburun]] dağ sırtları"
                                                     ],
                                                     [
-                                                        "Veri aktarÄ±mÄ±",
-                                                        "[[hancer]] Â· [[kalkan-hss]] Â· [[gokkale-4]]"
+                                                        "Veri paylaşımı",
+                                                        "[[hancer]] · [[kalkan-hss]] · [[gokkale-4]]"
                                                     ]
                                                 ],
+                                      "sections":  [
+                                                       [
+                                                           "İnşa ve donanım",
+                                                           "Eski kıyı gözetleme karakollarının yerini almak üzere kurulan istasyon, faz dizili sayısal radarlar ve mikrodalga bağlantı kuleleriyle donatılmıştır. Tesis; zorlu kış şartlarına dayanıklı radomlar, bağımsız güç jeneratörleri ve yer altı haberleşme sığınaklarından oluşur. Tesisin çevre güvenliğini [[sarp-muhafiz]] birlikleri sağlar."
+                                                       ],
+                                                       [
+                                                           "Operasyonel görevler",
+                                                           "İstasyon, hava ve deniz hedeflerinin hareketlerini birleştirilmiş bir taktik resme dönüştürür. [[kriz]] sırasında bölgeye yaklaşan [[elonya]] hava ve deniz unsurlarının ilk tespitleri buradan yapılmıştır. İstasyonun radar kayıtları, sahte [[sarpburun-dosyasi]] belgesinde iddia edilen uçuş rotalarının çürütülmesinde temel kanıt olarak kullanılmıştır."
+                                                       ],
+                                                       [
+                                                           "Kara Kasım Olayı bağlantısı",
+                                                           "17 Kasım 1994\u0027te yaşanan [[kara-kasim]] sırasında DAGGER 06\u0027nın son irtifa kaybı ve sinyal kesintisi bu istasyonun eski analog radarları tarafından kaydedilmişti. 2036 yılında saptanan acil durum sinyali de yine buradaki modern alıcılar tarafından yakalanarak [[dosya-94-117]] soruşturmasına eklenmiştir."
+                                                       ]
+                                                   ],
                                       "related":  [
                                                       "gokkale-4",
                                                       "sarpburun",
@@ -2636,58 +2584,58 @@
                                                       "dosya-94-117",
                                                       "kriz"
                                                   ],
-                                      "desc":  "Anatarya\u0027nÄ±n Sarpburun ve Kalyon Denizi Ã¼zerindeki erken uyarÄ± radar tesisi.",
                                       "imageKey":  "",
-                                      "title":  "Sarpburun Radar Ä°stasyonu"
+                                      "draft":  false
                                   },
     "kara-kasim":  {
-                       "lead":  "Kara KasÄ±m OlayÄ±, 17 KasÄ±m 1994 tarihinde [[anatarya]] Hava Kuvvetleri bÃ¼nyesindeki [[hancer]] filosuna ait DAGGER 06 Ã§aÄŸrÄ± kodlu [[k4-boran]] uÃ§aÄŸÄ±nÄ±n [[sarpburun]] aÃ§Ä±klarÄ±nda radardan kaybolmasÄ±yla sonuÃ§lanan askerÃ® havacÄ±lÄ±k olayÄ±dÄ±r. Son telsiz konuÅŸmasÄ±ndan 11 saniye sonra sinyali kesilen uÃ§aktan ve iki kiÅŸilik mÃ¼rettebatÄ±ndan bir daha haber alÄ±namamÄ±ÅŸtÄ±r. Olay, filoda derin bir anma geleneÄŸi baÅŸlatmÄ±ÅŸ ve [[dosya-94-117]] soruÅŸturmasÄ±nÄ±n temelini oluÅŸturmuÅŸtur.",
-                       "sections":  [
-                                        [
-                                            "UÃ§uÅŸ ve kayboluÅŸ",
-                                            "17 KasÄ±m 1994 gÃ¼nÃ¼ saat 16.42\u0027de rutin kÄ±yÄ± devriyesi iÃ§in havalanan DAGGER 06, Sarpburun YarÄ±madasÄ±\u0027nÄ±n 18 deniz mili batÄ±sÄ±nda dÃ¼ÅŸÃ¼k irtifada seyrediyordu. Hava koÅŸullarÄ± elveriÅŸliydi. Saat 17.03\u0027te pilot kuleye rotanÄ±n korunduÄŸunu bildirdi. Bu Ã§aÄŸrÄ±dan tam 11 saniye sonra uÃ§ak radar ekranlarÄ±ndan aniden silindi. Herhangi bir acil durum Ã§aÄŸrÄ±sÄ± (Mayday) veya fÄ±rlatma koltuÄŸu sinyali alÄ±nmadÄ±."
-                                        ],
-                                        [
-                                            "Arama-kurtarma ve enkaz sorunu",
-                                            "Anatarya Deniz ve Sahil GÃ¼venlik unsurlarÄ± gÃ¼nlerce arama tarama faaliyeti yÃ¼rÃ¼ttÃ¼. Ancak denizde hiÃ§bir yakÄ±t lekesi, gÃ¶vde parÃ§asÄ± veya can yeleÄŸi izine rastlanmadÄ±. UÃ§aÄŸÄ±n denize Ã§akÄ±lmadÄ±ÄŸÄ± veya radyo ufkunun altÄ±nda aÃ§Ä±klanamayan bir anomaliyle karÅŸÄ±laÅŸtÄ±ÄŸÄ± yÃ¶nÃ¼ndeki iddialar resmÃ® olarak doÄŸrulanamadÄ±."
-                                        ],
-                                        [
-                                            "Filodaki miras ve 2036 Sinyali",
-                                            "KaybÄ±n ardÄ±ndan eski karargÃ¢h binasÄ±na bronz bir anma plakasÄ± asÄ±ldÄ±: \u0027132. TAKTÄ°K FÄ°LO KOMUTANLIÄI / DAGGER 06 / 17 KASIM 1994 / DÃ¶nmeyenlerin nÃ¶beti bitmez.\u0027 2036 yÄ±lÄ±nda, [[kriz]] tÄ±rmanÄ±rken aynÄ± koordinatlardan DAGGER 06\u0027nÄ±n acil durum verici frekansÄ±yla Ã¶rtÃ¼ÅŸen kÄ±sa sÃ¼reli bir mikrodalga sinyali kaydedildi. Bu geliÅŸme, olayÄ± [[dosya-94-117]] Ã¼zerinden yeniden gÃ¼ndeme taÅŸÄ±dÄ±."
-                                        ]
-                                    ],
-                       "draft":  false,
+                       "title":  "Kara Kasım Olayı",
                        "category":  "Olaylar",
+                       "desc":  "17 Kasım 1994\u0027te DAGGER 06 uçağının Sarpburun açıklarında esrarengiz kaybı.",
+                       "lead":  "Kara Kasım Olayı, 17 Kasım 1994 tarihinde [[anatarya]] Hava Kuvvetleri bünyesindeki [[hancer]] filosuna ait DAGGER 06 çağrı kodlu [[k4-boran]] uçağının [[sarpburun]] açıklarında radardan kaybolmasıyla sonuçlanan askerî havacılık olayıdır. Son telsiz konuşmasından 11 saniye sonra sinyali kesilen uçaktan ve iki kişilik mürettebatından bir daha haber alınamamıştır. Olay, filoda derin bir anma geleneği başlatmış ve [[dosya-94-117]] soruşturmasının temelini oluşturmuştur.",
                        "facts":  [
                                      [
                                          "Tarih",
-                                         "17 KasÄ±m 1994"
+                                         "17 Kasım 1994"
                                      ],
                                      [
-                                         "Ä°lgili birlik",
+                                         "İlgili birlik",
                                          "[[hancer]]"
                                      ],
                                      [
-                                         "KayÄ±p uÃ§ak",
+                                         "Kayıp uçak",
                                          "DAGGER 06 ([[k4-boran]])"
                                      ],
                                      [
                                          "Konum",
-                                         "[[sarpburun]] aÃ§Ä±klarÄ±, [[kalyon-denizi]]"
+                                         "[[sarpburun]] açıkları, [[kalyon-denizi]]"
                                      ],
                                      [
-                                         "MÃ¼rettebat",
-                                         "Pilot YÃ¼zbaÅŸÄ± ve Silah Sistem SubayÄ±"
+                                         "Mürettebat",
+                                         "Pilot Yüzbaşı ve Silah Sistem Subayı"
                                      ],
                                      [
-                                         "SoruÅŸturma",
+                                         "Soruşturma",
                                          "[[dosya-94-117]]"
                                      ],
                                      [
-                                         "Anma sÃ¶zÃ¼",
-                                         "DÃ¶nmeyenlerin nÃ¶beti bitmez."
+                                         "Gelenek",
+                                         "Dönmeyenlerin nöbeti bitmez"
                                      ]
                                  ],
+                       "sections":  [
+                                        [
+                                            "Uçuş ve kayboluş",
+                                            "17 Kasım 1994 günü saat 16.42\u0027de rutin kıyı devriyesi için üssünden havalanan DAGGER 06, Sarpburun Yarımadası\u0027nın 18 deniz mili batısında alçak irtifada uçuş icra ediyordu. Saat 17.03\u0027te pilot kontrol kulesine seyrüsefer bildiriminde bulundu. Bu temastan tam 11 saniye sonra uçağın radar ekosu aniden kayboldu; herhangi bir acil durum çağrısı veya fırlatma koltuğu sinyali kaydedilmedi."
+                                        ],
+                                        [
+                                            "Arama kurtarma ve enkaz sorunu",
+                                            "Olayın ardından donanma ve sahil güvenlik unsurları haftalarca arama kurtarma faaliyeti yürüttü. Ancak denizde hiçbir yakıt lekesi, kanopi parçası ya da acil durum salına rastlanmadı. Uçağın gövdesine ve personeline ait hiçbir ize ulaşılamaması, olayın teknik arıza mı yoksa açıklanamayan bir anomali mi olduğu sorusunu yanıtsız bıraktı."
+                                        ],
+                                        [
+                                            "Filodaki miras ve 2036 Sinyali",
+                                            "Kaybın ardından eski karargâh binasına bronz bir anma plakası asıldı: \u0027132. TAKTİK FİLO KOMUTANLIĞI / DAGGER 06 / 17 KASIM 1994 / Dönmeyenlerin nöbeti bitmez.\u0027 2036 yılında, [[kriz]] tırmanırken aynı koordinatlardan DAGGER 06\u0027nın acil durum verici frekansıyla örtüşen kısa süreli bir mikrodalga sinyali kaydedildi. Bu gelişme, olayı [[dosya-94-117]] üzerinden yeniden gündeme taşıdı."
+                                        ]
+                                    ],
                        "related":  [
                                        "hancer",
                                        "k4-boran",
@@ -2696,8 +2644,64 @@
                                        "dosya-94-117",
                                        "kriz"
                                    ],
-                       "desc":  "17 KasÄ±m 1994\u0027te DAGGER 06 uÃ§aÄŸÄ±nÄ±n Sarpburun aÃ§Ä±klarÄ±nda esrarengiz kaybÄ±.",
                        "imageKey":  "patch-hancer",
-                       "title":  "Kara KasÄ±m OlayÄ±"
-                   }
+                       "draft":  false
+                   },
+    "dosya-94-117":  {
+                         "title":  "Dosya 94-117",
+                         "category":  "Belgeler",
+                         "desc":  "DAGGER 06\u0027nın kaybı ve 2036 sinyal kaydına ilişkin çok gizli soruşturma dosyası.",
+                         "lead":  "Dosya 94-117, [[anatarya]] Hava Kuvvetleri Komutanlığı ve İstihbarat Başkanlığı tarafından 17 Kasım 1994\u0027te kaybolan DAGGER 06 uçağı ve 2036\u0027da aynı frekanstan alınan sıra dışı yayınlar hakkında yürütülen gizli soruşturma dosyasıdır. Dosya; uçağın son telemetri dökümlerini, radar şeritlerini, sinyal analizlerini ve [[elonya-istihbarati]] unsurlarının olası elektronik müdahalelerine dair değerlendirmeleri içerir.",
+                         "facts":  [
+                                       [
+                                           "Belge kodu",
+                                           "GÖK-HVK-94-117/TS"
+                                       ],
+                                       [
+                                           "Gizlilik derecesi",
+                                           "Çok Gizli (Kişiye Özel)"
+                                       ],
+                                       [
+                                           "Hazırlayan",
+                                           "Hava Kuvvetleri İstihbarat Başkanlığı"
+                                       ],
+                                       [
+                                           "İlişkili olay",
+                                           "[[kara-kasim]]"
+                                       ],
+                                       [
+                                           "İlgili birimler",
+                                           "[[hancer]] · [[kuzey-isaret]]"
+                                       ],
+                                       [
+                                           "Tarih aralığı",
+                                           "1994 / 2036"
+                                       ]
+                                   ],
+                         "sections":  [
+                                          [
+                                              "Soruşturmanın açılışı (1994)",
+                                              "Dosya, [[kara-kasim]] sonrasında arama kurtarma raporlarının sonuçsuz kalması üzerine açıldı. Dosyadaki ilk analizler, uçağın telsiz irtibatının kesildiği 11 saniyelik aralıkta bölgede yabancı bir radar karıştırması veya radar kör noktası olup olmadığını araştırdı. Ancak hiçbir sonuca ulaşılamadı."
+                                          ],
+                                          [
+                                              "2036 Sinyali ve dosyanın yeniden açılması",
+                                              "2036 yılı başlarında [[sarpburun-radar-istasyonu]] ve [[kuzey-isaret]] alıcıları, 243.0 MHz askerî acil durum kanalında saniyenin onda biri süren bir taşıyıcı dalga tespit etti. Sinyalin kriptografik modülasyonu, 1994 yılında DAGGER 06\u0027ya yüklenmiş analog tanımlama anahtarlarıyla tam uyum gösteriyordu."
+                                          ],
+                                          [
+                                              "Değerlendirmeler ve krizdeki yeri",
+                                              "İstihbarat raporlarında iki temel hipotez üzerinde durulmaktadır: İlki, [[elonya-istihbarati]] tarafından [[cam-perde]] projesinin bir parçası olarak eski analog telemetri verilerinin yanıltma amacıyla yayınlanması; ikincisi ise kaynağı bilinmeyen bir denizaltı veya gizli vericinin varlığıdır. Dosya günümüzde de açık kalmaya devam etmektedir."
+                                          ]
+                                      ],
+                         "related":  [
+                                         "kara-kasim",
+                                         "hancer",
+                                         "k4-boran",
+                                         "elonya-istihbarati",
+                                         "sarpburun-radar-istasyonu",
+                                         "cam-perde",
+                                         "kriz"
+                                     ],
+                         "imageKey":  "",
+                         "draft":  false
+                     }
 }

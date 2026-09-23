@@ -49,8 +49,7 @@ async function publish(){if(!token)throw Error('Önce GitHub yönetici erişimiy
  const script=oldScript.replace(expression,'const dataTR='+JSON.stringify(state.tr)+';\nconst dataEN='+JSON.stringify(state.en)+';');
  const version=await hash(script);
  const updateHTML=html=>{if(!/\/pages\.js(?:\?v=[a-f0-9]+)?"/.test(html))throw Error('Ana sayfada wiki betiği bulunamadı.');return html.replace(/\/pages\.js(?:\?v=[a-f0-9]+)?"/g,'/pages.js?v='+version+'"')};
- const updateEdit=html=>html.replace(/<script id="embedded-tr" type="application\/json">.*?<\/script>/,'<script id="embedded-tr" type="application/json">'+JSON.stringify(state.tr)+'</script>').replace(/<script id="embedded-en" type="application\/json">.*?<\/script>/,'<script id="embedded-en" type="application/json">'+JSON.stringify(state.en)+'</script>');
- const files=[['tr.json',JSON.stringify(state.tr,null,2)+'\n'],['en.json',JSON.stringify(state.en,null,2)+'\n'],['pages.js',script],['index.html',updateHTML(oldIndex)],['404.html',updateHTML(old404)],['edit.html',updateEdit(oldEdit)]];
+ const files=[['tr.json',JSON.stringify(state.tr,null,2)+'\n'],['en.json',JSON.stringify(state.en,null,2)+'\n'],['pages.js',script],['index.html',updateHTML(oldIndex)],['404.html',updateHTML(old404)]];
  const tree=await Promise.all(files.map(async([path,content])=>({path,mode:'100644',type:'blob',sha:await createBlob(content)})));
  for(const [name,file] of uploads)if(Object.values(state).some(pages=>Object.values(pages).some(page=>page.imageKey==='file:'+name)))tree.push({path:name,mode:'100644',type:'blob',sha:await createBlob(await imageData(file),'base64')});
  const newTree=await request('/git/trees','POST',{base_tree:commit.tree.sha,tree});

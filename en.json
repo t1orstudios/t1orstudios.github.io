@@ -3,7 +3,7 @@
                      "title":  "Republic of Anatarya",
                      "category":  "Countries",
                      "desc":  "A unitary republic east of the Kalyon Sea.",
-                     "lead":  "The Republic of Anatarya is a unitary republic occupying a broad peninsula east of [[kalyon-denizi]] and the inland plateaus, with its capital at Arkent. Its industrial production, land transport network and space technologies make it a regional power. A member of [[kuzey-kusagi]], Anatarya has longstanding disputes with [[elonya]] over maritime jurisdictions, island security and military surveillance activities.\n\nThe country hosts the [[gokkale-4]] satellite and launch complex and has become the focus of [[kriz]] because of the [[kartal-7]] program. The [[sarpburun-dosyasi]], cited by Elonya as its justification for war, contains a first-strike plan attributed to Anatarya; in reality, the dossier consists of forged documents prepared by [[elonya-istihbarati]].",
+                     "lead":  "The Republic of Anatarya is a unitary republic occupying a large peninsula and interior plateaus east of the [[kalyon-denizi]], with its capital at Arkent. Its western border adjoins Elonya, its southern coast borders the Kalyon Sea, and its northern frontier extends into the Avren mainland.",
                      "facts":  [
                                    [
                                        "Official name",
@@ -102,7 +102,7 @@
                    "title":  "Republic of Elonya",
                    "category":  "Countries",
                    "desc":  "A maritime republic west of the Kalyon Sea.",
-                   "lead":  "The Republic of Elonya is a parliamentary republic comprising a coastal peninsula west of [[kalyon-denizi]] and island settlements. Its capital, Lerya, is the country’s principal political and commercial center. Maritime transport, port services and island economies have played a decisive role in the state’s development.\n\nA member of [[kuzey-kusagi]] alongside [[anatarya]], Elonya regarded the launch of the [[kartal-7]] reconnaissance satellite as a threat to the regional balance of power. The [[sarpburun-dosyasi]], produced by [[elonya-istihbarati]], formed the basis of the government’s official justification for declaring war on Anatarya.",
+                   "lead":  "The Republic of Elonya is a unitary maritime nation situated west of the [[kalyon-denizi]] along the southwestern fringe of the Avren mainland, with its capital at Lerya.",
                    "facts":  [
                                  [
                                      "Official name",
@@ -586,6 +586,10 @@
                                  [
                                      "Commemorative words",
                                      "The watch of those who never returned does not end."
+                                 ],
+                                 [
+                                     "Historic loss",
+                                     "DAGGER 06 ([[kara-kasim]])"
                                  ]
                              ],
                    "sections":  [
@@ -595,7 +599,7 @@
                                     ],
                                     [
                                         "Black November Incident (17 November 1994)",
-                                        "On 17 November 1994, an Anataryan [[k4-boran]] aircraft using the call sign DAGGER 06 disappeared. The aircraft vanished from radar 11 seconds after its last radio message. Its wreckage was never reached; the fate of its pilot and weapons systems officer was not disclosed.\n\nKnown in the unit’s history as “Black November,” the incident is recorded in [[dosya-94-117]]. The cause of the loss has not been established."
+                                        "On 17 November 1994, an Anataryan [[k4-boran]] aircraft using the call sign DAGGER 06 disappeared. The aircraft vanished from radar 11 seconds after its last radio message. Its wreckage was never reached; the fate of its pilot and weapons systems officer was not disclosed.\n\nKnown in the unit’s history as “Black November,” the incident is recorded in Classified File 94-117. The cause of the loss has not been established."
                                     ],
                                     [
                                         "Commemorative plaque at headquarters",
@@ -607,7 +611,7 @@
                                     ],
                                     [
                                         "The 2036 signal and File 94-117",
-                                        "A signal detected in 2036 shared the same frequency characteristics as DAGGER 06’s final transmission in 1994. A comparison of the two recordings was requested under [[dosya-94-117]].\n\nThis similarity does not mean that the missing aircraft has been found or that its crew is alive. The source of the signal and its connection to Black November remain unresolved issues in the investigation."
+                                        "A signal detected in 2036 shared the same frequency characteristics as DAGGER 06’s final transmission in 1994. A comparison of the two recordings was requested under File 94-117.\n\nThis similarity does not mean that the missing aircraft has been found or that its crew is alive. The source of the signal and its connection to Black November remain unresolved issues in the investigation."
                                     ],
                                     [
                                         "Defense of GÖKKALE-4 and LAST DAWN",
@@ -1046,7 +1050,7 @@
                           "title":  "İstara Strait",
                           "category":  "Geography",
                           "desc":  "The narrow waterway connecting the Northern Sea and the Inland Sea.",
-                          "lead":  "İstara Strait is the narrow sea passage between the Northern Sea and the Inland Sea. Both shores of the strait belong to [[anatarya]], and the city of [[istara]] developed around this passage. Its western shore is connected to the mainland of [[avrupa]], and its eastern shore to Anatarya’s large peninsula.",
+                          "lead":  "The Istara Strait is a narrow maritime chokepoint connecting the exit of the [[kalyon-denizi]] to southern shipping routes along the Avren mainland.",
                           "facts":  [
                                         [
                                             "Type",
@@ -2476,81 +2480,11 @@
                          "imageKey":  "patch-iris-indirme",
                          "draft":  false
                      },
-    "dosya-94-117":  {
-                         "lead":  "Classified File 94-117 is a restricted dossier maintained by the [[anatarya]] Air Force Command and Intelligence Directorate investigating the 17 November 1994 loss of DAGGER 06 and the anomalous transmission received on identical frequencies in 2036. The file compiles telemetry logs, radar strip charts, signal intercepts, and assessments of potential electronic warfare by [[elonya-istihbarati]].",
-                         "sections":  [
-                                          [
-                                              "Origin of the inquiry (1994)",
-                                              "The dossier was initiated following the fruitless recovery efforts of the [[kara-kasim]]. Initial technical entries focused on whether hostile jamming or environmental ducting contributed to the 11-second telemetry breakdown off [[sarpburun]]. The formal finding concluded inconclusive."
-                                          ],
-                                          [
-                                              "The 2036 Signal and case reopening",
-                                              "In early 2036, sensors at [[sarpburun-radar-istasyonu]] and [[kuzey-isaret]] logged a fractional-second burst on 243.0 MHz military distress band. Spectral analysis matched the specific oscillator drift signature of DAGGER 06\u0027s legacy beacon."
-                                          ],
-                                          [
-                                              "Hypotheses and crisis implications",
-                                              "Investigative memoranda explore two primary possibilities: either a spoofing experiment by [[elonya-istihbarati]] during the rollout of [[cam-perde]] using vintage telemetry datasets, or an unexplained reactivation of an elusive transmitter. The inquiry remains unclosed."
-                                          ]
-                                      ],
-                         "draft":  false,
-                         "category":  "Documents",
-                         "facts":  [
-                                       [
-                                           "Document code",
-                                           "GÃ–K-HVK-94-117/TS"
-                                       ],
-                                       [
-                                           "Classification",
-                                           "Top Secret (Authorized Eyes Only)"
-                                       ],
-                                       [
-                                           "Compiling authority",
-                                           "Anatarya Air Force and Intelligence Directorate"
-                                       ],
-                                       [
-                                           "Linked event",
-                                           "[[kara-kasim]]"
-                                       ],
-                                       [
-                                           "Associated units",
-                                           "[[hancer]] Â· [[kuzey-isaret]]"
-                                       ],
-                                       [
-                                           "Key milestones",
-                                           "1994 / 2036"
-                                       ]
-                                   ],
-                         "related":  [
-                                         "kara-kasim",
-                                         "hancer",
-                                         "k4-boran",
-                                         "elonya-istihbarati",
-                                         "sarpburun-radar-istasyonu",
-                                         "cam-perde",
-                                         "kriz"
-                                     ],
-                         "desc":  "Top secret investigation into the loss of DAGGER 06 and the 2036 beacon transmission.",
-                         "imageKey":  "",
-                         "title":  "Classified File 94-117"
-                     },
     "lerya-deniz-ussu":  {
-                             "lead":  "Lerya Naval Base is the principal naval and logistical installation situated along the Gulf of Lerya on mainland [[elonya]]. Serving as the home port of the [[aigaion]] Battle Group, the base hosts drydocks, ammunition depots and naval commando training grounds. Frigates and replenishment ships deployed to the area during the [[kriz]] sailed from this facility.",
-                             "sections":  [
-                                              [
-                                                  "Base infrastructure",
-                                                  "The base features deep-water piers accommodating frigates and landing vessels, fuel bunkering facilities, and reinforced munitions storage. The [[kallisto-ikmal]] replenishment ship completed its pre-deployment loading here. The inner section includes specialized training facilities and boat pens assigned to [[nereus-komando]]."
-                                              ],
-                                              [
-                                                  "Air and coastal security",
-                                                  "Air defense around the Gulf of Lerya is provided by [[ucaksavar]]. Gulf radar stations and coastal missile batteries protect the base\u0027s airspace. Patrol aircraft from [[pelagos-devriye]] routinely monitor sea lanes outside the gulf."
-                                              ],
-                                              [
-                                                  "Role in the GÃ–KKALE-4 Crisis",
-                                                  "Following the declaration of war, the AIGAION group slipped its moorings from this base and deployed toward [[sarpburun]]. Throughout the crisis, the facility has remained on standby as the primary hub for logistics reinforcement and casualty evacuation."
-                                              ]
-                                          ],
-                             "draft":  false,
+                             "title":  "Lerya Naval Base",
                              "category":  "Facilities",
+                             "desc":  "Elonya Navy main operating base and staging harbor for the AIGAION group.",
+                             "lead":  "Lerya Naval Base is the principal naval and logistical installation situated along the Gulf of Lerya on mainland [[elonya]]. Serving as the home port of the [[aigaion]] Battle Group, the base hosts drydocks, ammunition depots and naval commando training grounds. Frigates and replenishment ships deployed to the area during the [[kriz]] sailed from this facility.",
                              "facts":  [
                                            [
                                                "Facility type",
@@ -2566,13 +2500,27 @@
                                            ],
                                            [
                                                "Key forces",
-                                               "[[aigaion]] Â· [[nereus-komando]]"
+                                               "[[aigaion]] · [[nereus-komando]]"
                                            ],
                                            [
                                                "Air defense",
                                                "[[ucaksavar]]"
                                            ]
                                        ],
+                             "sections":  [
+                                              [
+                                                  "Base infrastructure",
+                                                  "The base features deep-water piers accommodating frigates and landing vessels, fuel bunkering facilities, and reinforced munitions storage. The [[kallisto-ikmal]] replenishment ship completed its pre-deployment loading here. The inner section includes specialized training facilities and boat pens assigned to [[nereus-komando]]."
+                                              ],
+                                              [
+                                                  "Air and coastal security",
+                                                  "Air defense around the Gulf of Lerya is provided by [[ucaksavar]]. Gulf radar stations and coastal missile batteries protect the base\u0027s airspace. Patrol aircraft from [[pelagos-devriye]] routinely monitor sea lanes outside the gulf."
+                                              ],
+                                              [
+                                                  "Role in the GÖKKALE-4 Crisis",
+                                                  "Following the declaration of war, the AIGAION group slipped its moorings from this base and deployed toward [[sarpburun]]. Throughout the crisis, the facility has remained on standby as the primary hub for logistics reinforcement and casualty evacuation."
+                                              ]
+                                          ],
                              "related":  [
                                              "elonya",
                                              "aigaion",
@@ -2582,28 +2530,14 @@
                                              "kalyon-denizi",
                                              "kriz"
                                          ],
-                             "desc":  "Elonya Navy main operating base and staging harbor for the AIGAION group.",
                              "imageKey":  "",
-                             "title":  "Lerya Naval Base"
+                             "draft":  false
                          },
     "sarpburun-radar-istasyonu":  {
-                                      "lead":  "Sarpburun Radar Station is an [[anatarya]] early warning and coastal surveillance facility perched upon the high ridges of the [[sarpburun]] peninsula. Located on the bluffs east of the [[gokkale-4]] complex, it is operated by [[kuzey-isaret]]. It relays real-time radar tracks of the Kalyon Sea and approach corridors to [[hancer]] and air defense forces.",
-                                      "sections":  [
-                                                       [
-                                                           "Construction and equipment",
-                                                           "Constructed to replace legacy coastal observation posts, the station features digital phased-array radars and microwave link towers. It comprises weather-hardened radomes, redundant power generation, and underground communications bunkers. Perimeter security is maintained by [[sarp-muhafiz]]."
-                                                       ],
-                                                       [
-                                                           "Operational role",
-                                                           "The facility fuses air and surface tracks into a unified tactical picture. During the [[kriz]], it provided the initial tracking data on advancing [[elonya]] forces. Radar logs from this station proved vital in refuting the flight timelines alleged in the forged [[sarpburun-dosyasi]]."
-                                                       ],
-                                                       [
-                                                           "Connection to Black November",
-                                                           "During the [[kara-kasim]] of 17 November 1994, the final telemetry loss of DAGGER 06 was recorded by this station\u0027s analog predecessor. In 2036, an emergency beacon detected on the identical frequency was logged here and forwarded to the [[dosya-94-117]] investigation."
-                                                       ]
-                                                   ],
-                                      "draft":  false,
+                                      "title":  "Sarpburun Radar Station",
                                       "category":  "Facilities",
+                                      "desc":  "Anatarya\u0027s early warning radar installation overlooking Sarpburun and the Kalyon Sea.",
+                                      "lead":  "Sarpburun Radar Station is an [[anatarya]] early warning and coastal surveillance facility perched upon the high ridges of the [[sarpburun]] peninsula. Located on the bluffs east of the [[gokkale-4]] complex, it is operated by [[kuzey-isaret]]. It relays real-time radar tracks of the Kalyon Sea and approach corridors to [[hancer]] and air defense forces.",
                                       "facts":  [
                                                     [
                                                         "Facility type",
@@ -2623,9 +2557,23 @@
                                                     ],
                                                     [
                                                         "Data distribution",
-                                                        "[[hancer]] Â· [[kalkan-hss]] Â· [[gokkale-4]]"
+                                                        "[[hancer]] · [[kalkan-hss]] · [[gokkale-4]]"
                                                     ]
                                                 ],
+                                      "sections":  [
+                                                       [
+                                                           "Construction and equipment",
+                                                           "Constructed to replace legacy coastal observation posts, the station features digital phased-array radars and microwave link towers. It comprises weather-hardened radomes, redundant power generation, and underground communications bunkers. Perimeter security is maintained by [[sarp-muhafiz]]."
+                                                       ],
+                                                       [
+                                                           "Operational role",
+                                                           "The facility fuses air and surface tracks into a unified tactical picture. During the [[kriz]], it provided the initial tracking data on advancing [[elonya]] forces. Radar logs from this station proved vital in refuting the flight timelines alleged in the forged [[sarpburun-dosyasi]]."
+                                                       ],
+                                                       [
+                                                           "Connection to Black November",
+                                                           "During the [[kara-kasim]] of 17 November 1994, the final telemetry loss of DAGGER 06 was recorded by this station\u0027s analog predecessor. In 2036, an emergency beacon detected on the identical frequency was logged here and forwarded to the [[dosya-94-117]] investigation."
+                                                       ]
+                                                   ],
                                       "related":  [
                                                       "gokkale-4",
                                                       "sarpburun",
@@ -2636,28 +2584,14 @@
                                                       "dosya-94-117",
                                                       "kriz"
                                                   ],
-                                      "desc":  "Anatarya\u0027s early warning radar installation overlooking Sarpburun and the Kalyon Sea.",
                                       "imageKey":  "",
-                                      "title":  "Sarpburun Radar Station"
+                                      "draft":  false
                                   },
     "kara-kasim":  {
-                       "lead":  "The Black November Incident was a military aviation mystery occurring on 17 November 1994, when an [[anatarya]] Air Force [[k4-boran]] flying under callsign DAGGER 06 from the [[hancer]] vanished from radar off the coast of [[sarpburun]]. Just 11 seconds after its last radio transmission, all radar and telemetry contact ceased; no trace of the airframe or its two-man crew was ever recovered. The event sparked a lasting squadron tradition and formed the basis of the [[dosya-94-117]] investigation.",
-                       "sections":  [
-                                        [
-                                            "Sortie and disappearance",
-                                            "Departing at 16:42 for a routine coastal patrol, DAGGER 06 flew low-level 18 nautical miles west of the Sarpburun Peninsula under clear weather conditions. At 17:03, the pilot confirmed navigation waypoints with flight control. Eleven seconds later, the radar return abruptly disappeared without any distress broadcast or ejection beacon activation."
-                                        ],
-                                        [
-                                            "Search efforts and absence of wreckage",
-                                            "Naval and coastal units conducted exhaustive search operations over several weeks. No oil slick, canopy debris, or survival equipment was located. Hypotheses ranging from catastrophic structural failure to unrecorded regional anomalies remained unresolved."
-                                        ],
-                                        [
-                                            "Squadron heritage and the 2036 Signal",
-                                            "Following the loss, a memorial plaque was mounted on the squadron operations wall: \u0027132ND TACTICAL SQUADRON / DAGGER 06 / 17 NOVEMBER 1994 / Those who never returned remain on watch.\u0027 In 2036, amidst the emerging [[kriz]], a fleeting signal matching DAGGER 06\u0027s emergency transponder was logged near the same bearings, reopening inquiries under [[dosya-94-117]]."
-                                        ]
-                                    ],
-                       "draft":  false,
+                       "title":  "Black November Incident",
                        "category":  "Events",
+                       "desc":  "The mysterious disappearance of DAGGER 06 off Sarpburun on 17 November 1994.",
+                       "lead":  "The Black November Incident was a military aviation mystery occurring on 17 November 1994, when an [[anatarya]] Air Force [[k4-boran]] flying under callsign DAGGER 06 from the [[hancer]] vanished from radar off the coast of [[sarpburun]]. Just 11 seconds after its last radio transmission, all radar and telemetry contact ceased; no trace of the airframe or its two-man crew was ever recovered. The event sparked a lasting squadron tradition and formed the basis of the [[dosya-94-117]] investigation.",
                        "facts":  [
                                      [
                                          "Date",
@@ -2688,6 +2622,20 @@
                                          "Those who never returned remain on watch."
                                      ]
                                  ],
+                       "sections":  [
+                                        [
+                                            "Sortie and disappearance",
+                                            "Departing at 16:42 for a routine coastal patrol, DAGGER 06 flew low-level 18 nautical miles west of the Sarpburun Peninsula under clear weather conditions. At 17:03, the pilot confirmed navigation waypoints with flight control. Eleven seconds later, the radar return abruptly disappeared without any distress broadcast or ejection beacon activation."
+                                        ],
+                                        [
+                                            "Search efforts and absence of wreckage",
+                                            "Naval and coastal units conducted exhaustive search operations over several weeks. No oil slick, canopy debris, or survival equipment was located. Hypotheses ranging from catastrophic structural failure to unrecorded regional anomalies remained unresolved."
+                                        ],
+                                        [
+                                            "Squadron heritage and the 2036 Signal",
+                                            "Following the loss, a memorial plaque was mounted on the squadron operations wall: \u0027132ND TACTICAL SQUADRON / DAGGER 06 / 17 NOVEMBER 1994 / Those who never returned remain on watch.\u0027 In 2036, amidst the emerging [[kriz]], a fleeting signal matching DAGGER 06\u0027s emergency transponder was logged near the same bearings, reopening inquiries under [[dosya-94-117]]."
+                                        ]
+                                    ],
                        "related":  [
                                        "hancer",
                                        "k4-boran",
@@ -2696,8 +2644,64 @@
                                        "dosya-94-117",
                                        "kriz"
                                    ],
-                       "desc":  "The mysterious disappearance of DAGGER 06 off Sarpburun on 17 November 1994.",
                        "imageKey":  "patch-hancer",
-                       "title":  "Black November Incident"
-                   }
+                       "draft":  false
+                   },
+    "dosya-94-117":  {
+                         "title":  "Classified File 94-117",
+                         "category":  "Documents",
+                         "desc":  "Top secret investigation into the loss of DAGGER 06 and the 2036 beacon transmission.",
+                         "lead":  "Classified File 94-117 is a restricted dossier maintained by the [[anatarya]] Air Force Command and Intelligence Directorate investigating the 17 November 1994 loss of DAGGER 06 and the anomalous transmission received on identical frequencies in 2036. The file compiles telemetry logs, radar strip charts, signal intercepts, and assessments of potential electronic warfare by [[elonya-istihbarati]].",
+                         "facts":  [
+                                       [
+                                           "Document code",
+                                           "GÖK-HVK-94-117/TS"
+                                       ],
+                                       [
+                                           "Classification",
+                                           "Top Secret (Authorized Eyes Only)"
+                                       ],
+                                       [
+                                           "Compiling authority",
+                                           "Anatarya Air Force and Intelligence Directorate"
+                                       ],
+                                       [
+                                           "Linked event",
+                                           "[[kara-kasim]]"
+                                       ],
+                                       [
+                                           "Associated units",
+                                           "[[hancer]] · [[kuzey-isaret]]"
+                                       ],
+                                       [
+                                           "Key milestones",
+                                           "1994 / 2036"
+                                       ]
+                                   ],
+                         "sections":  [
+                                          [
+                                              "Origin of the inquiry (1994)",
+                                              "The dossier was initiated following the fruitless recovery efforts of the [[kara-kasim]]. Initial technical entries focused on whether hostile jamming or environmental ducting contributed to the 11-second telemetry breakdown off [[sarpburun]]. The formal finding concluded inconclusive."
+                                          ],
+                                          [
+                                              "The 2036 Signal and case reopening",
+                                              "In early 2036, sensors at [[sarpburun-radar-istasyonu]] and [[kuzey-isaret]] logged a fractional-second burst on 243.0 MHz military distress band. Spectral analysis matched the specific oscillator drift signature of DAGGER 06\u0027s legacy beacon."
+                                          ],
+                                          [
+                                              "Hypotheses and crisis implications",
+                                              "Investigative memoranda explore two primary possibilities: either a spoofing experiment by [[elonya-istihbarati]] during the rollout of [[cam-perde]] using vintage telemetry datasets, or an unexplained reactivation of an elusive transmitter. The inquiry remains unclosed."
+                                          ]
+                                      ],
+                         "related":  [
+                                         "kara-kasim",
+                                         "hancer",
+                                         "k4-boran",
+                                         "elonya-istihbarati",
+                                         "sarpburun-radar-istasyonu",
+                                         "cam-perde",
+                                         "kriz"
+                                     ],
+                         "imageKey":  "",
+                         "draft":  false
+                     }
 }
