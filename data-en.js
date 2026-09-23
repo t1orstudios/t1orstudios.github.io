@@ -1,0 +1,2471 @@
+window.__wikiEN={
+  "anatarya": {
+    "title": "Republic of Anatarya",
+    "category": "Countries",
+    "desc": "A unitary republic east of the Kalyon Sea.",
+    "lead": "The Republic of Anatarya is a unitary republic occupying a broad peninsula east of [[kalyon-denizi]] and the inland plateaus, with its capital at Arkent. Its industrial production, land transport network and space technologies make it a regional power. A member of [[kuzey-kusagi]], Anatarya has longstanding disputes with [[elonya]] over maritime jurisdictions, island security and military surveillance activities.\n\nThe country hosts the [[gokkale-4]] satellite and launch complex and has become the focus of [[kriz]] because of the [[kartal-7]] program. The [[sarpburun-dosyasi]], cited by Elonya as its justification for war, contains a first-strike plan attributed to Anatarya; in reality, the dossier consists of forged documents prepared by [[elonya-istihbarati]].",
+    "facts": [
+      [
+        "Official name",
+        "Republic of Anatarya"
+      ],
+      [
+        "Capital",
+        "Arkent"
+      ],
+      [
+        "Official language",
+        "Anataryan"
+      ],
+      [
+        "Government",
+        "Unitary parliamentary republic"
+      ],
+      [
+        "Legislature",
+        "Assembly of the Republic"
+      ],
+      [
+        "Geographic location",
+        "East of [[kalyon-denizi]]"
+      ],
+      [
+        "Alliance",
+        "[[kuzey-kusagi]]"
+      ],
+      [
+        "Space center",
+        "[[gokkale-4]]"
+      ],
+      [
+        "Avren Union",
+        "Not a full member; partnership relations"
+      ]
+    ],
+    "sections": [
+      [
+        "Geography and climate",
+        "Anatarya’s western coastline is broken up by bays, mountainous headlands and port cities. The temperate coastal climate gives way inland to a drier plateau climate with pronounced seasonal differences. Mountain ranges channel transport between coastal settlements and the interior through specific passes.\n\n[[sarpburun]] is a headland relatively distant from densely settled coastal areas. Access to the open sea and the possibility of establishing a broad security zone helped determine its selection for [[gokkale-4]]. The status of the waters surrounding [[kalyon-adalari]] is a separate source of dispute with neighboring [[elonya]].\n\nThe country’s territory west of [[istara-bogazi]] is attached to the mainland of [[avrupa]]. It shares a land border with [[elonya]] there. [[istara]] is a city spanning both shores of the crossing, while the capital, Arkent, lies inland."
+      ],
+      [
+        "History",
+        "The republic was established during a period of constitutional transformation following the collapse of the former dynasty’s rule. Early governments prioritized bringing regional administrations together under a common legal and taxation system. The choice of Arkent as capital symbolized the transfer of the political center from coastal cities dependent on port trade to the interior.\n\nThe subsequent period of industrialization saw the expansion of railways, machinery manufacturing and technical education institutions. Defense production initially relied on foreign procurement, but successive embargoes accelerated domestic electronics and aviation programs. Membership in [[kuzey-kusagi]] provided external security assurances during this process without ending the country’s policy of building an independent defense infrastructure."
+      ],
+      [
+        "State structure and politics",
+        "Anatarya is governed through a multiparty parliamentary system. Legislative power belongs to the Assembly of the Republic, and executive power to a government dependent on parliamentary confidence. The presidency is a constitutional office representing the continuity of the state. Provinces are administered through officials appointed by the central government and elected local bodies.\n\nThe principal domestic political debates concern economic disparities between the interior and coastal cities, the share of the budget devoted to defense spending, and civilian oversight of security institutions. Although the space program enjoys broad support, the military missions and undisclosed budget of [[gokkale-4]] draw criticism from the opposition."
+      ],
+      [
+        "Economy and infrastructure",
+        "The economy rests on industry, agriculture, logistics and services. Grain production and heavy industry predominate in the inland basins, while ship maintenance, exports and tourism are prominent in coastal cities. Electronics, optical systems and aviation components are among the areas of strategic investment.\n\nThe country’s extensive land network provides sustained production and supply capacity. However, coastal trade’s dependence on routes through [[kalyon-denizi]] makes disruptions to maritime transport an economic risk. During the war, commercial insurance costs rose, while coastal investment and civilian transport slowed."
+      ],
+      [
+        "Society and culture",
+        "Anataryan is the common language of education and public administration. Coastal, plateau and mountain regions differ markedly in architecture, cuisine and local dialects. Large industrial cities are characterized by mixed populations shaped by internal migration.\n\nEngineering and public education occupy an important place in the republic’s account of modernization. The civilian face of the space program consists of weather forecasting, communications, disaster observation and university research. For this reason, [[gokkale-4]] is regarded as a public symbol of technical progress as well as a site of military importance."
+      ],
+      [
+        "Defense and the space program",
+        "Anatarya’s approach to defense combines its extensive territorial depth, domestic production and air defense network. Regional technological superiority does not mean permanent superiority in forces at every point along the coast. Naval forces concentrated by [[elonya]] in a narrow area can exert local pressure, particularly around [[sarpburun]].\n\n[[gozcu-3]] is the existing surveillance and data relay system. The new [[kartal-7]] will be launched on [[simsek-iii]] to increase military reconnaissance capacity. Both systems are associated with the space program; KARTAL-7 is not an orbital bombardment weapon as alleged in the documents."
+      ],
+      [
+        "Foreign relations",
+        "Anatarya’s membership in [[kuzey-kusagi]] provides access to collective defense and intelligence sharing. Membership in the same alliance as [[elonya]] has not eliminated the maritime disputes between the two countries. The parties interpret activities around the islands respectively as an exercise of sovereign rights and a security threat.\n\nWhen [[sarpburun-dosyasi]] was published, Anatarya declared the documents to be forgeries and called for a joint investigation. The alliance’s preference for an investigation and a call for a ceasefire rather than military intervention weakened confidence in its security commitments within the country."
+      ],
+      [
+        "GÖKKALE-4 Crisis",
+        "The [[sarpburun-dosyasi]], prepared by [[elonya-istihbarati]], created the impression that Anatarya was preparing a first strike around [[kalyon-adalari]]. Elonya’s government presented the dossier as evidence of an imminent threat, decided to go to war and dispatched the [[aigaion]] group to the region.\n\nAnatarya’s request for collective defense failed to secure the necessary political consensus within [[kuzey-kusagi]]. While the alliance refrained from launching a military operation, the country began defending [[gokkale-4]] with its own forces."
+      ],
+      [
+        "Principal units",
+        "[[hancer]], [[kuzey-isaret]] and [[sarp-muhafiz]] form different elements of the defense around GÖKKALE-4. Principal platforms include [[k16-alaz]], [[kalkan-hss]], [[kaya-zma]] and [[ut7-ilgaz]]."
+      ],
+      [
+        "Kipraya policy",
+        "[[anatarya]] is the only state to recognize the independence of [[kuzey-kipraya]]. It pursues security and economic cooperation with the north. Developments around [[kipraya-tampon-hatti]] are among the principal areas of disagreement in relations with [[elonya]]."
+      ]
+    ],
+    "related": [
+      "elonya",
+      "kuzey-kusagi",
+      "sarpburun-dosyasi",
+      "gokkale-4",
+      "kriz",
+      "avren-birligi",
+      "kipraya",
+      "kuzey-isaret",
+      "doruk-ikmal",
+      "demir-iz"
+    ],
+    "imageKey": "flag-anatarya"
+  },
+  "elonya": {
+    "title": "Republic of Elonya",
+    "category": "Countries",
+    "desc": "A maritime republic west of the Kalyon Sea.",
+    "lead": "The Republic of Elonya is a parliamentary republic comprising a coastal peninsula west of [[kalyon-denizi]] and island settlements. Its capital, Lerya, is the country’s principal political and commercial center. Maritime transport, port services and island economies have played a decisive role in the state’s development.\n\nA member of [[kuzey-kusagi]] alongside [[anatarya]], Elonya regarded the launch of the [[kartal-7]] reconnaissance satellite as a threat to the regional balance of power. The [[sarpburun-dosyasi]], produced by [[elonya-istihbarati]], formed the basis of the government’s official justification for declaring war on Anatarya.",
+    "facts": [
+      [
+        "Official name",
+        "Republic of Elonya"
+      ],
+      [
+        "Capital",
+        "Lerya"
+      ],
+      [
+        "Official language",
+        "Elonyan"
+      ],
+      [
+        "Government",
+        "Unitary parliamentary republic"
+      ],
+      [
+        "Legislature",
+        "National Assembly"
+      ],
+      [
+        "Geographic location",
+        "West of [[kalyon-denizi]]"
+      ],
+      [
+        "Alliance",
+        "[[kuzey-kusagi]]"
+      ],
+      [
+        "Intelligence agency",
+        "[[elonya-istihbarati]]"
+      ],
+      [
+        "Avren Union",
+        "Full member"
+      ]
+    ],
+    "sections": [
+      [
+        "Geography and climate",
+        "Elonya’s settlement pattern is shaped by narrow coastal plains, mountainous inland areas and islands. Most major cities developed around natural harbors. The coastal climate, with its dry summers, gives way to cooler and wetter conditions at higher elevations. The fragmented distribution of arable land has increased the economic importance of maritime trade.\n\nThe island chains around [[kalyon-adalari]] intertwine the country’s sea routes with its security concerns. Elonya’s administration in the western parts of the archipelago borders the sovereignty disputes in the central belt.\n\nThe Elonya peninsula joins the mainland of [[avrupa]] to the north. In the northeast, it shares a land border with Anatarya’s Avren side; this border lies west of [[istara]] and [[istara-bogazi]]."
+      ],
+      [
+        "History",
+        "The Republic of Elonya arose from the union of coastal cities and island administrations around a common assembly. The central challenge of the early republic was reconciling the islands’ commercial autonomy with the central government’s taxation and defense needs. Lerya’s maritime circles played an influential role in the new state’s financial and diplomatic structure.\n\nThe growth of the merchant fleet connected the country to foreign markets, while naval service and port administration became strong professional traditions. Following accession to [[kuzey-kusagi]], the air and naval forces were adapted to shared standards. Nevertheless, crises with [[anatarya]] over military activities around the islands could not be permanently resolved."
+      ],
+      [
+        "State structure and politics",
+        "Elonya is governed through a unicameral parliamentary system. The government is accountable to the National Assembly; the presidency is a separate constitutional office. Island municipalities undertake extensive responsibilities in transport, tourism and local infrastructure, while foreign policy and defense remain under the authority of the central government.\n\nPolitics is marked by tension between those advocating continuity in trade and groups prioritizing maritime security. The debate over [[kartal-7]] increased the influence of security-oriented policies. The [[sarpburun-dosyasi]] was presented not only to international audiences but also to the assembly and the public, whose support for the decision to go to war was expected."
+      ],
+      [
+        "Economy",
+        "Maritime transport, port operations, tourism, ship repair and financial services are the economy’s principal sectors. Coastal crops, viticulture and island production are prominent in agriculture. The industrial base is less extensive than that of [[anatarya]]; certain defense systems and energy inputs depend on foreign supply.\n\nAlthough this structure may make a short naval operation appear politically attractive, it makes a prolonged war costly. Disrupted trade routes, declining tourism revenue and rising insurance costs increase the war’s pressure on the civilian economy."
+      ],
+      [
+        "Society and culture",
+        "Although Elonyan is the official language, different dialects and local traditions remain alive among the island settlements. Seafaring, migration and port trade have a strong presence in literature, public ceremonies and family occupations. Lerya is the principal destination for island residents seeking education and employment.\n\nThe state’s maritime security rhetoric does not mean that all of society shares a single view. Before the war, universities, commercial organizations and opposition groups called for an independent examination of [[sarpburun-dosyasi]]. Official publications, however, portrayed the dossier as evidence of an imminent attack."
+      ],
+      [
+        "Defense and intelligence",
+        "Elonya’s defense planning focuses on keeping sea lanes open and rapidly concentrating forces around the islands. [[aigaion]] is the principal expression of this approach in the [[sarpburun]] area. Local naval superiority does not mean that the country is superior on every front or capable of sustaining a long land war.\n\n[[elonya-istihbarati]] is responsible for foreign intelligence and strategic assessments. The forged documents it prepared under [[cam-perde]] portrayed the [[kartal-7]] program as preparation for an imminent attack rather than a reconnaissance activity."
+      ],
+      [
+        "Foreign relations and justification for war",
+        "Within [[kuzey-kusagi]], Elonya presents itself as a member protecting the alliance’s sea lanes. It also framed its objection to [[anatarya]]’s space program as a matter of collective security rather than national rivalry.\n\nThe [[sarpburun-dosyasi]] alleges that an Anataryan first strike against the islands is imminent. Based on this claim, Elonya’s government declared war, calling the operation against GÖKKALE-4 “preventive defense.” This expression is Elonya’s official justification; it does not mean that the alliance approved the operation."
+      ],
+      [
+        "GÖKKALE-4 Crisis",
+        "The apparent cause of the war is the allegation of an attack contained in the dossier. The military objective is to disable [[gokkale-4]]’s capacity before [[kartal-7]] enters service. The new satellite would reduce the secrecy of Elonya’s naval movements and island deployments.\n\nThe uncertainty caused by the forged documents deadlocked the collective defense decision within [[kuzey-kusagi]], and the alliance did not participate militarily in the war. The documents’ true origin was not publicly verified when the crisis began. The war therefore became a diplomatic struggle over the credibility of intelligence claims alongside the military conflict."
+      ],
+      [
+        "Principal units",
+        "[[aigaion]], [[mizrak]] and [[nereus-komando]] represent naval, air and special mission elements. [[m12-aster]], [[p8-pelagos]], [[triton-botu]], and the group’s frigates and support ships undertake different roles."
+      ],
+      [
+        "Kipraya policy",
+        "[[elonya]] regards the government of [[kipraya]] as the legitimate representative of the entire island. It does not recognize the north’s separate independence and advocates resolving the island’s status through negotiations. Anatarya’s security role in the north creates tension between the two countries."
+      ]
+    ],
+    "related": [
+      "anatarya",
+      "elonya-istihbarati",
+      "sarpburun-dosyasi",
+      "kuzey-kusagi",
+      "aigaion",
+      "kriz",
+      "avren-birligi",
+      "kipraya",
+      "ucaksavar",
+      "pelagos-devriye",
+      "iris-indirme"
+    ],
+    "imageKey": "flag-elonya"
+  },
+  "gokkale-4": {
+    "title": "GÖKKALE-4",
+    "category": "Facilities",
+    "desc": "Satellite control, launch preparation and the center of the conflict.",
+    "lead": "GÖKKALE-4 is a satellite control and launch complex operated by [[anatarya]]. The planned launch of the [[kartal-7]] military reconnaissance satellite from the site aboard [[simsek-iii]] places the facility at the center of [[elonya]]’s attack.",
+    "facts": [
+      [
+        "Facility type",
+        "Satellite control and launch complex"
+      ],
+      [
+        "Country",
+        "[[anatarya]]"
+      ],
+      [
+        "Associated region",
+        "[[sarpburun]]"
+      ],
+      [
+        "Existing satellite",
+        "[[gozcu-3]]"
+      ],
+      [
+        "Launch payload",
+        "[[kartal-7]]"
+      ],
+      [
+        "Launch vehicle",
+        "[[simsek-iii]]"
+      ]
+    ],
+    "sections": [
+      [
+        "Role",
+        "The complex’s two principal functions are conducting satellite operations and preparing the new launch. [[gozcu-3]] is the surveillance and data relay satellite already in orbit, while [[kartal-7]] is the new system still awaiting launch."
+      ],
+      [
+        "Why is it being targeted?",
+        "For [[elonya]], the facility is more than a collection of buildings: it is the point at which new reconnaissance capacity will become operational. The attack aims to prevent the military visibility that [[kartal-7]] would provide. The [[sarpburun-dosyasi]] portrayed the facility as the center of an imminent first strike, and the government of [[elonya]] presented this allegation as its justification for war. The dossier’s actual source is [[elonya-istihbarati]], and the attack plan attributed to the facility is fabricated."
+      ],
+      [
+        "Civilian life and workers",
+        "Engineers, satellite operators, scientists, maintenance teams and logistics workers serve at the complex. Civilian personnel operate communications systems, repair faults, maintain the flow of supplies and carry out launch preparations. During the crisis, this work continues in coordination with evacuation and emergency teams."
+      ],
+      [
+        "Facility layout",
+        "The complex consists of a satellite control center, launch site, technical maintenance areas and logistics sections. Civilian work areas and military security zones are subject to separate access arrangements."
+      ]
+    ],
+    "related": [
+      "anatarya",
+      "sarpburun",
+      "gozcu-3",
+      "kartal-7",
+      "simsek-iii",
+      "kriz",
+      "sarpburun-dosyasi",
+      "kuzey-kusagi"
+    ]
+  },
+  "sarpburun": {
+    "title": "Sarpburun Peninsula",
+    "category": "Geography",
+    "desc": "A strategic coastal peninsula connected to mainland Anatarya in the east.",
+    "lead": "Sarpburun Peninsula is a coastal projection extending westward from the mainland of [[anatarya]] into [[kalyon-denizi]]. It is continuously connected to the main peninsula by the isthmus in the east; it is not an island. The [[gokkale-4]] satellite control and launch complex stands on the peninsula.",
+    "facts": [
+      [
+        "Type",
+        "Peninsula"
+      ],
+      [
+        "Country",
+        "[[anatarya]]"
+      ],
+      [
+        "Land connection",
+        "Broad isthmus in the east"
+      ],
+      [
+        "Strategic facility",
+        "[[gokkale-4]]"
+      ],
+      [
+        "Sea",
+        "[[kalyon-denizi]]"
+      ]
+    ],
+    "sections": [
+      [
+        "Geography",
+        "The peninsula has rugged terrain extending from the coast toward the open sea. The road between the facility and the country’s interior crosses the broad eastern isthmus. Sheltered bays, rocky headlands and coastal ridges shape the peninsula’s western portion."
+      ],
+      [
+        "Role in the crisis",
+        "It is at the center of [[kriz]] because of [[gokkale-4]] and the [[kartal-7]] program. While [[aigaion]] exerts pressure from the sea, [[sarp-muhafiz]] protects land access and the facility’s perimeter."
+      ]
+    ],
+    "related": [
+      "anatarya",
+      "gokkale-4",
+      "sarp-muhafiz",
+      "aigaion",
+      "kriz",
+      "demir-iz"
+    ]
+  },
+  "kalyon-denizi": {
+    "title": "Kalyon Sea",
+    "category": "Geography",
+    "desc": "The setting for the maritime tensions between the two countries.",
+    "lead": "The Kalyon Sea stretches between [[elonya]] to the west and [[anatarya]] to the east. [[kalyon-adalari]] lie in the southern part of the sea. The region is a center of maritime trade and sovereignty disputes between the two countries.",
+    "facts": [
+      [
+        "Type",
+        "Sea"
+      ],
+      [
+        "Associated geography",
+        "[[kalyon-adalari]]"
+      ],
+      [
+        "Associated countries",
+        "[[anatarya]] · [[elonya]]"
+      ]
+    ],
+    "sections": [
+      [
+        "Strategic context",
+        "The visibility of naval movements and island bases is central to the objections to the [[kartal-7]] program. The deployment of [[aigaion]] represents the military dimension of these tensions."
+      ],
+      [
+        "Boundaries",
+        "It is bordered by the coasts of [[elonya]] to the west and [[anatarya]] to the east. The passage opening into the Inland Sea to the north and the sea routes around [[kipraya]] to the south form the region’s transport connections. Sovereignty disputes around [[kalyon-adalari]] also affect maritime jurisdictions."
+      ]
+    ],
+    "related": [
+      "kalyon-adalari",
+      "sarpburun",
+      "aigaion"
+    ]
+  },
+  "kalyon-adalari": {
+    "title": "Kalyon Islands",
+    "category": "Geography",
+    "desc": "The island group associated with the Kalyon Sea.",
+    "lead": "The Kalyon Islands are an island group associated with [[kalyon-denizi]]. Monitoring island bases and military deployments is one of the principal issues in the crisis between [[anatarya]] and [[elonya]].",
+    "facts": [
+      [
+        "Type",
+        "Island group"
+      ],
+      [
+        "Associated sea",
+        "[[kalyon-denizi]]"
+      ],
+      [
+        "Individual island names",
+        "Not yet determined"
+      ]
+    ],
+    "sections": [
+      [
+        "Connection to the crisis",
+        "The reconnaissance capability of the [[kartal-7]] satellite covers military activities on the islands as well as naval movements. Some parts of the archipelago are administered by [[anatarya]] and others by [[elonya]]; sovereignty over the islands in the central belt is disputed between the two states."
+      ]
+    ],
+    "related": [
+      "kalyon-denizi",
+      "kartal-7",
+      "elonya"
+    ]
+  },
+  "gozcu-3": {
+    "title": "GÖZCÜ-3",
+    "category": "Space program",
+    "desc": "A surveillance and data relay satellite operating in orbit.",
+    "lead": "GÖZCÜ-3 is the surveillance and data relay satellite in [[anatarya]]’s space program that is already in orbit. It is associated with the existing satellite operations of the [[gokkale-4]] complex.",
+    "facts": [
+      [
+        "Type",
+        "Surveillance and data relay satellite"
+      ],
+      [
+        "Status",
+        "In orbit"
+      ],
+      [
+        "Country",
+        "[[anatarya]]"
+      ],
+      [
+        "Associated facility",
+        "[[gokkale-4]]"
+      ]
+    ],
+    "sections": [
+      [
+        "Role",
+        "GÖZCÜ-3 represents the existing surveillance and data relay capacity. It is not the same system as [[kartal-7]], which has yet to be launched."
+      ],
+      [
+        "Place in the space program",
+        "During the crisis around [[gokkale-4]], existing satellite operations continue alongside preparations for the new launch."
+      ]
+    ],
+    "related": [
+      "kartal-7",
+      "gokkale-4",
+      "anatarya"
+    ]
+  },
+  "kartal-7": {
+    "title": "KARTAL-7",
+    "category": "Space program",
+    "desc": "A new military reconnaissance satellite awaiting launch.",
+    "lead": "KARTAL-7 is a new military reconnaissance satellite that [[anatarya]] plans to launch from the [[gokkale-4]] complex aboard [[simsek-iii]]. The launch preparations are the fundamental cause of the conflict with [[elonya]].",
+    "facts": [
+      [
+        "Type",
+        "Military reconnaissance satellite"
+      ],
+      [
+        "Status",
+        "Prelaunch"
+      ],
+      [
+        "Launch site",
+        "[[gokkale-4]]"
+      ],
+      [
+        "Carrier",
+        "[[simsek-iii]]"
+      ]
+    ],
+    "sections": [
+      [
+        "Strategic importance",
+        "The satellite is described as a new reconnaissance capability that could reveal Elonya’s naval movements, island bases and military deployments. The introduction of this capability affects the balance between the two countries."
+      ],
+      [
+        "Launch and crisis",
+        "[[elonya]] is attempting to prevent the launch before this capability emerges. The dispatch of the [[aigaion]] group toward [[sarpburun]] is part of the military pressure that initiated the conflict around [[gokkale-4]]."
+      ],
+      [
+        "Relationship with GÖZCÜ-3",
+        "[[gozcu-3]] is already in orbit; KARTAL-7 is the new launch payload."
+      ]
+    ],
+    "related": [
+      "gozcu-3",
+      "simsek-iii",
+      "gokkale-4",
+      "kriz"
+    ]
+  },
+  "simsek-iii": {
+    "title": "ŞİMŞEK-III",
+    "category": "Space program",
+    "desc": "The launch vehicle intended to carry KARTAL-7.",
+    "lead": "ŞİMŞEK-III is the launch vehicle intended to carry the [[kartal-7]] military reconnaissance satellite into space from the [[gokkale-4]] complex.",
+    "facts": [
+      [
+        "Type",
+        "Launch vehicle"
+      ],
+      [
+        "Payload",
+        "[[kartal-7]]"
+      ],
+      [
+        "Launch site",
+        "[[gokkale-4]]"
+      ]
+    ],
+    "sections": [
+      [
+        "Role in the program",
+        "It is tasked with delivering the new reconnaissance satellite of [[anatarya]]’s space program into orbit."
+      ]
+    ],
+    "related": [
+      "kartal-7",
+      "gokkale-4",
+      "anatarya"
+    ]
+  },
+  "aigaion": {
+    "title": "AIGAION Battle Group",
+    "category": "Units",
+    "desc": "The combined naval force dispatched by Elonya to Sarpburun.",
+    "lead": "The AIGAION Battle Group is the naval group dispatched by [[elonya]] toward [[sarpburun]]. The frigates AIGAION and THALASSA, [[nereus-cikarma]] and [[kallisto-ikmal]] are its principal components. During [[kriz]], they jointly perform maritime surveillance, escort, force transport and logistics duties.",
+    "facts": [
+      [
+        "Country",
+        "[[elonya]]"
+      ],
+      [
+        "Type",
+        "Naval battle group"
+      ],
+      [
+        "Frigates",
+        "AIGAION · THALASSA"
+      ],
+      [
+        "Amphibious ship",
+        "[[nereus-cikarma]]"
+      ],
+      [
+        "Supply ship",
+        "[[kallisto-ikmal]]"
+      ],
+      [
+        "Naval special unit",
+        "[[nereus-komando]]"
+      ]
+    ],
+    "sections": [
+      [
+        "Ships",
+        "AIGAION and THALASSA are [[aigaion-firkateyni]] platforms. [[nereus-cikarma]] carries personnel and vehicles; [[kallisto-ikmal]] provides logistical support at sea. The ship name NEREUS should not be confused with the unit name [[nereus-komando]]."
+      ],
+      [
+        "Air and coastal support",
+        "[[p8-pelagos]] maritime patrol aircraft provide information support. [[mizrak]] and its [[m12-aster]] aircraft constitute a separate air unit, participating in joint mission planning when required. [[triton-botu]] is one of the naval commando group’s short-range transport craft."
+      ],
+      [
+        "Role in the crisis",
+        "The group was sent to the region to exert pressure on [[gokkale-4]] before the launch of [[kartal-7]]. Superiority at sea does not mean that Sarpburun is an island; the facility has uninterrupted access to the mainland in the east."
+      ],
+      [
+        "Emblem",
+        "A trident and wave lines symbolize maritime duties. The navy and light blue emblem is presented as a transparent PNG without a textile texture."
+      ]
+    ],
+    "related": [
+      "elonya",
+      "sarpburun",
+      "gokkale-4",
+      "aigaion-firkateyni",
+      "nereus-cikarma",
+      "kallisto-ikmal",
+      "nereus-komando",
+      "mizrak"
+    ],
+    "imageKey": "patch-aigaion",
+    "draft": false
+  },
+  "hancer": {
+    "title": "132nd Hançer Tactical Squadron",
+    "category": "Units",
+    "desc": "An Anataryan air squadron founded in 1978; the legacy of DAGGER 06 and Black November.",
+    "lead": "The 132nd Hançer Tactical Squadron is an [[anatarya]] air unit established in 1978 to provide air defense for the Sarpburun region. It uses the call sign “Dagger.” Regarded as one of the symbols of Anataryan air superiority, the squadron is known both for its role in the defense of [[gokkale-4]] and for DAGGER 06, which disappeared on 17 November 1994, and the commemorative plaque at its headquarters.",
+    "facts": [
+      [
+        "Country",
+        "[[anatarya]]"
+      ],
+      [
+        "Established",
+        "1978"
+      ],
+      [
+        "Unit type",
+        "Tactical air squadron"
+      ],
+      [
+        "Call sign",
+        "Hançer / Dagger"
+      ],
+      [
+        "Historic aircraft",
+        "[[k4-boran]]"
+      ],
+      [
+        "Modernization",
+        "[[k16-alaz]] from 2019"
+      ],
+      [
+        "Missing aircraft",
+        "DAGGER 06 — 17 November 1994"
+      ],
+      [
+        "Commemorative words",
+        "The watch of those who never returned does not end."
+      ]
+    ],
+    "sections": [
+      [
+        "Establishment and early years (1978)",
+        "The squadron was established in 1978 to provide air defense around [[sarpburun]]. It initially operated [[k4-boran]] aircraft. Protecting the coastal region formed the basis of the unit’s historic mission identity."
+      ],
+      [
+        "Black November Incident (17 November 1994)",
+        "On 17 November 1994, an Anataryan [[k4-boran]] aircraft using the call sign DAGGER 06 disappeared. The aircraft vanished from radar 11 seconds after its last radio message. Its wreckage was never reached; the fate of its pilot and weapons systems officer was not disclosed.\n\nKnown in the unit’s history as “Black November,” the incident is recorded in Classified File 94-117. The cause of the loss has not been established."
+      ],
+      [
+        "Commemorative plaque at headquarters",
+        "A plaque on the wall of the old squadron headquarters commemorates DAGGER 06 and its crew, who never returned. The plaque reads:\n\n132ND TACTICAL SQUADRON COMMAND\nDAGGER 06\n17 NOVEMBER 1994\nThe watch of those who never returned does not end."
+      ],
+      [
+        "Modernization and aircraft (2019)",
+        "Modernization with [[k16-alaz]] began in 2019. Some K-4 aircraft remained in use for training and limited duties. [[k4-boran]] defines the squadron’s historic inventory, while [[k16-alaz]] defines its modernization era."
+      ],
+      [
+        "The 2036 signal and File 94-117",
+        "A signal detected in 2036 shared the same frequency characteristics as DAGGER 06’s final transmission in 1994. A comparison of the two recordings was requested under File 94-117.\n\nThis similarity does not mean that the missing aircraft has been found or that its crew is alive. The source of the signal and its connection to Black November remain unresolved issues in the investigation."
+      ],
+      [
+        "Defense of GÖKKALE-4 and LAST DAWN",
+        "Hançer serves in the defense of [[gokkale-4]] and is identified as the unit authorized for LAST DAWN. It is one of the principal units in Anatarya’s air defense during [[kriz]].\n\nThe unit is commanded by the national military authorities; membership in [[kuzey-kusagi]] does not automatically place the squadron under pact command."
+      ],
+      [
+        "Unit insignia",
+        "A silver dagger and spread wings symbolize the Hançer name and its air mission. The emblem bears the squadron’s number, 132."
+      ]
+    ],
+    "related": [
+      "anatarya",
+      "sarpburun",
+      "gokkale-4",
+      "kriz",
+      "k4-boran",
+      "k16-alaz"
+    ],
+    "imageKey": "patch-hancer",
+    "draft": false
+  },
+  "ucaksavar": {
+    "title": "21st Anti-Aircraft Battalion",
+    "category": "Units",
+    "desc": "An Elonyan coastal and island air defense battalion.",
+    "lead": "The 21st Anti-Aircraft Battalion belongs to the [[elonya]] Air Force surveillance network over Lerya Bay and the western [[kalyon-adalari]]. During [[kriz]] it protected the coastal return route of the [[aigaion]] task group; it did not directly take part in a flight over [[gokkale-4]].",
+    "facts": [
+      [
+        "Country",
+        "[[elonya]]"
+      ],
+      [
+        "Unit type",
+        "Coastal air defense battalion"
+      ],
+      [
+        "Station",
+        "Lerya Bay"
+      ],
+      [
+        "Call sign",
+        "Kalkan"
+      ],
+      [
+        "Operational area",
+        "[[kalyon-adalari]]"
+      ]
+    ],
+    "sections": [
+      [
+        "Formation and role",
+        "The battalion was formed by bringing the harbor defense units around Lerya Bay under one command. Radar sites, mobile batteries and island observation posts form distinct elements. It remains under [[elonya]] national command; [[kuzey-kusagi]] membership alone does not confer authority for a joint operation."
+      ],
+      [
+        "Kalyon Sea crisis",
+        "When the [[sarpburun-dosyasi]] forged by [[elonya-istihbarati]] became the grounds for war, the battalion went on alert to defend the harbors and the return corridor of the [[aigaion]] group. It shared radar tracks with the [[mizrak]] squadron. Unidentified returns over the eastern islands were not treated as hostile until civilian traffic and military contact were investigated."
+      ],
+      [
+        "Supply and limits",
+        "Narrow harbor roads constrain ammunition and fuel delivery to the mountainous island sites. Maritime supply is coordinated with [[kallisto-ikmal]]. Its fixed sites do not cover the [[sarpburun]] coast; it has no organic relationship to Anataryan units around [[gokkale-4]]."
+      ],
+      [
+        "Unit insignia",
+        "Radar arcs and two upward arrows represent its surveillance mission; the number 21 identifies the battalion."
+      ]
+    ],
+    "related": [
+      "elonya",
+      "kalyon-adalari",
+      "mizrak",
+      "aigaion",
+      "kriz",
+      "elonya-istihbarati"
+    ],
+    "imageKey": "patch-ucaksavar",
+    "draft": false
+  },
+  "kriz": {
+    "title": "GÖKKALE-4 Crisis",
+    "category": "Events",
+    "desc": "The conflict surrounding the KARTAL-7 launch.",
+    "lead": "The GÖKKALE-4 Crisis is a political and security crisis that became an armed conflict when the government of [[elonya]] decided to go to war against [[anatarya]]. The [[sarpburun-dosyasi]] was presented as the official justification for war; the operation’s principal objective was to prevent the launch of the [[kartal-7]] reconnaissance satellite from the [[gokkale-4]] complex. [[kuzey-kusagi]] did not participate militarily in the war because of disagreements surrounding the forged documents.",
+    "facts": [
+      [
+        "Defending side",
+        "[[anatarya]]"
+      ],
+      [
+        "Attacking side",
+        "[[elonya]]"
+      ],
+      [
+        "Focal point",
+        "[[gokkale-4]]"
+      ],
+      [
+        "Outcome",
+        "Not yet determined"
+      ]
+    ],
+    "sections": [
+      [
+        "Background",
+        "Developed by [[anatarya]], [[kartal-7]] will increase reconnaissance capacity concerning [[elonya]]’s naval movements and island deployments. While [[gozcu-3]] continues operating in orbit, preparations for the new satellite are underway at [[gokkale-4]]."
+      ],
+      [
+        "Forged documents and justification for war",
+        "[[elonya-istihbarati]] prepared the collection of documents known as [[sarpburun-dosyasi]] under [[cam-perde]]. The dossier alleges that Anatarya planned a first strike. Elonya’s government presented this allegation as its justification for war; Anatarya declared the documents to be forgeries."
+      ],
+      [
+        "The alliance’s position",
+        "[[kuzey-kusagi]], of which both countries are members, could not reach consensus on the dossier’s credibility or application of the collective defense clause. No decision on joint military intervention was reached; the alliance limited itself to diplomatic contacts and an investigation. This decision does not constitute approval of Elonya’s operation."
+      ],
+      [
+        "Military escalation",
+        "The [[aigaion]] group was dispatched toward [[sarpburun]]. While Anatarya protects the facility and launch program with its own forces, Elonya aims to disable the facility before the new reconnaissance capability emerges."
+      ],
+      [
+        "Current situation",
+        "As armed conflict continues around [[gokkale-4]], preparations for the launch of [[kartal-7]] remain underway. The investigation into the origins of the [[sarpburun-dosyasi]] documents is the principal subject of diplomatic talks. Consensus on joint intervention has not been achieved within [[kuzey-kusagi]]."
+      ]
+    ],
+    "related": [
+      "anatarya",
+      "elonya",
+      "sarpburun-dosyasi",
+      "kuzey-kusagi",
+      "cam-perde",
+      "gokkale-4"
+    ]
+  },
+  "kuzey-kusagi": {
+    "title": "Northern Belt Defense Pact",
+    "category": "Organizations",
+    "desc": "An alliance for the collective defense and security of its member states.",
+    "lead": "The Northern Belt Defense Pact (KKSP) is an alliance providing collective defense and military coordination among [[anatarya]], [[elonya]], [[veloria]], [[dalmerya]], [[vardena]] and [[rovenya]]. The pact’s military remit is separate from the institutions of [[avren-birligi]]. [[kipraya]] and [[kuzey-kipraya]] are not pact members. War between two member states during [[kriz]] has deadlocked the collective defense decision-making process.",
+    "facts": [
+      [
+        "Abbreviation",
+        "KKSP"
+      ],
+      [
+        "Type",
+        "Collective defense alliance"
+      ],
+      [
+        "Members",
+        "[[anatarya]] · [[elonya]] · [[veloria]] · [[dalmerya]] · [[vardena]] · [[rovenya]]"
+      ],
+      [
+        "Decision-making body",
+        "Pact Council"
+      ],
+      [
+        "Decision-making method",
+        "Consensus"
+      ],
+      [
+        "Kipraya",
+        "Not a member"
+      ],
+      [
+        "Position in the crisis",
+        "No joint military intervention"
+      ]
+    ],
+    "sections": [
+      [
+        "Foundation and purpose",
+        "The pact was founded around the security needs that the states of the northern trade belt could not meet individually. It developed joint exercises, communications standards and joint planning mechanisms. Membership does not mean the abolition of national armies or the automatic transformation of every conflict into a collective war."
+      ],
+      [
+        "Decision-making structure",
+        "The Pact Council consists of representatives of the member states. A decision to undertake military operations in the alliance’s name requires consensus. The collective defense clause opens discussion of a request for assistance from a member under attack; the nature of the incident and the response are decided separately.\n\nIn a war between two members, priority is given to urgent consultations and examination of the dispute. This rule does not legitimize an attack by one member on another; it defines the process for deciding on which side and under what authority the alliance can act."
+      ],
+      [
+        "The Sarpburun Dossier and the decision-making deadlock",
+        "Through [[sarpburun-dosyasi]], [[elonya]] alleged that Anatarya was preparing a first strike. [[anatarya]] rejected the dossier, arguing that it was the party under attack and that the collective defense clause should apply.\n\nSome members refused to make a military decision before an independent examination of the documents was completed, while others supported Anatarya’s request. Elonya also withheld approval for a joint operation against itself. The forged documents thus influenced not only public opinion but also deadlocked the alliance’s decision-making process."
+      ],
+      [
+        "The decision not to intervene",
+        "The Council did not assign a joint military force, limiting itself to a call for a ceasefire, examination of the documents and diplomatic contacts. This position does not mean that Elonya’s justification for war was verified or that the pact signed a neutrality treaty.\n\nFor Anatarya, the result was the failure of the expected collective defense assistance to arrive. The alliance’s institutional decision not to enter the war and the political positions of individual members are separate matters."
+      ],
+      [
+        "Positions of the member states",
+        "[[veloria]] opposed an operation before the source investigation was complete, while [[dalmerya]] focused on mediation for civilian shipping. [[vardena]] advocated preventing the conflict from spreading to land borders, while [[rovenya]] argued that Anatarya’s defense request should not be rejected in advance. [[elonya]] would not accept the use of joint forces against its own operation. These divisions, together with the uncertainty surrounding [[sarpburun-dosyasi]], prevented consensus."
+      ],
+      [
+        "Flag and symbol",
+        "The six-pointed white star on a navy field symbolizes the six members sharing the collective defense obligation. The open hexagon at the center represents the council in which members have equal representation."
+      ]
+    ],
+    "related": [
+      "anatarya",
+      "elonya",
+      "sarpburun-dosyasi",
+      "kriz",
+      "veloria",
+      "dalmerya",
+      "vardena",
+      "rovenya",
+      "kipraya",
+      "avren-birligi"
+    ],
+    "imageKey": "flag-kuzey-kusagi"
+  },
+  "elonya-istihbarati": {
+    "title": "Elonya National Intelligence Directorate",
+    "category": "Organizations",
+    "desc": "Elonya’s foreign intelligence and strategic assessment agency.",
+    "lead": "The Elonya National Intelligence Directorate (EUİD) is the intelligence agency that supplies foreign security assessments to the government of [[elonya]]. The [[sarpburun-dosyasi]] it prepared under [[cam-perde]] was decisive in constructing the political justification for war with [[anatarya]].",
+    "facts": [
+      [
+        "Abbreviation",
+        "EUİD"
+      ],
+      [
+        "Country",
+        "[[elonya]]"
+      ],
+      [
+        "Principal role",
+        "Foreign intelligence and strategic assessment"
+      ],
+      [
+        "Associated activity",
+        "[[cam-perde]]"
+      ],
+      [
+        "Associated dossier",
+        "[[sarpburun-dosyasi]]"
+      ]
+    ],
+    "sections": [
+      [
+        "Role and position",
+        "The directorate assesses military and political developments in foreign states and reports to the government and authorized security councils. Sea lanes, island deployments and [[anatarya]]’s defense programs are priority areas of its work. The agency’s assessments and the government’s decision to go to war are separate areas of responsibility."
+      ],
+      [
+        "Glass Curtain activity",
+        "Following the assessment that the [[kartal-7]] program would make Elonya’s military movements visible, a covert political influence activity known as [[cam-perde]] was conducted within the agency. The dossier it prepared combined existing regional disputes with a fictitious first-strike plan.\n\nThe activity aimed to secure public support for war and prevent [[kuzey-kusagi]] members from rapidly reaching a joint decision in Anatarya’s favor. It is not assumed that all employees of the agency knew about the activity."
+      ],
+      [
+        "Position during the crisis",
+        "The directorate forwarded the dossier to the government as the basis for a national security assessment presented to the public. While [[anatarya]] rejected the documents, Elonya’s authorities invoked source confidentiality. The inability to examine the dossier independently deepened political divisions within the alliance."
+      ]
+    ],
+    "related": [
+      "elonya",
+      "cam-perde",
+      "sarpburun-dosyasi",
+      "kuzey-kusagi"
+    ]
+  },
+  "sarpburun-dosyasi": {
+    "title": "Sarpburun Dossier",
+    "category": "Documents",
+    "desc": "The collection of forged documents presented by Elonya as its justification for war.",
+    "lead": "The Sarpburun Dossier is the collective name for forged documents prepared by [[elonya-istihbarati]] under [[cam-perde]] and presented as if they belonged to the government of [[anatarya]]. The dossier alleged that Anatarya was planning a first strike around [[kalyon-adalari]] and was used by the government of [[elonya]] as its justification for declaring war.",
+    "facts": [
+      [
+        "Type",
+        "Forged intelligence dossier"
+      ],
+      [
+        "Prepared by",
+        "[[elonya-istihbarati]]"
+      ],
+      [
+        "Activity",
+        "[[cam-perde]]"
+      ],
+      [
+        "Targeted state",
+        "[[anatarya]]"
+      ],
+      [
+        "Political outcome",
+        "Justification for war and deadlock in alliance decisions"
+      ]
+    ],
+    "sections": [
+      [
+        "Allegations",
+        "The dossier alleges that preparations for an attack centered on [[gokkale-4]] are underway, that the launch of [[kartal-7]] is the final stage of those preparations, and that a military operation against the island regions is imminent. The existence of an actual reconnaissance program was used to lend credibility to the fictitious allegation of an attack.\n\nKARTAL-7’s actual role is military reconnaissance. The attack plan attributed to the satellite and facility in the dossier should be distinguished from the program’s real function."
+      ],
+      [
+        "Publication and the decision for war",
+        "Elonya’s government presented selected portions of the dossier to the public and shared broader contents with representatives of [[kuzey-kusagi]]. The announcement was followed by the decision for war and the dispatch of the [[aigaion]] group toward [[sarpburun]]. Anatarya stated that the published texts did not belong to its chain of command."
+      ],
+      [
+        "True origin and public uncertainty",
+        "The dossier was produced during [[cam-perde]], an activity within [[elonya-istihbarati]]. However, the origin of the documents has not been verified before the international public during the crisis. Those with access to investigation records and those following only official statements have different information.\n\nSome [[kuzey-kusagi]] members did not wish to act before the investigation was concluded. The alliance’s decision to wait does not mean that it accepted the dossier as true."
+      ],
+      [
+        "Political effects",
+        "The dossier framed Elonya’s attack as a response to an imminent threat and made Anatarya’s request for assistance contentious. [[kriz]] is therefore both a defense of a facility and a struggle over the legitimacy of the war’s justification. When and how the documents will be publicly disproved remains beyond the current timeline."
+      ]
+    ],
+    "related": [
+      "cam-perde",
+      "elonya-istihbarati",
+      "kuzey-kusagi",
+      "kriz",
+      "kartal-7"
+    ]
+  },
+  "cam-perde": {
+    "title": "Glass Curtain",
+    "category": "Events",
+    "desc": "The covert political influence activity based on preparing the Sarpburun Dossier.",
+    "lead": "Glass Curtain is the code name of the covert activity conducted by [[elonya-istihbarati]] to construct a justification for war against [[anatarya]]. Its principal product was [[sarpburun-dosyasi]], and it aimed to create political uncertainty that would prevent joint military intervention within [[kuzey-kusagi]].",
+    "facts": [
+      [
+        "Conducted by",
+        "[[elonya-istihbarati]]"
+      ],
+      [
+        "Country",
+        "[[elonya]]"
+      ],
+      [
+        "Principal product",
+        "[[sarpburun-dosyasi]]"
+      ],
+      [
+        "Objective",
+        "Justifying war and delaying an alliance decision"
+      ]
+    ],
+    "sections": [
+      [
+        "Background",
+        "The [[kartal-7]] program was viewed as a development that would reduce the secrecy of Elonya’s naval movements and island bases. Since a direct attack on [[gokkale-4]] was expected to provoke a reaction within the alliance, a political justification was prepared before the military operation."
+      ],
+      [
+        "Purpose and outcome",
+        "By foregrounding the allegation that Anatarya would initiate an attack, the activity portrayed Elonya’s operation as a preventive response. The debate arising from [[sarpburun-dosyasi]] prevented a collective defense decision and bought Elonya diplomatic time at the start of the operation.\n\nGlass Curtain is not a plan that guarantees military victory. Its success relates only to the political environment at the start of the war; the outcome of the defense of [[gokkale-4]] and the satellite launch is determined separately."
+      ]
+    ],
+    "related": [
+      "elonya-istihbarati",
+      "sarpburun-dosyasi",
+      "kriz",
+      "kuzey-kusagi"
+    ]
+  },
+  "avrupa": {
+    "title": "Avren mainland",
+    "category": "Geography",
+    "desc": "The northwestern mainland connected to Elonya and Anatarya’s Avren side.",
+    "lead": "Avren is the northwestern mainland encompassing [[veloria]], [[dalmerya]], [[vardena]], [[rovenya]] and [[elonya]], as well as Anatarya’s territory west of the strait. [[anatarya]] and [[elonya]] share a land border west of [[istara]].",
+    "facts": [
+      [
+        "Type",
+        "Continent / mainland"
+      ],
+      [
+        "Associated countries",
+        "[[elonya]] · [[anatarya]]"
+      ],
+      [
+        "Critical passage",
+        "[[istara-bogazi]]"
+      ]
+    ],
+    "sections": [
+      [
+        "States and borders",
+        "[[veloria]] encompasses the northwestern coast, [[dalmerya]] the western peninsula, [[vardena]] the central transition belt and [[rovenya]] the northeastern coast. [[elonya]] is a peninsular state extending southward. Anatarya’s Avren territory lies between Elonya and Rovenya."
+      ],
+      [
+        "Political organizations",
+        "Most states in the region are members of both [[kuzey-kusagi]] and [[avren-birligi]]. Membership of the two organizations is not identical. Although [[kipraya]] is geographically an offshore island state, it is a member of the Avren Union."
+      ]
+    ],
+    "related": [
+      "veloria",
+      "dalmerya",
+      "vardena",
+      "rovenya",
+      "elonya",
+      "anatarya",
+      "avren-birligi"
+    ],
+    "imageKey": "",
+    "draft": false
+  },
+  "istara": {
+    "title": "İstara",
+    "category": "Geography",
+    "desc": "The strait city connecting Anatarya’s two shores.",
+    "lead": "İstara is a port and transit city within [[anatarya]] that developed around [[istara-bogazi]]. The settlement extends between the Avren side and the main peninsula. Linking the shores of two continents, the city is one of the region’s most important trade passages. Anatarya’s capital is Arkent.",
+    "facts": [
+      [
+        "Country",
+        "[[anatarya]]"
+      ],
+      [
+        "Location",
+        "[[istara-bogazi]]"
+      ],
+      [
+        "Avren connection",
+        "[[avrupa]]"
+      ],
+      [
+        "Function",
+        "Port, trade and intercontinental transit"
+      ]
+    ],
+    "sections": [
+      [
+        "Geography",
+        "The city’s western side is on Avren. Its eastern side connects to Anatarya’s large main peninsula. The land border with [[elonya]] lies farther west of the city; the strait itself is not the border between the two countries."
+      ],
+      [
+        "Strategic importance",
+        "The strait crossing and port activities make the city an important link between northern and southern sea routes. [[gokkale-4]] and [[sarpburun]], meanwhile, lie farther south in a separate coastal region."
+      ]
+    ],
+    "related": [
+      "anatarya",
+      "avrupa",
+      "istara-bogazi",
+      "sarpburun"
+    ],
+    "imageKey": "",
+    "draft": false
+  },
+  "istara-bogazi": {
+    "title": "İstara Strait",
+    "category": "Geography",
+    "desc": "The narrow waterway connecting the Northern Sea and the Inland Sea.",
+    "lead": "İstara Strait is the narrow sea passage between the Northern Sea and the Inland Sea. Both shores of the strait belong to [[anatarya]], and the city of [[istara]] developed around this passage. Its western shore is connected to the mainland of [[avrupa]], and its eastern shore to Anatarya’s large peninsula.",
+    "facts": [
+      [
+        "Type",
+        "Strait"
+      ],
+      [
+        "Coastal state",
+        "[[anatarya]]"
+      ],
+      [
+        "Principal city",
+        "[[istara]]"
+      ],
+      [
+        "Waters connected",
+        "Northern Sea · Inland Sea"
+      ]
+    ],
+    "sections": [
+      [
+        "Maritime connections",
+        "Ships coming from the Northern Sea reach the Inland Sea through this strait. A second passage at the southwestern outlet of the Inland Sea provides a connection to [[kalyon-denizi]]."
+      ],
+      [
+        "Distinction from the land border",
+        "Anatarya and [[elonya]] share a land border on the Avren side. This border lies west of İstara Strait; both shores around the strait belong to Anatarya."
+      ]
+    ],
+    "related": [
+      "istara",
+      "avrupa",
+      "anatarya",
+      "elonya",
+      "kalyon-denizi"
+    ],
+    "imageKey": "",
+    "draft": false
+  },
+  "veloria": {
+    "title": "Federation of Veloria",
+    "category": "Countries",
+    "desc": "A regional state in northwestern Avren.",
+    "lead": "The Federation of Veloria is a state in northwestern Avren with its capital at Veler. It is a federation that developed along extensive northwestern coasts and inland industrial basins. Port cities, financial centers and advanced manufacturing regions form the backbone of its economy. It is a member of [[kuzey-kusagi]] and [[avren-birligi]].",
+    "facts": [
+      [
+        "Capital",
+        "Veler"
+      ],
+      [
+        "Government",
+        "Federal parliamentary republic"
+      ],
+      [
+        "Continent",
+        "[[avrupa]]"
+      ],
+      [
+        "Defense alliance",
+        "[[kuzey-kusagi]]"
+      ],
+      [
+        "Political and economic union",
+        "[[avren-birligi]]"
+      ]
+    ],
+    "sections": [
+      [
+        "Geography",
+        "It is a federation that developed along extensive northwestern coasts and inland industrial basins. Port cities, financial centers and advanced manufacturing regions form the backbone of its economy."
+      ],
+      [
+        "History and government",
+        "Veloria was founded through the union of regional kingdoms under a common federal assembly. Following two major continental trade crises, powers over interstate infrastructure and a common foreign policy were expanded."
+      ],
+      [
+        "Economy and society",
+        "High-value-added manufacturing, finance, optics and aerospace industries are prominent. Strong state governments subject the central government’s foreign policy decisions to parliamentary oversight."
+      ],
+      [
+        "GÖKKALE-4 Crisis",
+        "Veloria argued that joint military operations should not be approved before the source of the dossier was independently verified. This position does not mean it confirmed Elonya’s allegations; the government also demanded a halt to the attack. [[sarpburun-dosyasi]] and [[kriz]] are principal items on the country’s foreign policy agenda."
+      ],
+      [
+        "Flag",
+        "A navy field, a vertical gold stripe and a white diamond. The flag is the shared state symbol of the federation or republic."
+      ]
+    ],
+    "related": [
+      "avren-birligi",
+      "kuzey-kusagi",
+      "anatarya",
+      "elonya",
+      "kriz"
+    ],
+    "imageKey": "flag-veloria",
+    "draft": false
+  },
+  "dalmerya": {
+    "title": "Republic of Dalmerya",
+    "category": "Countries",
+    "desc": "A regional state on the western Avren coast.",
+    "lead": "The Republic of Dalmerya is a state on the western Avren coast with its capital at Dalmera. It occupies a long peninsula extending southward from western Avren. There are pronounced economic and cultural differences between its coastal cities and mountainous interior. It is a member of [[kuzey-kusagi]] and [[avren-birligi]].",
+    "facts": [
+      [
+        "Capital",
+        "Dalmera"
+      ],
+      [
+        "Government",
+        "Parliamentary republic"
+      ],
+      [
+        "Continent",
+        "[[avrupa]]"
+      ],
+      [
+        "Defense alliance",
+        "[[kuzey-kusagi]]"
+      ],
+      [
+        "Political and economic union",
+        "[[avren-birligi]]"
+      ]
+    ],
+    "sections": [
+      [
+        "Geography",
+        "It occupies a long peninsula extending southward from western Avren. There are pronounced economic and cultural differences between its coastal cities and mountainous interior."
+      ],
+      [
+        "History and government",
+        "The union of once-independent port republics formed Dalmerya’s political foundation. Following unification, both commercial law and regional municipal autonomy were preserved."
+      ],
+      [
+        "Economy and society",
+        "Shipbuilding, marine insurance, port operations and machinery manufacturing occupy an important place in the economy. Dalmerya considers keeping commercial routes in Kalyon open a national interest."
+      ],
+      [
+        "GÖKKALE-4 Crisis",
+        "Dalmerya pursued diplomatic contacts concerning maritime traffic and civilian evacuations; it did not unilaterally enter the war outside the alliance. It asked both sides to reduce restrictions on commercial vessels. [[sarpburun-dosyasi]] and [[kriz]] are principal items on the country’s foreign policy agenda."
+      ],
+      [
+        "Flag",
+        "A white diagonal band on a dark green field. The flag is the shared state symbol of the federation or republic."
+      ]
+    ],
+    "related": [
+      "avren-birligi",
+      "kuzey-kusagi",
+      "anatarya",
+      "elonya",
+      "kriz"
+    ],
+    "imageKey": "flag-dalmerya",
+    "draft": false
+  },
+  "vardena": {
+    "title": "Republic of Vardena",
+    "category": "Countries",
+    "desc": "A regional state in central Avren’s transition belt.",
+    "lead": "The Republic of Vardena is a state in central Avren’s transition belt with its capital at Vardis. It lies north of Elonya around mountain passes and river basins. Land routes between western and eastern Avren determine the country’s strategic value. It is a member of [[kuzey-kusagi]] and [[avren-birligi]].",
+    "facts": [
+      [
+        "Capital",
+        "Vardis"
+      ],
+      [
+        "Government",
+        "Parliamentary republic"
+      ],
+      [
+        "Continent",
+        "[[avrupa]]"
+      ],
+      [
+        "Defense alliance",
+        "[[kuzey-kusagi]]"
+      ],
+      [
+        "Political and economic union",
+        "[[avren-birligi]]"
+      ]
+    ],
+    "sections": [
+      [
+        "Geography",
+        "It lies north of Elonya around mountain passes and river basins. Land routes between western and eastern Avren determine the country’s strategic value."
+      ],
+      [
+        "History and government",
+        "Vardena was founded through the constitutional union of former border provinces. Throughout its history, control of transit routes and a policy of balancing neighboring states have been prominent."
+      ],
+      [
+        "Economy and society",
+        "Rail transport, agricultural machinery, energy transmission and transit trade are the principal economic sectors. Defense policy rests on border security and mechanisms for consensus within the alliance."
+      ],
+      [
+        "GÖKKALE-4 Crisis",
+        "Vardena is concerned that the war could spread to the Avren land border. It supported an investigative commission and a temporary ceasefire proposal, and did not accept Elonya’s allegations as an independent finding. [[sarpburun-dosyasi]] and [[kriz]] are principal items on the country’s foreign policy agenda."
+      ],
+      [
+        "Flag",
+        "White and gold horizontal stripes on a purple field. The flag is the shared state symbol of the federation or republic."
+      ]
+    ],
+    "related": [
+      "avren-birligi",
+      "kuzey-kusagi",
+      "anatarya",
+      "elonya",
+      "kriz"
+    ],
+    "imageKey": "flag-vardena",
+    "draft": false
+  },
+  "rovenya": {
+    "title": "Federation of Rovenya",
+    "category": "Countries",
+    "desc": "A regional state in northeastern Avren.",
+    "lead": "The Federation of Rovenya is a state in northeastern Avren with its capital at Roven. It is a broad federation opening onto the western and northern shores of the Northern Sea. Forested plateaus, river cities and northern ports form distinct economic regions. It is a member of [[kuzey-kusagi]] and [[avren-birligi]].",
+    "facts": [
+      [
+        "Capital",
+        "Roven"
+      ],
+      [
+        "Government",
+        "Federal republic"
+      ],
+      [
+        "Continent",
+        "[[avrupa]]"
+      ],
+      [
+        "Defense alliance",
+        "[[kuzey-kusagi]]"
+      ],
+      [
+        "Political and economic union",
+        "[[avren-birligi]]"
+      ]
+    ],
+    "sections": [
+      [
+        "Geography",
+        "It is a broad federation opening onto the western and northern shores of the Northern Sea. Forested plateaus, river cities and northern ports form distinct economic regions."
+      ],
+      [
+        "History and government",
+        "Rovenya’s federal structure emerged from lengthy negotiations between inland regions and coastal administrations. Collective defense and foreign trade are handled at the federal level, while education and local administration are managed regionally."
+      ],
+      [
+        "Economy and society",
+        "Energy, heavy machinery, railways and port trade are important sources of revenue. Keeping the commercial connection from the Northern Sea to İstara Strait open is a foreign policy priority."
+      ],
+      [
+        "GÖKKALE-4 Crisis",
+        "Rovenya argued that the allegations in the Sarpburun Dossier could not automatically invalidate Anatarya’s request for collective defense. However, a joint operation did not begin because the necessary consensus within the pact was not reached. [[sarpburun-dosyasi]] and [[kriz]] are principal items on the country’s foreign policy agenda."
+      ],
+      [
+        "Flag",
+        "An olive green field, a navy lower band and a gold disk. The flag is the shared state symbol of the federation or republic."
+      ]
+    ],
+    "related": [
+      "avren-birligi",
+      "kuzey-kusagi",
+      "anatarya",
+      "elonya",
+      "kriz"
+    ],
+    "imageKey": "flag-rovenya",
+    "draft": false
+  },
+  "kipraya": {
+    "title": "Republic of Kipraya",
+    "category": "Countries",
+    "desc": "An Avren Union member republic governing the south of Kipraya island.",
+    "lead": "The Republic of Kipraya is a state on [[kipraya-adasi]], south of the coast of [[anatarya]]. The government recognized across the island in practice administers its southern part; [[kuzey-kipraya]] has established a separate administration in the north. The capital, Kipra, is divided by [[kipraya-tampon-hatti]], which separates the two parts. The republic is a member of [[avren-birligi]], but not of [[kuzey-kusagi]].",
+    "facts": [
+      [
+        "Capital",
+        "South Kipra"
+      ],
+      [
+        "Government",
+        "Parliamentary republic"
+      ],
+      [
+        "Area of de facto administration",
+        "Southern part of the island"
+      ],
+      [
+        "International status",
+        "Government recognized across the island"
+      ],
+      [
+        "Union membership",
+        "[[avren-birligi]]"
+      ],
+      [
+        "KKSP membership",
+        "Not a member"
+      ]
+    ],
+    "sections": [
+      [
+        "Geography",
+        "The southern coastal plains, inland mountainous areas and the island’s principal commercial ports are under the republic’s de facto administration. Contact with the northern part takes place through controlled crossing points."
+      ],
+      [
+        "History of the division",
+        "The institutions of the shared republic were weakened by disputes over representation and security between the two communities. Following a pro-unification coup attempt, Anataryan intervention and fighting led to the establishment of a ceasefire line. Population movements, property disputes and mutual security concerns entrenched the division."
+      ],
+      [
+        "Foreign relations",
+        "[[avren-birligi]] and [[elonya]] recognize the republic as the island’s legitimate government. Although the legal scope of union membership extends across the island, common legislation is not applied in practice in the north. Talks with [[kuzey-kipraya]] are held in neutral areas around [[kipraya-tampon-hatti]]."
+      ],
+      [
+        "Economy",
+        "Port services, tourism, marine research and agricultural exports are the principal sources of revenue. Because of the division, different inspection arrangements apply to inter-island trade and north–south crossings."
+      ],
+      [
+        "Flag",
+        "The white band on a dark gold field symbolizes sea routes, while the navy ring symbolizes the ideal of shared island citizenship."
+      ]
+    ],
+    "related": [
+      "kipraya-adasi",
+      "kuzey-kipraya",
+      "kipraya-tampon-hatti",
+      "avren-birligi",
+      "anatarya",
+      "elonya"
+    ],
+    "imageKey": "flag-kipraya",
+    "draft": false
+  },
+  "avren-birligi": {
+    "title": "Avren Union",
+    "category": "Organizations",
+    "desc": "A political and economic union bringing together the Avren countries and Kipraya.",
+    "lead": "The Avren Union (AB) is an interstate union working in the areas of a common market, movement, trade standards and regional development. Its members are [[veloria]], [[dalmerya]], [[vardena]], [[rovenya]], [[elonya]] and [[kipraya]]. The union’s political and economic institutions are separate from the military structure of [[kuzey-kusagi]].",
+    "facts": [
+      [
+        "Abbreviation",
+        "AB"
+      ],
+      [
+        "Type",
+        "Political and economic union"
+      ],
+      [
+        "Members",
+        "[[veloria]] · [[dalmerya]] · [[vardena]] · [[rovenya]] · [[elonya]] · [[kipraya]]"
+      ],
+      [
+        "Anatarya’s status",
+        "Partnership and customs agreements; not a full member"
+      ],
+      [
+        "Principal bodies",
+        "Avren Council · Common Assembly · Union Commission"
+      ]
+    ],
+    "sections": [
+      [
+        "Foundation and powers",
+        "The union was founded to reduce customs barriers to continental trade and expanded over time through common product standards and regional funds. Member states retain their armies and core foreign policy powers."
+      ],
+      [
+        "Distinction from the KKSP",
+        "[[kuzey-kusagi]] is a military defense pact. The Avren Union is an institution for political and economic integration. Kipraya’s membership in the AB while remaining outside the KKSP, and Anatarya’s membership in the KKSP without full membership in the AB, illustrate this distinction."
+      ],
+      [
+        "GÖKKALE-4 Crisis",
+        "Although [[elonya]] is a union member, its decision for war was not automatically treated as union policy. The union called for an independent examination of [[sarpburun-dosyasi]] and a ceasefire, but struggled to develop a common position on possible sanctions. These debates proceed separately from the KKSP’s decision on military intervention."
+      ],
+      [
+        "Flag",
+        "Six gold diamonds form a ring on a dark petrol blue field. The six pieces symbolize the current member states, and the open center represents the shared political space."
+      ],
+      [
+        "Kipraya’s status",
+        "The membership of [[kipraya]] legally covers the entire island. Application of common legislation is suspended in the territory of [[kuzey-kipraya]], which the republic does not administer in practice. The northern administration has neither separate membership nor separate representation in the union’s institutions."
+      ]
+    ],
+    "related": [
+      "kuzey-kusagi",
+      "veloria",
+      "dalmerya",
+      "vardena",
+      "rovenya",
+      "elonya",
+      "kipraya"
+    ],
+    "imageKey": "flag-avren-birligi",
+    "draft": false
+  },
+  "k16-alaz": {
+    "title": "K-16 Alaz",
+    "category": "Vehicles",
+    "desc": "Anatarya’s single-engine multirole fighter aircraft.",
+    "lead": "The K-16 Alaz is a single-pilot, single-engine multirole fighter aircraft used by [[anatarya]]’s air force. It is the principal platform of the modernization that began in [[hancer]] squadron in 2019. It serves in protecting the airspace around [[gokkale-4]].",
+    "facts": [
+      [
+        "Country",
+        "[[anatarya]]"
+      ],
+      [
+        "Class",
+        "Multirole fighter aircraft"
+      ],
+      [
+        "Crew",
+        "1 pilot"
+      ],
+      [
+        "Engine configuration",
+        "Single jet engine"
+      ],
+      [
+        "Operator",
+        "[[hancer]]"
+      ],
+      [
+        "Squadron modernization",
+        "2019"
+      ]
+    ],
+    "sections": [
+      [
+        "Development and service",
+        "The introduction of Alaz began transforming the predominantly [[k4-boran]] force within [[hancer]]. The new aircraft has a cockpit configuration that allows a single pilot to manage both flight and mission systems."
+      ],
+      [
+        "Missions",
+        "It is used for airspace protection, interception and tactical air missions. During the [[gokkale-4]] crisis, it contributes to air defense of the facility area."
+      ],
+      [
+        "Place within the squadron",
+        "While Alaz carries the main burden of frontline missions, [[k4-boran]] continues to be used for training and limited duties. The two platforms represent different periods in the squadron’s history."
+      ]
+    ],
+    "related": [
+      "hancer",
+      "k4-boran",
+      "gokkale-4"
+    ],
+    "imageKey": "air-k16",
+    "draft": false
+  },
+  "ut7-ilgaz": {
+    "title": "UT-7 Ilgaz",
+    "category": "Vehicles",
+    "desc": "Utility helicopter.",
+    "lead": "The UT-7 Ilgaz is a utility helicopter platform used by [[anatarya]]. It is suitable for personnel transport, search and rescue, and medical evacuation missions. It provides transport support to the Sarp Guard unit as required.",
+    "facts": [
+      [
+        "Country",
+        "[[anatarya]]"
+      ],
+      [
+        "Class",
+        "Utility helicopter"
+      ],
+      [
+        "Crew",
+        "2 pilots + mission crew"
+      ],
+      [
+        "Associated unit",
+        "[[sarp-muhafiz]]"
+      ]
+    ],
+    "sections": [
+      [
+        "Role",
+        "A utility helicopter suitable for personnel transport, search and rescue, and medical evacuation missions. It provides transport support to the Sarp Guard unit as required."
+      ],
+      [
+        "Service and support",
+        "The twin-engine Ilgaz carries personnel and supplies between coastal bases and inland facilities. It provides transport support for [[sarp-muhafiz]]; for medical evacuation missions, its cabin configuration is modified to accommodate stretchers."
+      ]
+    ],
+    "related": [
+      "anatarya",
+      "sarp-muhafiz"
+    ],
+    "imageKey": "air-ut7",
+    "draft": false
+  },
+  "kaya-zma": {
+    "title": "Kaya ZMA",
+    "category": "Vehicles",
+    "desc": "Armored personnel carrier.",
+    "lead": "The Kaya ZMA is an armored personnel carrier platform used by [[anatarya]]. It is a family of wheeled armored vehicles used for road access, personnel transport and protected patrols. It provides ground mobility around the facility.",
+    "facts": [
+      [
+        "Country",
+        "[[anatarya]]"
+      ],
+      [
+        "Class",
+        "Armored personnel carrier"
+      ],
+      [
+        "Crew",
+        "3 crew + personnel compartment"
+      ],
+      [
+        "Associated unit",
+        "[[sarp-muhafiz]]"
+      ]
+    ],
+    "sections": [
+      [
+        "Role",
+        "A family of wheeled armored vehicles used for road access, personnel transport and protected patrols. It provides ground mobility around the facility."
+      ]
+    ],
+    "related": [
+      "anatarya",
+      "sarp-muhafiz",
+      "demir-iz"
+    ],
+    "imageKey": "veh-kaya",
+    "draft": false
+  },
+  "kalkan-hss": {
+    "title": "Kalkan HSS",
+    "category": "Vehicles",
+    "desc": "Mobile air defense system.",
+    "lead": "The Kalkan HSS is a mobile air defense system platform used by [[anatarya]]. It is a family of systems comprising radar, a command vehicle and air defense vehicles.",
+    "facts": [
+      [
+        "Country",
+        "[[anatarya]]"
+      ],
+      [
+        "Class",
+        "Mobile air defense system"
+      ],
+      [
+        "Crew",
+        "Varies by vehicle and mission crew"
+      ],
+      [
+        "Associated unit",
+        "[[sarp-muhafiz]]"
+      ]
+    ],
+    "sections": [
+      [
+        "Role",
+        "A family of systems comprising radar, a command vehicle and air defense vehicles."
+      ]
+    ],
+    "related": [
+      "anatarya",
+      "sarp-muhafiz"
+    ],
+    "imageKey": "veh-kalkan",
+    "draft": false
+  },
+  "m12-aster": {
+    "title": "M-12 Aster",
+    "category": "Vehicles",
+    "desc": "Multirole fighter aircraft.",
+    "lead": "The M-12 Aster is a multirole fighter aircraft platform used by [[elonya]]. Elonya uses it for air defense and air support to naval forces. It is the principal platform of the 41st Mızrak Squadron.",
+    "facts": [
+      [
+        "Country",
+        "[[elonya]]"
+      ],
+      [
+        "Class",
+        "Multirole fighter aircraft"
+      ],
+      [
+        "Crew",
+        "1 pilot"
+      ],
+      [
+        "Associated unit",
+        "[[mizrak]]"
+      ]
+    ],
+    "sections": [
+      [
+        "Role",
+        "A multirole aircraft used by Elonya for air defense and air support to naval forces. It is the principal platform of the 41st Mızrak Squadron."
+      ],
+      [
+        "Design and service",
+        "A single-pilot delta-wing configuration and a single jet engine form Aster’s basic design. Aircraft operated by [[mizrak]] squadron protect coastal airspace and island passages."
+      ]
+    ],
+    "related": [
+      "elonya",
+      "aigaion"
+    ],
+    "imageKey": "air-m12",
+    "draft": false
+  },
+  "p8-pelagos": {
+    "title": "P-8 Pelagos",
+    "category": "Vehicles",
+    "desc": "Maritime patrol aircraft.",
+    "lead": "The P-8 Pelagos is a maritime patrol aircraft platform used by [[elonya]]. It is a turboprop aircraft assigned to maritime observation, search-and-rescue coordination and long-duration patrols. It provides information support to the AIGAION group; it is not part of a fighter squadron’s organic inventory.",
+    "facts": [
+      [
+        "Country",
+        "[[elonya]]"
+      ],
+      [
+        "Class",
+        "Maritime patrol aircraft"
+      ],
+      [
+        "Crew",
+        "2 pilots + mission crew"
+      ],
+      [
+        "Associated unit",
+        "[[aigaion]] support elements"
+      ]
+    ],
+    "sections": [
+      [
+        "Role",
+        "A turboprop aircraft assigned to maritime observation, search-and-rescue coordination and long-duration patrols. It provides information support to the AIGAION group; it is not part of a fighter squadron’s organic inventory."
+      ],
+      [
+        "Mission configuration",
+        "The flight crew and maritime surveillance operators work together in the cabin of the high-wing, twin-turboprop Pelagos. Observation data is relayed to coastal centers and the [[aigaion]] group. During search-and-rescue operations, it helps identify contacts at sea."
+      ]
+    ],
+    "related": [
+      "elonya",
+      "aigaion"
+    ],
+    "imageKey": "air-p8",
+    "draft": false
+  },
+  "triton-botu": {
+    "title": "Triton Fast Boat",
+    "category": "Vehicles",
+    "desc": "Fast personnel transport boat.",
+    "lead": "The Triton Fast Boat is a fast personnel transport boat platform used by [[elonya]]. It is used for short-distance sea transport, coastal patrols and personnel transfers. It is operated by the Nereus Naval Commando Group.",
+    "facts": [
+      [
+        "Country",
+        "[[elonya]]"
+      ],
+      [
+        "Class",
+        "Fast personnel transport boat"
+      ],
+      [
+        "Crew",
+        "2 crew + mission team"
+      ],
+      [
+        "Associated unit",
+        "[[nereus-komando]]"
+      ]
+    ],
+    "sections": [
+      [
+        "Role",
+        "A fast boat used for short-distance sea transport, coastal patrols and personnel transfers. It is operated by the Nereus Naval Commando Group."
+      ]
+    ],
+    "related": [
+      "elonya",
+      "aigaion"
+    ],
+    "imageKey": "veh-triton",
+    "draft": false
+  },
+  "aigaion-firkateyni": {
+    "title": "AIGAION-class Frigate",
+    "category": "Vehicles",
+    "desc": "Multipurpose frigate.",
+    "lead": "The AIGAION-class Frigate is a multipurpose frigate platform used by [[elonya]]. AIGAION and THALASSA belong to this frigate class. It undertakes the battle group’s escort, maritime surveillance and command liaison duties.",
+    "facts": [
+      [
+        "Country",
+        "[[elonya]]"
+      ],
+      [
+        "Class",
+        "Multipurpose frigate"
+      ],
+      [
+        "Crew",
+        "Ship’s operational complement"
+      ],
+      [
+        "Associated unit",
+        "[[aigaion]]"
+      ]
+    ],
+    "sections": [
+      [
+        "Role",
+        "The frigate class to which AIGAION and THALASSA belong. It undertakes the battle group’s escort, maritime surveillance and command liaison duties."
+      ]
+    ],
+    "related": [
+      "elonya",
+      "aigaion"
+    ],
+    "imageKey": "veh-aigaion",
+    "draft": false
+  },
+  "nereus-cikarma": {
+    "title": "NEREUS Landing Ship",
+    "category": "Vehicles",
+    "desc": "Amphibious transport and support ship.",
+    "lead": "The NEREUS Landing Ship is an amphibious transport and support ship platform used by [[elonya]]. It is an amphibious ship carrying personnel, vehicles and support supplies. It shares its name with the 8th Nereus Naval Commando Group, but the ship and unit are separate entities.",
+    "facts": [
+      [
+        "Country",
+        "[[elonya]]"
+      ],
+      [
+        "Class",
+        "Amphibious transport and support ship"
+      ],
+      [
+        "Crew",
+        "Ship’s crew + embarked unit"
+      ],
+      [
+        "Associated unit",
+        "[[aigaion]] · [[nereus-komando]]"
+      ]
+    ],
+    "sections": [
+      [
+        "Role",
+        "An amphibious ship carrying personnel, vehicles and support supplies. It shares its name with the 8th Nereus Naval Commando Group, but the ship and unit are separate entities."
+      ]
+    ],
+    "related": [
+      "elonya",
+      "aigaion"
+    ],
+    "imageKey": "veh-nereus",
+    "draft": false
+  },
+  "kallisto-ikmal": {
+    "title": "KALLISTO Supply Ship",
+    "category": "Vehicles",
+    "desc": "Naval logistics ship.",
+    "lead": "The KALLISTO Supply Ship is a naval logistics ship platform used by [[elonya]]. It supports the battle group’s requirements for fuel, provisions and maintenance supplies. It helps the group sustain a prolonged presence at sea.",
+    "facts": [
+      [
+        "Country",
+        "[[elonya]]"
+      ],
+      [
+        "Class",
+        "Naval logistics ship"
+      ],
+      [
+        "Crew",
+        "Ship’s operational complement"
+      ],
+      [
+        "Associated unit",
+        "[[aigaion]]"
+      ]
+    ],
+    "sections": [
+      [
+        "Role",
+        "A logistics ship supporting the battle group’s requirements for fuel, provisions and maintenance supplies. It helps the group sustain a prolonged presence at sea."
+      ]
+    ],
+    "related": [
+      "elonya",
+      "aigaion"
+    ],
+    "imageKey": "veh-kallisto",
+    "draft": false
+  },
+  "sarp-muhafiz": {
+    "title": "4th Sarp Guard Company",
+    "category": "Units",
+    "desc": "A facility protection and response unit of the Anataryan forces.",
+    "lead": "A company tasked with military security and response, protecting critical infrastructure on [[sarpburun]]. It focuses on the mainland connection, personnel safety and maintaining civilian evacuation arrangements during the crisis.",
+    "facts": [
+      [
+        "Country",
+        "[[anatarya]]"
+      ],
+      [
+        "Unit type",
+        "Facility protection and response unit"
+      ],
+      [
+        "Call sign",
+        "Sarp"
+      ],
+      [
+        "Armored vehicle",
+        "[[kaya-zma]]"
+      ],
+      [
+        "Transport support",
+        "[[ut7-ilgaz]]"
+      ]
+    ],
+    "sections": [
+      [
+        "Organization and role",
+        "A company tasked with military security and response, protecting critical infrastructure on [[sarpburun]]. It focuses on the mainland connection, personnel safety and maintaining civilian evacuation arrangements during the crisis. The unit is commanded by the national military authorities; membership in [[kuzey-kusagi]] does not automatically place it under pact command."
+      ],
+      [
+        "Aircraft and vehicles",
+        "Armored vehicle: [[kaya-zma]].\n\nTransport support: [[ut7-ilgaz]].\n\nVehicles allocated for support are considered separately from the unit’s core inventory."
+      ],
+      [
+        "GÖKKALE-4 Crisis",
+        "The unit participates in [[anatarya]]’s defense activities during [[kriz]]."
+      ],
+      [
+        "Unit insignia",
+        "The rocky peninsula and watchtower represent the geography the unit protects. The emblem bears the number 4."
+      ]
+    ],
+    "related": [
+      "anatarya",
+      "gokkale-4",
+      "kriz",
+      "kaya-zma",
+      "ut7-ilgaz"
+    ],
+    "imageKey": "patch-sarp-muhafiz",
+    "draft": false
+  },
+  "mizrak": {
+    "title": "41st Mızrak Tactical Squadron",
+    "category": "Units",
+    "desc": "A tactical air squadron of the Elonyan forces.",
+    "lead": "A multirole flying unit of Elonya’s air force. It conducts air missions in the area where the [[aigaion]] group operates. It is a separate organization from the maritime patrol aircraft.",
+    "facts": [
+      [
+        "Country",
+        "[[elonya]]"
+      ],
+      [
+        "Unit type",
+        "Tactical air squadron"
+      ],
+      [
+        "Call sign",
+        "Mızrak"
+      ],
+      [
+        "Principal aircraft",
+        "[[m12-aster]]"
+      ]
+    ],
+    "sections": [
+      [
+        "Organization and role",
+        "A multirole flying unit of Elonya’s air force. It conducts air missions in the area where the [[aigaion]] group operates. It is a separate organization from the maritime patrol aircraft. The unit is commanded by the national military authorities; membership in [[kuzey-kusagi]] does not automatically place it under pact command."
+      ],
+      [
+        "Aircraft and vehicles",
+        "Principal aircraft: [[m12-aster]].\n\nVehicles allocated for support are considered separately from the unit’s core inventory."
+      ],
+      [
+        "GÖKKALE-4 Crisis",
+        "The unit participates in the regional operation of [[elonya]]’s forces during [[kriz]]."
+      ],
+      [
+        "Unit insignia",
+        "A silver spear and swept-back wings symbolize the squadron’s name and flying mission. The number 41 is used."
+      ]
+    ],
+    "related": [
+      "elonya",
+      "gokkale-4",
+      "kriz",
+      "m12-aster"
+    ],
+    "imageKey": "patch-mizrak",
+    "draft": false
+  },
+  "nereus-komando": {
+    "title": "8th Nereus Naval Commando Group",
+    "category": "Units",
+    "desc": "A naval special mission unit of the Elonyan forces.",
+    "lead": "One of Elonya’s special units operating in the maritime environment. It conducts activities such as personnel protection, movement by sea and search-and-rescue support on missions attached to the [[aigaion]] group.",
+    "facts": [
+      [
+        "Country",
+        "[[elonya]]"
+      ],
+      [
+        "Unit type",
+        "Naval special mission unit"
+      ],
+      [
+        "Call sign",
+        "Nereus"
+      ],
+      [
+        "Fast boat",
+        "[[triton-botu]]"
+      ],
+      [
+        "Sea transport",
+        "[[nereus-cikarma]]"
+      ]
+    ],
+    "sections": [
+      [
+        "Organization and role",
+        "One of Elonya’s special units operating in the maritime environment. It conducts activities such as personnel protection, movement by sea and search-and-rescue support on missions attached to the [[aigaion]] group. The unit is commanded by the national military authorities; membership in [[kuzey-kusagi]] does not automatically place it under pact command."
+      ],
+      [
+        "Aircraft and vehicles",
+        "Fast boat: [[triton-botu]].\n\nSea transport: [[nereus-cikarma]].\n\nVehicles allocated for support are considered separately from the unit’s core inventory."
+      ],
+      [
+        "GÖKKALE-4 Crisis",
+        "The unit participates in the regional operation of [[elonya]]’s forces during [[kriz]]."
+      ],
+      [
+        "Unit insignia",
+        "A diving mask and trident symbolize the maritime environment. The number 8 identifies the unit; it is a separate organization from the NEREUS ship."
+      ]
+    ],
+    "related": [
+      "elonya",
+      "gokkale-4",
+      "kriz",
+      "triton-botu",
+      "nereus-cikarma"
+    ],
+    "imageKey": "patch-nereus-komando",
+    "draft": false
+  },
+  "k4-boran": {
+    "title": "K-4 Boran",
+    "category": "Vehicles",
+    "desc": "Hançer squadron’s historic twin-engine interceptor.",
+    "lead": "The K-4 Boran is a two-crew, twin-engine interceptor and tactical mission aircraft of [[anatarya]]’s air force. It was the first principal platform of [[hancer]] squadron, established in 1978. DAGGER 06, which disappeared on 17 November 1994, belongs to this aircraft family.",
+    "facts": [
+      [
+        "Country",
+        "[[anatarya]]"
+      ],
+      [
+        "Role",
+        "Interception and tactical air missions"
+      ],
+      [
+        "Crew",
+        "Pilot and weapons systems officer"
+      ],
+      [
+        "Engine configuration",
+        "Twin jet engines"
+      ],
+      [
+        "Operator",
+        "[[hancer]]"
+      ],
+      [
+        "Service status",
+        "Training and limited duties"
+      ]
+    ],
+    "sections": [
+      [
+        "Entry into service",
+        "Boran was the principal aircraft for air defense around [[sarpburun]] during Hançer squadron’s founding period. In its two-seat cockpit, the pilot handles flight while the weapons systems officer manages the mission systems."
+      ],
+      [
+        "DAGGER 06",
+        "On 17 November 1994, a K-4 using the call sign DAGGER 06 disappeared from radar 11 seconds after its last radio message. Its wreckage was never reached. The incident is recorded in File 94-117 in the [[hancer]] archive."
+      ],
+      [
+        "Transition to the K-16 era",
+        "With the [[k16-alaz]] modernization that began in 2019, the main burden of frontline duties shifted to the new platform. Some K-4s were retained for crew training and limited missions."
+      ]
+    ],
+    "related": [
+      "hancer",
+      "k16-alaz",
+      "sarpburun"
+    ],
+    "imageKey": "air-k4",
+    "draft": false
+  },
+  "kuzey-kipraya": {
+    "title": "North Kipraya Republic",
+    "category": "Countries",
+    "desc": "The administration in northern Kipraya island, recognized only by Anatarya.",
+    "lead": "The North Kipraya Republic is a state governed through separate institutions in the north of [[kipraya-adasi]]. Its independence is recognized only by [[anatarya]]. The government of [[kipraya]] and [[avren-birligi]] regard the north as part of the Republic of Kipraya. Its administrative center is North Kipra.",
+    "facts": [
+      [
+        "Administrative center",
+        "North Kipra"
+      ],
+      [
+        "Government",
+        "Parliamentary republic"
+      ],
+      [
+        "Recognition",
+        "Only [[anatarya]]"
+      ],
+      [
+        "Avren Union",
+        "No separate membership"
+      ],
+      [
+        "KKSP",
+        "Not a member"
+      ],
+      [
+        "Security partner",
+        "[[anatarya]]"
+      ]
+    ],
+    "sections": [
+      [
+        "Establishment and government",
+        "Separate administrative institutions were created in the north after the ceasefire; independence was declared in the subsequent period. The assembly, municipalities and public institutions operate in the northern part. The southern government does not recognize the declaration of independence."
+      ],
+      [
+        "Relations with Anatarya",
+        "Anatarya supports the north’s diplomatic recognition, transport links and security. This relationship does not grant the north KKSP membership; it has no separate representation within the pact."
+      ],
+      [
+        "Society and economy",
+        "Ports on the northern coast, universities, tourism and agriculture are the principal sectors of economic life. The recognition problem limits options for direct trade and transport; connections through Anatarya are important."
+      ],
+      [
+        "Kipra and crossings",
+        "The two administrations in the capital are separated by [[kipraya-tampon-hatti]]. Crossings take place at designated gates with identity checks. Property, the rights of displaced communities and security arrangements are the principal issues in negotiations."
+      ],
+      [
+        "Flag",
+        "The two burgundy bands on a light silver field symbolize the coast and the interior, while the central burgundy diamond represents the northern administration’s shared institutions."
+      ]
+    ],
+    "related": [
+      "kipraya",
+      "kipraya-adasi",
+      "kipraya-tampon-hatti",
+      "anatarya"
+    ],
+    "imageKey": "flag-kuzey-kipraya",
+    "draft": false
+  },
+  "kipraya-adasi": {
+    "title": "Kipraya Island",
+    "category": "Geography",
+    "desc": "An island in the Southern Sea divided between two administrations and a buffer line.",
+    "lead": "Kipraya is an island south of the coast of [[anatarya]] and at the southeastern outlet of [[kalyon-denizi]]. [[kipraya]] administers its southern part and [[kuzey-kipraya]] its northern part. The [[kipraya-tampon-hatti]] between the two administrations also runs through the capital, Kipra.",
+    "facts": [
+      [
+        "Location",
+        "Southern Sea"
+      ],
+      [
+        "Southern administration",
+        "[[kipraya]]"
+      ],
+      [
+        "Northern administration",
+        "[[kuzey-kipraya]]"
+      ],
+      [
+        "Divided city",
+        "Kipra"
+      ],
+      [
+        "Dividing line",
+        "[[kipraya-tampon-hatti]]"
+      ]
+    ],
+    "sections": [
+      [
+        "Physical geography",
+        "The long eastern cape, northern coastal ridges and broad southern plains are the island’s principal geographic features. Basins between the inland uplands provide areas for agriculture and settlement."
+      ],
+      [
+        "Political geography",
+        "The ceasefire line is not an ordinary border between two internationally recognized states. While the southern government is recognized across the island, the northern administration is recognized only by Anatarya. The colors on the map show areas of de facto administration."
+      ],
+      [
+        "Regional importance",
+        "The island occupies a position overlooking the sea routes opening southward from Kalyon. Tensions between Anatarya and Elonya directly affect the island’s security politics, trade and reunification talks."
+      ]
+    ],
+    "related": [
+      "kipraya",
+      "kuzey-kipraya",
+      "kipraya-tampon-hatti",
+      "kalyon-denizi"
+    ],
+    "imageKey": "",
+    "draft": false
+  },
+  "kipraya-tampon-hatti": {
+    "title": "Kipraya Buffer Line",
+    "category": "Geography",
+    "desc": "The monitoring zone separating the northern and southern administrations.",
+    "lead": "The Kipraya Buffer Line is a monitoring zone established to preserve the ceasefire arrangements on [[kipraya-adasi]]. It extends between [[kipraya]] and [[kuzey-kipraya]] and divides the city of Kipra in two. The line is monitored by the neutral Ceasefire Observation Mission.",
+    "facts": [
+      [
+        "Location",
+        "[[kipraya-adasi]]"
+      ],
+      [
+        "Status",
+        "Ceasefire and monitoring zone"
+      ],
+      [
+        "Monitoring",
+        "Ceasefire Observation Mission"
+      ],
+      [
+        "Crossings",
+        "Designated checkpoints"
+      ]
+    ],
+    "sections": [
+      [
+        "Ceasefire arrangements",
+        "The parties’ military movements are restricted along the line. The observation mission records violations and maintains communication when direct contact between the two administrations is interrupted."
+      ],
+      [
+        "Daily life",
+        "Some streets and older settlement areas in Kipra lie within the line. People cross through designated gates, while property use, maintenance work and agricultural activities are subject to special arrangements."
+      ],
+      [
+        "Diplomatic status",
+        "The buffer zone does not signify recognition of the northern administration’s independence. It preserves the ceasefire while negotiations over a final political settlement continue."
+      ]
+    ],
+    "related": [
+      "kipraya-adasi",
+      "kipraya",
+      "kuzey-kipraya"
+    ],
+    "imageKey": "",
+    "draft": false
+  },
+  "kuzey-isaret": {
+    "title": "6th Northern Signals Battalion",
+    "category": "Units",
+    "desc": "Anatarya’s Sarpburun communications and early warning unit.",
+    "lead": "The 6th Northern Signals Battalion combines radar data, radio traffic and civil warnings for [[anatarya]] forces on the [[sarpburun]] peninsula. It provides a common operational picture for forces protecting [[gokkale-4]].",
+    "facts": [
+      [
+        "Country",
+        "[[anatarya]]"
+      ],
+      [
+        "Unit type",
+        "Signals and early warning"
+      ],
+      [
+        "Station",
+        "[[sarpburun]]"
+      ],
+      [
+        "Coordination",
+        "[[hancer]] · [[sarp-muhafiz]]"
+      ]
+    ],
+    "sections": [
+      [
+        "Formation",
+        "Older coastal observation posts and mobile communications teams from the interior were brought under one battalion. Civilian lines at the launch complex remain separate from the military network."
+      ],
+      [
+        "Role in the crisis",
+        "During [[kriz]] it supplied air tracks to [[hancer]] and coordinated evacuation routes with [[sarp-muhafiz]]. Comparing the times and frequencies in the forged [[sarpburun-dosyasi]] against battalion logs revealed discrepancies."
+      ],
+      [
+        "Doctrine",
+        "The battalion distributes verified information rather than issuing orders. When coastal lines fail, portable relays and the [[gozcu-3]] data feed are assessed through separate channels."
+      ]
+    ],
+    "related": [
+      "anatarya",
+      "hancer",
+      "sarp-muhafiz",
+      "gokkale-4",
+      "gozcu-3",
+      "kriz"
+    ],
+    "imageKey": "patch-kuzey-isaret",
+    "draft": false
+  },
+  "doruk-ikmal": {
+    "title": "18th Doruk Logistics Regiment",
+    "category": "Units",
+    "desc": "Anatarya’s supply unit for the peninsula road corridor.",
+    "lead": "The 18th Doruk Logistics Regiment manages fuel, medical supplies and maintenance shipments from the [[anatarya]] interior to the passes of [[sarpburun]]. Its network helps sustain [[gokkale-4]].",
+    "facts": [
+      [
+        "Country",
+        "[[anatarya]]"
+      ],
+      [
+        "Unit type",
+        "Logistics regiment"
+      ],
+      [
+        "Operational area",
+        "Arkent–Sarpburun corridor"
+      ],
+      [
+        "Vehicle support",
+        "[[kaya-zma]]"
+      ]
+    ],
+    "sections": [
+      [
+        "Formation",
+        "Seasonal closures of mountain passes made it necessary to coordinate scattered depots through one transport center. Military cargo and civilian emergency aid receive separate road windows."
+      ],
+      [
+        "Role in the crisis",
+        "As [[kriz]] began, bridges along the main route were secured. The regiment supported movement of [[sarp-muhafiz]] personnel; [[kaya-zma]] vehicles were assigned according to convoy security needs. Launch preparation cargo was recorded separately from other supplies."
+      ],
+      [
+        "Limits",
+        "The regiment is not a combat unit; escorts assigned to its convoys retain their own chain of command."
+      ]
+    ],
+    "related": [
+      "anatarya",
+      "sarpburun",
+      "gokkale-4",
+      "sarp-muhafiz",
+      "kaya-zma"
+    ],
+    "imageKey": "patch-doruk-ikmal",
+    "draft": false
+  },
+  "pelagos-devriye": {
+    "title": "3rd Pelagos Maritime Patrol Squadron",
+    "category": "Units",
+    "desc": "Elonya’s maritime surveillance squadron in the Kalyon Sea.",
+    "lead": "The 3rd Pelagos Maritime Patrol Squadron monitors traffic between the [[elonya]] coast and the [[kalyon-adalari]] with [[p8-pelagos]] aircraft. It has a separate command and mission structure from the [[mizrak]] combat squadron.",
+    "facts": [
+      [
+        "Country",
+        "[[elonya]]"
+      ],
+      [
+        "Unit type",
+        "Maritime patrol squadron"
+      ],
+      [
+        "Principal aircraft",
+        "[[p8-pelagos]]"
+      ],
+      [
+        "Coordination",
+        "[[aigaion]]"
+      ]
+    ],
+    "sections": [
+      [
+        "Formation",
+        "The squadron developed from coastal flights serving fisheries enforcement and search and rescue, later adding military surveillance. In peacetime it passes location reports to civilian rescue centers."
+      ],
+      [
+        "Role in the crisis",
+        "During [[kriz]] it monitored maritime traffic east of the [[aigaion]] group. Its air and sea tracks helped the [[ucaksavar]] battalion avoid misclassifying civilian flights. Patrol aircraft were not tasked with verifying the [[sarpburun-dosyasi]] cited in the war declaration."
+      ],
+      [
+        "Aircraft and procedures",
+        "[[p8-pelagos]] serves long endurance maritime observation; the squadron does not undertake interception duties like [[mizrak]]."
+      ]
+    ],
+    "related": [
+      "elonya",
+      "p8-pelagos",
+      "mizrak",
+      "aigaion",
+      "ucaksavar",
+      "kriz"
+    ],
+    "imageKey": "patch-pelagos-devriye",
+    "draft": false
+  },
+  "demir-iz": {
+    "title": "27th Demir İz Mechanized Infantry Regiment",
+    "category": "Units",
+    "desc": "Anatarya’s mechanized regiment defending the land approaches to Sarpburun.",
+    "lead": "The 27th Demir İz Mechanized Infantry Regiment is an [[anatarya]] Army maneuver unit stationed at the land passes leading onto the [[sarpburun]] peninsula. It operates [[kaya-zma]] vehicles under a command separate from the [[sarp-muhafiz]] company responsible for security inside [[gokkale-4]].",
+    "facts": [
+      [
+        "Country",
+        "[[anatarya]]"
+      ],
+      [
+        "Unit type",
+        "Mechanized infantry regiment"
+      ],
+      [
+        "Founded",
+        "1986"
+      ],
+      [
+        "Station",
+        "Sarpburun land passes"
+      ],
+      [
+        "Principal vehicle",
+        "[[kaya-zma]]"
+      ],
+      [
+        "Supply",
+        "[[doruk-ikmal]]"
+      ]
+    ],
+    "sections": [
+      [
+        "History and organization",
+        "Founded in 1986 to protect the peninsula’s connection to the interior, the regiment transitioned from infantry battalions to a mechanized organization as roads expanded and [[kaya-zma]] vehicles entered service. Its reconnaissance, infantry and maintenance elements operate as separate battalions."
+      ],
+      [
+        "Defensive mission",
+        "The regiment is not stationed inside the coastal launch site. It defends mountain passes and bridges against a land threat while keeping civilian exit routes open. It escorts [[doruk-ikmal]] convoys but does not command the logistics regiment. It receives verified reports from [[kuzey-isaret]]."
+      ],
+      [
+        "GÖKKALE-4 Crisis",
+        "During [[kriz]] it monitored both land routes onto the peninsula. As planners assessed possible [[elonya]] airborne movements, the regiment dispersed vehicles near bridge approaches in stages without halting civilian traffic. No engagement with [[iris-indirme]] is documented."
+      ],
+      [
+        "Unit insignia",
+        "Two peaks represent the mountain passes above a mechanized vehicle track. The number 27 identifies the regiment."
+      ]
+    ],
+    "related": [
+      "anatarya",
+      "sarpburun",
+      "kaya-zma",
+      "doruk-ikmal",
+      "kuzey-isaret",
+      "sarp-muhafiz",
+      "kriz",
+      "iris-indirme"
+    ],
+    "imageKey": "patch-demir-iz",
+    "draft": false
+  },
+  "iris-indirme": {
+    "title": "9th Iris Airborne Brigade",
+    "category": "Units",
+    "desc": "Elonya’s airborne brigade assigned to the island chain.",
+    "lead": "The 9th Iris Airborne Brigade is a rapidly deployable unit of the [[elonya]] Army. Its mission area covers the western [[kalyon-adalari]] and airfields on the Elonyan mainland. It is organizationally separate from the [[nereus-komando]] naval units serving with the [[aigaion]] group.",
+    "facts": [
+      [
+        "Country",
+        "[[elonya]]"
+      ],
+      [
+        "Unit type",
+        "Airborne brigade"
+      ],
+      [
+        "Founded",
+        "1991"
+      ],
+      [
+        "Operational area",
+        "Western [[kalyon-adalari]]"
+      ],
+      [
+        "Air support",
+        "[[mizrak]]"
+      ],
+      [
+        "Naval coordination",
+        "[[aigaion]]"
+      ]
+    ],
+    "sections": [
+      [
+        "Formation and training",
+        "Founded in 1991 to reinforce island garrisons quickly, the brigade comprises parachute battalions, light reconnaissance elements and a medical company. It lacks heavy armored vehicles and depends on outside supply for prolonged land operations."
+      ],
+      [
+        "Island operations doctrine",
+        "An airborne movement is planned either as a landing at a secured airfield or by parachute. Flight corridors are coordinated with the [[ucaksavar]] radar network and the [[mizrak]] squadron. [[pelagos-devriye]] supplies information on maritime traffic but is not subordinate to the brigade."
+      ],
+      [
+        "GÖKKALE-4 Crisis",
+        "Following publication of the [[sarpburun-dosyasi]], the brigade went on alert along the western islands. One battalion remained in reserve at mainland airfields while other elements protected island runways. No airborne operation over [[sarpburun]] is recorded; a readiness order did not itself constitute execution of a war plan."
+      ],
+      [
+        "Unit insignia",
+        "An open parachute canopy and outstretched wings represent the airborne mission; the number 9 identifies the brigade."
+      ]
+    ],
+    "related": [
+      "elonya",
+      "kalyon-adalari",
+      "ucaksavar",
+      "mizrak",
+      "pelagos-devriye",
+      "aigaion",
+      "nereus-komando",
+      "kriz",
+      "demir-iz"
+    ],
+    "imageKey": "patch-iris-indirme",
+    "draft": false
+  }
+}
+;
