@@ -1090,10 +1090,10 @@
                           "draft":  false
                       },
     "veloria":  {
-                    "title":  "Veloria Federasyonu",
+                    "title":  "Velarya Federasyonu",
                     "category":  "Ülkeler",
                     "desc":  "Kuzeybatı Avren üzerinde yer alan bölgesel devlet.",
-                    "lead":  "Veloria Federasyonu, kuzeybatı Avren üzerinde yer alan, başkenti Veler olan bir devlettir. Geniş kuzeybatı kıyıları ve iç sanayi havzaları üzerinde gelişmiş bir federasyondur. Liman kentleri, finans merkezleri ve ileri imalat bölgeleri ülkenin ekonomik omurgasını oluşturur. [[kuzey-kusagi]] ve [[avren-birligi]] üyesidir.",
+                    "lead":  "Velarya Federasyonu, kuzeybatı Avren üzerinde yer alan, başkenti Veler olan bir devlettir. Geniş kuzeybatı kıyıları ve iç sanayi havzaları üzerinde gelişmiş bir federasyondur. Liman kentleri, finans merkezleri ve ileri imalat bölgeleri ülkenin ekonomik omurgasını oluşturur. [[kuzey-kusagi]] ve [[avren-birligi]] üyesidir.",
                     "facts":  [
                                   [
                                       "Başkent",
@@ -1123,7 +1123,7 @@
                                      ],
                                      [
                                          "Tarih ve yönetim",
-                                         "Veloria, bölgesel krallıkların ortak bir federal meclis altında birleşmesiyle kurulmuştur. İki büyük kıtasal ticaret krizinin ardından eyaletler arası altyapı ve ortak dış politika yetkileri genişletilmiştir."
+                                         "Velarya, bölgesel krallıkların ortak bir federal meclis altında birleşmesiyle kurulmuştur. İki büyük kıtasal ticaret krizinin ardından eyaletler arası altyapı ve ortak dış politika yetkileri genişletilmiştir."
                                      ],
                                      [
                                          "Ekonomi ve toplum",
@@ -1131,7 +1131,7 @@
                                      ],
                                      [
                                          "GÖKKALE-4 Krizi",
-                                         "Veloria, dosyanın kaynağı bağımsız olarak doğrulanmadan ortak askerî harekâta onay verilmemesini savunmuştur. Bu tutum Elonya’nın iddialarını doğruladığı anlamına gelmez; hükûmet aynı zamanda saldırının durdurulmasını istemiştir. [[sarpburun-dosyasi]] ve [[kriz]], ülkenin dış politikasındaki başlıca gündem maddeleridir."
+                                         "Velarya, dosyanın kaynağı bağımsız olarak doğrulanmadan ortak askerî harekâta onay verilmemesini savunmuştur. Bu tutum Elonya’nın iddialarını doğruladığı anlamına gelmez; hükûmet aynı zamanda saldırının durdurulmasını istemiştir. [[sarpburun-dosyasi]] ve [[kriz]], ülkenin dış politikasındaki başlıca gündem maddeleridir."
                                      ],
                                      [
                                          "Bayrak",
@@ -2480,59 +2480,6 @@
                          "imageKey":  "patch-iris-indirme",
                          "draft":  false
                      },
-    "lerya-deniz-ussu":  {
-                             "title":  "Lerya Deniz Üssü",
-                             "category":  "Tesisler",
-                             "desc":  "Elonya Deniz Kuvvetleri\u0027nin ana üssü ve AIGAION grubunun harekât limanı.",
-                             "lead":  "Lerya Deniz Üssü, [[elonya]] ana karasındaki Lerya Körfezi kıyısında kurulu, ülkenin en büyük deniz ve lojistik üssüdür. [[aigaion]] Görev Grubu\u0027nun ana konuşlanma yeri olan tesis; kuru havuzlar, mühimmat ikmal depoları ve deniz komandosu eğitim alanlarına sahiptir. [[kriz]] sırasında bölgeye sevk edilen firkateynler ve ikmal gemileri bu limandan hareket etmiştir.",
-                             "facts":  [
-                                           [
-                                               "Tesis türü",
-                                               "Deniz üssü ve ikmal limanı"
-                                           ],
-                                           [
-                                               "Bağlı ülke",
-                                               "[[elonya]]"
-                                           ],
-                                           [
-                                               "Konum",
-                                               "Lerya Körfezi"
-                                           ],
-                                           [
-                                               "Önemli unsurlar",
-                                               "[[aigaion]] · [[nereus-komando]]"
-                                           ],
-                                           [
-                                               "Hava savunması",
-                                               "[[ucaksavar]]"
-                                           ]
-                                       ],
-                             "sections":  [
-                                              [
-                                                  "Üs altyapısı",
-                                                  "Üs; firkateyn ve çıkarma gemilerinin yanaşabildiği derin su rıhtımları, yakıt dolum tesisleri ve güçlendirilmiş mühimmat sığınaklarından oluşur. [[kallisto-ikmal]] gemisinin sefer hazırlıkları ve ikmal yüklemeleri burada yapılmıştır. Tesisin iç kesiminde [[nereus-komando]] birliğine tahsis edilmiş özel eğitim parkuru ve hücumbot barınakları yer alır."
-                                              ],
-                                              [
-                                                  "Kıyı ve hava güvenliği",
-                                                  "Lerya Körfezi çevresindeki hava sahası güvenliği, [[ucaksavar]] taburu bataryaları tarafından sağlanır. Körfez girişindeki radar istasyonları ve kıyı gözetleme kuleleri üssü korur. [[pelagos-devriye]] filosu da körfez dışındaki deniz yollarında düzenli uçuşlar gerçekleştirir."
-                                              ],
-                                              [
-                                                  "GÖKKALE-4 Krizindeki rolü",
-                                                  "Savaş ilanının ardından AIGAION grubu bu üsten demir alarak [[sarpburun]] açıklarına hareket etmiştir. Kriz süresince tesis, lojistik destek ve sıhhi tahliye noktası olarak teyakkuz hâlinde tutulmuştur."
-                                              ]
-                                          ],
-                             "related":  [
-                                             "elonya",
-                                             "aigaion",
-                                             "ucaksavar",
-                                             "kallisto-ikmal",
-                                             "nereus-komando",
-                                             "kalyon-denizi",
-                                             "kriz"
-                                         ],
-                             "imageKey":  "",
-                             "draft":  false
-                         },
     "sarpburun-radar-istasyonu":  {
                                       "title":  "Sarpburun Radar İstasyonu",
                                       "category":  "Tesisler",
@@ -2703,5 +2650,1094 @@
                                      ],
                          "imageKey":  "",
                          "draft":  false
-                     }
+                     },
+    "ostenya":  {
+                    "title":  "Ostenya Birleşik Devletleri",
+                    "category":  "Ülkeler",
+                    "desc":  "Okyanus ötesi küresel askerî ve ekonomik süper güç; ARGUS uydu ağının işleticisi.",
+                    "lead":  "Ostenya Birleşik Devletleri (OBD), Avren kıtasının batısındaki devasa okyanus ötesi anakarada kurulu, dünyanın önde gelen askerî, teknolojik ve finansal süper gücüdür. Küresel serbest piyasa düzeninin ve ileri havacılık standartlarının öncüsü olan Ostenya, geniş nükleer süper uçak gemisi filoları ve ARGUS küresel uydu konumlandırma ağı ile dünya denizlerinde ve yörüngesinde mutlak hakimiyet kurmuştur. [[elonya]] ile yakın stratejik ittifaka sahip olan ülke, [[kriz]] sırasında Kalyon Denizi\u0027nde \u0027seyrüsefer serbestisi devriyesi\u0027 ilan ederek bölgeye nükleer denizaltı ve füze kruvazörleri sevk etmiştir.",
+                    "facts":  [
+                                  [
+                                      "Devlet yapısı",
+                                      "Federal başkanlık cumhuriyeti"
+                                  ],
+                                  [
+                                      "Başkent",
+                                      "Port Sterling"
+                                  ],
+                                  [
+                                      "Küresel rol",
+                                      "Askerî ve ekonomik süper güç"
+                                  ],
+                                  [
+                                      "Bölgesel ortak",
+                                      "[[elonya]] · [[kuzey-kusagi]]"
+                                  ],
+                                  [
+                                      "Önemli sistemler",
+                                      "ARGUS Küresel Konumlandırma Ağı · 7. Okyanus Filosu"
+                                  ]
+                              ],
+                    "sections":  [
+                                     [
+                                         "Küresel doktrin ve donanma gücü",
+                                         "Ostenya güvenlik stratejisi, dünya deniz ticaret yollarının ve stratejik boğazların açık tutulmasına dayanır. Ülkenin \u0027Demir Kubbe Havacılık\u0027 ve \u0027General Dynamics-Osten\u0027 gibi dev savunma kartelleri, dünya çapında standart kabul edilen beşinci nesil hayalet uçakları ve hassas vuruş mühimmatlarını ihraç eder."
+                                     ],
+                                     [
+                                         "GÖKKALE-4 Krizindeki tutumu",
+                                         "Anatarya\u0027nın [[sarpburun]] tesislerinde bağımsız bir uydu ağı kurma girişimi, Ostenya tarafından \u0027bölgesel hava sahası dengesini ve müttefiki Elonya\u0027nın güvenliğini tehdit eden kontrolsüz bir hamle\u0027 olarak nitelendirilmiştir. Ostenya Dışişleri Bakanlığı savaş ilanına doğrudan katılmasa da, Elonya donanmasına uydu istihbaratı ve elektronik harp desteği aktarmıştır."
+                                     ]
+                                 ],
+                    "related":  [
+                                    "elonya",
+                                    "aigaion",
+                                    "ursya",
+                                    "huaxia",
+                                    "gokkale-4",
+                                    "kriz"
+                                ],
+                    "imageKey":  "",
+                    "draft":  false
+                },
+    "ursya":  {
+                  "title":  "Ursya Federasyonu",
+                  "category":  "Ülkeler",
+                  "desc":  "Kuzey kıtasının devasa yüzölçümlü, ağır sanayi ve nükleer süper gücü.",
+                  "lead":  "Ursya Federasyonu, Avren\u0027in kuzeydoğusundaki sonsuz tundralar ve sıradağlar boyunca uzanan, dünyanın en büyük yüzölçümüne ve devasa enerji rezervlerine sahip kıtasal süper gücüdür. Ağır makine, roket itki sistemleri ve nükleer cephaneliğiyle bilinen federasyon; [[anatarya]] ile tarihsel olarak dengeli askerî ve teknik iş birlikleri yürütmüştür. Anatarya\u0027nın emektar [[k4-boran]] uçaklarının ve fırlatma roketlerinin ilk itki teknolojileri Ursya lisanslarına dayanır.",
+                  "facts":  [
+                                [
+                                    "Devlet yapısı",
+                                    "Federal yarı-başkanlık cumhuriyeti"
+                                ],
+                                [
+                                    "Başkent",
+                                    "Severograd"
+                                ],
+                                [
+                                    "Küresel rol",
+                                    "Kıtasal süper güç ve enerji devi"
+                                ],
+                                [
+                                    "Askerî tedarik",
+                                    "K-4 Boran motor lisansı · Ağır roket itkisi"
+                                ],
+                                [
+                                    "Doktrin",
+                                    "Stratejik derinlik ve çok kutuplu denge"
+                                ]
+                            ],
+                  "sections":  [
+                                   [
+                                       "Sanayi ve havacılık altyapısı",
+                                       "Ursya havacılık ekolü, zorlu kış şartlarında bile çalışan yüksek dayanımlı motorlar ve ağır hava savunma füzeleri üzerine inşa edilmiştir. \u0027Sever-Aviatsiya\u0027 ve \u0027Ural-Mash\u0027 devlet tröstleri, küresel çaptaki en güçlü roket motorlarını üretir."
+                                   ],
+                                   [
+                                       "GÖKKALE-4 krizindeki jeopolitik rolü",
+                                       "Ursya, Ostenya ve Elonya\u0027nın Kalyon Denizi\u0027ndeki ortak tatbikatlarını kendi güney sınırlarına yönelik bir kuşatma olarak değerlendirir. Bu nedenle Anatarya\u0027nın Sarpburun\u0027daki yerli uzay ve savunma hamlelerine örtülü elektronik yedekleme ve radar komponentleri sağlayarak Ostenya blokuna karşı denge unsuru oluşturmuştur."
+                                   ]
+                               ],
+                  "related":  [
+                                  "anatarya",
+                                  "k4-boran",
+                                  "hancer",
+                                  "ostenya",
+                                  "gokkale-4",
+                                  "kriz"
+                              ],
+                  "imageKey":  "",
+                  "draft":  false
+              },
+    "huaxia":  {
+                   "title":  "Huaxia Halk Cumhuriyeti",
+                   "category":  "Ülkeler",
+                   "desc":  "Doğu kıtasının üretim, ileri mikroelektronik ve uzay sanayii devi.",
+                   "lead":  "Huaxia Halk Cumhuriyeti, doğunun devasa nüfuslu, dünyanın fabrikası konumundaki üretim ve ileri teknoloji süper gücüdür. Dünyanın en gelişmiş mikroçip dökümhaneleri, nadir toprak elementleri işleme tesisleri ve kuantum haberleşme laboratuvarlarına ev sahipliği yapar. [[gokkale-4]] uydusunda kullanılan yüksek yoğunluklu fotovoltaik güneş panelleri ve hassas optik prizmaların önemli bir bölümü Huaxia üreticilerinden tedarik edilmiştir.",
+                   "facts":  [
+                                 [
+                                     "Devlet yapısı",
+                                     "Üniter tek partili halk cumhuriyeti"
+                                 ],
+                                 [
+                                     "Başkent",
+                                     "Tiandu"
+                                 ],
+                                 [
+                                     "Küresel rol",
+                                     "Küresel üretim ve mikroelektronik devi"
+                                 ],
+                                 [
+                                     "Teknoloji payı",
+                                     "GÖKKALE-4 güneş panelleri ve sensörleri"
+                                 ],
+                                 [
+                                     "Dış politika",
+                                     "Ticari tarafsızlık ve Kuşak İpek Yolu"
+                                 ]
+                             ],
+                   "sections":  [
+                                    [
+                                        "Mikroçip ve uzay tekel gücü",
+                                        "Huaxia, dünya mikroelektronik tedarik zincirinin merkezinde oturur. Hem Anatarya hem de Elonya sanayisi, radar çiplerinden uydu yönlendiricilerine kadar Huaxia\u0027nın yarı iletken ürünlerine yapısal olarak bağımlıdır."
+                                    ],
+                                    [
+                                        "Krizde pragmatik denge",
+                                        "Kalyon Denizi\u0027ndeki çatışma riski karşısında Huaxia, taraflara \u0027itidal ve ticari deniz yollarının açık kalması\u0027 çağrısında bulunmuş, resmî tarafsızlığını korurken her iki ülkeye de çift kullanımlı (dual-use) sivil-askerî telekomünikasyon yedek parçaları satmayı sürdürmüştür."
+                                    ]
+                                ],
+                   "related":  [
+                                   "anatarya",
+                                   "elonya",
+                                   "gokkale-4",
+                                   "ostenya",
+                                   "ursya",
+                                   "kriz"
+                               ],
+                   "imageKey":  "",
+                   "draft":  false
+               },
+    "anasas":  {
+                   "title":  "ANASAŞ",
+                   "category":  "Kurumlar",
+                   "desc":  "Anatarya Askerî Savunma ve Havacılık Sanayii Anonim Şirketi; milli havacılık devi.",
+                   "lead":  "ANASAŞ (Anatarya Askerî Savunma ve Havacılık Sanayii A.Ş.), [[anatarya]] devletinin gökyüzündeki bağımsızlık stratejisinin omurgasını oluşturan en büyük havacılık ve uzay şirketidir. 1970\u0027li yıllardaki yabancı ambargoların ardından kurulan kurum; [[k21-kaan]] 5. nesil milli muharip uçağının ana tasarımcısı ve üreticisidir. Ayrıca [[simsek-iii]] fırlatma roketinin gövde entegrasyonu ve [[gokkale-4]] uydu platformunun ana yükleniciliğini yürütmektedir.",
+                   "facts":  [
+                                 [
+                                     "Kuruluş yılı",
+                                     "1975"
+                                 ],
+                                 [
+                                     "Genel Merkez",
+                                     "Arkent Havacılık Vadisi"
+                                 ],
+                                 [
+                                     "Bağlı ülke",
+                                     "[[anatarya]]"
+                                 ],
+                                 [
+                                     "Ana projeler",
+                                     "[[k21-kaan]] · [[simsek-iii]] · [[gokkale-4]]"
+                                 ],
+                                 [
+                                     "Stratejik ortaklar",
+                                     "[[sarpsan]] · [[korsan]] · [[baykut]]"
+                                 ]
+                             ],
+                   "sections":  [
+                                    [
+                                        "Tarihçe ve yerlileşme",
+                                        "Yabancı ülkelerin yedek parça ambargolarıyla başlayan krizler, Anatarya\u0027yı kendi uçak gövdesini ve yapısal parçalarını üretmeye mecbur bıraktı. ANASAŞ, lisanslı montaj faaliyetlerinden zamanla özgün tasarım ve kompozit gövde üretimine geçti."
+                                    ],
+                                    [
+                                        "Milli Muharip Uçak ve Uzay hamlesi",
+                                        "2020\u0027li yıllarda başlatılan K-21 programı ile kurum, dünyada beşinci nesil hayalet uçak üretebilen seçkin havacılık devleri arasına girdi. Sarpburun\u0027daki fırlatma rampalarının yapısal tasarımı da kurumun Uzay Sistemleri Direktörlüğü tarafından tamamlandı."
+                                    ]
+                                ],
+                   "related":  [
+                                   "anatarya",
+                                   "k21-kaan",
+                                   "gokkale-4",
+                                   "simsek-iii",
+                                   "sarpsan",
+                                   "korsan"
+                               ],
+                   "imageKey":  "",
+                   "draft":  false
+               },
+    "baykut":  {
+                   "title":  "BAYKUT Savunma",
+                   "category":  "Kurumlar",
+                   "desc":  "Anatarya’nın otonom İHA, SİHA ve yapay zekâlı hava sistemleri öncüsü.",
+                   "lead":  "BAYKUT Savunma ve İleri Teknoloji A.Ş., [[anatarya]] merkezli, dünyaca ünlü silahlı insansız hava araçları (SİHA) ve otonom harp doktrinleri geliştiren özel savunma sanayii devidir. Tamamen öz sermayeyle kurulan şirket, geliştirdiği [[bayrak-t2]] taktik SİHA, çift motorlu [[akin-3]] taarruzi İHA ve insansız hayalet jet savaş uçağı [[al-elma]] ile küresel insansız hava aracı pazarında devrim yaratmıştır.",
+                   "facts":  [
+                                 [
+                                     "Kuruluş yılı",
+                                     "1988"
+                                 ],
+                                 [
+                                     "Genel Merkez",
+                                     "Arkent Otonom Sistemler Kampüsü"
+                                 ],
+                                 [
+                                     "Bağlı ülke",
+                                     "[[anatarya]]"
+                                 ],
+                                 [
+                                     "İmza platformlar",
+                                     "[[bayrak-t2]] · [[akin-3]] · [[al-elma]]"
+                                 ],
+                                 [
+                                     "Uzmanlık",
+                                     "Otonom uçuş · Yapay zekâ · Sürü harekâtı"
+                                 ]
+                             ],
+                   "sections":  [
+                                    [
+                                        "Sıra dışı büyüme ve doktrin devrimi",
+                                        "BAYKUT, büyük devlet bürokrasilerinden bağımsız, çevik mühendislik anlayışıyla küçük keşif dronelarından başlayarak stratejik taarruz jetlerine uzanan bir ürün yelpazesi geliştirdi. Uçuş algoritmaları ve görev bilgisayarlarını kendi bünyesinde yazarak yabancı yazılım bağımlılığını sıfırladı."
+                                    ],
+                                    [
+                                        "GÖKKALE-4 Krizinde sahadaki güç",
+                                        "Kalyon Denizi ablukası sırasında Elonya donanmasının anlık hareketleri, günlerce havada kalan BAYRAK-T2 filoları tarafından tespit edilerek [[kuzey-isaret]] ve hava savunma birliklerine anlık hedef olarak aktarılmıştır."
+                                    ]
+                                ],
+                   "related":  [
+                                   "anatarya",
+                                   "bayrak-t2",
+                                   "akin-3",
+                                   "al-elma",
+                                   "k21-kaan",
+                                   "kriz"
+                               ],
+                   "imageKey":  "",
+                   "draft":  false
+               },
+    "sarpsan":  {
+                    "title":  "SARPSAN",
+                    "category":  "Kurumlar",
+                    "desc":  "Askerî radar, elektronik harp ve elektro-optik hedefleme sistemleri mimarı.",
+                    "lead":  "SARPSAN (Sarpburun Savunma Elektroniği Sanayii), [[anatarya]] Silahlı Kuvvetlerinin haberleşme, radar, elektronik harp ve sensör beyni olan yüksek teknoloji kuruluşudur. [[sarpburun-radar-istasyonu]] bünyesindeki dijital faz dizili erken ihbar radarlarını, [[k21-kaan]] uçağının AESA burun radarını ve İHA\u0027ların lazer hedefleme podlarını milli olarak geliştiren merkezdir.",
+                    "facts":  [
+                                  [
+                                      "Kuruluş yılı",
+                                      "1976"
+                                  ],
+                                  [
+                                      "Genel Merkez",
+                                      "Arkent Elektronik ve Radar Tesisleri"
+                                  ],
+                                  [
+                                      "Bağlı ülke",
+                                      "[[anatarya]]"
+                                  ],
+                                  [
+                                      "Ana alanlar",
+                                      "AESA Radar · Elektronik Harp · Elektro-optik · Kripto"
+                                  ],
+                                  [
+                                      "Donattığı sistemler",
+                                      "[[sarpburun-radar-istasyonu]] · [[kalkan-hss]] · [[k21-kaan]]"
+                                  ]
+                              ],
+                    "sections":  [
+                                     [
+                                         "Radar ve Karıştırma Teknolojileri",
+                                         "Kurum, Elonya donanmasının AIGAION firkateynindeki radar karıştırma girişimlerini savuşturabilen yerli frekans atlamalı yazılımlar üretmiştir."
+                                     ],
+                                     [
+                                         "Dosya 94-117 ve Sinyal Analizi",
+                                         "2036 yılında DAGGER 06\u0027nın 243.0 MHz frekansından alınan gizemli sinyalin spektral ayrıştırması, SARPSAN laboratuvarlarındaki sayısal sinyal işlemcileri tarafından gerçekleştirilmiştir."
+                                     ]
+                                 ],
+                    "related":  [
+                                    "anatarya",
+                                    "sarpburun-radar-istasyonu",
+                                    "kalkan-hss",
+                                    "k21-kaan",
+                                    "dosya-94-117"
+                                ],
+                    "imageKey":  "",
+                    "draft":  false
+                },
+    "korsan":  {
+                   "title":  "KOR-SAN",
+                   "category":  "Kurumlar",
+                   "desc":  "Roket motorları, hassas güdümlü füzeler ve hava savunma mühimmatları üreticisi.",
+                   "lead":  "KOR-SAN (Kor Mühimmat ve Roket Sistemleri Sanayii), [[anatarya]] ordusunun roket itki ve füze mühimmatı tedarikçisidir. [[kalkan-hss]] bataryalarının füzelerini, [[simsek-iii]] fırlatıcılarının katı yakıtlı kademe motorlarını ve [[bayrak-t2]] ile [[akin-3]] İHA\u0027larının lazer güdümlü mühimmatlarını tasarlayıp seri üretime almıştır.",
+                   "facts":  [
+                                 [
+                                     "Kuruluş yılı",
+                                     "1984"
+                                 ],
+                                 [
+                                     "Genel Merkez",
+                                     "Arkent Mühimmat ve Roket Kompleksi"
+                                 ],
+                                 [
+                                     "Bağlı ülke",
+                                     "[[anatarya]]"
+                                 ],
+                                 [
+                                     "Ürün aileleri",
+                                     "Kalkan HSS füzeleri · MAM akıllı mühimmatlar · Roket kademeleri"
+                                 ],
+                                 [
+                                     "Krizdeki rolü",
+                                     "Kıyı füze bataryalarının anlık mühimmat ikmali"
+                                 ]
+                             ],
+                   "sections":  [
+                                    [
+                                        "Katı yakıtlı itki atılımı",
+                                        "Roket motorlarında dışa bağımlılığı kıran KOR-SAN, geliştirdiği kompozit katı yakıt formülleriyle Sarpburun\u0027daki uzay fırlatma programına doğrudan itki gücü sağlamıştır."
+                                    ]
+                                ],
+                   "related":  [
+                                   "anatarya",
+                                   "kalkan-hss",
+                                   "simsek-iii",
+                                   "gokkale-4",
+                                   "bayrak-t2"
+                               ],
+                   "imageKey":  "",
+                   "draft":  false
+               },
+    "k21-kaan":  {
+                     "title":  "K-21 KAAN",
+                     "category":  "Araçlar",
+                     "desc":  "Anatarya’nın çift motorlu, düşük radar kesitli 5. nesil milli muharip hayalet avcı uçağı.",
+                     "lead":  "K-21 KAAN, [[anatarya]] Hava Kuvvetleri için [[anasas]] ana yükleniciliğinde milli olarak geliştirilen, çift motorlu, süper-seyir yeteneğine sahip, düşük radar kesitli (stealth) 5. nesil hava üstünlüğü ve derin taarruz savaş uçağıdır. Dahili silah istasyonları, [[sarpsan]] üretimi gelişmiş AESA radarı ve kaska monteli entegre hedefleme sistemiyle donatılan KAAN; emektar [[k4-boran]] uçaklarının yerini almaktadır. 2036 [[kriz]] sürecinde ilk operasyonel prototipleri Arkent Meydanı\u0027nda teyakkuza geçirilmiş, Sarpburun ve Kalyon Denizi hava sahasında caydırıcı devriye uçuşları icra etmiştir.",
+                     "facts":  [
+                                   [
+                                       "Uçak türü",
+                                       "5. nesil çok rollü hayalet savaş uçağı"
+                                   ],
+                                   [
+                                       "Üretici",
+                                       "[[anasas]] (motor ve aviyonik: [[sarpsan]] · [[korsan]])"
+                                   ],
+                                   [
+                                       "Kullanıcı",
+                                       "[[anatarya]] Hava Kuvvetleri ([[hancer]])"
+                                   ],
+                                   [
+                                       "Azami hız",
+                                       "Mach 1.8+ (Süper-seyir kabiliyetli)"
+                                   ],
+                                   [
+                                       "Menzil",
+                                       "1.100 deniz mili"
+                                   ],
+                                   [
+                                       "Sensör paketi",
+                                       "SARPSAN Burun AESA Radarı · Elektro-optik Hedefleme (EOTS)"
+                                   ],
+                                   [
+                                       "Silah yuvaları",
+                                       "Dahili gövde altı ve yan istasyonlar (Stealth konfigürasyon)"
+                                   ]
+                               ],
+                     "sections":  [
+                                      [
+                                          "Geliştirme ve stealth doktrini",
+                                          "KAAN projesi, bölgedeki radar ağları ve Ostenya destekli Elonya hava savunması karşısında tespit edilemeden derin harekât icra edebilmek için tasarlandı. Radar soğurucu kompozit gövde yapısı, motor hava girişlerindeki özel açılar ve dahili silah yuvaları uçağın radar kesit alanını asgariye indirir."
+                                      ],
+                                      [
+                                          "2036 Krizinde ilk muharebe konuşlanması",
+                                          "Elonya\u0027nın Kalyon Denizi\u0027ne AIGAION firkateynini sevk etmesi üzerine, iki adet K-21 prototipi [[hancer]] filosu bünyesinde Arkent üssünden kalkarak Sarpburun üzerinde gövde gösterisi yapmıştır. Elonya erken ihbar radarlarının uçağı kilit altına alamaması krizin askeri dengesini doğrudan Anatarya lehine çevirmiştir."
+                                      ]
+                                  ],
+                     "related":  [
+                                     "anatarya",
+                                     "hancer",
+                                     "anasas",
+                                     "sarpsan",
+                                     "k4-boran",
+                                     "kriz"
+                                 ],
+                     "imageKey":  "air-k16",
+                     "draft":  false
+                 },
+    "bayrak-t2":  {
+                      "title":  "BAYRAK-T2",
+                      "category":  "Araçlar",
+                      "desc":  "Anatarya’nın 27 saat havada kalabilen lazer güdümlü taktik SİHA sistemi.",
+                      "lead":  "BAYRAK-T2, [[baykut]] Savunma tarafından üretilen, orta irtifa uzun havada kalış (MALE) sınıfı silahlı insansız hava aracıdır (SİHA). Ters V kuyruk yapısı, dahili aviyonik yedekliliği ve üçlü yedekli otonom uçuş kontrol sistemiyle donatılmıştır. [[korsan]] üretimi dört adet akıllı mikro mühimmat taşıyabilen T2; 2036 [[kriz]] günlerinde Kalyon Denizi ve İstara Boğazı üzerinde gece-gündüz kesintisiz keşif ve lazer işaretleme nöbeti icra etmiştir.",
+                      "facts":  [
+                                    [
+                                        "Araç türü",
+                                        "Taktik Silahlı İnsansız Hava Aracı (SİHA)"
+                                    ],
+                                    [
+                                        "Üretici",
+                                        "[[baykut]] Savunma"
+                                    ],
+                                    [
+                                        "Kullanıcı",
+                                        "[[anatarya]] Kara, Deniz ve Hava Kuvvetleri"
+                                    ],
+                                    [
+                                        "Havada kalış süresi",
+                                        "27 saat"
+                                    ],
+                                    [
+                                        "Operasyonel irtifa",
+                                        "18.000 – 25.000 ft"
+                                    ],
+                                    [
+                                        "Mühimmat",
+                                        "4 x KOR-SAN Lazer Güdümlü Akıllı Mikro Mühimmat"
+                                    ]
+                                ],
+                      "sections":  [
+                                       [
+                                           "Menzil ve keşif üstünlüğü",
+                                           "Düşük akustik ve termal ize sahip olan platform, pilot riski olmaksızın düşman hava sahasının sınırında günlerce görev yapabilmektedir. SARPSAN elektro-optik kamerası ile deniz hedeflerinin kimliğini 40 kilometre mesafeden tespit eder."
+                                       ],
+                                       [
+                                           "Kalyon Denizi ablukasındaki rolü",
+                                           "AIGAION muharebe grubunun rotası, Sarpburun açıklarında devriye gezen BAYRAK-T2\u0027ler tarafından koordinat koordinat kaydedilmiş; Elonya\u0027nın kıyı sızma denemeleri anında boşa çıkarılmıştır."
+                                       ]
+                                   ],
+                      "related":  [
+                                      "anatarya",
+                                      "baykut",
+                                      "korsan",
+                                      "akin-3",
+                                      "al-elma",
+                                      "kriz"
+                                  ],
+                      "imageKey":  "",
+                      "draft":  false
+                  },
+    "akin-3":  {
+                   "title":  "AKIN-3",
+                   "category":  "Araçlar",
+                   "desc":  "Çift turboprop motorlu, seyir füzesi atabilen stratejik ağır taarruzi İHA.",
+                   "lead":  "AKIN-3, [[baykut]] Savunma tarafından geliştirilen, yüksek irtifa uzun havada kalış (HALE) sınıfı çift turboprop motorlu ağır taarruzi insansız hava aracıdır (TİHA). Geleneksel insansız uçakların ötesinde bir savaş uçağı yük kapasitesine (1.500 kg faydalı yük) sahip olan AKIN-3; AESA burun radarı, uydu haberleşme podu ve hava-hava füzeleri ile donatılabilen stratejik bir hava platformudur.",
+                   "facts":  [
+                                 [
+                                     "Araç türü",
+                                     "Ağır Taarruzi İnsansız Hava Aracı (TİHA)"
+                                 ],
+                                 [
+                                     "Üretici",
+                                     "[[baykut]] Savunma"
+                                 ],
+                                 [
+                                     "Motor",
+                                     "2 x Turboprop motor"
+                                 ],
+                                 [
+                                     "Faydalı yük",
+                                     "1.500 kg"
+                                 ],
+                                 [
+                                     "Servis tavanı",
+                                     "40.000 ft"
+                                 ],
+                                 [
+                                     "Haberleşme",
+                                     "GÖKKALE Uydu Ağı üzerinden BLOS (Görüş Hattı Ötesi)"
+                                 ]
+                             ],
+                   "sections":  [
+                                    [
+                                        "Stratejik taarruz kabiliyeti",
+                                        "AKIN-3, KOR-SAN üretimi uzun menzilli seyir füzelerini kanat altında taşıyarak düşman hava savunma menziline girmeden kritik tesisleri imha edebilmektedir."
+                                    ],
+                                    [
+                                        "GÖKKALE-4 ile doğrudan bağlantı",
+                                        "Platform, uydu haberleşme anteni sayesinde [[gokkale-4]] uzay kompleksiyle doğrudan kriptolu telemetri hattı kurar ve yörüngedeki uydularla eş zamanlı veri alışverişi yapar."
+                                    ]
+                                ],
+                   "related":  [
+                                   "anatarya",
+                                   "baykut",
+                                   "bayrak-t2",
+                                   "al-elma",
+                                   "gokkale-4",
+                                   "kriz"
+                               ],
+                   "imageKey":  "",
+                   "draft":  false
+               },
+    "al-elma":  {
+                    "title":  "AL-ELMA K-01",
+                    "category":  "Araçlar",
+                    "desc":  "Yapay zekâlı, süpersonik, düşük radar kesitli insansız hayalet jet savaş uçağı.",
+                    "lead":  "AL-ELMA K-01, [[baykut]] Savunma tarafından geliştirilen tek motorlu, süpersonik hızlara ulaşabilen, radar soğurucu gövdeye ve agresif manevra yeteneğine sahip yeni nesil insansız savaş uçağıdır (MİUS). İnsanlı savaş uçaklarıyla (özellikle [[k21-kaan]]) otonom kol uçuşu yapabilen (\u0027loyal wingman\u0027 konsepti) platform; hava-hava it dalaşı, hava savunma bastırma (SEAD) ve amfibi pistlerden kalkış yeteneklerine sahiptir.",
+                    "facts":  [
+                                  [
+                                      "Araç türü",
+                                      "İnsansız Hayalet Savaş Jeti (MİUS)"
+                                  ],
+                                  [
+                                      "Üretici",
+                                      "[[baykut]] Savunma"
+                                  ],
+                                  [
+                                      "İtki",
+                                      "Artyakıcılı turbofan jet motoru"
+                                  ],
+                                  [
+                                      "Hız",
+                                      "Süpersonik (Mach 1.2)"
+                                  ],
+                                  [
+                                      "Özel yetenek",
+                                      "K-21 KAAN ile sürü ve ortak otonom harekât"
+                                  ],
+                                  [
+                                      "Pist esnekliği",
+                                      "Kısa pistli çıkarma gemilerinden iniş-kalkış"
+                                  ]
+                              ],
+                    "sections":  [
+                                     [
+                                         "Havacılıkta yeni çağ: İnsansız it dalaşı",
+                                         "AL-ELMA, insan fizyolojisinin dayanamayacağı yüksek G manevralarını yapay zekâ algoritmalarıyla saniyeler içinde kararlaştırarak düşman pilotlarının reaksiyon sürelerini etkisiz kılar."
+                                     ],
+                                     [
+                                         "2036 Krizinde ilk gizli deneme",
+                                         "Sarpburun açıklarında tansiyonun yükseldiği günlerde, Arkent\u0027ten kalkan bir K-21 KAAN ile bir AL-ELMA prototipinin kol uçuşu hâlinde radar testi yaptığı sivil telsiz kayıtlarına yansımıştır."
+                                     ]
+                                 ],
+                    "related":  [
+                                    "anatarya",
+                                    "baykut",
+                                    "k21-kaan",
+                                    "anasas",
+                                    "sarpsan",
+                                    "kriz"
+                                ],
+                    "imageKey":  "",
+                    "draft":  false
+                },
+    "pelagos-karakolu":  {
+                             "sections":  [
+                                              [
+                                                  "Konum",
+                                                  "Pelagos Karakolu, tartÄ±ÅŸmalÄ± Kalyon adacÄ±klarÄ±nÄ±n en batÄ±sÄ±ndaki kayalÄ±k bir adacÄ±k Ã¼zerine kurulmuÅŸtur. DoÄŸal bir mendirekle korunan kÃ¼Ã§Ã¼k iskelesi, fÄ±rtÄ±nalÄ± havalarda devriye botlarÄ±na sÄ±ÄŸÄ±nak saÄŸlar."
+                                              ],
+                                              [
+                                                  "GÃ¶revler",
+                                                  "Karakol; balÄ±kÃ§Ä± teknelerinin hareketlerini kontrol etmek, Anatarya hÃ¼cumbotlarÄ±nÄ±n adalar bÃ¶lgesine giriÅŸini telsizle Lerya KarargÃ¢hÄ±na bildirmek ve kaÃ§akÃ§Ä±lÄ±kla mÃ¼cadele etmekle gÃ¶revlidir."
+                                              ],
+                                              [
+                                                  "Gerilim hattÄ±",
+                                                  "Karakol personeli, Sarpburun\u0027daki TÃ¼rk/Anatarya unsurlarÄ±yla optik menzilde karÅŸÄ± karÅŸÄ±yadÄ±r. Ã‡oÄŸu zaman iki tarafÄ±n devriye botlarÄ± arasÄ±nda birkaÃ§ yÃ¼z metre mesafede uyarÄ± anonslarÄ± yapÄ±lmaktadÄ±r."
+                                              ]
+                                          ],
+                             "title":  "Pelagos Ä°leri Sahil GÃ¼venlik Karakolu",
+                             "tags":  [
+                                          "karakol",
+                                          "sahil-guvenlik",
+                                          "elonya",
+                                          "kalyon-denizi",
+                                          "tesisler"
+                                      ],
+                             "category":  "tesisler",
+                             "imageKey":  "triton-botu",
+                             "related":  [
+                                             "kalyon-adalari",
+                                             "kalyon-denizi",
+                                             "elonya",
+                                             "triton-botu"
+                                         ],
+                             "lead":  "Elonya Sahil GÃ¼venliÄŸi\u0027nin Kalyon AdalarÄ± batÄ± yaklaÅŸÄ±mÄ±ndaki gÃ¶zetleme kulesi, hÄ±zlÄ± mÃ¼dahale botlarÄ± barÄ±naÄŸÄ± ve radar istasyonu.",
+                             "infobox":  [
+                                             [
+                                                 "TÃ¼r",
+                                                 "Ä°leri Deniz GÃ¶zetleme ve Devriye Karakolu"
+                                             ],
+                                             [
+                                                 "Ä°ÅŸletmeci",
+                                                 "Elonya KÄ±yÄ± GÃ¼venlik Ä°daresi"
+                                             ],
+                                             [
+                                                 "Bot SayÄ±sÄ±",
+                                                 "4 x HÄ±zlÄ± Ã–nleme Botu"
+                                             ],
+                                             [
+                                                 "GÃ¶zetleme",
+                                                 "Optik Kule ve Termal Kameralar"
+                                             ],
+                                             [
+                                                 "Konum",
+                                                 "Kalyon BatÄ± AdacÄ±klarÄ±"
+                                             ],
+                                             [
+                                                 "StatÃ¼",
+                                                 "Faal"
+                                             ]
+                                         ]
+                         },
+    "kara-kasim-feneri":  {
+                              "sections":  [
+                                               [
+                                                   "TarihÃ§e",
+                                                   "KasÄ±m 2026\u0027da Kalyon Denizi\u0027ndeki ada uyuÅŸmazlÄ±ÄŸÄ± sÄ±rasÄ±nda meydana gelen \u0027Kara KasÄ±m\u0027 deniz muharebesinde iki taraftan da can kayÄ±plarÄ± yaÅŸanmÄ±ÅŸtÄ±r. Ã‡atÄ±ÅŸmadan iki yÄ±l sonra, tarafsÄ±z denizcilik Ã¶rgÃ¼tlerinin giriÅŸimiyle sÄ±ÄŸlÄ±ÄŸÄ±n Ã¼zerine hem bir ÅŸehitlik anÄ±tÄ± hem de navigasyon feneri dikilmiÅŸtir."
+                                               ],
+                                               [
+                                                   "Mimari ve simgeler",
+                                                   "Fenerin kaidesinde, o gece hayatÄ±nÄ± kaybeden denizcilerin isimlerinin yazÄ±lÄ± olduÄŸu bronz bir plaket yer alÄ±r. Fenerin tepesindeki Ä±ÅŸÄ±k, gece boyunca Kalyon Denizi\u0027nin tehlikeli resiflerini aydÄ±nlatÄ±rken aynÄ± zamanda Ã§atÄ±ÅŸmanÄ±n acÄ± hatÄ±rasÄ±nÄ± canlÄ± tutar."
+                                               ],
+                                               [
+                                                   "GÃ¼nÃ¼mÃ¼zdeki Ã¶nemi",
+                                                   "Her yÄ±l 15 KasÄ±m\u0027da fenerin Ã§evresine hem Elonya hem de Anatarya sivil balÄ±kÃ§Ä±larÄ± tarafÄ±ndan Ã§elenk bÄ±rakÄ±lmaktadÄ±r. Fener, askeri gerilimin ortasÄ±nda barÄ±ÅŸ ve anma simgesi olarak varlÄ±ÄŸÄ±nÄ± sÃ¼rdÃ¼rmektedir."
+                                               ]
+                                           ],
+                              "title":  "Kara KasÄ±m Deniz Feneri ve Åehitlik AnÄ±tÄ±",
+                              "tags":  [
+                                           "fener",
+                                           "anit",
+                                           "kalyon-denizi",
+                                           "olaylar",
+                                           "tesisler"
+                                       ],
+                              "category":  "tesisler",
+                              "imageKey":  "doruk-ikmal",
+                              "related":  [
+                                              "kalyon-denizi",
+                                              "kalyon-adalari",
+                                              "anatarya",
+                                              "elonya"
+                                          ],
+                              "lead":  "KasÄ±m 2026\u0027da Kalyon Denizi\u0027nde yaÅŸanan Ã§atÄ±ÅŸmada batan gemiler anÄ±sÄ±na inÅŸa edilen, denizcilere seyir yardÄ±mÄ± saÄŸlayan anÄ±t deniz feneri.",
+                              "infobox":  [
+                                              [
+                                                  "TÃ¼r",
+                                                  "Tarihi AnÄ±t Deniz Feneri"
+                                              ],
+                                              [
+                                                  "IÅŸÄ±k Karakteri",
+                                                  "Fl(3) W 15s (Beyaz, 15 mil menzilli)"
+                                              ],
+                                              [
+                                                  "YÃ¼kseklik",
+                                                  "34 metre (Granit ve Bronz Kaide)"
+                                              ],
+                                              [
+                                                  "AÃ§Ä±lÄ±ÅŸ Tarihi",
+                                                  "12 KasÄ±m 2028"
+                                              ],
+                                              [
+                                                  "Konum",
+                                                  "Kalyon Denizi AÃ§Ä±klarÄ± (Orta SÄ±ÄŸlÄ±k)"
+                                              ],
+                                              [
+                                                  "StatÃ¼",
+                                                  "Faal (UluslararasÄ± Koruma AltÄ±nda)"
+                                              ]
+                                          ]
+                          },
+    "kor-kalkan-bataryasi":  {
+                                 "sections":  [
+                                                  [
+                                                      "Mevzi ve kabiliyetler",
+                                                      "KOR-KALKAN mevzisi, gÃ¼Ã§lendirilmiÅŸ beton silolar, dikey fÄ±rlatma rampalarÄ± ve SARPSAN Ã¼retimi hedef aydÄ±nlatma radarlarÄ±ndan meydana gelir. Batarya, aynÄ± anda 16 farklÄ± hava hedefine kilitlenebilir ve seyir fÃ¼zelerini imha edebilir."
+                                                  ],
+                                                  [
+                                                      "GÃ–KKALE-4 savunmasÄ±",
+                                                      "Tesisin birincil gÃ¶revi, GÃ–KKALE-4 fÄ±rlatma rampalarÄ±nÄ± ve uydu kontrol merkezini dÃ¼ÅŸman hava taarruzlarÄ±ndan korumaktÄ±r. Kriz boyunca batarya personeli 24 saat tam angajman modunda beklemiÅŸtir."
+                                                  ],
+                                                  [
+                                                      "CaydÄ±rÄ±cÄ±lÄ±k faktÃ¶rÃ¼",
+                                                      "KOR-KALKAN bataryasÄ±nÄ±n Kalyon Denizi\u0027ne uzanan angajman kubbesi, Elonya Hava Kuvvetleri\u0027nin Sarpburun\u0027a 100 kilometreden fazla yaklaÅŸmasÄ±nÄ± engelleyen baÅŸlÄ±ca taktik engeldir."
+                                                  ]
+                                              ],
+                                 "title":  "Kalyon Hava Savunma BataryasÄ± (KOR-KALKAN)",
+                                 "tags":  [
+                                              "hava-savunma",
+                                              "sarpburun",
+                                              "kalkan-hss",
+                                              "korsan",
+                                              "fuze",
+                                              "tesisler"
+                                          ],
+                                 "category":  "tesisler",
+                                 "imageKey":  "kalkan-hss",
+                                 "related":  [
+                                                 "kalkan-hss",
+                                                 "korsan",
+                                                 "sarpsan",
+                                                 "gokkale-4",
+                                                 "sarpburun"
+                                             ],
+                                 "lead":  "GÃ–KKALE-4 ve Sarpburun hava sahasÄ±nÄ± korumak Ã¼zere konuÅŸlandÄ±rÄ±lmÄ±ÅŸ Kalkan HSS ve KOR-SAN uzun menzilli hava ve fÃ¼ze savunma bataryasÄ± mevzisi.",
+                                 "infobox":  [
+                                                 [
+                                                     "TÃ¼r",
+                                                     "Uzun Menzilli Hava ve FÃ¼ze Savunma BataryasÄ±"
+                                                 ],
+                                                 [
+                                                     "Ä°ÅŸletmeci",
+                                                     "Anatarya 22. Hava Savunma Taburu"
+                                                 ],
+                                                 [
+                                                     "Sistemler",
+                                                     "[[kalkan-hss]], [[korsan]] Hisar-K Ã–nleme FÃ¼zeleri"
+                                                 ],
+                                                 [
+                                                     "Etkili Ä°rtifa",
+                                                     "30.000 metre (Stratosfer)"
+                                                 ],
+                                                 [
+                                                     "Etkili Menzil",
+                                                     "150 km aerodinamik"
+                                                 ],
+                                                 [
+                                                     "Konum",
+                                                     "Sarpburun Platosu GÃ¼neybatÄ±sÄ±"
+                                                 ],
+                                                 [
+                                                     "StatÃ¼",
+                                                     "Tam Angajman HazÄ±rlÄ±ÄŸÄ±"
+                                                 ]
+                                             ]
+                             },
+    "lerya-jet-ussu":  {
+                           "sections":  [
+                                            [
+                                                "Genel bakÄ±ÅŸ",
+                                                "Lerya 5. Taktik Jet ÃœssÃ¼, Elonya\u0027nÄ±n baÅŸkent Lerya\u0027yÄ± ve Kalyon Denizi\u0027ndeki ada garnizonlarÄ±nÄ± havadan korumakla gÃ¶revli baÅŸlÄ±ca askerÃ® meydandÄ±r. Denize yakÄ±n konumu, uÃ§aklarÄ±n hÄ±zlÄ±ca aÃ§Ä±k deniz Ã¼zerinde irtifa almasÄ±nÄ± saÄŸlar."
+                                            ],
+                                            [
+                                                "Taktik gÃ¶revler",
+                                                "Ãœste konuÅŸlu hafif avcÄ± ve kÄ±yÄ± taarruz jetleri, dÃ¼zenli olarak Kalyon AdalarÄ± hava sahasÄ±nda devriye uÃ§uÅŸlarÄ± yapar. Anatarya jetleriyle yaÅŸanan it dalaÅŸlarÄ± ve hava sahasÄ± sÃ¼rtÃ¼ÅŸmeleri genellikle Lerya Ã¼ssÃ¼nden havalanan unsurlarla gerÃ§ekleÅŸir."
+                                            ],
+                                            [
+                                                "Savunma Ã¶nlemleri",
+                                                "Ãœs Ã§evresi Avren BirliÄŸi standartlarÄ±nda kÄ±yÄ± hava savunma bataryalarÄ±yla donatÄ±lmÄ±ÅŸtÄ±r. Sarpburun\u0027daki [[sarpburun-radar]] tesisinin kapsama alanÄ±nda olmasÄ± sebebiyle Elonya pilotlarÄ± kalkÄ±ÅŸ anÄ±ndan itibaren Anatarya radarlarÄ± tarafÄ±ndan izlenmektedir."
+                                            ]
+                                        ],
+                           "title":  "Lerya 5. Taktik Jet ÃœssÃ¼ (Pelikan)",
+                           "tags":  [
+                                        "hava-ussu",
+                                        "elonya",
+                                        "lerya",
+                                        "kalyon-denizi",
+                                        "tesisler"
+                                    ],
+                           "category":  "tesisler",
+                           "imageKey":  "pelagos-devriye",
+                           "related":  [
+                                           "elonya",
+                                           "m12-aster",
+                                           "kalyon-denizi",
+                                           "kalyon-adalari"
+                                       ],
+                           "lead":  "Elonya Cumhuriyeti\u0027nin Kalyon Denizi kÄ±yÄ±sÄ±ndaki ana taktik hava Ã¼ssÃ¼; Kalyon AdalarÄ± devriyelerini ve kÄ±yÄ± hava savunmasÄ±nÄ± icra eder.",
+                           "infobox":  [
+                                           [
+                                               "TÃ¼r",
+                                               "Taktik AvcÄ± \u0026 KÄ±yÄ± Savunma ÃœssÃ¼"
+                                           ],
+                                           [
+                                               "Ä°ÅŸletmeci",
+                                               "Elonya Hava Savunma Kuvvetleri"
+                                           ],
+                                           [
+                                               "Ana Unsurlar",
+                                               "32. Taktik Filo (M12-Aster), Pelikan KeÅŸif BirliÄŸi"
+                                           ],
+                                           [
+                                               "Pist SayÄ±sÄ±",
+                                               "1 (2.800 m Asfalt/Beton)"
+                                           ],
+                                           [
+                                               "Konum",
+                                               "Lerya KuzeybatÄ±sÄ±"
+                                           ],
+                                           [
+                                               "StatÃ¼",
+                                               "Faal"
+                                           ]
+                                       ]
+                       },
+    "sarp-gecidi":  {
+                        "sections":  [
+                                         [
+                                             "TasarÄ±m ve inÅŸaat",
+                                             "Sarp GeÃ§idi, yarÄ±madayÄ± anakaradan ayÄ±ran sarp deniz boÄŸazÄ± Ã¼zerine 2028\u0027de inÅŸa edilmiÅŸtir. Åiddetli rÃ¼zgarlara ve depremlere dayanÄ±klÄ± Ã¶zel Ã§elik halat yapÄ±sÄ±yla tasarlanmÄ±ÅŸtÄ±r. Ã‡ift hatlÄ± demiryolu, [[gokkale-4]] roket gÃ¶vdelerinin ve aÄŸÄ±r yakÄ±t tanklarÄ±nÄ±n nakliyesini saÄŸlar."
+                                         ],
+                                         [
+                                             "Askeri koruma",
+                                             "KÃ¶prÃ¼nÃ¼n iki ayaÄŸÄ±nda da uÃ§aksavar mevzileri ve elektronik karÄ±ÅŸtÄ±rma kuleleri mevcuttur. OlasÄ± bir sabotaj veya fÃ¼ze saldÄ±rÄ±sÄ±na karÅŸÄ± sis perdesi oluÅŸturma ve acil kÃ¶prÃ¼baÅŸÄ± savunma planÄ± devrededir."
+                                         ],
+                                         [
+                                             "Lojistik rolÃ¼",
+                                             "SavaÅŸ krizinde GÃ–KKALE-4 tesisinin kesintisiz enerji ve mÃ¼himmat takviyesi yalnÄ±zca bu kÃ¶prÃ¼ Ã¼zerinden saÄŸlanmaktadÄ±r. KÃ¶prÃ¼nÃ¼n hasar almasÄ± durumunda yarÄ±mada anakaradan fiilen kopma riskiyle karÅŸÄ±laÅŸÄ±r."
+                                         ]
+                                     ],
+                        "title":  "Sarpburun Asma KÃ¶prÃ¼sÃ¼ ve Kara GeÃ§idi",
+                        "tags":  [
+                                     "kopru",
+                                     "sarpburun",
+                                     "ulasim",
+                                     "gokkale-4",
+                                     "tesisler"
+                                 ],
+                        "category":  "tesisler",
+                        "imageKey":  "doruk-ikmal",
+                        "related":  [
+                                        "sarpburun",
+                                        "gokkale-4",
+                                        "doruk-ikmal",
+                                        "anatarya"
+                                    ],
+                        "lead":  "Sarpburun YarÄ±madasÄ±\u0027nÄ± Anatarya anakarasÄ±na baÄŸlayan stratejik asma kÃ¶prÃ¼ ve tahkimatlÄ± kara geÃ§idi; GÃ–KKALE-4 ikmalinin ana atardamarÄ±dÄ±r.",
+                        "infobox":  [
+                                        [
+                                            "TÃ¼r",
+                                            "Stratejik Asma KÃ¶prÃ¼ ve Askeri GeÃ§it"
+                                        ],
+                                        [
+                                            "Uzunluk",
+                                            "1.850 m (Ana aÃ§Ä±klÄ±k: 1.100 m)"
+                                        ],
+                                        [
+                                            "Åerit SayÄ±sÄ±",
+                                            "4 Karayolu + Ã‡ift Hat AÄŸÄ±r Demiryolu"
+                                        ],
+                                        [
+                                            "GÃ¶zetleme",
+                                            "GeÃ§it MuhafÄ±z Taburu"
+                                        ],
+                                        [
+                                            "Konum",
+                                            "Sarpburun KÄ±staÄŸÄ±"
+                                        ],
+                                        [
+                                            "StatÃ¼",
+                                            "Faal (Askeri GeÃ§iÅŸ Ã–ncelikli)"
+                                        ]
+                                    ]
+                    },
+    "istara-garnizonu":  {
+                             "sections":  [
+                                              [
+                                                  "Stratejik konum",
+                                                  "Ä°stara BoÄŸazÄ±, kÄ±talararasÄ± ticaret ve donanma intikalleri iÃ§in kritik tek su geÃ§ididir. Ä°stara MuhafÄ±z Ä°stasyonu, boÄŸazÄ±n iki yakasÄ±nda yer alan kale kalÄ±ntÄ±larÄ± Ã¼zerine modern radar ve sensÃ¶r aÄŸlarÄ± entegre edilerek kurulmuÅŸtur."
+                                              ],
+                                              [
+                                                  "Seyir gÃ¼venliÄŸi ve denetim",
+                                                  "BoÄŸazdan geÃ§en tÃ¼m askeri ve ticari gemiler istasyonun VTS (Gemi Trafik Hizmetleri) merkezine bildirim yapmak zorundadÄ±r. SavaÅŸ durumunda boÄŸazÄ±n kapatÄ±lmasÄ± ve geÃ§iÅŸ gÃ¼venliÄŸinin saÄŸlanmasÄ± garnizonun yetkisindedir."
+                                              ],
+                                              [
+                                                  "Savunma sistemleri",
+                                                  "Ä°stasyonda konuÅŸlu KOR-SAN kÄ±yÄ± savunma fÃ¼ze bataryalarÄ±, boÄŸaza zorla girmeye Ã§alÄ±ÅŸacak savaÅŸ gemilerini 180 km mesafeden etkisiz hale getirebilecek vuruÅŸ gÃ¼cÃ¼ne sahiptir."
+                                              ]
+                                          ],
+                             "title":  "Ä°stara BoÄŸaz MuhafÄ±z Ä°stasyonu ve Sahil BataryasÄ±",
+                             "tags":  [
+                                          "garnizon",
+                                          "istara",
+                                          "bogaz",
+                                          "sahil-guvenlik",
+                                          "korsan",
+                                          "tesisler"
+                                      ],
+                             "category":  "tesisler",
+                             "imageKey":  "sarp-muhafiz",
+                             "related":  [
+                                             "istara",
+                                             "istara-bogazi",
+                                             "anatarya",
+                                             "korsan"
+                                         ],
+                             "lead":  "Kuzey Denizi ile Ä°Ã§ Deniz arasÄ±ndaki Ä°stara BoÄŸazÄ±\u0027nÄ±n iki yakasÄ±ndaki deniz geÃ§iÅŸlerini kontrol eden, radar ve kÄ±yÄ± savunma fÃ¼zeleriyle donatÄ±lmÄ±ÅŸ Anatarya garnizonu.",
+                             "infobox":  [
+                                             [
+                                                 "TÃ¼r",
+                                                 "BoÄŸaz TahkimatÄ± ve KÄ±yÄ± FÃ¼ze Ä°stasyonu"
+                                             ],
+                                             [
+                                                 "Ä°ÅŸletmeci",
+                                                 "Anatarya KÄ±yÄ± Muhafaza KomutanlÄ±ÄŸÄ±"
+                                             ],
+                                             [
+                                                 "Silah Sistemleri",
+                                                 "[[korsan]] Atmaca-K kÄ±yÄ± savunma fÃ¼zeleri, 76 mm sahil toplarÄ±"
+                                             ],
+                                             [
+                                                 "GÃ¶zetleme",
+                                                 "Ä°stara BoÄŸaz Trafik Radar Kulesi"
+                                             ],
+                                             [
+                                                 "Konum",
+                                                 "[[istara-bogazi]] GiriÅŸi"
+                                             ],
+                                             [
+                                                 "StatÃ¼",
+                                                 "Faal"
+                                             ]
+                                         ]
+                         },
+    "lerya-deniz-ussu":  {
+                             "sections":  [
+                                              [
+                                                  "Tesis yapÄ±sÄ±",
+                                                  "Pelagos Deniz ÃœssÃ¼, doÄŸal bir koy olan Lerya KÃ¶rfezi iÃ§inde yer alÄ±r. DÄ±ÅŸ dalgakÄ±ranlarÄ± koruganlÄ± sahil bataryalarÄ±yla tahkim edilmiÅŸtir. Ãœs iÃ§erisinde savaÅŸ gemisi onarÄ±m tersanesi, torpido depolarÄ± ve komuta karargÃ¢hÄ± bulunmaktadÄ±r."
+                                              ],
+                                              [
+                                                  "Aigaion Grubu baÄŸlantÄ±sÄ±",
+                                                  "Elonya\u0027nÄ±n sancak gemisi olan [[aigaion]] gÃ¼dÃ¼mlÃ¼ mermi firkateyni ve refakatindeki hÃ¼cumbotlar bu Ã¼ste konuÅŸludur. GÃ–KKALE-4 krizinde taarruz grubuna yakÄ±t ve mÃ¼himmat yÃ¼klemesi bu limanda tamamlanmÄ±ÅŸtÄ±r."
+                                              ],
+                                              [
+                                                  "BÃ¶lgesel etkisi",
+                                                  "Ãœs, Kalyon Denizi\u0027ndeki dar deniz boÄŸazlarÄ±nÄ±n kontrolÃ¼nÃ¼ elinde tutarak Anatarya\u0027nÄ±n ticari deniz yollarÄ±nÄ± baskÄ± altÄ±nda tutma kabiliyetine sahiptir."
+                                              ]
+                                          ],
+                             "title":  "Lerya Donanma KomutanlÄ±ÄŸÄ± ve Pelagos Deniz ÃœssÃ¼",
+                             "tags":  [
+                                          "deniz-ussu",
+                                          "liman",
+                                          "elonya",
+                                          "aigaion",
+                                          "donanma",
+                                          "tesisler"
+                                      ],
+                             "category":  "tesisler",
+                             "imageKey":  "aigaion",
+                             "related":  [
+                                             "elonya",
+                                             "aigaion",
+                                             "kalyon-denizi",
+                                             "pelagos-karakolu"
+                                         ],
+                             "lead":  "Elonya Deniz Kuvvetleri\u0027nin Kalyon Denizi\u0027ndeki ana harekÃ¢t merkezi, tersanesi ve firkateyn filotillasÄ± konuÅŸlanma limanÄ±.",
+                             "infobox":  [
+                                             [
+                                                 "TÃ¼r",
+                                                 "Ana Deniz ÃœssÃ¼ ve Askeri Tersane"
+                                             ],
+                                             [
+                                                 "Ä°ÅŸletmeci",
+                                                 "Elonya Deniz Kuvvetleri"
+                                             ],
+                                             [
+                                                 "BaÄŸlÄ± Birlikler",
+                                                 "1. Firkateyn FilotillasÄ±, Kalyon HÃ¼cumbot Taburu"
+                                             ],
+                                             [
+                                                 "RÄ±htÄ±m Kapasitesi",
+                                                 "12 muharip gemi, 2 kuru havuz"
+                                             ],
+                                             [
+                                                 "Konum",
+                                                 "Lerya Koyu / Kalyon KÄ±yÄ±sÄ±"
+                                             ],
+                                             [
+                                                 "StatÃ¼",
+                                                 "Faal (SavaÅŸ SeferberliÄŸi)"
+                                             ]
+                                         ]
+                         },
+    "arkent-jet-ussu":  {
+                            "sections":  [
+                                             [
+                                                 "Konum ve altyapÄ±",
+                                                 "Arkent\u0027in 35 km batÄ±sÄ±ndaki daÄŸ eteÄŸi ovasÄ±na inÅŸa edilen 1. Ana Jet ÃœssÃ¼, yeraltÄ± takviyeli hangarlarÄ±, taktik mÃ¼himmat sÄ±ÄŸÄ±naklarÄ± ve baÄŸÄ±msÄ±z yakÄ±t ikmal tÃ¼nelleriyle Anatarya\u0027nÄ±n en korunaklÄ± hava Ã¼ssÃ¼dÃ¼r. Ãœs pistleri, harp zamanÄ±nda otoyol acil iniÅŸ ÅŸeritleriyle entegre Ã§alÄ±ÅŸacak ÅŸekilde dizayn edilmiÅŸtir."
+                                             ],
+                                             [
+                                                 "KonuÅŸlu filolar",
+                                                 "Ãœs, Ã¼lkenin en seÃ§kin hava birliklerini barÄ±ndÄ±rÄ±r. Yeni nesil [[k21-kaan]] uÃ§aklarÄ±nÄ± ilk teslim alan 101. Karakartal Filosu ile Sarpburun ve Kalyon Ã¼zerinde hava devriyesi yapan [[k16-alaz]] filolarÄ± buradan sevk ve idare edilir. AyrÄ±ca [[baykut]] Ã¼retimi [[al-elma]] insansÄ±z savaÅŸ jetleri de bu Ã¼ste test ve harekÃ¢t faaliyetleri yÃ¼rÃ¼tmektedir."
+                                             ],
+                                             [
+                                                 "HarekÃ¢t rolÃ¼",
+                                                 "Kriz dÃ¶neminde Ã¼s, GÃ–KKALE-4 Ã¼zerindeki hava sahasÄ±na 6 dakikada reaksiyon gÃ¶steren Ã¶nleme nÃ¶beti sÃ¼rdÃ¼rmektedir. Elonya\u0027nÄ±n [[lerya-jet-ussu]] konuÅŸlu hava unsurlarÄ±yla karÅŸÄ± karÅŸÄ±ya gelen Anatarya jetleri, operasyonlarÄ±nÄ± Arkent Hava HarekÃ¢t Merkezi Ã¼zerinden icra eder."
+                                             ]
+                                         ],
+                            "title":  "Arkent 1. Ana Jet Ãœs KomutanlÄ±ÄŸÄ± (Karakartal)",
+                            "tags":  [
+                                         "hava-ussu",
+                                         "arkent",
+                                         "jet",
+                                         "k21-kaan",
+                                         "hava-kuvvetleri",
+                                         "tesisler"
+                                     ],
+                            "category":  "tesisler",
+                            "imageKey":  "kartal",
+                            "related":  [
+                                            "anatarya",
+                                            "k21-kaan",
+                                            "k16-alaz",
+                                            "al-elma",
+                                            "anasas"
+                                        ],
+                            "lead":  "Anatarya Hava Kuvvetleri\u0027nin baÅŸkent savunmasÄ± ve batÄ± harekÃ¢t sahasÄ±nÄ± koruyan ana avcÄ± Ã¼ssÃ¼. K-21 KAAN, K16-Alaz ve insansÄ±z savaÅŸ filolarÄ±na ev sahipliÄŸi yapar.",
+                            "infobox":  [
+                                            [
+                                                "TÃ¼r",
+                                                "Ana Muharip Jet ÃœssÃ¼"
+                                            ],
+                                            [
+                                                "Ä°ÅŸletmeci",
+                                                "Anatarya Hava Kuvvetleri"
+                                            ],
+                                            [
+                                                "Ana Filolar",
+                                                "101. Kartal Filo ([[k21-kaan]]), 132. HanÃ§er Filosu ([[k16-alaz]]), 14. Ä°nsansÄ±z AvcÄ± Filosu ([[al-elma]])"
+                                            ],
+                                            [
+                                                "Pist SayÄ±sÄ±",
+                                                "2 (Betonarme, 3.400 m)"
+                                            ],
+                                            [
+                                                "Konum",
+                                                "Arkent BatÄ±sÄ±"
+                                            ],
+                                            [
+                                                "StatÃ¼",
+                                                "Faal (1. Derece Sefer AlarmÄ±)"
+                                            ]
+                                        ]
+                        },
+    "sarpburun-radar":  {
+                            "sections":  [
+                                             [
+                                                 "Genel bakÄ±ÅŸ",
+                                                 "SARP-RAD, Sarpburun YarÄ±madasÄ±\u0027nÄ±n en yÃ¼ksek noktasÄ±nda yer alÄ±r. Tesis, Anatarya\u0027nÄ±n batÄ± sÄ±nÄ±rlarÄ±nÄ± ve [[gokkale-4]] uzay Ã¼ssÃ¼nÃ¼ yaklaÅŸan hava, deniz ve balistik fÃ¼ze tehditlerine karÅŸÄ± korumak iÃ§in 2031 yÄ±lÄ±nda hizmete girmiÅŸtir. ÃœÃ§ boyutlu AESA anteni ve geliÅŸmiÅŸ sinyal iÅŸleme algoritmalarÄ±, Kalyon Denizi Ã¼zerindeki alÃ§ak irtifa hedeflerini ufuk Ã¶tesinden tespit edebilir."
+                                             ],
+                                             [
+                                                 "Elektronik harp yetenekleri",
+                                                 "Kompleks yalnÄ±zca pasif ve aktif radar taramasÄ± yapmakla kalmaz; aynÄ± zamanda geniÅŸ bant elektronik destek (ED) ve karÄ±ÅŸtÄ±rma (ET) kabiliyetine sahiptir. [[elonya]] keÅŸif uÃ§aklarÄ± ve Ä°HA\u0027larÄ±nÄ±n sÄ±nÄ±r ihlallerini engellemek iÃ§in yerel radar kÃ¶reltme ve GPS yanÄ±ltma protokolleri uygular."
+                                             ],
+                                             [
+                                                 "Taktik Ã¶nem",
+                                                 "GÃ–KKALE-4 krizinde SARP-RAD, [[aigaion]] firkateyn grubunun yaklaÅŸtÄ±ÄŸÄ±nÄ± tespit eden ilk yer gÃ¶zlem istasyonu olmuÅŸtur. Tesis, elde ettiÄŸi anlÄ±k hedef izlerini doÄŸrudan [[arkent-jet-ussu]]\u0027ndeki [[k21-kaan]] filolarÄ±na ve [[kor-kalkan-bataryasi]]\u0027na aktarmaktadÄ±r."
+                                             ]
+                                         ],
+                            "title":  "Sarpburun Erken UyarÄ± Radar Kompleksi (SARP-RAD)",
+                            "tags":  [
+                                         "radar",
+                                         "sarpburun",
+                                         "savunma",
+                                         "elektronik-harp",
+                                         "sarpsan",
+                                         "tesisler"
+                                     ],
+                            "category":  "tesisler",
+                            "imageKey":  "sarp-muhafiz",
+                            "related":  [
+                                            "sarpburun",
+                                            "gokkale-4",
+                                            "sarpsan",
+                                            "kor-kalkan-bataryasi",
+                                            "kalkan-hss"
+                                        ],
+                            "lead":  "Sarpburun YarÄ±madasÄ±\u0027nÄ±n kuzey sÄ±rtlarÄ±nda kurulu, Kalyon Denizi ve Avren hava sahasÄ±nÄ± 600 km yarÄ±Ã§apta gÃ¶zetleyen SARPSAN Ã¼retimi aktif faz dizili erken uyarÄ± ve elektronik harp kompleksi.",
+                            "infobox":  [
+                                            [
+                                                "TÃ¼r",
+                                                "Erken uyarÄ± ve hava gÃ¶zetleme radarÄ±"
+                                            ],
+                                            [
+                                                "Ä°ÅŸletmeci",
+                                                "Anatarya Hava Savunma KomutanlÄ±ÄŸÄ±"
+                                            ],
+                                            [
+                                                "Ãœretici",
+                                                "[[sarpsan]]"
+                                            ],
+                                            [
+                                                "Menzil",
+                                                "600 km aerodinamik, 1.000 km balistik"
+                                            ],
+                                            [
+                                                "Konum",
+                                                "[[sarpburun]] Kuzey SÄ±rtÄ±"
+                                            ],
+                                            [
+                                                "Koruma",
+                                                "[[kor-kalkan-bataryasi]]"
+                                            ],
+                                            [
+                                                "StatÃ¼",
+                                                "Faal (YÃ¼ksek Alarm)"
+                                            ]
+                                        ]
+                        }
 }

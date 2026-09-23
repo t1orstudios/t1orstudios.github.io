@@ -27,6 +27,19 @@ const articleSlugOverrides = {
 };
 
 const articleAliases = {
+  'anataria': 'anatarya',
+  'elonia': 'elonya',
+  'velaria': 'veloria',
+  'velarya': 'veloria',
+  'dalmeria': 'dalmerya',
+  'rovenia': 'rovenya',
+  'kaan': 'k21-kaan',
+  'k-21': 'k21-kaan',
+  'bayraktar': 'bayrak-t2',
+  'tb2': 'bayrak-t2',
+  'akinci': 'akin-3',
+  'kizilelma': 'al-elma',
+  'sarp-rad': 'sarpburun-radar',
   '132nd-dagger-squadron': 'hancer',
   'dagger-squadron': 'hancer',
   'dagger': 'hancer',
@@ -1210,10 +1223,10 @@ const dataTR={
                           "draft":  false
                       },
     "veloria":  {
-                    "title":  "Veloria Federasyonu",
+                    "title":  "Velarya Federasyonu",
                     "category":  "Ülkeler",
                     "desc":  "Kuzeybatı Avren üzerinde yer alan bölgesel devlet.",
-                    "lead":  "Veloria Federasyonu, kuzeybatı Avren üzerinde yer alan, başkenti Veler olan bir devlettir. Geniş kuzeybatı kıyıları ve iç sanayi havzaları üzerinde gelişmiş bir federasyondur. Liman kentleri, finans merkezleri ve ileri imalat bölgeleri ülkenin ekonomik omurgasını oluşturur. [[kuzey-kusagi]] ve [[avren-birligi]] üyesidir.",
+                    "lead":  "Velarya Federasyonu, kuzeybatı Avren üzerinde yer alan, başkenti Veler olan bir devlettir. Geniş kuzeybatı kıyıları ve iç sanayi havzaları üzerinde gelişmiş bir federasyondur. Liman kentleri, finans merkezleri ve ileri imalat bölgeleri ülkenin ekonomik omurgasını oluşturur. [[kuzey-kusagi]] ve [[avren-birligi]] üyesidir.",
                     "facts":  [
                                   [
                                       "Başkent",
@@ -1243,7 +1256,7 @@ const dataTR={
                                      ],
                                      [
                                          "Tarih ve yönetim",
-                                         "Veloria, bölgesel krallıkların ortak bir federal meclis altında birleşmesiyle kurulmuştur. İki büyük kıtasal ticaret krizinin ardından eyaletler arası altyapı ve ortak dış politika yetkileri genişletilmiştir."
+                                         "Velarya, bölgesel krallıkların ortak bir federal meclis altında birleşmesiyle kurulmuştur. İki büyük kıtasal ticaret krizinin ardından eyaletler arası altyapı ve ortak dış politika yetkileri genişletilmiştir."
                                      ],
                                      [
                                          "Ekonomi ve toplum",
@@ -1251,7 +1264,7 @@ const dataTR={
                                      ],
                                      [
                                          "GÖKKALE-4 Krizi",
-                                         "Veloria, dosyanın kaynağı bağımsız olarak doğrulanmadan ortak askerî harekâta onay verilmemesini savunmuştur. Bu tutum Elonya’nın iddialarını doğruladığı anlamına gelmez; hükûmet aynı zamanda saldırının durdurulmasını istemiştir. [[sarpburun-dosyasi]] ve [[kriz]], ülkenin dış politikasındaki başlıca gündem maddeleridir."
+                                         "Velarya, dosyanın kaynağı bağımsız olarak doğrulanmadan ortak askerî harekâta onay verilmemesini savunmuştur. Bu tutum Elonya’nın iddialarını doğruladığı anlamına gelmez; hükûmet aynı zamanda saldırının durdurulmasını istemiştir. [[sarpburun-dosyasi]] ve [[kriz]], ülkenin dış politikasındaki başlıca gündem maddeleridir."
                                      ],
                                      [
                                          "Bayrak",
@@ -2600,59 +2613,6 @@ const dataTR={
                          "imageKey":  "patch-iris-indirme",
                          "draft":  false
                      },
-    "lerya-deniz-ussu":  {
-                             "title":  "Lerya Deniz Üssü",
-                             "category":  "Tesisler",
-                             "desc":  "Elonya Deniz Kuvvetleri\u0027nin ana üssü ve AIGAION grubunun harekât limanı.",
-                             "lead":  "Lerya Deniz Üssü, [[elonya]] ana karasındaki Lerya Körfezi kıyısında kurulu, ülkenin en büyük deniz ve lojistik üssüdür. [[aigaion]] Görev Grubu\u0027nun ana konuşlanma yeri olan tesis; kuru havuzlar, mühimmat ikmal depoları ve deniz komandosu eğitim alanlarına sahiptir. [[kriz]] sırasında bölgeye sevk edilen firkateynler ve ikmal gemileri bu limandan hareket etmiştir.",
-                             "facts":  [
-                                           [
-                                               "Tesis türü",
-                                               "Deniz üssü ve ikmal limanı"
-                                           ],
-                                           [
-                                               "Bağlı ülke",
-                                               "[[elonya]]"
-                                           ],
-                                           [
-                                               "Konum",
-                                               "Lerya Körfezi"
-                                           ],
-                                           [
-                                               "Önemli unsurlar",
-                                               "[[aigaion]] · [[nereus-komando]]"
-                                           ],
-                                           [
-                                               "Hava savunması",
-                                               "[[ucaksavar]]"
-                                           ]
-                                       ],
-                             "sections":  [
-                                              [
-                                                  "Üs altyapısı",
-                                                  "Üs; firkateyn ve çıkarma gemilerinin yanaşabildiği derin su rıhtımları, yakıt dolum tesisleri ve güçlendirilmiş mühimmat sığınaklarından oluşur. [[kallisto-ikmal]] gemisinin sefer hazırlıkları ve ikmal yüklemeleri burada yapılmıştır. Tesisin iç kesiminde [[nereus-komando]] birliğine tahsis edilmiş özel eğitim parkuru ve hücumbot barınakları yer alır."
-                                              ],
-                                              [
-                                                  "Kıyı ve hava güvenliği",
-                                                  "Lerya Körfezi çevresindeki hava sahası güvenliği, [[ucaksavar]] taburu bataryaları tarafından sağlanır. Körfez girişindeki radar istasyonları ve kıyı gözetleme kuleleri üssü korur. [[pelagos-devriye]] filosu da körfez dışındaki deniz yollarında düzenli uçuşlar gerçekleştirir."
-                                              ],
-                                              [
-                                                  "GÖKKALE-4 Krizindeki rolü",
-                                                  "Savaş ilanının ardından AIGAION grubu bu üsten demir alarak [[sarpburun]] açıklarına hareket etmiştir. Kriz süresince tesis, lojistik destek ve sıhhi tahliye noktası olarak teyakkuz hâlinde tutulmuştur."
-                                              ]
-                                          ],
-                             "related":  [
-                                             "elonya",
-                                             "aigaion",
-                                             "ucaksavar",
-                                             "kallisto-ikmal",
-                                             "nereus-komando",
-                                             "kalyon-denizi",
-                                             "kriz"
-                                         ],
-                             "imageKey":  "",
-                             "draft":  false
-                         },
     "sarpburun-radar-istasyonu":  {
                                       "title":  "Sarpburun Radar İstasyonu",
                                       "category":  "Tesisler",
@@ -2823,18 +2783,1108 @@ const dataTR={
                                      ],
                          "imageKey":  "",
                          "draft":  false
-                     }
+                     },
+    "ostenya":  {
+                    "title":  "Ostenya Birleşik Devletleri",
+                    "category":  "Ülkeler",
+                    "desc":  "Okyanus ötesi küresel askerî ve ekonomik süper güç; ARGUS uydu ağının işleticisi.",
+                    "lead":  "Ostenya Birleşik Devletleri (OBD), Avren kıtasının batısındaki devasa okyanus ötesi anakarada kurulu, dünyanın önde gelen askerî, teknolojik ve finansal süper gücüdür. Küresel serbest piyasa düzeninin ve ileri havacılık standartlarının öncüsü olan Ostenya, geniş nükleer süper uçak gemisi filoları ve ARGUS küresel uydu konumlandırma ağı ile dünya denizlerinde ve yörüngesinde mutlak hakimiyet kurmuştur. [[elonya]] ile yakın stratejik ittifaka sahip olan ülke, [[kriz]] sırasında Kalyon Denizi\u0027nde \u0027seyrüsefer serbestisi devriyesi\u0027 ilan ederek bölgeye nükleer denizaltı ve füze kruvazörleri sevk etmiştir.",
+                    "facts":  [
+                                  [
+                                      "Devlet yapısı",
+                                      "Federal başkanlık cumhuriyeti"
+                                  ],
+                                  [
+                                      "Başkent",
+                                      "Port Sterling"
+                                  ],
+                                  [
+                                      "Küresel rol",
+                                      "Askerî ve ekonomik süper güç"
+                                  ],
+                                  [
+                                      "Bölgesel ortak",
+                                      "[[elonya]] · [[kuzey-kusagi]]"
+                                  ],
+                                  [
+                                      "Önemli sistemler",
+                                      "ARGUS Küresel Konumlandırma Ağı · 7. Okyanus Filosu"
+                                  ]
+                              ],
+                    "sections":  [
+                                     [
+                                         "Küresel doktrin ve donanma gücü",
+                                         "Ostenya güvenlik stratejisi, dünya deniz ticaret yollarının ve stratejik boğazların açık tutulmasına dayanır. Ülkenin \u0027Demir Kubbe Havacılık\u0027 ve \u0027General Dynamics-Osten\u0027 gibi dev savunma kartelleri, dünya çapında standart kabul edilen beşinci nesil hayalet uçakları ve hassas vuruş mühimmatlarını ihraç eder."
+                                     ],
+                                     [
+                                         "GÖKKALE-4 Krizindeki tutumu",
+                                         "Anatarya\u0027nın [[sarpburun]] tesislerinde bağımsız bir uydu ağı kurma girişimi, Ostenya tarafından \u0027bölgesel hava sahası dengesini ve müttefiki Elonya\u0027nın güvenliğini tehdit eden kontrolsüz bir hamle\u0027 olarak nitelendirilmiştir. Ostenya Dışişleri Bakanlığı savaş ilanına doğrudan katılmasa da, Elonya donanmasına uydu istihbaratı ve elektronik harp desteği aktarmıştır."
+                                     ]
+                                 ],
+                    "related":  [
+                                    "elonya",
+                                    "aigaion",
+                                    "ursya",
+                                    "huaxia",
+                                    "gokkale-4",
+                                    "kriz"
+                                ],
+                    "imageKey":  "",
+                    "draft":  false
+                },
+    "ursya":  {
+                  "title":  "Ursya Federasyonu",
+                  "category":  "Ülkeler",
+                  "desc":  "Kuzey kıtasının devasa yüzölçümlü, ağır sanayi ve nükleer süper gücü.",
+                  "lead":  "Ursya Federasyonu, Avren\u0027in kuzeydoğusundaki sonsuz tundralar ve sıradağlar boyunca uzanan, dünyanın en büyük yüzölçümüne ve devasa enerji rezervlerine sahip kıtasal süper gücüdür. Ağır makine, roket itki sistemleri ve nükleer cephaneliğiyle bilinen federasyon; [[anatarya]] ile tarihsel olarak dengeli askerî ve teknik iş birlikleri yürütmüştür. Anatarya\u0027nın emektar [[k4-boran]] uçaklarının ve fırlatma roketlerinin ilk itki teknolojileri Ursya lisanslarına dayanır.",
+                  "facts":  [
+                                [
+                                    "Devlet yapısı",
+                                    "Federal yarı-başkanlık cumhuriyeti"
+                                ],
+                                [
+                                    "Başkent",
+                                    "Severograd"
+                                ],
+                                [
+                                    "Küresel rol",
+                                    "Kıtasal süper güç ve enerji devi"
+                                ],
+                                [
+                                    "Askerî tedarik",
+                                    "K-4 Boran motor lisansı · Ağır roket itkisi"
+                                ],
+                                [
+                                    "Doktrin",
+                                    "Stratejik derinlik ve çok kutuplu denge"
+                                ]
+                            ],
+                  "sections":  [
+                                   [
+                                       "Sanayi ve havacılık altyapısı",
+                                       "Ursya havacılık ekolü, zorlu kış şartlarında bile çalışan yüksek dayanımlı motorlar ve ağır hava savunma füzeleri üzerine inşa edilmiştir. \u0027Sever-Aviatsiya\u0027 ve \u0027Ural-Mash\u0027 devlet tröstleri, küresel çaptaki en güçlü roket motorlarını üretir."
+                                   ],
+                                   [
+                                       "GÖKKALE-4 krizindeki jeopolitik rolü",
+                                       "Ursya, Ostenya ve Elonya\u0027nın Kalyon Denizi\u0027ndeki ortak tatbikatlarını kendi güney sınırlarına yönelik bir kuşatma olarak değerlendirir. Bu nedenle Anatarya\u0027nın Sarpburun\u0027daki yerli uzay ve savunma hamlelerine örtülü elektronik yedekleme ve radar komponentleri sağlayarak Ostenya blokuna karşı denge unsuru oluşturmuştur."
+                                   ]
+                               ],
+                  "related":  [
+                                  "anatarya",
+                                  "k4-boran",
+                                  "hancer",
+                                  "ostenya",
+                                  "gokkale-4",
+                                  "kriz"
+                              ],
+                  "imageKey":  "",
+                  "draft":  false
+              },
+    "huaxia":  {
+                   "title":  "Huaxia Halk Cumhuriyeti",
+                   "category":  "Ülkeler",
+                   "desc":  "Doğu kıtasının üretim, ileri mikroelektronik ve uzay sanayii devi.",
+                   "lead":  "Huaxia Halk Cumhuriyeti, doğunun devasa nüfuslu, dünyanın fabrikası konumundaki üretim ve ileri teknoloji süper gücüdür. Dünyanın en gelişmiş mikroçip dökümhaneleri, nadir toprak elementleri işleme tesisleri ve kuantum haberleşme laboratuvarlarına ev sahipliği yapar. [[gokkale-4]] uydusunda kullanılan yüksek yoğunluklu fotovoltaik güneş panelleri ve hassas optik prizmaların önemli bir bölümü Huaxia üreticilerinden tedarik edilmiştir.",
+                   "facts":  [
+                                 [
+                                     "Devlet yapısı",
+                                     "Üniter tek partili halk cumhuriyeti"
+                                 ],
+                                 [
+                                     "Başkent",
+                                     "Tiandu"
+                                 ],
+                                 [
+                                     "Küresel rol",
+                                     "Küresel üretim ve mikroelektronik devi"
+                                 ],
+                                 [
+                                     "Teknoloji payı",
+                                     "GÖKKALE-4 güneş panelleri ve sensörleri"
+                                 ],
+                                 [
+                                     "Dış politika",
+                                     "Ticari tarafsızlık ve Kuşak İpek Yolu"
+                                 ]
+                             ],
+                   "sections":  [
+                                    [
+                                        "Mikroçip ve uzay tekel gücü",
+                                        "Huaxia, dünya mikroelektronik tedarik zincirinin merkezinde oturur. Hem Anatarya hem de Elonya sanayisi, radar çiplerinden uydu yönlendiricilerine kadar Huaxia\u0027nın yarı iletken ürünlerine yapısal olarak bağımlıdır."
+                                    ],
+                                    [
+                                        "Krizde pragmatik denge",
+                                        "Kalyon Denizi\u0027ndeki çatışma riski karşısında Huaxia, taraflara \u0027itidal ve ticari deniz yollarının açık kalması\u0027 çağrısında bulunmuş, resmî tarafsızlığını korurken her iki ülkeye de çift kullanımlı (dual-use) sivil-askerî telekomünikasyon yedek parçaları satmayı sürdürmüştür."
+                                    ]
+                                ],
+                   "related":  [
+                                   "anatarya",
+                                   "elonya",
+                                   "gokkale-4",
+                                   "ostenya",
+                                   "ursya",
+                                   "kriz"
+                               ],
+                   "imageKey":  "",
+                   "draft":  false
+               },
+    "anasas":  {
+                   "title":  "ANASAŞ",
+                   "category":  "Kurumlar",
+                   "desc":  "Anatarya Askerî Savunma ve Havacılık Sanayii Anonim Şirketi; milli havacılık devi.",
+                   "lead":  "ANASAŞ (Anatarya Askerî Savunma ve Havacılık Sanayii A.Ş.), [[anatarya]] devletinin gökyüzündeki bağımsızlık stratejisinin omurgasını oluşturan en büyük havacılık ve uzay şirketidir. 1970\u0027li yıllardaki yabancı ambargoların ardından kurulan kurum; [[k21-kaan]] 5. nesil milli muharip uçağının ana tasarımcısı ve üreticisidir. Ayrıca [[simsek-iii]] fırlatma roketinin gövde entegrasyonu ve [[gokkale-4]] uydu platformunun ana yükleniciliğini yürütmektedir.",
+                   "facts":  [
+                                 [
+                                     "Kuruluş yılı",
+                                     "1975"
+                                 ],
+                                 [
+                                     "Genel Merkez",
+                                     "Arkent Havacılık Vadisi"
+                                 ],
+                                 [
+                                     "Bağlı ülke",
+                                     "[[anatarya]]"
+                                 ],
+                                 [
+                                     "Ana projeler",
+                                     "[[k21-kaan]] · [[simsek-iii]] · [[gokkale-4]]"
+                                 ],
+                                 [
+                                     "Stratejik ortaklar",
+                                     "[[sarpsan]] · [[korsan]] · [[baykut]]"
+                                 ]
+                             ],
+                   "sections":  [
+                                    [
+                                        "Tarihçe ve yerlileşme",
+                                        "Yabancı ülkelerin yedek parça ambargolarıyla başlayan krizler, Anatarya\u0027yı kendi uçak gövdesini ve yapısal parçalarını üretmeye mecbur bıraktı. ANASAŞ, lisanslı montaj faaliyetlerinden zamanla özgün tasarım ve kompozit gövde üretimine geçti."
+                                    ],
+                                    [
+                                        "Milli Muharip Uçak ve Uzay hamlesi",
+                                        "2020\u0027li yıllarda başlatılan K-21 programı ile kurum, dünyada beşinci nesil hayalet uçak üretebilen seçkin havacılık devleri arasına girdi. Sarpburun\u0027daki fırlatma rampalarının yapısal tasarımı da kurumun Uzay Sistemleri Direktörlüğü tarafından tamamlandı."
+                                    ]
+                                ],
+                   "related":  [
+                                   "anatarya",
+                                   "k21-kaan",
+                                   "gokkale-4",
+                                   "simsek-iii",
+                                   "sarpsan",
+                                   "korsan"
+                               ],
+                   "imageKey":  "",
+                   "draft":  false
+               },
+    "baykut":  {
+                   "title":  "BAYKUT Savunma",
+                   "category":  "Kurumlar",
+                   "desc":  "Anatarya’nın otonom İHA, SİHA ve yapay zekâlı hava sistemleri öncüsü.",
+                   "lead":  "BAYKUT Savunma ve İleri Teknoloji A.Ş., [[anatarya]] merkezli, dünyaca ünlü silahlı insansız hava araçları (SİHA) ve otonom harp doktrinleri geliştiren özel savunma sanayii devidir. Tamamen öz sermayeyle kurulan şirket, geliştirdiği [[bayrak-t2]] taktik SİHA, çift motorlu [[akin-3]] taarruzi İHA ve insansız hayalet jet savaş uçağı [[al-elma]] ile küresel insansız hava aracı pazarında devrim yaratmıştır.",
+                   "facts":  [
+                                 [
+                                     "Kuruluş yılı",
+                                     "1988"
+                                 ],
+                                 [
+                                     "Genel Merkez",
+                                     "Arkent Otonom Sistemler Kampüsü"
+                                 ],
+                                 [
+                                     "Bağlı ülke",
+                                     "[[anatarya]]"
+                                 ],
+                                 [
+                                     "İmza platformlar",
+                                     "[[bayrak-t2]] · [[akin-3]] · [[al-elma]]"
+                                 ],
+                                 [
+                                     "Uzmanlık",
+                                     "Otonom uçuş · Yapay zekâ · Sürü harekâtı"
+                                 ]
+                             ],
+                   "sections":  [
+                                    [
+                                        "Sıra dışı büyüme ve doktrin devrimi",
+                                        "BAYKUT, büyük devlet bürokrasilerinden bağımsız, çevik mühendislik anlayışıyla küçük keşif dronelarından başlayarak stratejik taarruz jetlerine uzanan bir ürün yelpazesi geliştirdi. Uçuş algoritmaları ve görev bilgisayarlarını kendi bünyesinde yazarak yabancı yazılım bağımlılığını sıfırladı."
+                                    ],
+                                    [
+                                        "GÖKKALE-4 Krizinde sahadaki güç",
+                                        "Kalyon Denizi ablukası sırasında Elonya donanmasının anlık hareketleri, günlerce havada kalan BAYRAK-T2 filoları tarafından tespit edilerek [[kuzey-isaret]] ve hava savunma birliklerine anlık hedef olarak aktarılmıştır."
+                                    ]
+                                ],
+                   "related":  [
+                                   "anatarya",
+                                   "bayrak-t2",
+                                   "akin-3",
+                                   "al-elma",
+                                   "k21-kaan",
+                                   "kriz"
+                               ],
+                   "imageKey":  "",
+                   "draft":  false
+               },
+    "sarpsan":  {
+                    "title":  "SARPSAN",
+                    "category":  "Kurumlar",
+                    "desc":  "Askerî radar, elektronik harp ve elektro-optik hedefleme sistemleri mimarı.",
+                    "lead":  "SARPSAN (Sarpburun Savunma Elektroniği Sanayii), [[anatarya]] Silahlı Kuvvetlerinin haberleşme, radar, elektronik harp ve sensör beyni olan yüksek teknoloji kuruluşudur. [[sarpburun-radar-istasyonu]] bünyesindeki dijital faz dizili erken ihbar radarlarını, [[k21-kaan]] uçağının AESA burun radarını ve İHA\u0027ların lazer hedefleme podlarını milli olarak geliştiren merkezdir.",
+                    "facts":  [
+                                  [
+                                      "Kuruluş yılı",
+                                      "1976"
+                                  ],
+                                  [
+                                      "Genel Merkez",
+                                      "Arkent Elektronik ve Radar Tesisleri"
+                                  ],
+                                  [
+                                      "Bağlı ülke",
+                                      "[[anatarya]]"
+                                  ],
+                                  [
+                                      "Ana alanlar",
+                                      "AESA Radar · Elektronik Harp · Elektro-optik · Kripto"
+                                  ],
+                                  [
+                                      "Donattığı sistemler",
+                                      "[[sarpburun-radar-istasyonu]] · [[kalkan-hss]] · [[k21-kaan]]"
+                                  ]
+                              ],
+                    "sections":  [
+                                     [
+                                         "Radar ve Karıştırma Teknolojileri",
+                                         "Kurum, Elonya donanmasının AIGAION firkateynindeki radar karıştırma girişimlerini savuşturabilen yerli frekans atlamalı yazılımlar üretmiştir."
+                                     ],
+                                     [
+                                         "Dosya 94-117 ve Sinyal Analizi",
+                                         "2036 yılında DAGGER 06\u0027nın 243.0 MHz frekansından alınan gizemli sinyalin spektral ayrıştırması, SARPSAN laboratuvarlarındaki sayısal sinyal işlemcileri tarafından gerçekleştirilmiştir."
+                                     ]
+                                 ],
+                    "related":  [
+                                    "anatarya",
+                                    "sarpburun-radar-istasyonu",
+                                    "kalkan-hss",
+                                    "k21-kaan",
+                                    "dosya-94-117"
+                                ],
+                    "imageKey":  "",
+                    "draft":  false
+                },
+    "korsan":  {
+                   "title":  "KOR-SAN",
+                   "category":  "Kurumlar",
+                   "desc":  "Roket motorları, hassas güdümlü füzeler ve hava savunma mühimmatları üreticisi.",
+                   "lead":  "KOR-SAN (Kor Mühimmat ve Roket Sistemleri Sanayii), [[anatarya]] ordusunun roket itki ve füze mühimmatı tedarikçisidir. [[kalkan-hss]] bataryalarının füzelerini, [[simsek-iii]] fırlatıcılarının katı yakıtlı kademe motorlarını ve [[bayrak-t2]] ile [[akin-3]] İHA\u0027larının lazer güdümlü mühimmatlarını tasarlayıp seri üretime almıştır.",
+                   "facts":  [
+                                 [
+                                     "Kuruluş yılı",
+                                     "1984"
+                                 ],
+                                 [
+                                     "Genel Merkez",
+                                     "Arkent Mühimmat ve Roket Kompleksi"
+                                 ],
+                                 [
+                                     "Bağlı ülke",
+                                     "[[anatarya]]"
+                                 ],
+                                 [
+                                     "Ürün aileleri",
+                                     "Kalkan HSS füzeleri · MAM akıllı mühimmatlar · Roket kademeleri"
+                                 ],
+                                 [
+                                     "Krizdeki rolü",
+                                     "Kıyı füze bataryalarının anlık mühimmat ikmali"
+                                 ]
+                             ],
+                   "sections":  [
+                                    [
+                                        "Katı yakıtlı itki atılımı",
+                                        "Roket motorlarında dışa bağımlılığı kıran KOR-SAN, geliştirdiği kompozit katı yakıt formülleriyle Sarpburun\u0027daki uzay fırlatma programına doğrudan itki gücü sağlamıştır."
+                                    ]
+                                ],
+                   "related":  [
+                                   "anatarya",
+                                   "kalkan-hss",
+                                   "simsek-iii",
+                                   "gokkale-4",
+                                   "bayrak-t2"
+                               ],
+                   "imageKey":  "",
+                   "draft":  false
+               },
+    "k21-kaan":  {
+                     "title":  "K-21 KAAN",
+                     "category":  "Araçlar",
+                     "desc":  "Anatarya’nın çift motorlu, düşük radar kesitli 5. nesil milli muharip hayalet avcı uçağı.",
+                     "lead":  "K-21 KAAN, [[anatarya]] Hava Kuvvetleri için [[anasas]] ana yükleniciliğinde milli olarak geliştirilen, çift motorlu, süper-seyir yeteneğine sahip, düşük radar kesitli (stealth) 5. nesil hava üstünlüğü ve derin taarruz savaş uçağıdır. Dahili silah istasyonları, [[sarpsan]] üretimi gelişmiş AESA radarı ve kaska monteli entegre hedefleme sistemiyle donatılan KAAN; emektar [[k4-boran]] uçaklarının yerini almaktadır. 2036 [[kriz]] sürecinde ilk operasyonel prototipleri Arkent Meydanı\u0027nda teyakkuza geçirilmiş, Sarpburun ve Kalyon Denizi hava sahasında caydırıcı devriye uçuşları icra etmiştir.",
+                     "facts":  [
+                                   [
+                                       "Uçak türü",
+                                       "5. nesil çok rollü hayalet savaş uçağı"
+                                   ],
+                                   [
+                                       "Üretici",
+                                       "[[anasas]] (motor ve aviyonik: [[sarpsan]] · [[korsan]])"
+                                   ],
+                                   [
+                                       "Kullanıcı",
+                                       "[[anatarya]] Hava Kuvvetleri ([[hancer]])"
+                                   ],
+                                   [
+                                       "Azami hız",
+                                       "Mach 1.8+ (Süper-seyir kabiliyetli)"
+                                   ],
+                                   [
+                                       "Menzil",
+                                       "1.100 deniz mili"
+                                   ],
+                                   [
+                                       "Sensör paketi",
+                                       "SARPSAN Burun AESA Radarı · Elektro-optik Hedefleme (EOTS)"
+                                   ],
+                                   [
+                                       "Silah yuvaları",
+                                       "Dahili gövde altı ve yan istasyonlar (Stealth konfigürasyon)"
+                                   ]
+                               ],
+                     "sections":  [
+                                      [
+                                          "Geliştirme ve stealth doktrini",
+                                          "KAAN projesi, bölgedeki radar ağları ve Ostenya destekli Elonya hava savunması karşısında tespit edilemeden derin harekât icra edebilmek için tasarlandı. Radar soğurucu kompozit gövde yapısı, motor hava girişlerindeki özel açılar ve dahili silah yuvaları uçağın radar kesit alanını asgariye indirir."
+                                      ],
+                                      [
+                                          "2036 Krizinde ilk muharebe konuşlanması",
+                                          "Elonya\u0027nın Kalyon Denizi\u0027ne AIGAION firkateynini sevk etmesi üzerine, iki adet K-21 prototipi [[hancer]] filosu bünyesinde Arkent üssünden kalkarak Sarpburun üzerinde gövde gösterisi yapmıştır. Elonya erken ihbar radarlarının uçağı kilit altına alamaması krizin askeri dengesini doğrudan Anatarya lehine çevirmiştir."
+                                      ]
+                                  ],
+                     "related":  [
+                                     "anatarya",
+                                     "hancer",
+                                     "anasas",
+                                     "sarpsan",
+                                     "k4-boran",
+                                     "kriz"
+                                 ],
+                     "imageKey":  "air-k16",
+                     "draft":  false
+                 },
+    "bayrak-t2":  {
+                      "title":  "BAYRAK-T2",
+                      "category":  "Araçlar",
+                      "desc":  "Anatarya’nın 27 saat havada kalabilen lazer güdümlü taktik SİHA sistemi.",
+                      "lead":  "BAYRAK-T2, [[baykut]] Savunma tarafından üretilen, orta irtifa uzun havada kalış (MALE) sınıfı silahlı insansız hava aracıdır (SİHA). Ters V kuyruk yapısı, dahili aviyonik yedekliliği ve üçlü yedekli otonom uçuş kontrol sistemiyle donatılmıştır. [[korsan]] üretimi dört adet akıllı mikro mühimmat taşıyabilen T2; 2036 [[kriz]] günlerinde Kalyon Denizi ve İstara Boğazı üzerinde gece-gündüz kesintisiz keşif ve lazer işaretleme nöbeti icra etmiştir.",
+                      "facts":  [
+                                    [
+                                        "Araç türü",
+                                        "Taktik Silahlı İnsansız Hava Aracı (SİHA)"
+                                    ],
+                                    [
+                                        "Üretici",
+                                        "[[baykut]] Savunma"
+                                    ],
+                                    [
+                                        "Kullanıcı",
+                                        "[[anatarya]] Kara, Deniz ve Hava Kuvvetleri"
+                                    ],
+                                    [
+                                        "Havada kalış süresi",
+                                        "27 saat"
+                                    ],
+                                    [
+                                        "Operasyonel irtifa",
+                                        "18.000 – 25.000 ft"
+                                    ],
+                                    [
+                                        "Mühimmat",
+                                        "4 x KOR-SAN Lazer Güdümlü Akıllı Mikro Mühimmat"
+                                    ]
+                                ],
+                      "sections":  [
+                                       [
+                                           "Menzil ve keşif üstünlüğü",
+                                           "Düşük akustik ve termal ize sahip olan platform, pilot riski olmaksızın düşman hava sahasının sınırında günlerce görev yapabilmektedir. SARPSAN elektro-optik kamerası ile deniz hedeflerinin kimliğini 40 kilometre mesafeden tespit eder."
+                                       ],
+                                       [
+                                           "Kalyon Denizi ablukasındaki rolü",
+                                           "AIGAION muharebe grubunun rotası, Sarpburun açıklarında devriye gezen BAYRAK-T2\u0027ler tarafından koordinat koordinat kaydedilmiş; Elonya\u0027nın kıyı sızma denemeleri anında boşa çıkarılmıştır."
+                                       ]
+                                   ],
+                      "related":  [
+                                      "anatarya",
+                                      "baykut",
+                                      "korsan",
+                                      "akin-3",
+                                      "al-elma",
+                                      "kriz"
+                                  ],
+                      "imageKey":  "",
+                      "draft":  false
+                  },
+    "akin-3":  {
+                   "title":  "AKIN-3",
+                   "category":  "Araçlar",
+                   "desc":  "Çift turboprop motorlu, seyir füzesi atabilen stratejik ağır taarruzi İHA.",
+                   "lead":  "AKIN-3, [[baykut]] Savunma tarafından geliştirilen, yüksek irtifa uzun havada kalış (HALE) sınıfı çift turboprop motorlu ağır taarruzi insansız hava aracıdır (TİHA). Geleneksel insansız uçakların ötesinde bir savaş uçağı yük kapasitesine (1.500 kg faydalı yük) sahip olan AKIN-3; AESA burun radarı, uydu haberleşme podu ve hava-hava füzeleri ile donatılabilen stratejik bir hava platformudur.",
+                   "facts":  [
+                                 [
+                                     "Araç türü",
+                                     "Ağır Taarruzi İnsansız Hava Aracı (TİHA)"
+                                 ],
+                                 [
+                                     "Üretici",
+                                     "[[baykut]] Savunma"
+                                 ],
+                                 [
+                                     "Motor",
+                                     "2 x Turboprop motor"
+                                 ],
+                                 [
+                                     "Faydalı yük",
+                                     "1.500 kg"
+                                 ],
+                                 [
+                                     "Servis tavanı",
+                                     "40.000 ft"
+                                 ],
+                                 [
+                                     "Haberleşme",
+                                     "GÖKKALE Uydu Ağı üzerinden BLOS (Görüş Hattı Ötesi)"
+                                 ]
+                             ],
+                   "sections":  [
+                                    [
+                                        "Stratejik taarruz kabiliyeti",
+                                        "AKIN-3, KOR-SAN üretimi uzun menzilli seyir füzelerini kanat altında taşıyarak düşman hava savunma menziline girmeden kritik tesisleri imha edebilmektedir."
+                                    ],
+                                    [
+                                        "GÖKKALE-4 ile doğrudan bağlantı",
+                                        "Platform, uydu haberleşme anteni sayesinde [[gokkale-4]] uzay kompleksiyle doğrudan kriptolu telemetri hattı kurar ve yörüngedeki uydularla eş zamanlı veri alışverişi yapar."
+                                    ]
+                                ],
+                   "related":  [
+                                   "anatarya",
+                                   "baykut",
+                                   "bayrak-t2",
+                                   "al-elma",
+                                   "gokkale-4",
+                                   "kriz"
+                               ],
+                   "imageKey":  "",
+                   "draft":  false
+               },
+    "al-elma":  {
+                    "title":  "AL-ELMA K-01",
+                    "category":  "Araçlar",
+                    "desc":  "Yapay zekâlı, süpersonik, düşük radar kesitli insansız hayalet jet savaş uçağı.",
+                    "lead":  "AL-ELMA K-01, [[baykut]] Savunma tarafından geliştirilen tek motorlu, süpersonik hızlara ulaşabilen, radar soğurucu gövdeye ve agresif manevra yeteneğine sahip yeni nesil insansız savaş uçağıdır (MİUS). İnsanlı savaş uçaklarıyla (özellikle [[k21-kaan]]) otonom kol uçuşu yapabilen (\u0027loyal wingman\u0027 konsepti) platform; hava-hava it dalaşı, hava savunma bastırma (SEAD) ve amfibi pistlerden kalkış yeteneklerine sahiptir.",
+                    "facts":  [
+                                  [
+                                      "Araç türü",
+                                      "İnsansız Hayalet Savaş Jeti (MİUS)"
+                                  ],
+                                  [
+                                      "Üretici",
+                                      "[[baykut]] Savunma"
+                                  ],
+                                  [
+                                      "İtki",
+                                      "Artyakıcılı turbofan jet motoru"
+                                  ],
+                                  [
+                                      "Hız",
+                                      "Süpersonik (Mach 1.2)"
+                                  ],
+                                  [
+                                      "Özel yetenek",
+                                      "K-21 KAAN ile sürü ve ortak otonom harekât"
+                                  ],
+                                  [
+                                      "Pist esnekliği",
+                                      "Kısa pistli çıkarma gemilerinden iniş-kalkış"
+                                  ]
+                              ],
+                    "sections":  [
+                                     [
+                                         "Havacılıkta yeni çağ: İnsansız it dalaşı",
+                                         "AL-ELMA, insan fizyolojisinin dayanamayacağı yüksek G manevralarını yapay zekâ algoritmalarıyla saniyeler içinde kararlaştırarak düşman pilotlarının reaksiyon sürelerini etkisiz kılar."
+                                     ],
+                                     [
+                                         "2036 Krizinde ilk gizli deneme",
+                                         "Sarpburun açıklarında tansiyonun yükseldiği günlerde, Arkent\u0027ten kalkan bir K-21 KAAN ile bir AL-ELMA prototipinin kol uçuşu hâlinde radar testi yaptığı sivil telsiz kayıtlarına yansımıştır."
+                                     ]
+                                 ],
+                    "related":  [
+                                    "anatarya",
+                                    "baykut",
+                                    "k21-kaan",
+                                    "anasas",
+                                    "sarpsan",
+                                    "kriz"
+                                ],
+                    "imageKey":  "",
+                    "draft":  false
+                },
+    "pelagos-karakolu":  {
+                             "sections":  [
+                                              [
+                                                  "Konum",
+                                                  "Pelagos Karakolu, tartÄ±ÅŸmalÄ± Kalyon adacÄ±klarÄ±nÄ±n en batÄ±sÄ±ndaki kayalÄ±k bir adacÄ±k Ã¼zerine kurulmuÅŸtur. DoÄŸal bir mendirekle korunan kÃ¼Ã§Ã¼k iskelesi, fÄ±rtÄ±nalÄ± havalarda devriye botlarÄ±na sÄ±ÄŸÄ±nak saÄŸlar."
+                                              ],
+                                              [
+                                                  "GÃ¶revler",
+                                                  "Karakol; balÄ±kÃ§Ä± teknelerinin hareketlerini kontrol etmek, Anatarya hÃ¼cumbotlarÄ±nÄ±n adalar bÃ¶lgesine giriÅŸini telsizle Lerya KarargÃ¢hÄ±na bildirmek ve kaÃ§akÃ§Ä±lÄ±kla mÃ¼cadele etmekle gÃ¶revlidir."
+                                              ],
+                                              [
+                                                  "Gerilim hattÄ±",
+                                                  "Karakol personeli, Sarpburun\u0027daki TÃ¼rk/Anatarya unsurlarÄ±yla optik menzilde karÅŸÄ± karÅŸÄ±yadÄ±r. Ã‡oÄŸu zaman iki tarafÄ±n devriye botlarÄ± arasÄ±nda birkaÃ§ yÃ¼z metre mesafede uyarÄ± anonslarÄ± yapÄ±lmaktadÄ±r."
+                                              ]
+                                          ],
+                             "title":  "Pelagos Ä°leri Sahil GÃ¼venlik Karakolu",
+                             "tags":  [
+                                          "karakol",
+                                          "sahil-guvenlik",
+                                          "elonya",
+                                          "kalyon-denizi",
+                                          "tesisler"
+                                      ],
+                             "category":  "tesisler",
+                             "imageKey":  "triton-botu",
+                             "related":  [
+                                             "kalyon-adalari",
+                                             "kalyon-denizi",
+                                             "elonya",
+                                             "triton-botu"
+                                         ],
+                             "lead":  "Elonya Sahil GÃ¼venliÄŸi\u0027nin Kalyon AdalarÄ± batÄ± yaklaÅŸÄ±mÄ±ndaki gÃ¶zetleme kulesi, hÄ±zlÄ± mÃ¼dahale botlarÄ± barÄ±naÄŸÄ± ve radar istasyonu.",
+                             "infobox":  [
+                                             [
+                                                 "TÃ¼r",
+                                                 "Ä°leri Deniz GÃ¶zetleme ve Devriye Karakolu"
+                                             ],
+                                             [
+                                                 "Ä°ÅŸletmeci",
+                                                 "Elonya KÄ±yÄ± GÃ¼venlik Ä°daresi"
+                                             ],
+                                             [
+                                                 "Bot SayÄ±sÄ±",
+                                                 "4 x HÄ±zlÄ± Ã–nleme Botu"
+                                             ],
+                                             [
+                                                 "GÃ¶zetleme",
+                                                 "Optik Kule ve Termal Kameralar"
+                                             ],
+                                             [
+                                                 "Konum",
+                                                 "Kalyon BatÄ± AdacÄ±klarÄ±"
+                                             ],
+                                             [
+                                                 "StatÃ¼",
+                                                 "Faal"
+                                             ]
+                                         ]
+                         },
+    "kara-kasim-feneri":  {
+                              "sections":  [
+                                               [
+                                                   "TarihÃ§e",
+                                                   "KasÄ±m 2026\u0027da Kalyon Denizi\u0027ndeki ada uyuÅŸmazlÄ±ÄŸÄ± sÄ±rasÄ±nda meydana gelen \u0027Kara KasÄ±m\u0027 deniz muharebesinde iki taraftan da can kayÄ±plarÄ± yaÅŸanmÄ±ÅŸtÄ±r. Ã‡atÄ±ÅŸmadan iki yÄ±l sonra, tarafsÄ±z denizcilik Ã¶rgÃ¼tlerinin giriÅŸimiyle sÄ±ÄŸlÄ±ÄŸÄ±n Ã¼zerine hem bir ÅŸehitlik anÄ±tÄ± hem de navigasyon feneri dikilmiÅŸtir."
+                                               ],
+                                               [
+                                                   "Mimari ve simgeler",
+                                                   "Fenerin kaidesinde, o gece hayatÄ±nÄ± kaybeden denizcilerin isimlerinin yazÄ±lÄ± olduÄŸu bronz bir plaket yer alÄ±r. Fenerin tepesindeki Ä±ÅŸÄ±k, gece boyunca Kalyon Denizi\u0027nin tehlikeli resiflerini aydÄ±nlatÄ±rken aynÄ± zamanda Ã§atÄ±ÅŸmanÄ±n acÄ± hatÄ±rasÄ±nÄ± canlÄ± tutar."
+                                               ],
+                                               [
+                                                   "GÃ¼nÃ¼mÃ¼zdeki Ã¶nemi",
+                                                   "Her yÄ±l 15 KasÄ±m\u0027da fenerin Ã§evresine hem Elonya hem de Anatarya sivil balÄ±kÃ§Ä±larÄ± tarafÄ±ndan Ã§elenk bÄ±rakÄ±lmaktadÄ±r. Fener, askeri gerilimin ortasÄ±nda barÄ±ÅŸ ve anma simgesi olarak varlÄ±ÄŸÄ±nÄ± sÃ¼rdÃ¼rmektedir."
+                                               ]
+                                           ],
+                              "title":  "Kara KasÄ±m Deniz Feneri ve Åehitlik AnÄ±tÄ±",
+                              "tags":  [
+                                           "fener",
+                                           "anit",
+                                           "kalyon-denizi",
+                                           "olaylar",
+                                           "tesisler"
+                                       ],
+                              "category":  "tesisler",
+                              "imageKey":  "doruk-ikmal",
+                              "related":  [
+                                              "kalyon-denizi",
+                                              "kalyon-adalari",
+                                              "anatarya",
+                                              "elonya"
+                                          ],
+                              "lead":  "KasÄ±m 2026\u0027da Kalyon Denizi\u0027nde yaÅŸanan Ã§atÄ±ÅŸmada batan gemiler anÄ±sÄ±na inÅŸa edilen, denizcilere seyir yardÄ±mÄ± saÄŸlayan anÄ±t deniz feneri.",
+                              "infobox":  [
+                                              [
+                                                  "TÃ¼r",
+                                                  "Tarihi AnÄ±t Deniz Feneri"
+                                              ],
+                                              [
+                                                  "IÅŸÄ±k Karakteri",
+                                                  "Fl(3) W 15s (Beyaz, 15 mil menzilli)"
+                                              ],
+                                              [
+                                                  "YÃ¼kseklik",
+                                                  "34 metre (Granit ve Bronz Kaide)"
+                                              ],
+                                              [
+                                                  "AÃ§Ä±lÄ±ÅŸ Tarihi",
+                                                  "12 KasÄ±m 2028"
+                                              ],
+                                              [
+                                                  "Konum",
+                                                  "Kalyon Denizi AÃ§Ä±klarÄ± (Orta SÄ±ÄŸlÄ±k)"
+                                              ],
+                                              [
+                                                  "StatÃ¼",
+                                                  "Faal (UluslararasÄ± Koruma AltÄ±nda)"
+                                              ]
+                                          ]
+                          },
+    "kor-kalkan-bataryasi":  {
+                                 "sections":  [
+                                                  [
+                                                      "Mevzi ve kabiliyetler",
+                                                      "KOR-KALKAN mevzisi, gÃ¼Ã§lendirilmiÅŸ beton silolar, dikey fÄ±rlatma rampalarÄ± ve SARPSAN Ã¼retimi hedef aydÄ±nlatma radarlarÄ±ndan meydana gelir. Batarya, aynÄ± anda 16 farklÄ± hava hedefine kilitlenebilir ve seyir fÃ¼zelerini imha edebilir."
+                                                  ],
+                                                  [
+                                                      "GÃ–KKALE-4 savunmasÄ±",
+                                                      "Tesisin birincil gÃ¶revi, GÃ–KKALE-4 fÄ±rlatma rampalarÄ±nÄ± ve uydu kontrol merkezini dÃ¼ÅŸman hava taarruzlarÄ±ndan korumaktÄ±r. Kriz boyunca batarya personeli 24 saat tam angajman modunda beklemiÅŸtir."
+                                                  ],
+                                                  [
+                                                      "CaydÄ±rÄ±cÄ±lÄ±k faktÃ¶rÃ¼",
+                                                      "KOR-KALKAN bataryasÄ±nÄ±n Kalyon Denizi\u0027ne uzanan angajman kubbesi, Elonya Hava Kuvvetleri\u0027nin Sarpburun\u0027a 100 kilometreden fazla yaklaÅŸmasÄ±nÄ± engelleyen baÅŸlÄ±ca taktik engeldir."
+                                                  ]
+                                              ],
+                                 "title":  "Kalyon Hava Savunma BataryasÄ± (KOR-KALKAN)",
+                                 "tags":  [
+                                              "hava-savunma",
+                                              "sarpburun",
+                                              "kalkan-hss",
+                                              "korsan",
+                                              "fuze",
+                                              "tesisler"
+                                          ],
+                                 "category":  "tesisler",
+                                 "imageKey":  "kalkan-hss",
+                                 "related":  [
+                                                 "kalkan-hss",
+                                                 "korsan",
+                                                 "sarpsan",
+                                                 "gokkale-4",
+                                                 "sarpburun"
+                                             ],
+                                 "lead":  "GÃ–KKALE-4 ve Sarpburun hava sahasÄ±nÄ± korumak Ã¼zere konuÅŸlandÄ±rÄ±lmÄ±ÅŸ Kalkan HSS ve KOR-SAN uzun menzilli hava ve fÃ¼ze savunma bataryasÄ± mevzisi.",
+                                 "infobox":  [
+                                                 [
+                                                     "TÃ¼r",
+                                                     "Uzun Menzilli Hava ve FÃ¼ze Savunma BataryasÄ±"
+                                                 ],
+                                                 [
+                                                     "Ä°ÅŸletmeci",
+                                                     "Anatarya 22. Hava Savunma Taburu"
+                                                 ],
+                                                 [
+                                                     "Sistemler",
+                                                     "[[kalkan-hss]], [[korsan]] Hisar-K Ã–nleme FÃ¼zeleri"
+                                                 ],
+                                                 [
+                                                     "Etkili Ä°rtifa",
+                                                     "30.000 metre (Stratosfer)"
+                                                 ],
+                                                 [
+                                                     "Etkili Menzil",
+                                                     "150 km aerodinamik"
+                                                 ],
+                                                 [
+                                                     "Konum",
+                                                     "Sarpburun Platosu GÃ¼neybatÄ±sÄ±"
+                                                 ],
+                                                 [
+                                                     "StatÃ¼",
+                                                     "Tam Angajman HazÄ±rlÄ±ÄŸÄ±"
+                                                 ]
+                                             ]
+                             },
+    "lerya-jet-ussu":  {
+                           "sections":  [
+                                            [
+                                                "Genel bakÄ±ÅŸ",
+                                                "Lerya 5. Taktik Jet ÃœssÃ¼, Elonya\u0027nÄ±n baÅŸkent Lerya\u0027yÄ± ve Kalyon Denizi\u0027ndeki ada garnizonlarÄ±nÄ± havadan korumakla gÃ¶revli baÅŸlÄ±ca askerÃ® meydandÄ±r. Denize yakÄ±n konumu, uÃ§aklarÄ±n hÄ±zlÄ±ca aÃ§Ä±k deniz Ã¼zerinde irtifa almasÄ±nÄ± saÄŸlar."
+                                            ],
+                                            [
+                                                "Taktik gÃ¶revler",
+                                                "Ãœste konuÅŸlu hafif avcÄ± ve kÄ±yÄ± taarruz jetleri, dÃ¼zenli olarak Kalyon AdalarÄ± hava sahasÄ±nda devriye uÃ§uÅŸlarÄ± yapar. Anatarya jetleriyle yaÅŸanan it dalaÅŸlarÄ± ve hava sahasÄ± sÃ¼rtÃ¼ÅŸmeleri genellikle Lerya Ã¼ssÃ¼nden havalanan unsurlarla gerÃ§ekleÅŸir."
+                                            ],
+                                            [
+                                                "Savunma Ã¶nlemleri",
+                                                "Ãœs Ã§evresi Avren BirliÄŸi standartlarÄ±nda kÄ±yÄ± hava savunma bataryalarÄ±yla donatÄ±lmÄ±ÅŸtÄ±r. Sarpburun\u0027daki [[sarpburun-radar]] tesisinin kapsama alanÄ±nda olmasÄ± sebebiyle Elonya pilotlarÄ± kalkÄ±ÅŸ anÄ±ndan itibaren Anatarya radarlarÄ± tarafÄ±ndan izlenmektedir."
+                                            ]
+                                        ],
+                           "title":  "Lerya 5. Taktik Jet ÃœssÃ¼ (Pelikan)",
+                           "tags":  [
+                                        "hava-ussu",
+                                        "elonya",
+                                        "lerya",
+                                        "kalyon-denizi",
+                                        "tesisler"
+                                    ],
+                           "category":  "tesisler",
+                           "imageKey":  "pelagos-devriye",
+                           "related":  [
+                                           "elonya",
+                                           "m12-aster",
+                                           "kalyon-denizi",
+                                           "kalyon-adalari"
+                                       ],
+                           "lead":  "Elonya Cumhuriyeti\u0027nin Kalyon Denizi kÄ±yÄ±sÄ±ndaki ana taktik hava Ã¼ssÃ¼; Kalyon AdalarÄ± devriyelerini ve kÄ±yÄ± hava savunmasÄ±nÄ± icra eder.",
+                           "infobox":  [
+                                           [
+                                               "TÃ¼r",
+                                               "Taktik AvcÄ± \u0026 KÄ±yÄ± Savunma ÃœssÃ¼"
+                                           ],
+                                           [
+                                               "Ä°ÅŸletmeci",
+                                               "Elonya Hava Savunma Kuvvetleri"
+                                           ],
+                                           [
+                                               "Ana Unsurlar",
+                                               "32. Taktik Filo (M12-Aster), Pelikan KeÅŸif BirliÄŸi"
+                                           ],
+                                           [
+                                               "Pist SayÄ±sÄ±",
+                                               "1 (2.800 m Asfalt/Beton)"
+                                           ],
+                                           [
+                                               "Konum",
+                                               "Lerya KuzeybatÄ±sÄ±"
+                                           ],
+                                           [
+                                               "StatÃ¼",
+                                               "Faal"
+                                           ]
+                                       ]
+                       },
+    "sarp-gecidi":  {
+                        "sections":  [
+                                         [
+                                             "TasarÄ±m ve inÅŸaat",
+                                             "Sarp GeÃ§idi, yarÄ±madayÄ± anakaradan ayÄ±ran sarp deniz boÄŸazÄ± Ã¼zerine 2028\u0027de inÅŸa edilmiÅŸtir. Åiddetli rÃ¼zgarlara ve depremlere dayanÄ±klÄ± Ã¶zel Ã§elik halat yapÄ±sÄ±yla tasarlanmÄ±ÅŸtÄ±r. Ã‡ift hatlÄ± demiryolu, [[gokkale-4]] roket gÃ¶vdelerinin ve aÄŸÄ±r yakÄ±t tanklarÄ±nÄ±n nakliyesini saÄŸlar."
+                                         ],
+                                         [
+                                             "Askeri koruma",
+                                             "KÃ¶prÃ¼nÃ¼n iki ayaÄŸÄ±nda da uÃ§aksavar mevzileri ve elektronik karÄ±ÅŸtÄ±rma kuleleri mevcuttur. OlasÄ± bir sabotaj veya fÃ¼ze saldÄ±rÄ±sÄ±na karÅŸÄ± sis perdesi oluÅŸturma ve acil kÃ¶prÃ¼baÅŸÄ± savunma planÄ± devrededir."
+                                         ],
+                                         [
+                                             "Lojistik rolÃ¼",
+                                             "SavaÅŸ krizinde GÃ–KKALE-4 tesisinin kesintisiz enerji ve mÃ¼himmat takviyesi yalnÄ±zca bu kÃ¶prÃ¼ Ã¼zerinden saÄŸlanmaktadÄ±r. KÃ¶prÃ¼nÃ¼n hasar almasÄ± durumunda yarÄ±mada anakaradan fiilen kopma riskiyle karÅŸÄ±laÅŸÄ±r."
+                                         ]
+                                     ],
+                        "title":  "Sarpburun Asma KÃ¶prÃ¼sÃ¼ ve Kara GeÃ§idi",
+                        "tags":  [
+                                     "kopru",
+                                     "sarpburun",
+                                     "ulasim",
+                                     "gokkale-4",
+                                     "tesisler"
+                                 ],
+                        "category":  "tesisler",
+                        "imageKey":  "doruk-ikmal",
+                        "related":  [
+                                        "sarpburun",
+                                        "gokkale-4",
+                                        "doruk-ikmal",
+                                        "anatarya"
+                                    ],
+                        "lead":  "Sarpburun YarÄ±madasÄ±\u0027nÄ± Anatarya anakarasÄ±na baÄŸlayan stratejik asma kÃ¶prÃ¼ ve tahkimatlÄ± kara geÃ§idi; GÃ–KKALE-4 ikmalinin ana atardamarÄ±dÄ±r.",
+                        "infobox":  [
+                                        [
+                                            "TÃ¼r",
+                                            "Stratejik Asma KÃ¶prÃ¼ ve Askeri GeÃ§it"
+                                        ],
+                                        [
+                                            "Uzunluk",
+                                            "1.850 m (Ana aÃ§Ä±klÄ±k: 1.100 m)"
+                                        ],
+                                        [
+                                            "Åerit SayÄ±sÄ±",
+                                            "4 Karayolu + Ã‡ift Hat AÄŸÄ±r Demiryolu"
+                                        ],
+                                        [
+                                            "GÃ¶zetleme",
+                                            "GeÃ§it MuhafÄ±z Taburu"
+                                        ],
+                                        [
+                                            "Konum",
+                                            "Sarpburun KÄ±staÄŸÄ±"
+                                        ],
+                                        [
+                                            "StatÃ¼",
+                                            "Faal (Askeri GeÃ§iÅŸ Ã–ncelikli)"
+                                        ]
+                                    ]
+                    },
+    "istara-garnizonu":  {
+                             "sections":  [
+                                              [
+                                                  "Stratejik konum",
+                                                  "Ä°stara BoÄŸazÄ±, kÄ±talararasÄ± ticaret ve donanma intikalleri iÃ§in kritik tek su geÃ§ididir. Ä°stara MuhafÄ±z Ä°stasyonu, boÄŸazÄ±n iki yakasÄ±nda yer alan kale kalÄ±ntÄ±larÄ± Ã¼zerine modern radar ve sensÃ¶r aÄŸlarÄ± entegre edilerek kurulmuÅŸtur."
+                                              ],
+                                              [
+                                                  "Seyir gÃ¼venliÄŸi ve denetim",
+                                                  "BoÄŸazdan geÃ§en tÃ¼m askeri ve ticari gemiler istasyonun VTS (Gemi Trafik Hizmetleri) merkezine bildirim yapmak zorundadÄ±r. SavaÅŸ durumunda boÄŸazÄ±n kapatÄ±lmasÄ± ve geÃ§iÅŸ gÃ¼venliÄŸinin saÄŸlanmasÄ± garnizonun yetkisindedir."
+                                              ],
+                                              [
+                                                  "Savunma sistemleri",
+                                                  "Ä°stasyonda konuÅŸlu KOR-SAN kÄ±yÄ± savunma fÃ¼ze bataryalarÄ±, boÄŸaza zorla girmeye Ã§alÄ±ÅŸacak savaÅŸ gemilerini 180 km mesafeden etkisiz hale getirebilecek vuruÅŸ gÃ¼cÃ¼ne sahiptir."
+                                              ]
+                                          ],
+                             "title":  "Ä°stara BoÄŸaz MuhafÄ±z Ä°stasyonu ve Sahil BataryasÄ±",
+                             "tags":  [
+                                          "garnizon",
+                                          "istara",
+                                          "bogaz",
+                                          "sahil-guvenlik",
+                                          "korsan",
+                                          "tesisler"
+                                      ],
+                             "category":  "tesisler",
+                             "imageKey":  "sarp-muhafiz",
+                             "related":  [
+                                             "istara",
+                                             "istara-bogazi",
+                                             "anatarya",
+                                             "korsan"
+                                         ],
+                             "lead":  "Kuzey Denizi ile Ä°Ã§ Deniz arasÄ±ndaki Ä°stara BoÄŸazÄ±\u0027nÄ±n iki yakasÄ±ndaki deniz geÃ§iÅŸlerini kontrol eden, radar ve kÄ±yÄ± savunma fÃ¼zeleriyle donatÄ±lmÄ±ÅŸ Anatarya garnizonu.",
+                             "infobox":  [
+                                             [
+                                                 "TÃ¼r",
+                                                 "BoÄŸaz TahkimatÄ± ve KÄ±yÄ± FÃ¼ze Ä°stasyonu"
+                                             ],
+                                             [
+                                                 "Ä°ÅŸletmeci",
+                                                 "Anatarya KÄ±yÄ± Muhafaza KomutanlÄ±ÄŸÄ±"
+                                             ],
+                                             [
+                                                 "Silah Sistemleri",
+                                                 "[[korsan]] Atmaca-K kÄ±yÄ± savunma fÃ¼zeleri, 76 mm sahil toplarÄ±"
+                                             ],
+                                             [
+                                                 "GÃ¶zetleme",
+                                                 "Ä°stara BoÄŸaz Trafik Radar Kulesi"
+                                             ],
+                                             [
+                                                 "Konum",
+                                                 "[[istara-bogazi]] GiriÅŸi"
+                                             ],
+                                             [
+                                                 "StatÃ¼",
+                                                 "Faal"
+                                             ]
+                                         ]
+                         },
+    "lerya-deniz-ussu":  {
+                             "sections":  [
+                                              [
+                                                  "Tesis yapÄ±sÄ±",
+                                                  "Pelagos Deniz ÃœssÃ¼, doÄŸal bir koy olan Lerya KÃ¶rfezi iÃ§inde yer alÄ±r. DÄ±ÅŸ dalgakÄ±ranlarÄ± koruganlÄ± sahil bataryalarÄ±yla tahkim edilmiÅŸtir. Ãœs iÃ§erisinde savaÅŸ gemisi onarÄ±m tersanesi, torpido depolarÄ± ve komuta karargÃ¢hÄ± bulunmaktadÄ±r."
+                                              ],
+                                              [
+                                                  "Aigaion Grubu baÄŸlantÄ±sÄ±",
+                                                  "Elonya\u0027nÄ±n sancak gemisi olan [[aigaion]] gÃ¼dÃ¼mlÃ¼ mermi firkateyni ve refakatindeki hÃ¼cumbotlar bu Ã¼ste konuÅŸludur. GÃ–KKALE-4 krizinde taarruz grubuna yakÄ±t ve mÃ¼himmat yÃ¼klemesi bu limanda tamamlanmÄ±ÅŸtÄ±r."
+                                              ],
+                                              [
+                                                  "BÃ¶lgesel etkisi",
+                                                  "Ãœs, Kalyon Denizi\u0027ndeki dar deniz boÄŸazlarÄ±nÄ±n kontrolÃ¼nÃ¼ elinde tutarak Anatarya\u0027nÄ±n ticari deniz yollarÄ±nÄ± baskÄ± altÄ±nda tutma kabiliyetine sahiptir."
+                                              ]
+                                          ],
+                             "title":  "Lerya Donanma KomutanlÄ±ÄŸÄ± ve Pelagos Deniz ÃœssÃ¼",
+                             "tags":  [
+                                          "deniz-ussu",
+                                          "liman",
+                                          "elonya",
+                                          "aigaion",
+                                          "donanma",
+                                          "tesisler"
+                                      ],
+                             "category":  "tesisler",
+                             "imageKey":  "aigaion",
+                             "related":  [
+                                             "elonya",
+                                             "aigaion",
+                                             "kalyon-denizi",
+                                             "pelagos-karakolu"
+                                         ],
+                             "lead":  "Elonya Deniz Kuvvetleri\u0027nin Kalyon Denizi\u0027ndeki ana harekÃ¢t merkezi, tersanesi ve firkateyn filotillasÄ± konuÅŸlanma limanÄ±.",
+                             "infobox":  [
+                                             [
+                                                 "TÃ¼r",
+                                                 "Ana Deniz ÃœssÃ¼ ve Askeri Tersane"
+                                             ],
+                                             [
+                                                 "Ä°ÅŸletmeci",
+                                                 "Elonya Deniz Kuvvetleri"
+                                             ],
+                                             [
+                                                 "BaÄŸlÄ± Birlikler",
+                                                 "1. Firkateyn FilotillasÄ±, Kalyon HÃ¼cumbot Taburu"
+                                             ],
+                                             [
+                                                 "RÄ±htÄ±m Kapasitesi",
+                                                 "12 muharip gemi, 2 kuru havuz"
+                                             ],
+                                             [
+                                                 "Konum",
+                                                 "Lerya Koyu / Kalyon KÄ±yÄ±sÄ±"
+                                             ],
+                                             [
+                                                 "StatÃ¼",
+                                                 "Faal (SavaÅŸ SeferberliÄŸi)"
+                                             ]
+                                         ]
+                         },
+    "arkent-jet-ussu":  {
+                            "sections":  [
+                                             [
+                                                 "Konum ve altyapÄ±",
+                                                 "Arkent\u0027in 35 km batÄ±sÄ±ndaki daÄŸ eteÄŸi ovasÄ±na inÅŸa edilen 1. Ana Jet ÃœssÃ¼, yeraltÄ± takviyeli hangarlarÄ±, taktik mÃ¼himmat sÄ±ÄŸÄ±naklarÄ± ve baÄŸÄ±msÄ±z yakÄ±t ikmal tÃ¼nelleriyle Anatarya\u0027nÄ±n en korunaklÄ± hava Ã¼ssÃ¼dÃ¼r. Ãœs pistleri, harp zamanÄ±nda otoyol acil iniÅŸ ÅŸeritleriyle entegre Ã§alÄ±ÅŸacak ÅŸekilde dizayn edilmiÅŸtir."
+                                             ],
+                                             [
+                                                 "KonuÅŸlu filolar",
+                                                 "Ãœs, Ã¼lkenin en seÃ§kin hava birliklerini barÄ±ndÄ±rÄ±r. Yeni nesil [[k21-kaan]] uÃ§aklarÄ±nÄ± ilk teslim alan 101. Karakartal Filosu ile Sarpburun ve Kalyon Ã¼zerinde hava devriyesi yapan [[k16-alaz]] filolarÄ± buradan sevk ve idare edilir. AyrÄ±ca [[baykut]] Ã¼retimi [[al-elma]] insansÄ±z savaÅŸ jetleri de bu Ã¼ste test ve harekÃ¢t faaliyetleri yÃ¼rÃ¼tmektedir."
+                                             ],
+                                             [
+                                                 "HarekÃ¢t rolÃ¼",
+                                                 "Kriz dÃ¶neminde Ã¼s, GÃ–KKALE-4 Ã¼zerindeki hava sahasÄ±na 6 dakikada reaksiyon gÃ¶steren Ã¶nleme nÃ¶beti sÃ¼rdÃ¼rmektedir. Elonya\u0027nÄ±n [[lerya-jet-ussu]] konuÅŸlu hava unsurlarÄ±yla karÅŸÄ± karÅŸÄ±ya gelen Anatarya jetleri, operasyonlarÄ±nÄ± Arkent Hava HarekÃ¢t Merkezi Ã¼zerinden icra eder."
+                                             ]
+                                         ],
+                            "title":  "Arkent 1. Ana Jet Ãœs KomutanlÄ±ÄŸÄ± (Karakartal)",
+                            "tags":  [
+                                         "hava-ussu",
+                                         "arkent",
+                                         "jet",
+                                         "k21-kaan",
+                                         "hava-kuvvetleri",
+                                         "tesisler"
+                                     ],
+                            "category":  "tesisler",
+                            "imageKey":  "kartal",
+                            "related":  [
+                                            "anatarya",
+                                            "k21-kaan",
+                                            "k16-alaz",
+                                            "al-elma",
+                                            "anasas"
+                                        ],
+                            "lead":  "Anatarya Hava Kuvvetleri\u0027nin baÅŸkent savunmasÄ± ve batÄ± harekÃ¢t sahasÄ±nÄ± koruyan ana avcÄ± Ã¼ssÃ¼. K-21 KAAN, K16-Alaz ve insansÄ±z savaÅŸ filolarÄ±na ev sahipliÄŸi yapar.",
+                            "infobox":  [
+                                            [
+                                                "TÃ¼r",
+                                                "Ana Muharip Jet ÃœssÃ¼"
+                                            ],
+                                            [
+                                                "Ä°ÅŸletmeci",
+                                                "Anatarya Hava Kuvvetleri"
+                                            ],
+                                            [
+                                                "Ana Filolar",
+                                                "101. Kartal Filo ([[k21-kaan]]), 132. HanÃ§er Filosu ([[k16-alaz]]), 14. Ä°nsansÄ±z AvcÄ± Filosu ([[al-elma]])"
+                                            ],
+                                            [
+                                                "Pist SayÄ±sÄ±",
+                                                "2 (Betonarme, 3.400 m)"
+                                            ],
+                                            [
+                                                "Konum",
+                                                "Arkent BatÄ±sÄ±"
+                                            ],
+                                            [
+                                                "StatÃ¼",
+                                                "Faal (1. Derece Sefer AlarmÄ±)"
+                                            ]
+                                        ]
+                        },
+    "sarpburun-radar":  {
+                            "sections":  [
+                                             [
+                                                 "Genel bakÄ±ÅŸ",
+                                                 "SARP-RAD, Sarpburun YarÄ±madasÄ±\u0027nÄ±n en yÃ¼ksek noktasÄ±nda yer alÄ±r. Tesis, Anatarya\u0027nÄ±n batÄ± sÄ±nÄ±rlarÄ±nÄ± ve [[gokkale-4]] uzay Ã¼ssÃ¼nÃ¼ yaklaÅŸan hava, deniz ve balistik fÃ¼ze tehditlerine karÅŸÄ± korumak iÃ§in 2031 yÄ±lÄ±nda hizmete girmiÅŸtir. ÃœÃ§ boyutlu AESA anteni ve geliÅŸmiÅŸ sinyal iÅŸleme algoritmalarÄ±, Kalyon Denizi Ã¼zerindeki alÃ§ak irtifa hedeflerini ufuk Ã¶tesinden tespit edebilir."
+                                             ],
+                                             [
+                                                 "Elektronik harp yetenekleri",
+                                                 "Kompleks yalnÄ±zca pasif ve aktif radar taramasÄ± yapmakla kalmaz; aynÄ± zamanda geniÅŸ bant elektronik destek (ED) ve karÄ±ÅŸtÄ±rma (ET) kabiliyetine sahiptir. [[elonya]] keÅŸif uÃ§aklarÄ± ve Ä°HA\u0027larÄ±nÄ±n sÄ±nÄ±r ihlallerini engellemek iÃ§in yerel radar kÃ¶reltme ve GPS yanÄ±ltma protokolleri uygular."
+                                             ],
+                                             [
+                                                 "Taktik Ã¶nem",
+                                                 "GÃ–KKALE-4 krizinde SARP-RAD, [[aigaion]] firkateyn grubunun yaklaÅŸtÄ±ÄŸÄ±nÄ± tespit eden ilk yer gÃ¶zlem istasyonu olmuÅŸtur. Tesis, elde ettiÄŸi anlÄ±k hedef izlerini doÄŸrudan [[arkent-jet-ussu]]\u0027ndeki [[k21-kaan]] filolarÄ±na ve [[kor-kalkan-bataryasi]]\u0027na aktarmaktadÄ±r."
+                                             ]
+                                         ],
+                            "title":  "Sarpburun Erken UyarÄ± Radar Kompleksi (SARP-RAD)",
+                            "tags":  [
+                                         "radar",
+                                         "sarpburun",
+                                         "savunma",
+                                         "elektronik-harp",
+                                         "sarpsan",
+                                         "tesisler"
+                                     ],
+                            "category":  "tesisler",
+                            "imageKey":  "sarp-muhafiz",
+                            "related":  [
+                                            "sarpburun",
+                                            "gokkale-4",
+                                            "sarpsan",
+                                            "kor-kalkan-bataryasi",
+                                            "kalkan-hss"
+                                        ],
+                            "lead":  "Sarpburun YarÄ±madasÄ±\u0027nÄ±n kuzey sÄ±rtlarÄ±nda kurulu, Kalyon Denizi ve Avren hava sahasÄ±nÄ± 600 km yarÄ±Ã§apta gÃ¶zetleyen SARPSAN Ã¼retimi aktif faz dizili erken uyarÄ± ve elektronik harp kompleksi.",
+                            "infobox":  [
+                                            [
+                                                "TÃ¼r",
+                                                "Erken uyarÄ± ve hava gÃ¶zetleme radarÄ±"
+                                            ],
+                                            [
+                                                "Ä°ÅŸletmeci",
+                                                "Anatarya Hava Savunma KomutanlÄ±ÄŸÄ±"
+                                            ],
+                                            [
+                                                "Ãœretici",
+                                                "[[sarpsan]]"
+                                            ],
+                                            [
+                                                "Menzil",
+                                                "600 km aerodinamik, 1.000 km balistik"
+                                            ],
+                                            [
+                                                "Konum",
+                                                "[[sarpburun]] Kuzey SÄ±rtÄ±"
+                                            ],
+                                            [
+                                                "Koruma",
+                                                "[[kor-kalkan-bataryasi]]"
+                                            ],
+                                            [
+                                                "StatÃ¼",
+                                                "Faal (YÃ¼ksek Alarm)"
+                                            ]
+                                        ]
+                        }
 };
+
 const dataEN={
     "anatarya":  {
-                     "title":  "Republic of Anatarya",
+                     "title":  "Republic of Anataria",
                      "category":  "Countries",
                      "desc":  "A unitary republic east of the Kalyon Sea.",
-                     "lead":  "The Republic of Anatarya is a unitary republic occupying a large peninsula and interior plateaus east of the [[kalyon-denizi]], with its capital at Arkent. Its western border adjoins Elonya, its southern coast borders the Kalyon Sea, and its northern frontier extends into the Avren mainland.",
+                     "lead":  "The Republic of Anataria is a unitary republic occupying a large peninsula and interior plateaus east of the [[kalyon-denizi]], with its capital at Arkent. Its western border adjoins Elonia, its southern coast borders the Kalyon Sea, and its northern frontier extends into the Avren mainland.",
                      "facts":  [
                                    [
                                        "Official name",
-                                       "Republic of Anatarya"
+                                       "Republic of Anataria"
                                    ],
                                    [
                                        "Capital",
@@ -2842,7 +3892,7 @@ const dataEN={
                                    ],
                                    [
                                        "Official language",
-                                       "Anataryan"
+                                       "Anatarian"
                                    ],
                                    [
                                        "Government",
@@ -2888,7 +3938,7 @@ const dataEN={
                                       ],
                                       [
                                           "Society and culture",
-                                          "Anataryan is the common language of education and public administration. Coastal, plateau and mountain regions differ markedly in architecture, cuisine and local dialects. Large industrial cities are characterized by mixed populations shaped by internal migration.\n\nEngineering and public education occupy an important place in the republic’s account of modernization. The civilian face of the space program consists of weather forecasting, communications, disaster observation and university research. For this reason, [[gokkale-4]] is regarded as a public symbol of technical progress as well as a site of military importance."
+                                          "Anatarian is the common language of education and public administration. Coastal, plateau and mountain regions differ markedly in architecture, cuisine and local dialects. Large industrial cities are characterized by mixed populations shaped by internal migration.\n\nEngineering and public education occupy an important place in the republic’s account of modernization. The civilian face of the space program consists of weather forecasting, communications, disaster observation and university research. For this reason, [[gokkale-4]] is regarded as a public symbol of technical progress as well as a site of military importance."
                                       ],
                                       [
                                           "Defense and the space program",
@@ -2896,11 +3946,11 @@ const dataEN={
                                       ],
                                       [
                                           "Foreign relations",
-                                          "Anatarya’s membership in [[kuzey-kusagi]] provides access to collective defense and intelligence sharing. Membership in the same alliance as [[elonya]] has not eliminated the maritime disputes between the two countries. The parties interpret activities around the islands respectively as an exercise of sovereign rights and a security threat.\n\nWhen [[sarpburun-dosyasi]] was published, Anatarya declared the documents to be forgeries and called for a joint investigation. The alliance’s preference for an investigation and a call for a ceasefire rather than military intervention weakened confidence in its security commitments within the country."
+                                          "Anatarya’s membership in [[kuzey-kusagi]] provides access to collective defense and intelligence sharing. Membership in the same alliance as [[elonya]] has not eliminated the maritime disputes between the two countries. The parties interpret activities around the islands respectively as an exercise of sovereign rights and a security threat.\n\nWhen [[sarpburun-dosyasi]] was published, Anataria declared the documents to be forgeries and called for a joint investigation. The alliance’s preference for an investigation and a call for a ceasefire rather than military intervention weakened confidence in its security commitments within the country."
                                       ],
                                       [
                                           "GÖKKALE-4 Crisis",
-                                          "The [[sarpburun-dosyasi]], prepared by [[elonya-istihbarati]], created the impression that Anatarya was preparing a first strike around [[kalyon-adalari]]. Elonya’s government presented the dossier as evidence of an imminent threat, decided to go to war and dispatched the [[aigaion]] group to the region.\n\nAnatarya’s request for collective defense failed to secure the necessary political consensus within [[kuzey-kusagi]]. While the alliance refrained from launching a military operation, the country began defending [[gokkale-4]] with its own forces."
+                                          "The [[sarpburun-dosyasi]], prepared by [[elonya-istihbarati]], created the impression that Anataria was preparing a first strike around [[kalyon-adalari]]. Elonia’s government presented the dossier as evidence of an imminent threat, decided to go to war and dispatched the [[aigaion]] group to the region.\n\nAnatarya’s request for collective defense failed to secure the necessary political consensus within [[kuzey-kusagi]]. While the alliance refrained from launching a military operation, the country began defending [[gokkale-4]] with its own forces."
                                       ],
                                       [
                                           "Principal units",
@@ -2926,14 +3976,14 @@ const dataEN={
                      "imageKey":  "flag-anatarya"
                  },
     "elonya":  {
-                   "title":  "Republic of Elonya",
+                   "title":  "Republic of Elonia",
                    "category":  "Countries",
                    "desc":  "A maritime republic west of the Kalyon Sea.",
-                   "lead":  "The Republic of Elonya is a unitary maritime nation situated west of the [[kalyon-denizi]] along the southwestern fringe of the Avren mainland, with its capital at Lerya.",
+                   "lead":  "The Republic of Elonia is a unitary maritime nation situated west of the [[kalyon-denizi]] along the southwestern fringe of the Avren mainland, with its capital at Lerya.",
                    "facts":  [
                                  [
                                      "Official name",
-                                     "Republic of Elonya"
+                                     "Republic of Elonia"
                                  ],
                                  [
                                      "Capital",
@@ -2941,7 +3991,7 @@ const dataEN={
                                  ],
                                  [
                                      "Official language",
-                                     "Elonyan"
+                                     "Elonian"
                                  ],
                                  [
                                      "Government",
@@ -2971,11 +4021,11 @@ const dataEN={
                    "sections":  [
                                     [
                                         "Geography and climate",
-                                        "Elonya’s settlement pattern is shaped by narrow coastal plains, mountainous inland areas and islands. Most major cities developed around natural harbors. The coastal climate, with its dry summers, gives way to cooler and wetter conditions at higher elevations. The fragmented distribution of arable land has increased the economic importance of maritime trade.\n\nThe island chains around [[kalyon-adalari]] intertwine the country’s sea routes with its security concerns. Elonya’s administration in the western parts of the archipelago borders the sovereignty disputes in the central belt.\n\nThe Elonya peninsula joins the mainland of [[avrupa]] to the north. In the northeast, it shares a land border with Anatarya’s Avren side; this border lies west of [[istara]] and [[istara-bogazi]]."
+                                        "Elonya’s settlement pattern is shaped by narrow coastal plains, mountainous inland areas and islands. Most major cities developed around natural harbors. The coastal climate, with its dry summers, gives way to cooler and wetter conditions at higher elevations. The fragmented distribution of arable land has increased the economic importance of maritime trade.\n\nThe island chains around [[kalyon-adalari]] intertwine the country’s sea routes with its security concerns. Elonia’s administration in the western parts of the archipelago borders the sovereignty disputes in the central belt.\n\nThe Elonia peninsula joins the mainland of [[avrupa]] to the north. In the northeast, it shares a land border with Anataria’s Avren side; this border lies west of [[istara]] and [[istara-bogazi]]."
                                     ],
                                     [
                                         "History",
-                                        "The Republic of Elonya arose from the union of coastal cities and island administrations around a common assembly. The central challenge of the early republic was reconciling the islands’ commercial autonomy with the central government’s taxation and defense needs. Lerya’s maritime circles played an influential role in the new state’s financial and diplomatic structure.\n\nThe growth of the merchant fleet connected the country to foreign markets, while naval service and port administration became strong professional traditions. Following accession to [[kuzey-kusagi]], the air and naval forces were adapted to shared standards. Nevertheless, crises with [[anatarya]] over military activities around the islands could not be permanently resolved."
+                                        "The Republic of Elonia arose from the union of coastal cities and island administrations around a common assembly. The central challenge of the early republic was reconciling the islands’ commercial autonomy with the central government’s taxation and defense needs. Lerya’s maritime circles played an influential role in the new state’s financial and diplomatic structure.\n\nThe growth of the merchant fleet connected the country to foreign markets, while naval service and port administration became strong professional traditions. Following accession to [[kuzey-kusagi]], the air and naval forces were adapted to shared standards. Nevertheless, crises with [[anatarya]] over military activities around the islands could not be permanently resolved."
                                     ],
                                     [
                                         "State structure and politics",
@@ -2987,7 +4037,7 @@ const dataEN={
                                     ],
                                     [
                                         "Society and culture",
-                                        "Although Elonyan is the official language, different dialects and local traditions remain alive among the island settlements. Seafaring, migration and port trade have a strong presence in literature, public ceremonies and family occupations. Lerya is the principal destination for island residents seeking education and employment.\n\nThe state’s maritime security rhetoric does not mean that all of society shares a single view. Before the war, universities, commercial organizations and opposition groups called for an independent examination of [[sarpburun-dosyasi]]. Official publications, however, portrayed the dossier as evidence of an imminent attack."
+                                        "Although Elonian is the official language, different dialects and local traditions remain alive among the island settlements. Seafaring, migration and port trade have a strong presence in literature, public ceremonies and family occupations. Lerya is the principal destination for island residents seeking education and employment.\n\nThe state’s maritime security rhetoric does not mean that all of society shares a single view. Before the war, universities, commercial organizations and opposition groups called for an independent examination of [[sarpburun-dosyasi]]. Official publications, however, portrayed the dossier as evidence of an imminent attack."
                                     ],
                                     [
                                         "Defense and intelligence",
@@ -2995,11 +4045,11 @@ const dataEN={
                                     ],
                                     [
                                         "Foreign relations and justification for war",
-                                        "Within [[kuzey-kusagi]], Elonya presents itself as a member protecting the alliance’s sea lanes. It also framed its objection to [[anatarya]]’s space program as a matter of collective security rather than national rivalry.\n\nThe [[sarpburun-dosyasi]] alleges that an Anataryan first strike against the islands is imminent. Based on this claim, Elonya’s government declared war, calling the operation against GÖKKALE-4 “preventive defense.” This expression is Elonya’s official justification; it does not mean that the alliance approved the operation."
+                                        "Within [[kuzey-kusagi]], Elonia presents itself as a member protecting the alliance’s sea lanes. It also framed its objection to [[anatarya]]’s space program as a matter of collective security rather than national rivalry.\n\nThe [[sarpburun-dosyasi]] alleges that an Anatarian first strike against the islands is imminent. Based on this claim, Elonia’s government declared war, calling the operation against GÖKKALE-4 “preventive defense.” This expression is Elonia’s official justification; it does not mean that the alliance approved the operation."
                                     ],
                                     [
                                         "GÖKKALE-4 Crisis",
-                                        "The apparent cause of the war is the allegation of an attack contained in the dossier. The military objective is to disable [[gokkale-4]]’s capacity before [[kartal-7]] enters service. The new satellite would reduce the secrecy of Elonya’s naval movements and island deployments.\n\nThe uncertainty caused by the forged documents deadlocked the collective defense decision within [[kuzey-kusagi]], and the alliance did not participate militarily in the war. The documents’ true origin was not publicly verified when the crisis began. The war therefore became a diplomatic struggle over the credibility of intelligence claims alongside the military conflict."
+                                        "The apparent cause of the war is the allegation of an attack contained in the dossier. The military objective is to disable [[gokkale-4]]’s capacity before [[kartal-7]] enters service. The new satellite would reduce the secrecy of Elonia’s naval movements and island deployments.\n\nThe uncertainty caused by the forged documents deadlocked the collective defense decision within [[kuzey-kusagi]], and the alliance did not participate militarily in the war. The documents’ true origin was not publicly verified when the crisis began. The war therefore became a diplomatic struggle over the credibility of intelligence claims alongside the military conflict."
                                     ],
                                     [
                                         "Principal units",
@@ -3007,7 +4057,7 @@ const dataEN={
                                     ],
                                     [
                                         "Kipraya policy",
-                                        "[[elonya]] regards the government of [[kipraya]] as the legitimate representative of the entire island. It does not recognize the north’s separate independence and advocates resolving the island’s status through negotiations. Anatarya’s security role in the north creates tension between the two countries."
+                                        "[[elonya]] regards the government of [[kipraya]] as the legitimate representative of the entire island. It does not recognize the north’s separate independence and advocates resolving the island’s status through negotiations. Anataria’s security role in the north creates tension between the two countries."
                                     ]
                                 ],
                    "related":  [
@@ -3090,7 +4140,7 @@ const dataEN={
     "sarpburun":  {
                       "title":  "Sarpburun Peninsula",
                       "category":  "Geography",
-                      "desc":  "A strategic coastal peninsula connected to mainland Anatarya in the east.",
+                      "desc":  "A strategic coastal peninsula connected to mainland Anataria in the east.",
                       "lead":  "Sarpburun Peninsula is a coastal projection extending westward from the mainland of [[anatarya]] into [[kalyon-denizi]]. It is continuously connected to the main peninsula by the isthmus in the east; it is not an island. The [[gokkale-4]] satellite control and launch complex stands on the peninsula.",
                       "facts":  [
                                     [
@@ -3264,7 +4314,7 @@ const dataEN={
                      "sections":  [
                                       [
                                           "Strategic importance",
-                                          "The satellite is described as a new reconnaissance capability that could reveal Elonya’s naval movements, island bases and military deployments. The introduction of this capability affects the balance between the two countries."
+                                          "The satellite is described as a new reconnaissance capability that could reveal Elonia’s naval movements, island bases and military deployments. The introduction of this capability affects the balance between the two countries."
                                       ],
                                       [
                                           "Launch and crisis",
@@ -3316,7 +4366,7 @@ const dataEN={
     "aigaion":  {
                     "title":  "AIGAION Battle Group",
                     "category":  "Units",
-                    "desc":  "The combined naval force dispatched by Elonya to Sarpburun.",
+                    "desc":  "The combined naval force dispatched by Elonia to Sarpburun.",
                     "lead":  "The AIGAION Battle Group is the naval group dispatched by [[elonya]] toward [[sarpburun]]. The frigates AIGAION and THALASSA, [[nereus-cikarma]] and [[kallisto-ikmal]] are its principal components. During [[kriz]], they jointly perform maritime surveillance, escort, force transport and logistics duties.",
                     "facts":  [
                                   [
@@ -3379,8 +4429,8 @@ const dataEN={
     "hancer":  {
                    "title":  "132nd Hançer Tactical Squadron",
                    "category":  "Units",
-                   "desc":  "An Anataryan air squadron founded in 1978; the legacy of DAGGER 06 and Black November.",
-                   "lead":  "The 132nd Hançer Tactical Squadron is an [[anatarya]] air unit established in 1978 to provide air defense for the Sarpburun region. It uses the call sign “Dagger.” Regarded as one of the symbols of Anataryan air superiority, the squadron is known both for its role in the defense of [[gokkale-4]] and for DAGGER 06, which disappeared on 17 November 1994, and the commemorative plaque at its headquarters.",
+                   "desc":  "An Anatarian air squadron founded in 1978; the legacy of DAGGER 06 and Black November.",
+                   "lead":  "The 132nd Hançer Tactical Squadron is an [[anatarya]] air unit established in 1978 to provide air defense for the Sarpburun region. It uses the call sign “Dagger.” Regarded as one of the symbols of Anatarian air superiority, the squadron is known both for its role in the defense of [[gokkale-4]] and for DAGGER 06, which disappeared on 17 November 1994, and the commemorative plaque at its headquarters.",
                    "facts":  [
                                  [
                                      "Country",
@@ -3426,7 +4476,7 @@ const dataEN={
                                     ],
                                     [
                                         "Black November Incident (17 November 1994)",
-                                        "On 17 November 1994, an Anataryan [[k4-boran]] aircraft using the call sign DAGGER 06 disappeared. The aircraft vanished from radar 11 seconds after its last radio message. Its wreckage was never reached; the fate of its pilot and weapons systems officer was not disclosed.\n\nKnown in the unit’s history as “Black November,” the incident is recorded in Classified File 94-117. The cause of the loss has not been established."
+                                        "On 17 November 1994, an Anatarian [[k4-boran]] aircraft using the call sign DAGGER 06 disappeared. The aircraft vanished from radar 11 seconds after its last radio message. Its wreckage was never reached; the fate of its pilot and weapons systems officer was not disclosed.\n\nKnown in the unit’s history as “Black November,” the incident is recorded in Classified File 94-117. The cause of the loss has not been established."
                                     ],
                                     [
                                         "Commemorative plaque at headquarters",
@@ -3442,7 +4492,7 @@ const dataEN={
                                     ],
                                     [
                                         "Defense of GÖKKALE-4 and LAST DAWN",
-                                        "Hançer serves in the defense of [[gokkale-4]] and is identified as the unit authorized for LAST DAWN. It is one of the principal units in Anatarya’s air defense during [[kriz]].\n\nThe unit is commanded by the national military authorities; membership in [[kuzey-kusagi]] does not automatically place the squadron under pact command."
+                                        "Hançer serves in the defense of [[gokkale-4]] and is identified as the unit authorized for LAST DAWN. It is one of the principal units in Anataria’s air defense during [[kriz]].\n\nThe unit is commanded by the national military authorities; membership in [[kuzey-kusagi]] does not automatically place the squadron under pact command."
                                     ],
                                     [
                                         "Unit insignia",
@@ -3466,7 +4516,7 @@ const dataEN={
     "ucaksavar":  {
                       "title":  "21st Anti-Aircraft Battalion",
                       "category":  "Units",
-                      "desc":  "An Elonyan coastal and island air defense battalion.",
+                      "desc":  "An Elonian coastal and island air defense battalion.",
                       "lead":  "The 21st Anti-Aircraft Battalion belongs to the [[elonya]] Air Force surveillance network over Lerya Bay and the western [[kalyon-adalari]]. During [[kriz]] it protected the coastal return route of the [[aigaion]] task group; it did not directly take part in a flight over [[gokkale-4]].",
                       "facts":  [
                                     [
@@ -3501,7 +4551,7 @@ const dataEN={
                                        ],
                                        [
                                            "Supply and limits",
-                                           "Narrow harbor roads constrain ammunition and fuel delivery to the mountainous island sites. Maritime supply is coordinated with [[kallisto-ikmal]]. Its fixed sites do not cover the [[sarpburun]] coast; it has no organic relationship to Anataryan units around [[gokkale-4]]."
+                                           "Narrow harbor roads constrain ammunition and fuel delivery to the mountainous island sites. Maritime supply is coordinated with [[kallisto-ikmal]]. Its fixed sites do not cover the [[sarpburun]] coast; it has no organic relationship to Anatarian units around [[gokkale-4]]."
                                        ],
                                        [
                                            "Unit insignia",
@@ -3550,15 +4600,15 @@ const dataEN={
                                   ],
                                   [
                                       "Forged documents and justification for war",
-                                      "[[elonya-istihbarati]] prepared the collection of documents known as [[sarpburun-dosyasi]] under [[cam-perde]]. The dossier alleges that Anatarya planned a first strike. Elonya’s government presented this allegation as its justification for war; Anatarya declared the documents to be forgeries."
+                                      "[[elonya-istihbarati]] prepared the collection of documents known as [[sarpburun-dosyasi]] under [[cam-perde]]. The dossier alleges that Anataria planned a first strike. Elonia’s government presented this allegation as its justification for war; Anataria declared the documents to be forgeries."
                                   ],
                                   [
                                       "The alliance’s position",
-                                      "[[kuzey-kusagi]], of which both countries are members, could not reach consensus on the dossier’s credibility or application of the collective defense clause. No decision on joint military intervention was reached; the alliance limited itself to diplomatic contacts and an investigation. This decision does not constitute approval of Elonya’s operation."
+                                      "[[kuzey-kusagi]], of which both countries are members, could not reach consensus on the dossier’s credibility or application of the collective defense clause. No decision on joint military intervention was reached; the alliance limited itself to diplomatic contacts and an investigation. This decision does not constitute approval of Elonia’s operation."
                                   ],
                                   [
                                       "Military escalation",
-                                      "The [[aigaion]] group was dispatched toward [[sarpburun]]. While Anatarya protects the facility and launch program with its own forces, Elonya aims to disable the facility before the new reconnaissance capability emerges."
+                                      "The [[aigaion]] group was dispatched toward [[sarpburun]]. While Anataria protects the facility and launch program with its own forces, Elonia aims to disable the facility before the new reconnaissance capability emerges."
                                   ],
                                   [
                                       "Current situation",
@@ -3620,15 +4670,15 @@ const dataEN={
                                           ],
                                           [
                                               "The Sarpburun Dossier and the decision-making deadlock",
-                                              "Through [[sarpburun-dosyasi]], [[elonya]] alleged that Anatarya was preparing a first strike. [[anatarya]] rejected the dossier, arguing that it was the party under attack and that the collective defense clause should apply.\n\nSome members refused to make a military decision before an independent examination of the documents was completed, while others supported Anatarya’s request. Elonya also withheld approval for a joint operation against itself. The forged documents thus influenced not only public opinion but also deadlocked the alliance’s decision-making process."
+                                              "Through [[sarpburun-dosyasi]], [[elonya]] alleged that Anataria was preparing a first strike. [[anatarya]] rejected the dossier, arguing that it was the party under attack and that the collective defense clause should apply.\n\nSome members refused to make a military decision before an independent examination of the documents was completed, while others supported Anataria’s request. Elonia also withheld approval for a joint operation against itself. The forged documents thus influenced not only public opinion but also deadlocked the alliance’s decision-making process."
                                           ],
                                           [
                                               "The decision not to intervene",
-                                              "The Council did not assign a joint military force, limiting itself to a call for a ceasefire, examination of the documents and diplomatic contacts. This position does not mean that Elonya’s justification for war was verified or that the pact signed a neutrality treaty.\n\nFor Anatarya, the result was the failure of the expected collective defense assistance to arrive. The alliance’s institutional decision not to enter the war and the political positions of individual members are separate matters."
+                                              "The Council did not assign a joint military force, limiting itself to a call for a ceasefire, examination of the documents and diplomatic contacts. This position does not mean that Elonia’s justification for war was verified or that the pact signed a neutrality treaty.\n\nFor Anataria, the result was the failure of the expected collective defense assistance to arrive. The alliance’s institutional decision not to enter the war and the political positions of individual members are separate matters."
                                           ],
                                           [
                                               "Positions of the member states",
-                                              "[[veloria]] opposed an operation before the source investigation was complete, while [[dalmerya]] focused on mediation for civilian shipping. [[vardena]] advocated preventing the conflict from spreading to land borders, while [[rovenya]] argued that Anatarya’s defense request should not be rejected in advance. [[elonya]] would not accept the use of joint forces against its own operation. These divisions, together with the uncertainty surrounding [[sarpburun-dosyasi]], prevented consensus."
+                                              "[[veloria]] opposed an operation before the source investigation was complete, while [[dalmerya]] focused on mediation for civilian shipping. [[vardena]] advocated preventing the conflict from spreading to land borders, while [[rovenya]] argued that Anataria’s defense request should not be rejected in advance. [[elonya]] would not accept the use of joint forces against its own operation. These divisions, together with the uncertainty surrounding [[sarpburun-dosyasi]], prevented consensus."
                                           ],
                                           [
                                               "Flag and symbol",
@@ -3650,10 +4700,10 @@ const dataEN={
                          "imageKey":  "flag-kuzey-kusagi"
                      },
     "elonya-istihbarati":  {
-                               "title":  "Elonya National Intelligence Directorate",
+                               "title":  "Elonia National Intelligence Directorate",
                                "category":  "Organizations",
                                "desc":  "Elonya’s foreign intelligence and strategic assessment agency.",
-                               "lead":  "The Elonya National Intelligence Directorate (EUİD) is the intelligence agency that supplies foreign security assessments to the government of [[elonya]]. The [[sarpburun-dosyasi]] it prepared under [[cam-perde]] was decisive in constructing the political justification for war with [[anatarya]].",
+                               "lead":  "The Elonia National Intelligence Directorate (EUİD) is the intelligence agency that supplies foreign security assessments to the government of [[elonya]]. The [[sarpburun-dosyasi]] it prepared under [[cam-perde]] was decisive in constructing the political justification for war with [[anatarya]].",
                                "facts":  [
                                              [
                                                  "Abbreviation",
@@ -3683,11 +4733,11 @@ const dataEN={
                                                 ],
                                                 [
                                                     "Glass Curtain activity",
-                                                    "Following the assessment that the [[kartal-7]] program would make Elonya’s military movements visible, a covert political influence activity known as [[cam-perde]] was conducted within the agency. The dossier it prepared combined existing regional disputes with a fictitious first-strike plan.\n\nThe activity aimed to secure public support for war and prevent [[kuzey-kusagi]] members from rapidly reaching a joint decision in Anatarya’s favor. It is not assumed that all employees of the agency knew about the activity."
+                                                    "Following the assessment that the [[kartal-7]] program would make Elonia’s military movements visible, a covert political influence activity known as [[cam-perde]] was conducted within the agency. The dossier it prepared combined existing regional disputes with a fictitious first-strike plan.\n\nThe activity aimed to secure public support for war and prevent [[kuzey-kusagi]] members from rapidly reaching a joint decision in Anataria’s favor. It is not assumed that all employees of the agency knew about the activity."
                                                 ],
                                                 [
                                                     "Position during the crisis",
-                                                    "The directorate forwarded the dossier to the government as the basis for a national security assessment presented to the public. While [[anatarya]] rejected the documents, Elonya’s authorities invoked source confidentiality. The inability to examine the dossier independently deepened political divisions within the alliance."
+                                                    "The directorate forwarded the dossier to the government as the basis for a national security assessment presented to the public. While [[anatarya]] rejected the documents, Elonia’s authorities invoked source confidentiality. The inability to examine the dossier independently deepened political divisions within the alliance."
                                                 ]
                                             ],
                                "related":  [
@@ -3700,8 +4750,8 @@ const dataEN={
     "sarpburun-dosyasi":  {
                               "title":  "Sarpburun Dossier",
                               "category":  "Documents",
-                              "desc":  "The collection of forged documents presented by Elonya as its justification for war.",
-                              "lead":  "The Sarpburun Dossier is the collective name for forged documents prepared by [[elonya-istihbarati]] under [[cam-perde]] and presented as if they belonged to the government of [[anatarya]]. The dossier alleged that Anatarya was planning a first strike around [[kalyon-adalari]] and was used by the government of [[elonya]] as its justification for declaring war.",
+                              "desc":  "The collection of forged documents presented by Elonia as its justification for war.",
+                              "lead":  "The Sarpburun Dossier is the collective name for forged documents prepared by [[elonya-istihbarati]] under [[cam-perde]] and presented as if they belonged to the government of [[anatarya]]. The dossier alleged that Anataria was planning a first strike around [[kalyon-adalari]] and was used by the government of [[elonya]] as its justification for declaring war.",
                               "facts":  [
                                             [
                                                 "Type",
@@ -3731,7 +4781,7 @@ const dataEN={
                                                ],
                                                [
                                                    "Publication and the decision for war",
-                                                   "Elonya’s government presented selected portions of the dossier to the public and shared broader contents with representatives of [[kuzey-kusagi]]. The announcement was followed by the decision for war and the dispatch of the [[aigaion]] group toward [[sarpburun]]. Anatarya stated that the published texts did not belong to its chain of command."
+                                                   "Elonya’s government presented selected portions of the dossier to the public and shared broader contents with representatives of [[kuzey-kusagi]]. The announcement was followed by the decision for war and the dispatch of the [[aigaion]] group toward [[sarpburun]]. Anataria stated that the published texts did not belong to its chain of command."
                                                ],
                                                [
                                                    "True origin and public uncertainty",
@@ -3739,7 +4789,7 @@ const dataEN={
                                                ],
                                                [
                                                    "Political effects",
-                                                   "The dossier framed Elonya’s attack as a response to an imminent threat and made Anatarya’s request for assistance contentious. [[kriz]] is therefore both a defense of a facility and a struggle over the legitimacy of the war’s justification. When and how the documents will be publicly disproved remains beyond the current timeline."
+                                                   "The dossier framed Elonia’s attack as a response to an imminent threat and made Anataria’s request for assistance contentious. [[kriz]] is therefore both a defense of a facility and a struggle over the legitimacy of the war’s justification. When and how the documents will be publicly disproved remains beyond the current timeline."
                                                ]
                                            ],
                               "related":  [
@@ -3776,11 +4826,11 @@ const dataEN={
                       "sections":  [
                                        [
                                            "Background",
-                                           "The [[kartal-7]] program was viewed as a development that would reduce the secrecy of Elonya’s naval movements and island bases. Since a direct attack on [[gokkale-4]] was expected to provoke a reaction within the alliance, a political justification was prepared before the military operation."
+                                           "The [[kartal-7]] program was viewed as a development that would reduce the secrecy of Elonia’s naval movements and island bases. Since a direct attack on [[gokkale-4]] was expected to provoke a reaction within the alliance, a political justification was prepared before the military operation."
                                        ],
                                        [
                                            "Purpose and outcome",
-                                           "By foregrounding the allegation that Anatarya would initiate an attack, the activity portrayed Elonya’s operation as a preventive response. The debate arising from [[sarpburun-dosyasi]] prevented a collective defense decision and bought Elonya diplomatic time at the start of the operation.\n\nGlass Curtain is not a plan that guarantees military victory. Its success relates only to the political environment at the start of the war; the outcome of the defense of [[gokkale-4]] and the satellite launch is determined separately."
+                                           "By foregrounding the allegation that Anataria would initiate an attack, the activity portrayed Elonia’s operation as a preventive response. The debate arising from [[sarpburun-dosyasi]] prevented a collective defense decision and bought Elonia diplomatic time at the start of the operation.\n\nGlass Curtain is not a plan that guarantees military victory. Its success relates only to the political environment at the start of the war; the outcome of the defense of [[gokkale-4]] and the satellite launch is determined separately."
                                        ]
                                    ],
                       "related":  [
@@ -3793,8 +4843,8 @@ const dataEN={
     "avrupa":  {
                    "title":  "Avren mainland",
                    "category":  "Geography",
-                   "desc":  "The northwestern mainland connected to Elonya and Anatarya’s Avren side.",
-                   "lead":  "Avren is the northwestern mainland encompassing [[veloria]], [[dalmerya]], [[vardena]], [[rovenya]] and [[elonya]], as well as Anatarya’s territory west of the strait. [[anatarya]] and [[elonya]] share a land border west of [[istara]].",
+                   "desc":  "The northwestern mainland connected to Elonia and Anataria’s Avren side.",
+                   "lead":  "Avren is the northwestern mainland encompassing [[veloria]], [[dalmerya]], [[vardena]], [[rovenya]] and [[elonya]], as well as Anataria’s territory west of the strait. [[anatarya]] and [[elonya]] share a land border west of [[istara]].",
                    "facts":  [
                                  [
                                      "Type",
@@ -3812,7 +4862,7 @@ const dataEN={
                    "sections":  [
                                     [
                                         "States and borders",
-                                        "[[veloria]] encompasses the northwestern coast, [[dalmerya]] the western peninsula, [[vardena]] the central transition belt and [[rovenya]] the northeastern coast. [[elonya]] is a peninsular state extending southward. Anatarya’s Avren territory lies between Elonya and Rovenya."
+                                        "[[veloria]] encompasses the northwestern coast, [[dalmerya]] the western peninsula, [[vardena]] the central transition belt and [[rovenya]] the northeastern coast. [[elonya]] is a peninsular state extending southward. Anataria’s Avren territory lies between Elonia and Rovenia."
                                     ],
                                     [
                                         "Political organizations",
@@ -3834,8 +4884,8 @@ const dataEN={
     "istara":  {
                    "title":  "İstara",
                    "category":  "Geography",
-                   "desc":  "The strait city connecting Anatarya’s two shores.",
-                   "lead":  "İstara is a port and transit city within [[anatarya]] that developed around [[istara-bogazi]]. The settlement extends between the Avren side and the main peninsula. Linking the shores of two continents, the city is one of the region’s most important trade passages. Anatarya’s capital is Arkent.",
+                   "desc":  "The strait city connecting Anataria’s two shores.",
+                   "lead":  "İstara is a port and transit city within [[anatarya]] that developed around [[istara-bogazi]]. The settlement extends between the Avren side and the main peninsula. Linking the shores of two continents, the city is one of the region’s most important trade passages. Anataria’s capital is Arkent.",
                    "facts":  [
                                  [
                                      "Country",
@@ -3857,7 +4907,7 @@ const dataEN={
                    "sections":  [
                                     [
                                         "Geography",
-                                        "The city’s western side is on Avren. Its eastern side connects to Anatarya’s large main peninsula. The land border with [[elonya]] lies farther west of the city; the strait itself is not the border between the two countries."
+                                        "The city’s western side is on Avren. Its eastern side connects to Anataria’s large main peninsula. The land border with [[elonya]] lies farther west of the city; the strait itself is not the border between the two countries."
                                     ],
                                     [
                                         "Strategic importance",
@@ -3903,7 +4953,7 @@ const dataEN={
                                            ],
                                            [
                                                "Distinction from the land border",
-                                               "Anatarya and [[elonya]] share a land border on the Avren side. This border lies west of İstara Strait; both shores around the strait belong to Anatarya."
+                                               "Anatarya and [[elonya]] share a land border on the Avren side. This border lies west of İstara Strait; both shores around the strait belong to Anataria."
                                            ]
                                        ],
                           "related":  [
@@ -3917,10 +4967,10 @@ const dataEN={
                           "draft":  false
                       },
     "veloria":  {
-                    "title":  "Federation of Veloria",
+                    "title":  "Federation of Velaria",
                     "category":  "Countries",
                     "desc":  "A regional state in northwestern Avren.",
-                    "lead":  "The Federation of Veloria is a state in northwestern Avren with its capital at Veler. It is a federation that developed along extensive northwestern coasts and inland industrial basins. Port cities, financial centers and advanced manufacturing regions form the backbone of its economy. It is a member of [[kuzey-kusagi]] and [[avren-birligi]].",
+                    "lead":  "The Federation of Velaria is a state in northwestern Avren with its capital at Veler. It is a federation that developed along extensive northwestern coasts and inland industrial basins. Port cities, financial centers and advanced manufacturing regions form the backbone of its economy. It is a member of [[kuzey-kusagi]] and [[avren-birligi]].",
                     "facts":  [
                                   [
                                       "Capital",
@@ -3958,7 +5008,7 @@ const dataEN={
                                      ],
                                      [
                                          "GÖKKALE-4 Crisis",
-                                         "Veloria argued that joint military operations should not be approved before the source of the dossier was independently verified. This position does not mean it confirmed Elonya’s allegations; the government also demanded a halt to the attack. [[sarpburun-dosyasi]] and [[kriz]] are principal items on the country’s foreign policy agenda."
+                                         "Veloria argued that joint military operations should not be approved before the source of the dossier was independently verified. This position does not mean it confirmed Elonia’s allegations; the government also demanded a halt to the attack. [[sarpburun-dosyasi]] and [[kriz]] are principal items on the country’s foreign policy agenda."
                                      ],
                                      [
                                          "Flag",
@@ -3976,10 +5026,10 @@ const dataEN={
                     "draft":  false
                 },
     "dalmerya":  {
-                     "title":  "Republic of Dalmerya",
+                     "title":  "Republic of Dalmeria",
                      "category":  "Countries",
                      "desc":  "A regional state on the western Avren coast.",
-                     "lead":  "The Republic of Dalmerya is a state on the western Avren coast with its capital at Dalmera. It occupies a long peninsula extending southward from western Avren. There are pronounced economic and cultural differences between its coastal cities and mountainous interior. It is a member of [[kuzey-kusagi]] and [[avren-birligi]].",
+                     "lead":  "The Republic of Dalmeria is a state on the western Avren coast with its capital at Dalmera. It occupies a long peninsula extending southward from western Avren. There are pronounced economic and cultural differences between its coastal cities and mountainous interior. It is a member of [[kuzey-kusagi]] and [[avren-birligi]].",
                      "facts":  [
                                    [
                                        "Capital",
@@ -4009,11 +5059,11 @@ const dataEN={
                                       ],
                                       [
                                           "History and government",
-                                          "The union of once-independent port republics formed Dalmerya’s political foundation. Following unification, both commercial law and regional municipal autonomy were preserved."
+                                          "The union of once-independent port republics formed Dalmeria’s political foundation. Following unification, both commercial law and regional municipal autonomy were preserved."
                                       ],
                                       [
                                           "Economy and society",
-                                          "Shipbuilding, marine insurance, port operations and machinery manufacturing occupy an important place in the economy. Dalmerya considers keeping commercial routes in Kalyon open a national interest."
+                                          "Shipbuilding, marine insurance, port operations and machinery manufacturing occupy an important place in the economy. Dalmeria considers keeping commercial routes in Kalyon open a national interest."
                                       ],
                                       [
                                           "GÖKKALE-4 Crisis",
@@ -4038,7 +5088,7 @@ const dataEN={
                     "title":  "Republic of Vardena",
                     "category":  "Countries",
                     "desc":  "A regional state in central Avren’s transition belt.",
-                    "lead":  "The Republic of Vardena is a state in central Avren’s transition belt with its capital at Vardis. It lies north of Elonya around mountain passes and river basins. Land routes between western and eastern Avren determine the country’s strategic value. It is a member of [[kuzey-kusagi]] and [[avren-birligi]].",
+                    "lead":  "The Republic of Vardena is a state in central Avren’s transition belt with its capital at Vardis. It lies north of Elonia around mountain passes and river basins. Land routes between western and eastern Avren determine the country’s strategic value. It is a member of [[kuzey-kusagi]] and [[avren-birligi]].",
                     "facts":  [
                                   [
                                       "Capital",
@@ -4064,7 +5114,7 @@ const dataEN={
                     "sections":  [
                                      [
                                          "Geography",
-                                         "It lies north of Elonya around mountain passes and river basins. Land routes between western and eastern Avren determine the country’s strategic value."
+                                         "It lies north of Elonia around mountain passes and river basins. Land routes between western and eastern Avren determine the country’s strategic value."
                                      ],
                                      [
                                          "History and government",
@@ -4076,7 +5126,7 @@ const dataEN={
                                      ],
                                      [
                                          "GÖKKALE-4 Crisis",
-                                         "Vardena is concerned that the war could spread to the Avren land border. It supported an investigative commission and a temporary ceasefire proposal, and did not accept Elonya’s allegations as an independent finding. [[sarpburun-dosyasi]] and [[kriz]] are principal items on the country’s foreign policy agenda."
+                                         "Vardena is concerned that the war could spread to the Avren land border. It supported an investigative commission and a temporary ceasefire proposal, and did not accept Elonia’s allegations as an independent finding. [[sarpburun-dosyasi]] and [[kriz]] are principal items on the country’s foreign policy agenda."
                                      ],
                                      [
                                          "Flag",
@@ -4094,10 +5144,10 @@ const dataEN={
                     "draft":  false
                 },
     "rovenya":  {
-                    "title":  "Federation of Rovenya",
+                    "title":  "Federation of Rovenia",
                     "category":  "Countries",
                     "desc":  "A regional state in northeastern Avren.",
-                    "lead":  "The Federation of Rovenya is a state in northeastern Avren with its capital at Roven. It is a broad federation opening onto the western and northern shores of the Northern Sea. Forested plateaus, river cities and northern ports form distinct economic regions. It is a member of [[kuzey-kusagi]] and [[avren-birligi]].",
+                    "lead":  "The Federation of Rovenia is a state in northeastern Avren with its capital at Roven. It is a broad federation opening onto the western and northern shores of the Northern Sea. Forested plateaus, river cities and northern ports form distinct economic regions. It is a member of [[kuzey-kusagi]] and [[avren-birligi]].",
                     "facts":  [
                                   [
                                       "Capital",
@@ -4135,7 +5185,7 @@ const dataEN={
                                      ],
                                      [
                                          "GÖKKALE-4 Crisis",
-                                         "Rovenya argued that the allegations in the Sarpburun Dossier could not automatically invalidate Anatarya’s request for collective defense. However, a joint operation did not begin because the necessary consensus within the pact was not reached. [[sarpburun-dosyasi]] and [[kriz]] are principal items on the country’s foreign policy agenda."
+                                         "Rovenya argued that the allegations in the Sarpburun Dossier could not automatically invalidate Anataria’s request for collective defense. However, a joint operation did not begin because the necessary consensus within the pact was not reached. [[sarpburun-dosyasi]] and [[kriz]] are principal items on the country’s foreign policy agenda."
                                      ],
                                      [
                                          "Flag",
@@ -4190,7 +5240,7 @@ const dataEN={
                                      ],
                                      [
                                          "History of the division",
-                                         "The institutions of the shared republic were weakened by disputes over representation and security between the two communities. Following a pro-unification coup attempt, Anataryan intervention and fighting led to the establishment of a ceasefire line. Population movements, property disputes and mutual security concerns entrenched the division."
+                                         "The institutions of the shared republic were weakened by disputes over representation and security between the two communities. Following a pro-unification coup attempt, Anatarian intervention and fighting led to the establishment of a ceasefire line. Population movements, property disputes and mutual security concerns entrenched the division."
                                      ],
                                      [
                                          "Foreign relations",
@@ -4250,7 +5300,7 @@ const dataEN={
                                            ],
                                            [
                                                "Distinction from the KKSP",
-                                               "[[kuzey-kusagi]] is a military defense pact. The Avren Union is an institution for political and economic integration. Kipraya’s membership in the AB while remaining outside the KKSP, and Anatarya’s membership in the KKSP without full membership in the AB, illustrate this distinction."
+                                               "[[kuzey-kusagi]] is a military defense pact. The Avren Union is an institution for political and economic integration. Kipraya’s membership in the AB while remaining outside the KKSP, and Anataria’s membership in the KKSP without full membership in the AB, illustrate this distinction."
                                            ],
                                            [
                                                "GÖKKALE-4 Crisis",
@@ -4447,7 +5497,7 @@ const dataEN={
                       "title":  "M-12 Aster",
                       "category":  "Vehicles",
                       "desc":  "Multirole fighter aircraft.",
-                      "lead":  "The M-12 Aster is a multirole fighter aircraft platform used by [[elonya]]. Elonya uses it for air defense and air support to naval forces. It is the principal platform of the 41st Mızrak Squadron.",
+                      "lead":  "The M-12 Aster is a multirole fighter aircraft platform used by [[elonya]]. Elonia uses it for air defense and air support to naval forces. It is the principal platform of the 41st Mızrak Squadron.",
                       "facts":  [
                                     [
                                         "Country",
@@ -4469,7 +5519,7 @@ const dataEN={
                       "sections":  [
                                        [
                                            "Role",
-                                           "A multirole aircraft used by Elonya for air defense and air support to naval forces. It is the principal platform of the 41st Mızrak Squadron."
+                                           "A multirole aircraft used by Elonia for air defense and air support to naval forces. It is the principal platform of the 41st Mızrak Squadron."
                                        ],
                                        [
                                            "Design and service",
@@ -4670,7 +5720,7 @@ const dataEN={
     "sarp-muhafiz":  {
                          "title":  "4th Sarp Guard Company",
                          "category":  "Units",
-                         "desc":  "A facility protection and response unit of the Anataryan forces.",
+                         "desc":  "A facility protection and response unit of the Anatarian forces.",
                          "lead":  "A company tasked with military security and response, protecting critical infrastructure on [[sarpburun]]. It focuses on the mainland connection, personnel safety and maintaining civilian evacuation arrangements during the crisis.",
                          "facts":  [
                                        [
@@ -4725,8 +5775,8 @@ const dataEN={
     "mizrak":  {
                    "title":  "41st Mızrak Tactical Squadron",
                    "category":  "Units",
-                   "desc":  "A tactical air squadron of the Elonyan forces.",
-                   "lead":  "A multirole flying unit of Elonya’s air force. It conducts air missions in the area where the [[aigaion]] group operates. It is a separate organization from the maritime patrol aircraft.",
+                   "desc":  "A tactical air squadron of the Elonian forces.",
+                   "lead":  "A multirole flying unit of Elonia’s air force. It conducts air missions in the area where the [[aigaion]] group operates. It is a separate organization from the maritime patrol aircraft.",
                    "facts":  [
                                  [
                                      "Country",
@@ -4748,7 +5798,7 @@ const dataEN={
                    "sections":  [
                                     [
                                         "Organization and role",
-                                        "A multirole flying unit of Elonya’s air force. It conducts air missions in the area where the [[aigaion]] group operates. It is a separate organization from the maritime patrol aircraft. The unit is commanded by the national military authorities; membership in [[kuzey-kusagi]] does not automatically place it under pact command."
+                                        "A multirole flying unit of Elonia’s air force. It conducts air missions in the area where the [[aigaion]] group operates. It is a separate organization from the maritime patrol aircraft. The unit is commanded by the national military authorities; membership in [[kuzey-kusagi]] does not automatically place it under pact command."
                                     ],
                                     [
                                         "Aircraft and vehicles",
@@ -4775,8 +5825,8 @@ const dataEN={
     "nereus-komando":  {
                            "title":  "8th Nereus Naval Commando Group",
                            "category":  "Units",
-                           "desc":  "A naval special mission unit of the Elonyan forces.",
-                           "lead":  "One of Elonya’s special units operating in the maritime environment. It conducts activities such as personnel protection, movement by sea and search-and-rescue support on missions attached to the [[aigaion]] group.",
+                           "desc":  "A naval special mission unit of the Elonian forces.",
+                           "lead":  "One of Elonia’s special units operating in the maritime environment. It conducts activities such as personnel protection, movement by sea and search-and-rescue support on missions attached to the [[aigaion]] group.",
                            "facts":  [
                                          [
                                              "Country",
@@ -4802,7 +5852,7 @@ const dataEN={
                            "sections":  [
                                             [
                                                 "Organization and role",
-                                                "One of Elonya’s special units operating in the maritime environment. It conducts activities such as personnel protection, movement by sea and search-and-rescue support on missions attached to the [[aigaion]] group. The unit is commanded by the national military authorities; membership in [[kuzey-kusagi]] does not automatically place it under pact command."
+                                                "One of Elonia’s special units operating in the maritime environment. It conducts activities such as personnel protection, movement by sea and search-and-rescue support on missions attached to the [[aigaion]] group. The unit is commanded by the national military authorities; membership in [[kuzey-kusagi]] does not automatically place it under pact command."
                                             ],
                                             [
                                                 "Aircraft and vehicles",
@@ -4883,7 +5933,7 @@ const dataEN={
     "kuzey-kipraya":  {
                           "title":  "North Kipraya Republic",
                           "category":  "Countries",
-                          "desc":  "The administration in northern Kipraya island, recognized only by Anatarya.",
+                          "desc":  "The administration in northern Kipraya island, recognized only by Anataria.",
                           "lead":  "The North Kipraya Republic is a state governed through separate institutions in the north of [[kipraya-adasi]]. Its independence is recognized only by [[anatarya]]. The government of [[kipraya]] and [[avren-birligi]] regard the north as part of the Republic of Kipraya. Its administrative center is North Kipra.",
                           "facts":  [
                                         [
@@ -4917,12 +5967,12 @@ const dataEN={
                                                "Separate administrative institutions were created in the north after the ceasefire; independence was declared in the subsequent period. The assembly, municipalities and public institutions operate in the northern part. The southern government does not recognize the declaration of independence."
                                            ],
                                            [
-                                               "Relations with Anatarya",
+                                               "Relations with Anataria",
                                                "Anatarya supports the north’s diplomatic recognition, transport links and security. This relationship does not grant the north KKSP membership; it has no separate representation within the pact."
                                            ],
                                            [
                                                "Society and economy",
-                                               "Ports on the northern coast, universities, tourism and agriculture are the principal sectors of economic life. The recognition problem limits options for direct trade and transport; connections through Anatarya are important."
+                                               "Ports on the northern coast, universities, tourism and agriculture are the principal sectors of economic life. The recognition problem limits options for direct trade and transport; connections through Anataria are important."
                                            ],
                                            [
                                                "Kipra and crossings",
@@ -4976,11 +6026,11 @@ const dataEN={
                                            ],
                                            [
                                                "Political geography",
-                                               "The ceasefire line is not an ordinary border between two internationally recognized states. While the southern government is recognized across the island, the northern administration is recognized only by Anatarya. The colors on the map show areas of de facto administration."
+                                               "The ceasefire line is not an ordinary border between two internationally recognized states. While the southern government is recognized across the island, the northern administration is recognized only by Anataria. The colors on the map show areas of de facto administration."
                                            ],
                                            [
                                                "Regional importance",
-                                               "The island occupies a position overlooking the sea routes opening southward from Kalyon. Tensions between Anatarya and Elonya directly affect the island’s security politics, trade and reunification talks."
+                                               "The island occupies a position overlooking the sea routes opening southward from Kalyon. Tensions between Anataria and Elonia directly affect the island’s security politics, trade and reunification talks."
                                            ]
                                        ],
                           "related":  [
@@ -5248,7 +6298,7 @@ const dataEN={
                          "title":  "9th Iris Airborne Brigade",
                          "category":  "Units",
                          "desc":  "Elonya’s airborne brigade assigned to the island chain.",
-                         "lead":  "The 9th Iris Airborne Brigade is a rapidly deployable unit of the [[elonya]] Army. Its mission area covers the western [[kalyon-adalari]] and airfields on the Elonyan mainland. It is organizationally separate from the [[nereus-komando]] naval units serving with the [[aigaion]] group.",
+                         "lead":  "The 9th Iris Airborne Brigade is a rapidly deployable unit of the [[elonya]] Army. Its mission area covers the western [[kalyon-adalari]] and airfields on the Elonian mainland. It is organizationally separate from the [[nereus-komando]] naval units serving with the [[aigaion]] group.",
                          "facts":  [
                                        [
                                            "Country",
@@ -5307,59 +6357,6 @@ const dataEN={
                          "imageKey":  "patch-iris-indirme",
                          "draft":  false
                      },
-    "lerya-deniz-ussu":  {
-                             "title":  "Lerya Naval Base",
-                             "category":  "Facilities",
-                             "desc":  "Elonya Navy main operating base and staging harbor for the AIGAION group.",
-                             "lead":  "Lerya Naval Base is the principal naval and logistical installation situated along the Gulf of Lerya on mainland [[elonya]]. Serving as the home port of the [[aigaion]] Battle Group, the base hosts drydocks, ammunition depots and naval commando training grounds. Frigates and replenishment ships deployed to the area during the [[kriz]] sailed from this facility.",
-                             "facts":  [
-                                           [
-                                               "Facility type",
-                                               "Naval base and logistics port"
-                                           ],
-                                           [
-                                               "Operating country",
-                                               "[[elonya]]"
-                                           ],
-                                           [
-                                               "Location",
-                                               "Gulf of Lerya"
-                                           ],
-                                           [
-                                               "Key forces",
-                                               "[[aigaion]] · [[nereus-komando]]"
-                                           ],
-                                           [
-                                               "Air defense",
-                                               "[[ucaksavar]]"
-                                           ]
-                                       ],
-                             "sections":  [
-                                              [
-                                                  "Base infrastructure",
-                                                  "The base features deep-water piers accommodating frigates and landing vessels, fuel bunkering facilities, and reinforced munitions storage. The [[kallisto-ikmal]] replenishment ship completed its pre-deployment loading here. The inner section includes specialized training facilities and boat pens assigned to [[nereus-komando]]."
-                                              ],
-                                              [
-                                                  "Air and coastal security",
-                                                  "Air defense around the Gulf of Lerya is provided by [[ucaksavar]]. Gulf radar stations and coastal missile batteries protect the base\u0027s airspace. Patrol aircraft from [[pelagos-devriye]] routinely monitor sea lanes outside the gulf."
-                                              ],
-                                              [
-                                                  "Role in the GÖKKALE-4 Crisis",
-                                                  "Following the declaration of war, the AIGAION group slipped its moorings from this base and deployed toward [[sarpburun]]. Throughout the crisis, the facility has remained on standby as the primary hub for logistics reinforcement and casualty evacuation."
-                                              ]
-                                          ],
-                             "related":  [
-                                             "elonya",
-                                             "aigaion",
-                                             "ucaksavar",
-                                             "kallisto-ikmal",
-                                             "nereus-komando",
-                                             "kalyon-denizi",
-                                             "kriz"
-                                         ],
-                             "imageKey":  "",
-                             "draft":  false
-                         },
     "sarpburun-radar-istasyonu":  {
                                       "title":  "Sarpburun Radar Station",
                                       "category":  "Facilities",
@@ -5530,7 +6527,1096 @@ const dataEN={
                                      ],
                          "imageKey":  "",
                          "draft":  false
-                     }
+                     },
+    "ostenya":  {
+                    "title":  "United States of Ostanya",
+                    "category":  "Countries",
+                    "desc":  "Transoceanic superpower and operator of the ARGUS global positioning constellation.",
+                    "lead":  "The United States of Ostanya (USO) is a transoceanic military, technological, and economic superpower occupying a vast continent west of Avren. As the champion of maritime free trade and cutting-edge aerospace standards, Ostanya commands nuclear supercarrier strike groups and operates the ARGUS satellite constellation, projecting undisputed naval and orbital presence. A close strategic partner of [[elonya]], Ostanya declared \u0027freedom of navigation patrols\u0027 in the Kalyon Sea during the [[kriz]], dispatching guided missile cruisers and nuclear attack submarines to the periphery.",
+                    "facts":  [
+                                  [
+                                      "Government",
+                                      "Federal presidential republic"
+                                  ],
+                                  [
+                                      "Capital",
+                                      "Port Sterling"
+                                  ],
+                                  [
+                                      "Global role",
+                                      "Military and economic superpower"
+                                  ],
+                                  [
+                                      "Regional partners",
+                                      "[[elonya]] · [[kuzey-kusagi]]"
+                                  ],
+                                  [
+                                      "Key systems",
+                                      "ARGUS Satellite Constellation · 7th Fleet"
+                                  ]
+                              ],
+                    "sections":  [
+                                     [
+                                         "Global doctrine and naval supremacy",
+                                         "Ostanyan security doctrine centers upon keeping international sea lanes and strategic chokepoints open. Megacorporations like \u0027Iron Dome Aerospace\u0027 and \u0027General Dynamics-Osten\u0027 supply fifth-generation stealth fighters and precision munitions worldwide."
+                                     ],
+                                     [
+                                         "Posture during the GÖKKALE-4 Crisis",
+                                         "Anataria\u0027s independent orbital program at [[sarpburun]] was labeled by Ostanya as an uncontrolled escalation threatening its ally Elonia. While avoiding formal involvement in the declaration of war, Ostanya has supplied real-time reconnaissance feeds to the Elonian Navy."
+                                     ]
+                                 ],
+                    "related":  [
+                                    "elonya",
+                                    "aigaion",
+                                    "ursya",
+                                    "huaxia",
+                                    "gokkale-4",
+                                    "kriz"
+                                ],
+                    "imageKey":  "",
+                    "draft":  false
+                },
+    "ursya":  {
+                  "title":  "Ursian Federation",
+                  "category":  "Countries",
+                  "desc":  "Continental superpower spanning northern tundras with vast heavy industry and nuclear arsenals.",
+                  "lead":  "The Ursian Federation is a vast continental superpower spanning the frozen tundras, taiga, and interior mountain ranges northeast of Avren. Holding the world\u0027s largest landmass and colossal energy reserves, Ursya is recognized for heavy metallurgy, rocket propulsion, and strategic deterrence. Historically maintaining balanced defense ties with [[anatarya]], Ursya licensed the engine designs and baseline telemetry for Anataria\u0027s workhorse [[k4-boran]] strike jets and heavy space launch stages.",
+                  "facts":  [
+                                [
+                                    "Government",
+                                    "Federal semi-presidential republic"
+                                ],
+                                [
+                                    "Capital",
+                                    "Severograd"
+                                ],
+                                [
+                                    "Global role",
+                                    "Continental superpower and energy titan"
+                                ],
+                                [
+                                    "Defense exports",
+                                    "K-4 Boran jet engines · Heavy rocket stages"
+                                ],
+                                [
+                                    "Doctrine",
+                                    "Strategic depth and multipolar balance"
+                                ]
+                            ],
+                  "sections":  [
+                                   [
+                                       "Aerospace and propulsion heritage",
+                                       "Ursian design philosophy emphasizes rugged airframes and high-output engines capable of austere operations. State combines like \u0027Sever-Aviatsiya\u0027 produce some of the most potent solid and liquid rocket boosters in existence."
+                                   ],
+                                   [
+                                       "Geopolitical counterweight in the crisis",
+                                       "Viewing Ostanyan-Elonian naval maneuvers as an encirclement of southern flanks, Ursya has provided Anataria with passive electronic counter-reconnaissance components to balance Western coalition pressure."
+                                   ]
+                               ],
+                  "related":  [
+                                  "anatarya",
+                                  "k4-boran",
+                                  "hancer",
+                                  "ostenya",
+                                  "gokkale-4",
+                                  "kriz"
+                              ],
+                  "imageKey":  "",
+                  "draft":  false
+              },
+    "huaxia":  {
+                   "title":  "People\u0027s Republic of Huaxia",
+                   "category":  "Countries",
+                   "desc":  "Eastern manufacturing, microelectronics, and orbital component titan.",
+                   "lead":  "The People\u0027s Republic of Huaxia is an eastern industrial titan and demographic heavyweight serving as the primary foundry of global electronics. Producing the lion\u0027s share of high-purity silicon wafers, rare earth minerals, and solar array wafers, Huaxia supplied the dense photovoltaic cells and optical beam splitters utilized on [[gokkale-4]].",
+                   "facts":  [
+                                 [
+                                     "Government",
+                                     "Unitary socialist republic"
+                                 ],
+                                 [
+                                     "Capital",
+                                     "Tiandu"
+                                 ],
+                                 [
+                                     "Global role",
+                                     "Global electronics and manufacturing center"
+                                 ],
+                                 [
+                                     "Program share",
+                                     "GÖKKALE-4 high-efficiency solar cells"
+                                 ],
+                                 [
+                                     "Foreign policy",
+                                     "Pragmatic neutrality and commercial corridors"
+                                 ]
+                             ],
+                   "sections":  [
+                                    [
+                                        "Semiconductor and materials leverage",
+                                        "Both Anataria and Elonia rely on Huaxia\u0027s semiconductor fabrication plants for radar chips and signal processors, giving Huaxia quiet commercial leverage over regional military modernization."
+                                    ],
+                                    [
+                                        "Commercial neutrality in the conflict",
+                                        "Calling for maritime stability in the Kalyon Sea, Huaxia maintains open trade with all belligerents while honoring commercial shipments of dual-use telecommunication components."
+                                    ]
+                                ],
+                   "related":  [
+                                   "anatarya",
+                                   "elonya",
+                                   "gokkale-4",
+                                   "ostenya",
+                                   "ursya",
+                                   "kriz"
+                               ],
+                   "imageKey":  "",
+                   "draft":  false
+               },
+    "anasas":  {
+                   "title":  "ANASAS Aerospace",
+                   "category":  "Organizations",
+                   "desc":  "Anataria Aerospace Industries; the nation\u0027s premier aircraft and launch system prime contractor.",
+                   "lead":  "ANASAS (Anataria Aerospace Industries) is the industrial cornerstone of [[anatarya]]\u0027s sovereignty in the skies and orbital space. Founded following historical foreign arms embargoes, the company is the lead integrator of the [[k21-kaan]] 5th-generation stealth fighter, the [[simsek-iii]] space launch vehicle, and the primary bus structures for the [[gokkale-4]] satellite constellation.",
+                   "facts":  [
+                                 [
+                                     "Founded",
+                                     "1975"
+                                 ],
+                                 [
+                                     "Headquarters",
+                                     "Arkent Aerospace Valley"
+                                 ],
+                                 [
+                                     "State affiliate",
+                                     "[[anatarya]]"
+                                 ],
+                                 [
+                                     "Flagship programs",
+                                     "[[k21-kaan]] · [[simsek-iii]] · [[gokkale-4]]"
+                                 ],
+                                 [
+                                     "Industrial partners",
+                                     "[[sarpsan]] · [[korsan]] · [[baykut]]"
+                                 ]
+                             ],
+                   "sections":  [
+                                    [
+                                        "Origin and self-reliance doctrine",
+                                        "Formed in response to exterior supply cutoffs, ANASAS advanced from licensed component overhauls to carbon-composite airframe manufacturing and cleanroom space integration."
+                                    ],
+                                    [
+                                        "Fifth-generation fighter engineering",
+                                        "With the K-21 program, ANASAS joined an elite handful of aerospace firms capable of constructing super-cruising stealth fighters with internal weapons bays."
+                                    ]
+                                ],
+                   "related":  [
+                                   "anatarya",
+                                   "k21-kaan",
+                                   "gokkale-4",
+                                   "simsek-iii",
+                                   "sarpsan",
+                                   "korsan"
+                               ],
+                   "imageKey":  "",
+                   "draft":  false
+               },
+    "baykut":  {
+                   "title":  "Baykut Defense Technologies",
+                   "category":  "Organizations",
+                   "desc":  "Pioneer of autonomous combat drones, AI flight algorithms, and unmanned stealth aircraft.",
+                   "lead":  "Baykut Defense Technologies is a world-renowned [[anatarya]] defense firm pioneering armed unmanned aerial vehicles (UCAVs) and autonomous combat systems. Producing the iconic [[bayrak-t2]] tactical drone, the twin-turboprop [[akin-3]] heavy strike drone, and the [[al-elma]] supersonic unmanned stealth jet, Baykut has fundamentally transformed modern maritime and aerial warfare doctrines.",
+                   "facts":  [
+                                 [
+                                     "Founded",
+                                     "1988"
+                                 ],
+                                 [
+                                     "Headquarters",
+                                     "Arkent Autonomous Systems Campus"
+                                 ],
+                                 [
+                                     "State affiliate",
+                                     "[[anatarya]]"
+                                 ],
+                                 [
+                                     "Core platforms",
+                                     "[[bayrak-t2]] · [[akin-3]] · [[al-elma]]"
+                                 ],
+                                 [
+                                     "Core competencies",
+                                     "Autonomous flight · Machine vision · Loyal wingman swarming"
+                                 ]
+                             ],
+                   "sections":  [
+                                    [
+                                        "Agile innovation and software independence",
+                                        "Operating free of traditional bureaucratic drag, Baykut builds mission avionics, flight-control software, and sensor fusion algorithms in-house, eliminating dependency on foreign electronics."
+                                    ],
+                                    [
+                                        "Tactical impact in the 2036 Crisis",
+                                        "During the Kalyon Sea tensions, relentless patrols by Baykut drones tracked Elonian naval detachments around the clock, providing real-time target vectors to coastal batteries."
+                                    ]
+                                ],
+                   "related":  [
+                                   "anatarya",
+                                   "bayrak-t2",
+                                   "akin-3",
+                                   "al-elma",
+                                   "k21-kaan",
+                                   "kriz"
+                               ],
+                   "imageKey":  "",
+                   "draft":  false
+               },
+    "sarpsan":  {
+                    "title":  "SARPSAN Electronics",
+                    "category":  "Organizations",
+                    "desc":  "National designer of phased-array radars, electronic warfare suites, and electro-optical sensors.",
+                    "lead":  "SARPSAN (Sarpburun Defense Electronics) is the premier electronic warfare and radar design house for the [[anatarya]] Armed Forces. It designs the phased-array surveillance radars at [[sarpburun-radar-istasyonu]], the nose-mounted AESA radar for the [[k21-kaan]], and optical targeting pods deployed across unmanned fleets.",
+                    "facts":  [
+                                  [
+                                      "Founded",
+                                      "1976"
+                                  ],
+                                  [
+                                      "Headquarters",
+                                      "Arkent Radar \u0026 Avionics Park"
+                                  ],
+                                  [
+                                      "State affiliate",
+                                      "[[anatarya]]"
+                                  ],
+                                  [
+                                      "Core capabilities",
+                                      "AESA Radar · Electronic Warfare · Cryptology"
+                                  ],
+                                  [
+                                      "Equipped units",
+                                      "[[sarpburun-radar-istasyonu]] · [[kalkan-hss]] · [[k21-kaan]]"
+                                  ]
+                              ],
+                    "sections":  [
+                                     [
+                                         "Jam-resistant signal engineering",
+                                         "SARPSAN developed the agile frequency-hopping waveforms that counter Elonian jamming attempts originating from the AIGAION battle group."
+                                     ],
+                                     [
+                                         "Analysis of File 94-117",
+                                         "In 2036, SARPSAN laboratories conducted the definitive spectral extraction of the anomalous 243.0 MHz transmission associated with [[dosya-94-117]]."
+                                     ]
+                                 ],
+                    "related":  [
+                                    "anatarya",
+                                    "sarpburun-radar-istasyonu",
+                                    "kalkan-hss",
+                                    "k21-kaan",
+                                    "dosya-94-117"
+                                ],
+                    "imageKey":  "",
+                    "draft":  false
+                },
+    "korsan":  {
+                   "title":  "KORSAN Missile Systems",
+                   "category":  "Organizations",
+                   "desc":  "Manufacturer of solid rocket motors, air defense interceptors, and precision smart munitions.",
+                   "lead":  "KORSAN (Kor Munitions \u0026 Rocket Systems) is the primary rocket propulsion and guided ordnance contractor in [[anatarya]]. It manufactures interceptors for the [[kalkan-hss]] system, solid-propellant booster stages for the [[simsek-iii]] space rocket, and laser-guided micro-munitions for the [[bayrak-t2]] fleet.",
+                   "facts":  [
+                                 [
+                                     "Founded",
+                                     "1984"
+                                 ],
+                                 [
+                                     "Headquarters",
+                                     "Arkent Rocketry Complex"
+                                 ],
+                                 [
+                                     "State affiliate",
+                                     "[[anatarya]]"
+                                 ],
+                                 [
+                                     "Product lines",
+                                     "Kalkan interceptor missiles · MAM precision glide munitions"
+                                 ],
+                                 [
+                                     "Crisis readiness",
+                                     "Round-the-clock replenishment of coastal batteries"
+                                 ]
+                             ],
+                   "sections":  [
+                                    [
+                                        "Solid propellant breakthrough",
+                                        "By mastering advanced composite propellants, KORSAN enabled high-burn-rate rocket motors crucial for both rapid-climb air defense and orbital satellite insertion."
+                                    ]
+                                ],
+                   "related":  [
+                                   "anatarya",
+                                   "kalkan-hss",
+                                   "simsek-iii",
+                                   "gokkale-4",
+                                   "bayrak-t2"
+                               ],
+                   "imageKey":  "",
+                   "draft":  false
+               },
+    "k21-kaan":  {
+                     "title":  "K-21 KAAN",
+                     "category":  "Vehicles",
+                     "desc":  "Anataria’s twin-engine, low-observable 5th-generation national combat stealth fighter.",
+                     "lead":  "The K-21 KAAN is a twin-engine, super-cruising, low-observable (stealth) 5th-generation air superiority and deep strike fighter developed by [[anasas]] for the [[anatarya]] Air Force. Featuring internal weapons bays, an advanced [[sarpsan]] AESA radar, and an integrated helmet-mounted cueing system, the KAAN replaces legacy [[k4-boran]] aircraft. During the 2036 [[kriz]], initial operational prototypes were mobilized at Arkent Air Base, conducting deterrent combat patrols over Sarpburun and the Kalyon Sea.",
+                     "facts":  [
+                                   [
+                                       "Aircraft type",
+                                       "5th-gen multirole stealth fighter"
+                                   ],
+                                   [
+                                       "Manufacturer",
+                                       "[[anasas]] (avionics: [[sarpsan]] · [[korsan]])"
+                                   ],
+                                   [
+                                       "Operator",
+                                       "[[anatarya]] Air Force ([[hancer]])"
+                                   ],
+                                   [
+                                       "Max speed",
+                                       "Mach 1.8+ (Supercruise capable)"
+                                   ],
+                                   [
+                                       "Combat radius",
+                                       "1,100 nautical miles"
+                                   ],
+                                   [
+                                       "Sensors",
+                                       "SARPSAN Nose AESA Radar · Electro-Optical Targeting (EOTS)"
+                                   ],
+                                   [
+                                       "Weapons bays",
+                                       "Internal fuselage and lateral stations (Stealth configuration)"
+                                   ]
+                               ],
+                     "sections":  [
+                                      [
+                                          "Stealth architecture and design",
+                                          "Engineered to penetrate dense enemy radar networks undetected, the KAAN incorporates radar-absorbent composite skin, angled engine intakes, and serrated bay doors to minimize radar cross-section."
+                                      ],
+                                      [
+                                          "Combat debut in the 2036 Crisis",
+                                          "Following the forward deployment of the Elonian AIGAION frigate, two K-21 prototypes scrambled from Arkent on combat air patrol. Inability of Elonian radars to acquire weapons-grade locks proved pivotal in checking coalition escalation."
+                                      ]
+                                  ],
+                     "related":  [
+                                     "anatarya",
+                                     "hancer",
+                                     "anasas",
+                                     "sarpsan",
+                                     "k4-boran",
+                                     "kriz"
+                                 ],
+                     "imageKey":  "air-k16",
+                     "draft":  false
+                 },
+    "bayrak-t2":  {
+                      "title":  "BAYRAK-T2",
+                      "category":  "Vehicles",
+                      "desc":  "Anataria’s 27-hour endurance tactical armed reconnaissance drone system.",
+                      "lead":  "The BAYRAK-T2 is a medium-altitude long-endurance (MALE) tactical unmanned combat aerial vehicle developed by [[baykut]] Defense. Characterized by its inverted V-tail, redundant avionics, and autonomous triple-redundant flight control, the T2 carries four laser-guided smart micro-munitions engineered by [[korsan]]. Throughout the 2036 [[kriz]], T2 squadrons maintained relentless day-and-night surveillance over the Kalyon Sea and the Istara Strait.",
+                      "facts":  [
+                                    [
+                                        "Vehicle type",
+                                        "Tactical Armed Drone (UCAV)"
+                                    ],
+                                    [
+                                        "Manufacturer",
+                                        "[[baykut]] Defense"
+                                    ],
+                                    [
+                                        "Operators",
+                                        "[[anatarya]] Army, Navy \u0026 Air Force"
+                                    ],
+                                    [
+                                        "Endurance",
+                                        "27 hours continuous"
+                                    ],
+                                    [
+                                        "Service ceiling",
+                                        "25,000 ft"
+                                    ],
+                                    [
+                                        "Armament",
+                                        "4 x KOR-SAN Laser-Guided Smart Munitions"
+                                    ]
+                                ],
+                      "sections":  [
+                                       [
+                                           "Maritime reconnaissance reach",
+                                           "Featuring faint acoustic and infrared signatures, the T2 loiters above sea lanes for over a day without risking pilot life, identifying surface vessels from 40 kilometers away via SARPSAN optical suites."
+                                       ],
+                                       [
+                                           "Counter-blockade operations",
+                                           "The transit vectors of the AIGAION battle group were continuously relayed by orbiting T2s, frustrating Elonian attempts to establish covert amphibious footholds."
+                                       ]
+                                   ],
+                      "related":  [
+                                      "anatarya",
+                                      "baykut",
+                                      "korsan",
+                                      "akin-3",
+                                      "al-elma",
+                                      "kriz"
+                                  ],
+                      "imageKey":  "",
+                      "draft":  false
+                  },
+    "akin-3":  {
+                   "title":  "AKIN-3",
+                   "category":  "Vehicles",
+                   "desc":  "Twin-turboprop heavy strategic strike UCAV capable of launching standoff cruise missiles.",
+                   "lead":  "The AKIN-3 is a high-altitude long-endurance (HALE) twin-turboprop heavy strike unmanned aerial vehicle developed by [[baykut]] Defense. Boasting an unprecedented 1,500 kg payload capacity comparable to light attack jets, the AKIN-3 features a nose AESA radar, satellite communications link, and carriage capability for standoff cruise missiles.",
+                   "facts":  [
+                                 [
+                                     "Vehicle type",
+                                     "Heavy Combat UCAV"
+                                 ],
+                                 [
+                                     "Manufacturer",
+                                     "[[baykut]] Defense"
+                                 ],
+                                 [
+                                     "Powerplant",
+                                     "2 x Turboprop engines"
+                                 ],
+                                 [
+                                     "Payload",
+                                     "1,500 kg"
+                                 ],
+                                 [
+                                     "Ceiling",
+                                     "40,000 ft"
+                                 ],
+                                 [
+                                     "Connectivity",
+                                     "Encrypted SATCOM via GÖKKALE Constellation"
+                                 ]
+                             ],
+                   "sections":  [
+                                    [
+                                        "Standoff strike potential",
+                                        "The AKIN-3 can carry long-range precision cruise missiles under its heavy inboard pylons, allowing it to neutralize high-value coastal targets well beyond the engagement envelope of enemy surface-to-air missiles."
+                                    ],
+                                    [
+                                        "Direct space telemetry tie-in",
+                                        "Through an onboard steerable dish antenna, the platform routes mission data directly through the [[gokkale-4]] orbital relay for real-time strategic battle management."
+                                    ]
+                                ],
+                   "related":  [
+                                   "anatarya",
+                                   "baykut",
+                                   "bayrak-t2",
+                                   "al-elma",
+                                   "gokkale-4",
+                                   "kriz"
+                               ],
+                   "imageKey":  "",
+                   "draft":  false
+               },
+    "al-elma":  {
+                    "title":  "AL-ELMA K-01",
+                    "category":  "Vehicles",
+                    "desc":  "AI-driven supersonic unmanned stealth combat fighter jet.",
+                    "lead":  "The AL-ELMA K-01 is a single-engine supersonic unmanned combat stealth fighter (UCAV-Jet) engineered by [[baykut]] Defense. Designed with low-observable canards, radar-absorbent materials, and an aggressive flight envelope, AL-ELMA is crafted for autonomous air-to-air dogfighting, air defense suppression (SEAD), and cooperative \u0027loyal wingman\u0027 operations alongside the manned [[k21-kaan]].",
+                    "facts":  [
+                                  [
+                                      "Vehicle type",
+                                      "Unmanned Stealth Combat Jet"
+                                  ],
+                                  [
+                                      "Manufacturer",
+                                      "[[baykut]] Defense"
+                                  ],
+                                  [
+                                      "Propulsion",
+                                      "Afterburning turbofan engine"
+                                  ],
+                                  [
+                                      "Speed",
+                                      "Supersonic (Mach 1.2)"
+                                  ],
+                                  [
+                                      "Tactical role",
+                                      "Loyal wingman to K-21 KAAN · Autonomous dogfighting"
+                                  ],
+                                  [
+                                      "Basing",
+                                      "Conventional runways and short-deck amphibious carriers"
+                                  ]
+                              ],
+                    "sections":  [
+                                     [
+                                         "Next-generation unmanned air combat",
+                                         "Unconstrained by human G-force limits, AL-ELMA executes instantaneous high-rate turns directed by machine learning algorithms that outpace human pilot reaction times."
+                                     ],
+                                     [
+                                         "Observation during the 2036 Crisis",
+                                         "Civilian and radar monitors recorded formation flights between a K-21 KAAN and an AL-ELMA airframe departing Arkent for coastal patrol, signaling a revolution in regional air warfare."
+                                     ]
+                                 ],
+                    "related":  [
+                                    "anatarya",
+                                    "baykut",
+                                    "k21-kaan",
+                                    "anasas",
+                                    "sarpsan",
+                                    "kriz"
+                                ],
+                    "imageKey":  "",
+                    "draft":  false
+                },
+    "pelagos-karakolu":  {
+                             "sections":  [
+                                              [
+                                                  "Location",
+                                                  "Pelagos Station sits on an isolated rocky islet at the western edge of the disputed Kalyon chain. A concrete breakwater protects a small boat jetty capable of handling high-speed interceptor craft in heavy swells."
+                                              ],
+                                              [
+                                                  "Duties",
+                                                  "Station personnel monitor fishing fleets, report unauthorized Anatarian naval movements across maritime median lines, and relay real-time visual feeds to Lerya headquarters."
+                                              ],
+                                              [
+                                                  "Flashpoint proximity",
+                                                  "The outpost faces Anatarian border patrol stations across narrow nautical channels, leading to frequent radio exchanges and tense close encounters between patrol cutters."
+                                              ]
+                                          ],
+                             "title":  "Pelagos Forward Coast Guard Station",
+                             "tags":  [
+                                          "outpost",
+                                          "coast-guard",
+                                          "elonya",
+                                          "kalyon-denizi",
+                                          "facilities"
+                                      ],
+                             "category":  "facilities",
+                             "imageKey":  "triton-botu",
+                             "related":  [
+                                             "kalyon-adalari",
+                                             "kalyon-denizi",
+                                             "elonya",
+                                             "triton-botu"
+                                         ],
+                             "lead":  "A forward monitoring outpost and rapid-interception patrol boat station operated by Elonia on the western approaches to the Kalyon Islands.",
+                             "infobox":  [
+                                             [
+                                                 "Type",
+                                                 "Forward Maritime Watchpost \u0026 Patrol Station"
+                                             ],
+                                             [
+                                                 "Operator",
+                                                 "Elonia Maritime Safety Authority"
+                                             ],
+                                             [
+                                                 "Vessels",
+                                                 "4 x Rapid Interceptor Patrol Craft"
+                                             ],
+                                             [
+                                                 "Surveillance",
+                                                 "Optoelectronic Mast \u0026 Marine Radar"
+                                             ],
+                                             [
+                                                 "Location",
+                                                 "Western Kalyon Islets"
+                                             ],
+                                             [
+                                                 "Status",
+                                                 "Operational"
+                                             ]
+                                         ]
+                         },
+    "kara-kasim-feneri":  {
+                              "sections":  [
+                                               [
+                                                   "History",
+                                                   "During the maritime confrontation of November 2026, known as \u0027Black November\u0027, naval units from both sides exchanged gunfire in adverse weather, resulting in lost vessels and casualties. Two years later, neutral maritime delegations established this beacon upon a central reef as both a navigational aid and an eternal memorial."
+                                               ],
+                                               [
+                                                   "Memorial plaque",
+                                                   "A bronze register affixed to the granite pedestal lists the names of sailors lost from both nations. The revolving beacon warns vessels away from jagged underwater reefs while serving as a quiet reminder of the human cost of conflict."
+                                               ],
+                                               [
+                                                   "Annual observance",
+                                                   "Every November 15, civilian fishing flotillas from both Elonia and Anataria lay floral wreaths upon the surrounding waters, marking a solemn interlude amid ongoing geopolitical rivalries."
+                                               ]
+                                           ],
+                              "title":  "Black November Memorial Beacon \u0026 Maritime Monument",
+                              "tags":  [
+                                           "beacon",
+                                           "memorial",
+                                           "kalyon-denizi",
+                                           "events",
+                                           "facilities"
+                                       ],
+                              "category":  "facilities",
+                              "imageKey":  "doruk-ikmal",
+                              "related":  [
+                                              "kalyon-denizi",
+                                              "kalyon-adalari",
+                                              "anatarya",
+                                              "elonya"
+                                          ],
+                              "lead":  "A navigational beacon and memorial lighthouse erected in remembrance of the naval casualties of the November 2026 Kalyon Sea skirmish.",
+                              "infobox":  [
+                                              [
+                                                  "Type",
+                                                  "Memorial Navigation Beacon \u0026 Monument"
+                                              ],
+                                              [
+                                                  "Light Characteristic",
+                                                  "Fl(3) W 15s (White, 15 nm range)"
+                                              ],
+                                              [
+                                                  "Height",
+                                                  "34 meters (Granite \u0026 Bronze Pedestal)"
+                                              ],
+                                              [
+                                                  "Inaugurated",
+                                                  "November 12, 2028"
+                                              ],
+                                              [
+                                                  "Location",
+                                                  "Kalyon Sea Shoals"
+                                              ],
+                                              [
+                                                  "Status",
+                                                  "Operational (Protected Heritage Status)"
+                                              ]
+                                          ]
+                          },
+    "kor-kalkan-bataryasi":  {
+                                 "sections":  [
+                                                  [
+                                                      "Emplacement and layout",
+                                                      "The KOR-KALKAN complex comprises reinforced underground silos, mobile vertical launch containers, and SARPSAN fire-control radars. The battery can engage up to 16 airborne targets simultaneously, including stealth missiles and low-altitude cruise missiles."
+                                                  ],
+                                                  [
+                                                      "Defense of GÃ–KKALE-4",
+                                                      "The site\u0027s primary mission is creating an umbrella over the GÃ–KKALE-4 launch pads and satellite uplink stations. During the naval buildup, the battery maintained around-the-clock radar lock tracking approaching Elonian strike wings."
+                                                  ],
+                                                  [
+                                                      "Deterrent envelope",
+                                                      "The long engagement envelope reaching into the Kalyon Sea prevents hostile attack aircraft from releasing standoff precision munitions without being targeted."
+                                                  ]
+                                              ],
+                                 "title":  "Kalyon Air Defense \u0026 Missile Battery (KOR-KALKAN)",
+                                 "tags":  [
+                                              "air-defense",
+                                              "sarpburun",
+                                              "kalkan-hss",
+                                              "korsan",
+                                              "missile",
+                                              "facilities"
+                                          ],
+                                 "category":  "facilities",
+                                 "imageKey":  "kalkan-hss",
+                                 "related":  [
+                                                 "kalkan-hss",
+                                                 "korsan",
+                                                 "sarpsan",
+                                                 "gokkale-4",
+                                                 "sarpburun"
+                                             ],
+                                 "lead":  "A long-range surface-to-air missile installation operated by Anataria, safeguarding Sarpburun airspace and GÃ–KKALE-4 from standoff aerial and missile strikes.",
+                                 "infobox":  [
+                                                 [
+                                                     "Type",
+                                                     "Long-Range Air \u0026 Missile Defense Battery"
+                                                 ],
+                                                 [
+                                                     "Operator",
+                                                     "Anataria 22nd Air Defense Battalion"
+                                                 ],
+                                                 [
+                                                     "Weapon Systems",
+                                                     "[[kalkan-hss]], [[korsan]] Hisar-K Interceptor Missiles"
+                                                 ],
+                                                 [
+                                                     "Max Altitude",
+                                                     "30,000 meters (Stratosphere)"
+                                                 ],
+                                                 [
+                                                     "Engagement Range",
+                                                     "150 km aerodynamic"
+                                                 ],
+                                                 [
+                                                     "Location",
+                                                     "Southwest Sarpburun Plateau"
+                                                 ],
+                                                 [
+                                                     "Status",
+                                                     "Operational (Combat Engagement Alert)"
+                                                 ]
+                                             ]
+                             },
+    "lerya-jet-ussu":  {
+                           "sections":  [
+                                            [
+                                                "Overview",
+                                                "Lerya 5th Tactical Jet Base is the central airfield defending Elonia\u0027s political center and outlying island outposts in the Kalyon Sea. Its coastal location enables aircraft to climb out over water immediately upon takeoff."
+                                            ],
+                                            [
+                                                "Tactical duties",
+                                                "Fighter-bombers and interceptors stationed at the base conduct routine sovereignty sweeps over the disputed Kalyon Islands. Aerial scrambles and close encounters with Anatarian fighters typically originate from this installation."
+                                            ],
+                                            [
+                                                "Defenses",
+                                                "The perimeter is ringed with Avren Union-standard surface-to-air missile sites. Because it lies within direct line-of-sight of Anataria\u0027s [[sarpburun-radar]], aircraft departing Lerya are tracked from rotation."
+                                            ]
+                                        ],
+                           "title":  "Lerya 5th Tactical Jet Base (Pelican)",
+                           "tags":  [
+                                        "air-base",
+                                        "elonya",
+                                        "lerya",
+                                        "kalyon-denizi",
+                                        "facilities"
+                                    ],
+                           "category":  "facilities",
+                           "imageKey":  "pelagos-devriye",
+                           "related":  [
+                                           "elonya",
+                                           "m12-aster",
+                                           "kalyon-denizi",
+                                           "kalyon-adalari"
+                                       ],
+                           "lead":  "The Republic of Elonia\u0027s primary tactical air base on the Kalyon coast, conducting island air patrols and coastal air defense.",
+                           "infobox":  [
+                                           [
+                                               "Type",
+                                               "Tactical Interceptor \u0026 Coastal Air Base"
+                                           ],
+                                           [
+                                               "Operator",
+                                               "Elonia Air Defense Forces"
+                                           ],
+                                           [
+                                               "Stationed Wings",
+                                               "32nd Tactical Squadron (M12-Aster), Pelican Recon Detachment"
+                                           ],
+                                           [
+                                               "Runways",
+                                               "1 (2,800 m Asphalt/Concrete)"
+                                           ],
+                                           [
+                                               "Location",
+                                               "Northwest of Lerya"
+                                           ],
+                                           [
+                                               "Status",
+                                               "Operational"
+                                           ]
+                                       ]
+                       },
+    "sarp-gecidi":  {
+                        "sections":  [
+                                         [
+                                             "Engineering and structure",
+                                             "Completed in 2028 across the narrow marine narrows separating Sarpburun from the mainland, the bridge is designed to withstand severe sea gales and seismic tremors. Its double-track railway conveys heavy rocket stages and cryogenic propellant convoys to [[gokkale-4]]."
+                                         ],
+                                         [
+                                             "Fortification",
+                                             "Both anchor towers feature anti-aircraft weapon pods and GPS/datalink decoy emitters. A rapid aerosol smoke screening system can shroud the deck from precision laser and electro-optical weapon seekers."
+                                         ],
+                                         [
+                                             "Vulnerability",
+                                             "Because the peninsula has no other road connection to the mainland, the Sarp Gate bridge is a critical single point of failure; its loss would isolate all personnel and defense units stationed at GÃ–KKALE-4."
+                                         ]
+                                     ],
+                        "title":  "Sarpburun Gate Suspension Bridge",
+                        "tags":  [
+                                     "bridge",
+                                     "sarpburun",
+                                     "transit",
+                                     "gokkale-4",
+                                     "facilities"
+                                 ],
+                        "category":  "facilities",
+                        "imageKey":  "doruk-ikmal",
+                        "related":  [
+                                        "sarpburun",
+                                        "gokkale-4",
+                                        "doruk-ikmal",
+                                        "anatarya"
+                                    ],
+                        "lead":  "The strategic heavy suspension bridge and fortified causeway linking the Sarpburun Peninsula to mainland Anataria; the lifeline of GÃ–KKALE-4 logistics.",
+                        "infobox":  [
+                                        [
+                                            "Type",
+                                            "Strategic Suspension Bridge \u0026 Causeway"
+                                        ],
+                                        [
+                                            "Length",
+                                            "1,850 m (Main Span: 1,100 m)"
+                                        ],
+                                        [
+                                            "Lanes",
+                                            "4 Highway Lanes + Dual Heavy Rail"
+                                        ],
+                                        [
+                                            "Security",
+                                            "Gate Guard Battalion \u0026 Pylon Bunkers"
+                                        ],
+                                        [
+                                            "Location",
+                                            "Sarpburun Isthmus"
+                                        ],
+                                        [
+                                            "Status",
+                                            "Operational (Military Logistics Priority)"
+                                        ]
+                                    ]
+                    },
+    "istara-garnizonu":  {
+                             "sections":  [
+                                              [
+                                                  "Strategic position",
+                                                  "The Ä°stara Strait is the only nautical transit canal linking the Northern Sea with the Inner Sea. The garrison occupies historical fortress promontories modernized with radar domes, thermal cameras, and hardened underground bunkers."
+                                              ],
+                                              [
+                                                  "Maritime traffic management",
+                                                  "All commercial vessels and naval contingents entering the strait must report to the garrison\u0027s Vessel Traffic Service. In the event of military conflict, the garrison holds legal authority to enforce maritime interdiction."
+                                              ],
+                                              [
+                                                  "Defensive firepower",
+                                                  "Truck-mounted KOR-SAN coastal defense missile launchers deployed along the heights can engage hostile naval targets up to 180 km away, effectively denying passage to unauthorized foreign warships."
+                                              ]
+                                          ],
+                             "title":  "Ä°stara Strait Coastal Defense Garrison",
+                             "tags":  [
+                                          "garrison",
+                                          "istara",
+                                          "strait",
+                                          "coast-guard",
+                                          "korsan",
+                                          "facilities"
+                                      ],
+                             "category":  "facilities",
+                             "imageKey":  "sarp-muhafiz",
+                             "related":  [
+                                             "istara",
+                                             "istara-bogazi",
+                                             "anatarya",
+                                             "korsan"
+                                         ],
+                             "lead":  "An Anatarian coastal defense garrison equipped with shore-to-ship missiles and surface surveillance radars guarding maritime transit through the Ä°stara Strait.",
+                             "infobox":  [
+                                             [
+                                                 "Type",
+                                                 "Strait Fortress \u0026 Coastal Missile Battery"
+                                             ],
+                                             [
+                                                 "Operator",
+                                                 "Anataria Coastal Command"
+                                             ],
+                                             [
+                                                 "Armament",
+                                                 "[[korsan]] Atmaca-K Coastal Defense Missiles, 76 mm Coastal Guns"
+                                             ],
+                                             [
+                                                 "Surveillance",
+                                                 "Ä°stara Vessel Traffic Service Radar Tower"
+                                             ],
+                                             [
+                                                 "Location",
+                                                 "[[istara-bogazi]] Maritime Gate"
+                                             ],
+                                             [
+                                                 "Status",
+                                                 "Operational"
+                                             ]
+                                         ]
+                         },
+    "lerya-deniz-ussu":  {
+                             "sections":  [
+                                              [
+                                                  "Facility structure",
+                                                  "Pelagos Fleet Base is sheltered within the deep, natural harbor of Lerya Bay. Outer breakwaters are fortified with coastal gun emplacements and torpedo tubes. The compound includes repair drydocks, ammunition magazines, and the naval command staff headquarters."
+                                              ],
+                                              [
+                                                  "Aigaion task group",
+                                                  "Elonia\u0027s flagship guided missile frigate [[aigaion]] and accompanying missile corvettes are homeported here. Munitions staging and pre-deployment logistics for the GÃ–KKALE-4 operation were completed at this waterfront."
+                                              ],
+                                              [
+                                                  "Strategic impact",
+                                                  "By projecting sea power through narrow nautical choke points in the Kalyon Sea, the base maintains leverage over commercial shipping lines heading toward Anatarian ports."
+                                              ]
+                                          ],
+                             "title":  "Lerya Naval Headquarters \u0026 Pelagos Fleet Base",
+                             "tags":  [
+                                          "naval-base",
+                                          "harbor",
+                                          "elonya",
+                                          "aigaion",
+                                          "navy",
+                                          "facilities"
+                                      ],
+                             "category":  "facilities",
+                             "imageKey":  "aigaion",
+                             "related":  [
+                                             "elonya",
+                                             "aigaion",
+                                             "kalyon-denizi",
+                                             "pelagos-karakolu"
+                                         ],
+                             "lead":  "The primary naval operating base, drydock shipyard, and frigate flotilla station for the Republic of Elonia Navy in the Kalyon Sea.",
+                             "infobox":  [
+                                             [
+                                                 "Type",
+                                                 "Main Naval Base \u0026 Naval Shipyard"
+                                             ],
+                                             [
+                                                 "Operator",
+                                                 "Republic of Elonia Navy"
+                                             ],
+                                             [
+                                                 "Attached Units",
+                                                 "1st Frigate Flotilla, Kalyon Fast Attack Craft Division"
+                                             ],
+                                             [
+                                                 "Berthing Capacity",
+                                                 "12 Major Warships, 2 Drydocks"
+                                             ],
+                                             [
+                                                 "Location",
+                                                 "Lerya Bay / Kalyon Coastline"
+                                             ],
+                                             [
+                                                 "Status",
+                                                 "Operational (Mobilization Readiness)"
+                                             ]
+                                         ]
+                         },
+    "arkent-jet-ussu":  {
+                            "sections":  [
+                                             [
+                                                 "Infrastructure and layout",
+                                                 "Constructed at the foothill plateau 35 km west of Arkent, the 1st Main Jet Base is Anataria\u0027s most fortified air station, featuring underground hardened aircraft shelters, bomb-proof munitions depots, and autonomous fuel pipeline galleries. The dual parallel runways connect directly to adjacent hardened highway landing strips."
+                                             ],
+                                             [
+                                                 "Stationed wings",
+                                                 "The base hosts the elite core of Anataria\u0027s tactical air fleet. The 101st \u0027Karakartal\u0027 Squadron operates the frontline [[k21-kaan]] 5th-generation stealth fighters, alongside [[k16-alaz]] interceptors maintaining combat air patrols over Sarpburun and Kalyon. Autonomous operational trials for [[baykut]]\u0027s [[al-elma]] unmanned fighter are also managed from this site."
+                                             ],
+                                             [
+                                                 "Operational role",
+                                                 "In high-readiness scenarios, interceptors from Arkent can scramble and reach Sarpburun airspace in under 6 minutes. Air operations are centrally coordinated via the underground Arkent Air Operations Center."
+                                             ]
+                                         ],
+                            "title":  "Arkent 1st Main Jet Base Command (Karakartal)",
+                            "tags":  [
+                                         "air-base",
+                                         "arkent",
+                                         "jet",
+                                         "k21-kaan",
+                                         "air-force",
+                                         "facilities"
+                                     ],
+                            "category":  "facilities",
+                            "imageKey":  "kartal",
+                            "related":  [
+                                            "anatarya",
+                                            "k21-kaan",
+                                            "k16-alaz",
+                                            "al-elma",
+                                            "anasas"
+                                        ],
+                            "lead":  "The premier fighter air base defending Anataria\u0027s capital and western operational theater, home to K-21 KAAN, K16-Alaz, and unmanned combat fighter squadrons.",
+                            "infobox":  [
+                                            [
+                                                "Type",
+                                                "Main Combat Air Base"
+                                            ],
+                                            [
+                                                "Operator",
+                                                "Anataria Air Force"
+                                            ],
+                                            [
+                                                "Assigned Squadrons",
+                                                "101st Karakartal Squadron ([[k21-kaan]]), 132nd Dagger Squadron ([[k16-alaz]]), 14th Unmanned Fighter Squadron ([[al-elma]])"
+                                            ],
+                                            [
+                                                "Runways",
+                                                "2 (Reinforced Concrete, 3,400 m)"
+                                            ],
+                                            [
+                                                "Location",
+                                                "West of Arkent"
+                                            ],
+                                            [
+                                                "Status",
+                                                "Operational (Combat Readiness Condition 1)"
+                                            ]
+                                        ]
+                        },
+    "sarpburun-radar":  {
+                            "sections":  [
+                                             [
+                                                 "Overview",
+                                                 "SARP-RAD stands atop the highest elevation of the Sarpburun Peninsula. Commissioned in 2031 to protect Anataria\u0027s western territorial boundary and the [[gokkale-4]] spaceport against hostile air, surface, and ballistic missile threats, its 3D AESA antenna and advanced digital signal processors provide over-the-horizon tracking of sea-skimming targets."
+                                             ],
+                                             [
+                                                 "Electronic warfare capabilities",
+                                                 "Beyond surveillance, the installation houses high-power electronic support measures (ESM) and electronic attack (EA) suites capable of degrading and jamming [[elonya]] airborne reconnaissance platforms and GPS/datalink guidance networks along the disputed boundary."
+                                             ],
+                                             [
+                                                 "Tactical significance",
+                                                 "During the GÃ–KKALE-4 crisis, SARP-RAD was the first terrestrial radar station to detect the tactical approach of the [[aigaion]] frigate battle group. Target track data is fused and transmitted directly to [[k21-kaan]] fighters at [[arkent-jet-ussu]] and [[kor-kalkan-bataryasi]]."
+                                             ]
+                                         ],
+                            "title":  "Sarpburun Early Warning Radar Complex (SARP-RAD)",
+                            "tags":  [
+                                         "radar",
+                                         "sarpburun",
+                                         "defense",
+                                         "electronic-warfare",
+                                         "sarpsan",
+                                         "facilities"
+                                     ],
+                            "category":  "facilities",
+                            "imageKey":  "sarp-muhafiz",
+                            "related":  [
+                                            "sarpburun",
+                                            "gokkale-4",
+                                            "sarpsan",
+                                            "kor-kalkan-bataryasi",
+                                            "kalkan-hss"
+                                        ],
+                            "lead":  "An active electronically scanned array (AESA) early warning and electronic warfare complex deployed on the northern crest of the Sarpburun Peninsula, monitoring a 600 km radius across the Kalyon Sea and Avren airspace.",
+                            "infobox":  [
+                                            [
+                                                "Type",
+                                                "Early Warning \u0026 Air Surveillance Radar"
+                                            ],
+                                            [
+                                                "Operator",
+                                                "Anataria Air Defense Command"
+                                            ],
+                                            [
+                                                "Manufacturer",
+                                                "[[sarpsan]]"
+                                            ],
+                                            [
+                                                "Detection Range",
+                                                "600 km aerodynamic, 1,000 km ballistic"
+                                            ],
+                                            [
+                                                "Location",
+                                                "[[sarpburun]] Northern Ridge"
+                                            ],
+                                            [
+                                                "Protection",
+                                                "[[kor-kalkan-bataryasi]]"
+                                            ],
+                                            [
+                                                "Status",
+                                                "Operational (High Alert)"
+                                            ]
+                                        ]
+                        }
 };
 
 const lang=new URLSearchParams(location.search).get('lang')==='en'?'en':'tr';
