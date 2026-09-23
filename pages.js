@@ -49,7 +49,6 @@ const navItems=[['ana-sayfa','Home'],['harita','Political map'],['tum-maddeler',
 return {home,article,index,cats,navItems,escapeHTML,visuals};
 }
 
-const SITE="https://gokkale-lore-arsivi.efeozbilgin550.chatgpt.site";
 const lang=new URLSearchParams(location.search).get('lang')==='en'?'en':'tr';
 document.documentElement.lang=lang;
 const select=document.getElementById('site-language');select.value=lang;
@@ -59,24 +58,22 @@ if(lang==='en'){
  document.querySelector('.language-picker label').textContent='Language';
  document.title='GÖKKALE Archive';
  document.querySelector('.search input').placeholder='Search the archive…';
- document.querySelector('.admin-entry').textContent='Admin sign-in';
+ document.querySelector('.admin-entry').textContent='Edit the wiki';
  document.querySelector('.sidebar .nav-label').textContent='EXPLORE';
  document.querySelector('.contents .nav-label').textContent='ON THIS PAGE';
 }
-document.querySelector('.admin-entry').href=SITE+'/admin?lang='+lang;
 let pages=null,renderer=null;
 const main=document.getElementById('main'),nav=document.getElementById('nav'),toc=document.getElementById('toc');
 function route(){return decodeURIComponent(location.hash.slice(2)||'ana-sayfa')}
 function render(){
  const id=route(),r=renderer;
  const category=r.cats[id];
- let html=id==='ana-sayfa'?r.home():id==='tum-maddeler'?r.index():category?r.index(category):pages[id]?r.article(id):'<h1>Madde bulunamadı</h1><p>Bu adreste bir madde yok.</p><a href="#/tum-maddeler">Madde dizini</a>';
+ let html=id==='ana-sayfa'?r.home():id==='tum-maddeler'?r.index():category?r.index(category):pages[id]?r.article(id):lang==='en'?'<h1>Article not found</h1><p>No article exists at this address.</p><a href="#/tum-maddeler">Article index</a>':'<h1>Madde bulunamadı</h1><p>Bu adreste bir madde yok.</p><a href="#/tum-maddeler">Madde dizini</a>';
  main.innerHTML=html;
- for(const el of main.querySelectorAll('[src^="/images/"],[href^="/images/"],[src^="/uploads/"],[href^="/uploads/"]'))for(const attr of ['src','href'])if(el.hasAttribute(attr))el.setAttribute(attr,SITE+el.getAttribute(attr));
- for(const el of main.querySelectorAll('a[href="/harita"]'))el.href=SITE+'/harita?lang='+lang;
- nav.innerHTML=r.navItems.map(([key,label])=>key==='harita'?'<a href="'+SITE+'/harita?lang='+lang+'">'+r.escapeHTML(label)+'</a>':'<a href="#/'+key+'" class="'+(key===id?'active':'')+'">'+r.escapeHTML(label)+'</a>').join('');
+ for(const el of main.querySelectorAll('a[href="/harita"]'))el.href='/harita'+(lang==='en'?'-en':'')+'.html';
+ nav.innerHTML=r.navItems.map(([key,label])=>key==='harita'?'<a href="/harita'+(lang==='en'?'-en':'')+'.html">'+r.escapeHTML(label)+'</a>':'<a href="#/'+key+'" class="'+(key===id?'active':'')+'">'+r.escapeHTML(label)+'</a>').join('');
  toc.innerHTML=[...main.querySelectorAll('h2[id]')].map(h=>'<a href="#'+h.id+'">'+h.textContent+'</a>').join('');
- const edit=document.createElement('a');edit.className='edit-link';edit.href=SITE+'/admin?lang='+lang+'&edit='+encodeURIComponent(id);edit.textContent=lang==='en'?'Edit article':'Maddeyi düzenle';
+ const edit=document.createElement('a');edit.className='edit-link';edit.href='/edit.html';edit.textContent=lang==='en'?'Edit article':'Maddeyi düzenle';
  if(pages[id])main.querySelector('.tabbar')?.append(edit);
  document.title=(pages[id]?.title||r.cats[id]||(id==='ana-sayfa'?'GÖKKALE Arşivi':id==='tum-maddeler'?'Tüm maddeler':id))+' — '+(lang==='en'?'GÖKKALE Archive':'GÖKKALE Arşivi');
  window.scrollTo(0,0);
@@ -88,4 +85,4 @@ input.addEventListener('keydown',e=>{if(e.key==='Escape')results.hidden=true;if(
 document.addEventListener('keydown',e=>{if(e.key==='/'&&!['INPUT','TEXTAREA'].includes(document.activeElement.tagName)){e.preventDefault();input.focus()}});
 document.addEventListener('click',e=>{if(!e.target.closest('.search'))results.hidden=true});
 window.addEventListener('hashchange',()=>{if(pages&&location.hash.startsWith('#/'))render()});
-fetch(SITE+'/api/pages?lang='+lang).then(r=>{if(!r.ok)throw Error('API '+r.status);return r.json()}).then(data=>{pages=data;renderer=lang==='en'?createRendererEN(pages):createRenderer(pages);render()}).catch(()=>{main.innerHTML='<h1>Arşive ulaşılamıyor</h1><p>Yeniden deneyin veya <a href="'+SITE+'?lang='+lang+'">asıl arşivi açın</a>.</p>'});
+fetch('/content/'+lang+'.json').then(r=>{if(!r.ok)throw Error('Content '+r.status);return r.json()}).then(data=>{pages=data;renderer=lang==='en'?createRendererEN(pages):createRenderer(pages);render()}).catch(()=>{main.innerHTML=lang==='en'?'<h1>Archive unavailable</h1><p>Refresh this page to try again.</p>':'<h1>Arşive ulaşılamıyor</h1><p>Sayfayı yenileyip tekrar deneyin.</p>'});
