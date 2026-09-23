@@ -44,9 +44,9 @@ async function publish(){if(!token)throw Error('Önce GitHub yönetici erişimiy
  const ref=await request('/git/ref/heads/main');if(ref.object.sha!==headSha)throw Error('Depo başka bir yerde değişti. Bu sekmeyi yenileyip yeni sürüm üzerinden düzenle.');
  const commit=await request('/git/commits/'+headSha);
  const [oldScript,oldIndex,old404,oldEdit]=await Promise.all(['pages.js','index.html','404.html','edit.html','ana-sayfa.html'].map(path=>fileAt(path,headSha)));
- const expression=/const dataTR=[^\n]*;\nconst dataEN=[^\n]*;/;
+ const expression=/const dataTR\s*=\s*[\s\S]*?;\s*const dataEN\s*=\s*[\s\S]*?;\s*(?=const lang\b)/;
  if(!expression.test(oldScript))throw Error('Wiki veri yapısı değişmiş. Kaydetmeden önce yeni sürümü kontrol et.');
- const script=oldScript.replace(expression,'const dataTR='+JSON.stringify(state.tr)+';\nconst dataEN='+JSON.stringify(state.en)+';');
+ const script=oldScript.replace(expression,'const dataTR='+JSON.stringify(state.tr)+';\nconst dataEN='+JSON.stringify(state.en)+';\n\n');
  const version=await hash(script);
  const updateHTML=html=>{if(!/\/pages\.js(?:\?v=[a-f0-9]+)?"/.test(html))throw Error('Ana sayfada wiki betiği bulunamadı.');return html.replace(/\/pages\.js(?:\?v=[a-f0-9]+)?"/g,'/pages.js?v='+version+'"')};
  const files=[['tr.json',JSON.stringify(state.tr,null,2)+'\n'],['en.json',JSON.stringify(state.en,null,2)+'\n'],['pages.js',script],['index.html',updateHTML(oldIndex)],['404.html',updateHTML(old404)]];
