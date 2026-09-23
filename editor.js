@@ -43,7 +43,7 @@ async function imageData(file){return new Promise((resolve,reject)=>{const reade
 async function publish(){if(!token)throw Error('Önce GitHub yönetici erişimiyle giriş yap.');flush();const p=state[language][selected];if(p&&(!p.title||!p.category))throw Error('Başlık ve kategori boş bırakılamaz.');
  const ref=await request('/git/ref/heads/main');if(ref.object.sha!==headSha)throw Error('Depo başka bir yerde değişti. Bu sekmeyi yenileyip yeni sürüm üzerinden düzenle.');
  const commit=await request('/git/commits/'+headSha);
- const [oldScript,oldIndex,old404,oldEdit]=await Promise.all(['pages.js','index.html','404.html','edit.html'].map(path=>fileAt(path,headSha)));
+ const [oldScript,oldIndex,old404,oldEdit]=await Promise.all(['pages.js','index.html','404.html','edit.html','ana-sayfa.html'].map(path=>fileAt(path,headSha)));
  const expression=/const dataTR=[^\n]*;\nconst dataEN=[^\n]*;/;
  if(!expression.test(oldScript))throw Error('Wiki veri yapısı değişmiş. Kaydetmeden önce yeni sürümü kontrol et.');
  const script=oldScript.replace(expression,'const dataTR='+JSON.stringify(state.tr)+';\nconst dataEN='+JSON.stringify(state.en)+';');
