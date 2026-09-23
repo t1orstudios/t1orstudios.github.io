@@ -3330,18 +3330,18 @@ const dataTR={
                              "sections":  [
                                               [
                                                   "Konum",
-                                                  "Pelagos Karakolu, tartÄ±ÅŸmalÄ± Kalyon adacÄ±klarÄ±nÄ±n en batÄ±sÄ±ndaki kayalÄ±k bir adacÄ±k Ã¼zerine kurulmuÅŸtur. DoÄŸal bir mendirekle korunan kÃ¼Ã§Ã¼k iskelesi, fÄ±rtÄ±nalÄ± havalarda devriye botlarÄ±na sÄ±ÄŸÄ±nak saÄŸlar."
+                                                  "Pelagos Karakolu, tartışmalı Kalyon adacıklarının en batısındaki kayalık bir adacık üzerine kurulmuştur. Doğal bir mendirekle korunan küçük iskelesi, fırtınalı havalarda devriye botlarına sığınak sağlar."
                                               ],
                                               [
-                                                  "GÃ¶revler",
-                                                  "Karakol; balÄ±kÃ§Ä± teknelerinin hareketlerini kontrol etmek, Anatarya hÃ¼cumbotlarÄ±nÄ±n adalar bÃ¶lgesine giriÅŸini telsizle Lerya KarargÃ¢hÄ±na bildirmek ve kaÃ§akÃ§Ä±lÄ±kla mÃ¼cadele etmekle gÃ¶revlidir."
+                                                  "Görevler",
+                                                  "Karakol; balıkçı teknelerinin hareketlerini kontrol etmek, Anatarya hücumbotlarının adalar bölgesine girişini telsizle Lerya KarargÃ¢hına bildirmek ve kaçakçılıkla mücadele etmekle görevlidir."
                                               ],
                                               [
-                                                  "Gerilim hattÄ±",
-                                                  "Karakol personeli, Sarpburun\u0027daki TÃ¼rk/Anatarya unsurlarÄ±yla optik menzilde karÅŸÄ± karÅŸÄ±yadÄ±r. Ã‡oÄŸu zaman iki tarafÄ±n devriye botlarÄ± arasÄ±nda birkaÃ§ yÃ¼z metre mesafede uyarÄ± anonslarÄ± yapÄ±lmaktadÄ±r."
+                                                  "Gerilim hattı",
+                                                  "Karakol personeli, Sarpburun\u0027daki Türk/Anatarya unsurlarıyla optik menzilde karşı karşıyadır. Ã‡oğu zaman iki tarafın devriye botları arasında birkaç yüz metre mesafede uyarı anonsları yapılmaktadır."
                                               ]
                                           ],
-                             "title":  "Pelagos Ä°leri Sahil GÃ¼venlik Karakolu",
+                             "title":  "Pelagos İleri Sahil Güvenlik Karakolu",
                              "tags":  [
                                           "karakol",
                                           "sahil-guvenlik",
@@ -3357,30 +3357,30 @@ const dataTR={
                                              "elonya",
                                              "triton-botu"
                                          ],
-                             "lead":  "Elonya Sahil GÃ¼venliÄŸi\u0027nin Kalyon AdalarÄ± batÄ± yaklaÅŸÄ±mÄ±ndaki gÃ¶zetleme kulesi, hÄ±zlÄ± mÃ¼dahale botlarÄ± barÄ±naÄŸÄ± ve radar istasyonu.",
+                             "lead":  "Elonya Sahil Güvenliği\u0027nin Kalyon Adaları batı yaklaşımındaki gözetleme kulesi, hızlı müdahale botları barınağı ve radar istasyonu.",
                              "infobox":  [
                                              [
-                                                 "TÃ¼r",
-                                                 "Ä°leri Deniz GÃ¶zetleme ve Devriye Karakolu"
+                                                 "Tür",
+                                                 "İleri Deniz Gözetleme ve Devriye Karakolu"
                                              ],
                                              [
-                                                 "Ä°ÅŸletmeci",
-                                                 "Elonya KÄ±yÄ± GÃ¼venlik Ä°daresi"
+                                                 "İşletmeci",
+                                                 "Elonya Kıyı Güvenlik İdaresi"
                                              ],
                                              [
-                                                 "Bot SayÄ±sÄ±",
-                                                 "4 x HÄ±zlÄ± Ã–nleme Botu"
+                                                 "Bot Sayısı",
+                                                 "4 x Hızlı Ã–nleme Botu"
                                              ],
                                              [
-                                                 "GÃ¶zetleme",
+                                                 "Gözetleme",
                                                  "Optik Kule ve Termal Kameralar"
                                              ],
                                              [
                                                  "Konum",
-                                                 "Kalyon BatÄ± AdacÄ±klarÄ±"
+                                                 "Kalyon Batı Adacıkları"
                                              ],
                                              [
-                                                 "StatÃ¼",
+                                                 "Statü",
                                                  "Faal"
                                              ]
                                          ]
@@ -3388,19 +3388,19 @@ const dataTR={
     "kara-kasim-feneri":  {
                               "sections":  [
                                                [
-                                                   "TarihÃ§e",
-                                                   "KasÄ±m 2026\u0027da Kalyon Denizi\u0027ndeki ada uyuÅŸmazlÄ±ÄŸÄ± sÄ±rasÄ±nda meydana gelen \u0027Kara KasÄ±m\u0027 deniz muharebesinde iki taraftan da can kayÄ±plarÄ± yaÅŸanmÄ±ÅŸtÄ±r. Ã‡atÄ±ÅŸmadan iki yÄ±l sonra, tarafsÄ±z denizcilik Ã¶rgÃ¼tlerinin giriÅŸimiyle sÄ±ÄŸlÄ±ÄŸÄ±n Ã¼zerine hem bir ÅŸehitlik anÄ±tÄ± hem de navigasyon feneri dikilmiÅŸtir."
+                                                   "Tarihçe",
+                                                   "Kasım 2026\u0027da Kalyon Denizi\u0027ndeki ada uyuşmazlığı sırasında meydana gelen \u0027Kara Kasım\u0027 deniz muharebesinde iki taraftan da can kayıpları yaşanmıştır. Ã‡atışmadan iki yıl sonra, tarafsız denizcilik örgütlerinin girişimiyle sığlığın üzerine hem bir şehitlik anıtı hem de navigasyon feneri dikilmiştir."
                                                ],
                                                [
                                                    "Mimari ve simgeler",
-                                                   "Fenerin kaidesinde, o gece hayatÄ±nÄ± kaybeden denizcilerin isimlerinin yazÄ±lÄ± olduÄŸu bronz bir plaket yer alÄ±r. Fenerin tepesindeki Ä±ÅŸÄ±k, gece boyunca Kalyon Denizi\u0027nin tehlikeli resiflerini aydÄ±nlatÄ±rken aynÄ± zamanda Ã§atÄ±ÅŸmanÄ±n acÄ± hatÄ±rasÄ±nÄ± canlÄ± tutar."
+                                                   "Fenerin kaidesinde, o gece hayatını kaybeden denizcilerin isimlerinin yazılı olduğu bronz bir plaket yer alır. Fenerin tepesindeki ışık, gece boyunca Kalyon Denizi\u0027nin tehlikeli resiflerini aydınlatırken aynı zamanda çatışmanın acı hatırasını canlı tutar."
                                                ],
                                                [
-                                                   "GÃ¼nÃ¼mÃ¼zdeki Ã¶nemi",
-                                                   "Her yÄ±l 15 KasÄ±m\u0027da fenerin Ã§evresine hem Elonya hem de Anatarya sivil balÄ±kÃ§Ä±larÄ± tarafÄ±ndan Ã§elenk bÄ±rakÄ±lmaktadÄ±r. Fener, askeri gerilimin ortasÄ±nda barÄ±ÅŸ ve anma simgesi olarak varlÄ±ÄŸÄ±nÄ± sÃ¼rdÃ¼rmektedir."
+                                                   "Günümüzdeki önemi",
+                                                   "Her yıl 15 Kasım\u0027da fenerin çevresine hem Elonya hem de Anatarya sivil balıkçıları tarafından çelenk bırakılmaktadır. Fener, askeri gerilimin ortasında barış ve anma simgesi olarak varlığını sürdürmektedir."
                                                ]
                                            ],
-                              "title":  "Kara KasÄ±m Deniz Feneri ve Åehitlik AnÄ±tÄ±",
+                              "title":  "Kara Kasım Deniz Feneri ve Şehitlik Anıtı",
                               "tags":  [
                                            "fener",
                                            "anit",
@@ -3416,31 +3416,31 @@ const dataTR={
                                               "anatarya",
                                               "elonya"
                                           ],
-                              "lead":  "KasÄ±m 2026\u0027da Kalyon Denizi\u0027nde yaÅŸanan Ã§atÄ±ÅŸmada batan gemiler anÄ±sÄ±na inÅŸa edilen, denizcilere seyir yardÄ±mÄ± saÄŸlayan anÄ±t deniz feneri.",
+                              "lead":  "Kasım 2026\u0027da Kalyon Denizi\u0027nde yaşanan çatışmada batan gemiler anısına inşa edilen, denizcilere seyir yardımı sağlayan anıt deniz feneri.",
                               "infobox":  [
                                               [
-                                                  "TÃ¼r",
-                                                  "Tarihi AnÄ±t Deniz Feneri"
+                                                  "Tür",
+                                                  "Tarihi Anıt Deniz Feneri"
                                               ],
                                               [
-                                                  "IÅŸÄ±k Karakteri",
+                                                  "Işık Karakteri",
                                                   "Fl(3) W 15s (Beyaz, 15 mil menzilli)"
                                               ],
                                               [
-                                                  "YÃ¼kseklik",
+                                                  "Yükseklik",
                                                   "34 metre (Granit ve Bronz Kaide)"
                                               ],
                                               [
-                                                  "AÃ§Ä±lÄ±ÅŸ Tarihi",
-                                                  "12 KasÄ±m 2028"
+                                                  "Açılış Tarihi",
+                                                  "12 Kasım 2028"
                                               ],
                                               [
                                                   "Konum",
-                                                  "Kalyon Denizi AÃ§Ä±klarÄ± (Orta SÄ±ÄŸlÄ±k)"
+                                                  "Kalyon Denizi Açıkları (Orta Sığlık)"
                                               ],
                                               [
-                                                  "StatÃ¼",
-                                                  "Faal (UluslararasÄ± Koruma AltÄ±nda)"
+                                                  "Statü",
+                                                  "Faal (Uluslararası Koruma Altında)"
                                               ]
                                           ]
                           },
@@ -3448,18 +3448,18 @@ const dataTR={
                                  "sections":  [
                                                   [
                                                       "Mevzi ve kabiliyetler",
-                                                      "KOR-KALKAN mevzisi, gÃ¼Ã§lendirilmiÅŸ beton silolar, dikey fÄ±rlatma rampalarÄ± ve SARPSAN Ã¼retimi hedef aydÄ±nlatma radarlarÄ±ndan meydana gelir. Batarya, aynÄ± anda 16 farklÄ± hava hedefine kilitlenebilir ve seyir fÃ¼zelerini imha edebilir."
+                                                      "KOR-KALKAN mevzisi, güçlendirilmiş beton silolar, dikey fırlatma rampaları ve SARPSAN üretimi hedef aydınlatma radarlarından meydana gelir. Batarya, aynı anda 16 farklı hava hedefine kilitlenebilir ve seyir füzelerini imha edebilir."
                                                   ],
                                                   [
-                                                      "GÃ–KKALE-4 savunmasÄ±",
-                                                      "Tesisin birincil gÃ¶revi, GÃ–KKALE-4 fÄ±rlatma rampalarÄ±nÄ± ve uydu kontrol merkezini dÃ¼ÅŸman hava taarruzlarÄ±ndan korumaktÄ±r. Kriz boyunca batarya personeli 24 saat tam angajman modunda beklemiÅŸtir."
+                                                      "GÃ–KKALE-4 savunması",
+                                                      "Tesisin birincil görevi, GÃ–KKALE-4 fırlatma rampalarını ve uydu kontrol merkezini düşman hava taarruzlarından korumaktır. Kriz boyunca batarya personeli 24 saat tam angajman modunda beklemiştir."
                                                   ],
                                                   [
-                                                      "CaydÄ±rÄ±cÄ±lÄ±k faktÃ¶rÃ¼",
-                                                      "KOR-KALKAN bataryasÄ±nÄ±n Kalyon Denizi\u0027ne uzanan angajman kubbesi, Elonya Hava Kuvvetleri\u0027nin Sarpburun\u0027a 100 kilometreden fazla yaklaÅŸmasÄ±nÄ± engelleyen baÅŸlÄ±ca taktik engeldir."
+                                                      "Caydırıcılık faktörü",
+                                                      "KOR-KALKAN bataryasının Kalyon Denizi\u0027ne uzanan angajman kubbesi, Elonya Hava Kuvvetleri\u0027nin Sarpburun\u0027a 100 kilometreden fazla yaklaşmasını engelleyen başlıca taktik engeldir."
                                                   ]
                                               ],
-                                 "title":  "Kalyon Hava Savunma BataryasÄ± (KOR-KALKAN)",
+                                 "title":  "Kalyon Hava Savunma Bataryası (KOR-KALKAN)",
                                  "tags":  [
                                               "hava-savunma",
                                               "sarpburun",
@@ -3477,22 +3477,22 @@ const dataTR={
                                                  "gokkale-4",
                                                  "sarpburun"
                                              ],
-                                 "lead":  "GÃ–KKALE-4 ve Sarpburun hava sahasÄ±nÄ± korumak Ã¼zere konuÅŸlandÄ±rÄ±lmÄ±ÅŸ Kalkan HSS ve KOR-SAN uzun menzilli hava ve fÃ¼ze savunma bataryasÄ± mevzisi.",
+                                 "lead":  "GÃ–KKALE-4 ve Sarpburun hava sahasını korumak üzere konuşlandırılmış Kalkan HSS ve KOR-SAN uzun menzilli hava ve füze savunma bataryası mevzisi.",
                                  "infobox":  [
                                                  [
-                                                     "TÃ¼r",
-                                                     "Uzun Menzilli Hava ve FÃ¼ze Savunma BataryasÄ±"
+                                                     "Tür",
+                                                     "Uzun Menzilli Hava ve Füze Savunma Bataryası"
                                                  ],
                                                  [
-                                                     "Ä°ÅŸletmeci",
+                                                     "İşletmeci",
                                                      "Anatarya 22. Hava Savunma Taburu"
                                                  ],
                                                  [
                                                      "Sistemler",
-                                                     "[[kalkan-hss]], [[korsan]] Hisar-K Ã–nleme FÃ¼zeleri"
+                                                     "[[kalkan-hss]], [[korsan]] Hisar-K Ã–nleme Füzeleri"
                                                  ],
                                                  [
-                                                     "Etkili Ä°rtifa",
+                                                     "Etkili İrtifa",
                                                      "30.000 metre (Stratosfer)"
                                                  ],
                                                  [
@@ -3501,30 +3501,30 @@ const dataTR={
                                                  ],
                                                  [
                                                      "Konum",
-                                                     "Sarpburun Platosu GÃ¼neybatÄ±sÄ±"
+                                                     "Sarpburun Platosu Güneybatısı"
                                                  ],
                                                  [
-                                                     "StatÃ¼",
-                                                     "Tam Angajman HazÄ±rlÄ±ÄŸÄ±"
+                                                     "Statü",
+                                                     "Tam Angajman Hazırlığı"
                                                  ]
                                              ]
                              },
     "lerya-jet-ussu":  {
                            "sections":  [
                                             [
-                                                "Genel bakÄ±ÅŸ",
-                                                "Lerya 5. Taktik Jet ÃœssÃ¼, Elonya\u0027nÄ±n baÅŸkent Lerya\u0027yÄ± ve Kalyon Denizi\u0027ndeki ada garnizonlarÄ±nÄ± havadan korumakla gÃ¶revli baÅŸlÄ±ca askerÃ® meydandÄ±r. Denize yakÄ±n konumu, uÃ§aklarÄ±n hÄ±zlÄ±ca aÃ§Ä±k deniz Ã¼zerinde irtifa almasÄ±nÄ± saÄŸlar."
+                                                "Genel bakış",
+                                                "Lerya 5. Taktik Jet Üssü, Elonya\u0027nın başkent Lerya\u0027yı ve Kalyon Denizi\u0027ndeki ada garnizonlarını havadan korumakla görevli başlıca askerÃ® meydandır. Denize yakın konumu, uçakların hızlıca açık deniz üzerinde irtifa almasını sağlar."
                                             ],
                                             [
-                                                "Taktik gÃ¶revler",
-                                                "Ãœste konuÅŸlu hafif avcÄ± ve kÄ±yÄ± taarruz jetleri, dÃ¼zenli olarak Kalyon AdalarÄ± hava sahasÄ±nda devriye uÃ§uÅŸlarÄ± yapar. Anatarya jetleriyle yaÅŸanan it dalaÅŸlarÄ± ve hava sahasÄ± sÃ¼rtÃ¼ÅŸmeleri genellikle Lerya Ã¼ssÃ¼nden havalanan unsurlarla gerÃ§ekleÅŸir."
+                                                "Taktik görevler",
+                                                "Üste konuşlu hafif avcı ve kıyı taarruz jetleri, düzenli olarak Kalyon Adaları hava sahasında devriye uçuşları yapar. Anatarya jetleriyle yaşanan it dalaşları ve hava sahası sürtüşmeleri genellikle Lerya üssünden havalanan unsurlarla gerçekleşir."
                                             ],
                                             [
-                                                "Savunma Ã¶nlemleri",
-                                                "Ãœs Ã§evresi Avren BirliÄŸi standartlarÄ±nda kÄ±yÄ± hava savunma bataryalarÄ±yla donatÄ±lmÄ±ÅŸtÄ±r. Sarpburun\u0027daki [[sarpburun-radar]] tesisinin kapsama alanÄ±nda olmasÄ± sebebiyle Elonya pilotlarÄ± kalkÄ±ÅŸ anÄ±ndan itibaren Anatarya radarlarÄ± tarafÄ±ndan izlenmektedir."
+                                                "Savunma önlemleri",
+                                                "Üs çevresi Avren Birliği standartlarında kıyı hava savunma bataryalarıyla donatılmıştır. Sarpburun\u0027daki [[sarpburun-radar]] tesisinin kapsama alanında olması sebebiyle Elonya pilotları kalkış anından itibaren Anatarya radarları tarafından izlenmektedir."
                                             ]
                                         ],
-                           "title":  "Lerya 5. Taktik Jet ÃœssÃ¼ (Pelikan)",
+                           "title":  "Lerya 5. Taktik Jet Üssü (Pelikan)",
                            "tags":  [
                                         "hava-ussu",
                                         "elonya",
@@ -3540,30 +3540,30 @@ const dataTR={
                                            "kalyon-denizi",
                                            "kalyon-adalari"
                                        ],
-                           "lead":  "Elonya Cumhuriyeti\u0027nin Kalyon Denizi kÄ±yÄ±sÄ±ndaki ana taktik hava Ã¼ssÃ¼; Kalyon AdalarÄ± devriyelerini ve kÄ±yÄ± hava savunmasÄ±nÄ± icra eder.",
+                           "lead":  "Elonya Cumhuriyeti\u0027nin Kalyon Denizi kıyısındaki ana taktik hava üssü; Kalyon Adaları devriyelerini ve kıyı hava savunmasını icra eder.",
                            "infobox":  [
                                            [
-                                               "TÃ¼r",
-                                               "Taktik AvcÄ± \u0026 KÄ±yÄ± Savunma ÃœssÃ¼"
+                                               "Tür",
+                                               "Taktik Avcı \u0026 Kıyı Savunma Üssü"
                                            ],
                                            [
-                                               "Ä°ÅŸletmeci",
+                                               "İşletmeci",
                                                "Elonya Hava Savunma Kuvvetleri"
                                            ],
                                            [
                                                "Ana Unsurlar",
-                                               "32. Taktik Filo (M12-Aster), Pelikan KeÅŸif BirliÄŸi"
+                                               "32. Taktik Filo (M12-Aster), Pelikan Keşif Birliği"
                                            ],
                                            [
-                                               "Pist SayÄ±sÄ±",
+                                               "Pist Sayısı",
                                                "1 (2.800 m Asfalt/Beton)"
                                            ],
                                            [
                                                "Konum",
-                                               "Lerya KuzeybatÄ±sÄ±"
+                                               "Lerya Kuzeybatısı"
                                            ],
                                            [
-                                               "StatÃ¼",
+                                               "Statü",
                                                "Faal"
                                            ]
                                        ]
@@ -3571,19 +3571,19 @@ const dataTR={
     "sarp-gecidi":  {
                         "sections":  [
                                          [
-                                             "TasarÄ±m ve inÅŸaat",
-                                             "Sarp GeÃ§idi, yarÄ±madayÄ± anakaradan ayÄ±ran sarp deniz boÄŸazÄ± Ã¼zerine 2028\u0027de inÅŸa edilmiÅŸtir. Åiddetli rÃ¼zgarlara ve depremlere dayanÄ±klÄ± Ã¶zel Ã§elik halat yapÄ±sÄ±yla tasarlanmÄ±ÅŸtÄ±r. Ã‡ift hatlÄ± demiryolu, [[gokkale-4]] roket gÃ¶vdelerinin ve aÄŸÄ±r yakÄ±t tanklarÄ±nÄ±n nakliyesini saÄŸlar."
+                                             "Tasarım ve inşaat",
+                                             "Sarp Geçidi, yarımadayı anakaradan ayıran sarp deniz boğazı üzerine 2028\u0027de inşa edilmiştir. Şiddetli rüzgarlara ve depremlere dayanıklı özel çelik halat yapısıyla tasarlanmıştır. Ã‡ift hatlı demiryolu, [[gokkale-4]] roket gövdelerinin ve ağır yakıt tanklarının nakliyesini sağlar."
                                          ],
                                          [
                                              "Askeri koruma",
-                                             "KÃ¶prÃ¼nÃ¼n iki ayaÄŸÄ±nda da uÃ§aksavar mevzileri ve elektronik karÄ±ÅŸtÄ±rma kuleleri mevcuttur. OlasÄ± bir sabotaj veya fÃ¼ze saldÄ±rÄ±sÄ±na karÅŸÄ± sis perdesi oluÅŸturma ve acil kÃ¶prÃ¼baÅŸÄ± savunma planÄ± devrededir."
+                                             "Köprünün iki ayağında da uçaksavar mevzileri ve elektronik karıştırma kuleleri mevcuttur. Olası bir sabotaj veya füze saldırısına karşı sis perdesi oluşturma ve acil köprübaşı savunma planı devrededir."
                                          ],
                                          [
-                                             "Lojistik rolÃ¼",
-                                             "SavaÅŸ krizinde GÃ–KKALE-4 tesisinin kesintisiz enerji ve mÃ¼himmat takviyesi yalnÄ±zca bu kÃ¶prÃ¼ Ã¼zerinden saÄŸlanmaktadÄ±r. KÃ¶prÃ¼nÃ¼n hasar almasÄ± durumunda yarÄ±mada anakaradan fiilen kopma riskiyle karÅŸÄ±laÅŸÄ±r."
+                                             "Lojistik rolü",
+                                             "Savaş krizinde GÃ–KKALE-4 tesisinin kesintisiz enerji ve mühimmat takviyesi yalnızca bu köprü üzerinden sağlanmaktadır. Köprünün hasar alması durumunda yarımada anakaradan fiilen kopma riskiyle karşılaşır."
                                          ]
                                      ],
-                        "title":  "Sarpburun Asma KÃ¶prÃ¼sÃ¼ ve Kara GeÃ§idi",
+                        "title":  "Sarpburun Asma Köprüsü ve Kara Geçidi",
                         "tags":  [
                                      "kopru",
                                      "sarpburun",
@@ -3599,31 +3599,31 @@ const dataTR={
                                         "doruk-ikmal",
                                         "anatarya"
                                     ],
-                        "lead":  "Sarpburun YarÄ±madasÄ±\u0027nÄ± Anatarya anakarasÄ±na baÄŸlayan stratejik asma kÃ¶prÃ¼ ve tahkimatlÄ± kara geÃ§idi; GÃ–KKALE-4 ikmalinin ana atardamarÄ±dÄ±r.",
+                        "lead":  "Sarpburun Yarımadası\u0027nı Anatarya anakarasına bağlayan stratejik asma köprü ve tahkimatlı kara geçidi; GÃ–KKALE-4 ikmalinin ana atardamarıdır.",
                         "infobox":  [
                                         [
-                                            "TÃ¼r",
-                                            "Stratejik Asma KÃ¶prÃ¼ ve Askeri GeÃ§it"
+                                            "Tür",
+                                            "Stratejik Asma Köprü ve Askeri Geçit"
                                         ],
                                         [
                                             "Uzunluk",
-                                            "1.850 m (Ana aÃ§Ä±klÄ±k: 1.100 m)"
+                                            "1.850 m (Ana açıklık: 1.100 m)"
                                         ],
                                         [
-                                            "Åerit SayÄ±sÄ±",
-                                            "4 Karayolu + Ã‡ift Hat AÄŸÄ±r Demiryolu"
+                                            "Şerit Sayısı",
+                                            "4 Karayolu + Ã‡ift Hat Ağır Demiryolu"
                                         ],
                                         [
-                                            "GÃ¶zetleme",
-                                            "GeÃ§it MuhafÄ±z Taburu"
+                                            "Gözetleme",
+                                            "Geçit Muhafız Taburu"
                                         ],
                                         [
                                             "Konum",
-                                            "Sarpburun KÄ±staÄŸÄ±"
+                                            "Sarpburun Kıstağı"
                                         ],
                                         [
-                                            "StatÃ¼",
-                                            "Faal (Askeri GeÃ§iÅŸ Ã–ncelikli)"
+                                            "Statü",
+                                            "Faal (Askeri Geçiş Ã–ncelikli)"
                                         ]
                                     ]
                     },
@@ -3631,18 +3631,18 @@ const dataTR={
                              "sections":  [
                                               [
                                                   "Stratejik konum",
-                                                  "Ä°stara BoÄŸazÄ±, kÄ±talararasÄ± ticaret ve donanma intikalleri iÃ§in kritik tek su geÃ§ididir. Ä°stara MuhafÄ±z Ä°stasyonu, boÄŸazÄ±n iki yakasÄ±nda yer alan kale kalÄ±ntÄ±larÄ± Ã¼zerine modern radar ve sensÃ¶r aÄŸlarÄ± entegre edilerek kurulmuÅŸtur."
+                                                  "İstara Boğazı, kıtalararası ticaret ve donanma intikalleri için kritik tek su geçididir. İstara Muhafız İstasyonu, boğazın iki yakasında yer alan kale kalıntıları üzerine modern radar ve sensör ağları entegre edilerek kurulmuştur."
                                               ],
                                               [
-                                                  "Seyir gÃ¼venliÄŸi ve denetim",
-                                                  "BoÄŸazdan geÃ§en tÃ¼m askeri ve ticari gemiler istasyonun VTS (Gemi Trafik Hizmetleri) merkezine bildirim yapmak zorundadÄ±r. SavaÅŸ durumunda boÄŸazÄ±n kapatÄ±lmasÄ± ve geÃ§iÅŸ gÃ¼venliÄŸinin saÄŸlanmasÄ± garnizonun yetkisindedir."
+                                                  "Seyir güvenliği ve denetim",
+                                                  "Boğazdan geçen tüm askeri ve ticari gemiler istasyonun VTS (Gemi Trafik Hizmetleri) merkezine bildirim yapmak zorundadır. Savaş durumunda boğazın kapatılması ve geçiş güvenliğinin sağlanması garnizonun yetkisindedir."
                                               ],
                                               [
                                                   "Savunma sistemleri",
-                                                  "Ä°stasyonda konuÅŸlu KOR-SAN kÄ±yÄ± savunma fÃ¼ze bataryalarÄ±, boÄŸaza zorla girmeye Ã§alÄ±ÅŸacak savaÅŸ gemilerini 180 km mesafeden etkisiz hale getirebilecek vuruÅŸ gÃ¼cÃ¼ne sahiptir."
+                                                  "İstasyonda konuşlu KOR-SAN kıyı savunma füze bataryaları, boğaza zorla girmeye çalışacak savaş gemilerini 180 km mesafeden etkisiz hale getirebilecek vuruş gücüne sahiptir."
                                               ]
                                           ],
-                             "title":  "Ä°stara BoÄŸaz MuhafÄ±z Ä°stasyonu ve Sahil BataryasÄ±",
+                             "title":  "İstara Boğaz Muhafız İstasyonu ve Sahil Bataryası",
                              "tags":  [
                                           "garnizon",
                                           "istara",
@@ -3659,30 +3659,30 @@ const dataTR={
                                              "anatarya",
                                              "korsan"
                                          ],
-                             "lead":  "Kuzey Denizi ile Ä°Ã§ Deniz arasÄ±ndaki Ä°stara BoÄŸazÄ±\u0027nÄ±n iki yakasÄ±ndaki deniz geÃ§iÅŸlerini kontrol eden, radar ve kÄ±yÄ± savunma fÃ¼zeleriyle donatÄ±lmÄ±ÅŸ Anatarya garnizonu.",
+                             "lead":  "Kuzey Denizi ile İç Deniz arasındaki İstara Boğazı\u0027nın iki yakasındaki deniz geçişlerini kontrol eden, radar ve kıyı savunma füzeleriyle donatılmış Anatarya garnizonu.",
                              "infobox":  [
                                              [
-                                                 "TÃ¼r",
-                                                 "BoÄŸaz TahkimatÄ± ve KÄ±yÄ± FÃ¼ze Ä°stasyonu"
+                                                 "Tür",
+                                                 "Boğaz Tahkimatı ve Kıyı Füze İstasyonu"
                                              ],
                                              [
-                                                 "Ä°ÅŸletmeci",
-                                                 "Anatarya KÄ±yÄ± Muhafaza KomutanlÄ±ÄŸÄ±"
+                                                 "İşletmeci",
+                                                 "Anatarya Kıyı Muhafaza Komutanlığı"
                                              ],
                                              [
                                                  "Silah Sistemleri",
-                                                 "[[korsan]] Atmaca-K kÄ±yÄ± savunma fÃ¼zeleri, 76 mm sahil toplarÄ±"
+                                                 "[[korsan]] Atmaca-K kıyı savunma füzeleri, 76 mm sahil topları"
                                              ],
                                              [
-                                                 "GÃ¶zetleme",
-                                                 "Ä°stara BoÄŸaz Trafik Radar Kulesi"
+                                                 "Gözetleme",
+                                                 "İstara Boğaz Trafik Radar Kulesi"
                                              ],
                                              [
                                                  "Konum",
-                                                 "[[istara-bogazi]] GiriÅŸi"
+                                                 "[[istara-bogazi]] Girişi"
                                              ],
                                              [
-                                                 "StatÃ¼",
+                                                 "Statü",
                                                  "Faal"
                                              ]
                                          ]
@@ -3690,19 +3690,19 @@ const dataTR={
     "lerya-deniz-ussu":  {
                              "sections":  [
                                               [
-                                                  "Tesis yapÄ±sÄ±",
-                                                  "Pelagos Deniz ÃœssÃ¼, doÄŸal bir koy olan Lerya KÃ¶rfezi iÃ§inde yer alÄ±r. DÄ±ÅŸ dalgakÄ±ranlarÄ± koruganlÄ± sahil bataryalarÄ±yla tahkim edilmiÅŸtir. Ãœs iÃ§erisinde savaÅŸ gemisi onarÄ±m tersanesi, torpido depolarÄ± ve komuta karargÃ¢hÄ± bulunmaktadÄ±r."
+                                                  "Tesis yapısı",
+                                                  "Pelagos Deniz Üssü, doğal bir koy olan Lerya Körfezi içinde yer alır. Dış dalgakıranları koruganlı sahil bataryalarıyla tahkim edilmiştir. Üs içerisinde savaş gemisi onarım tersanesi, torpido depoları ve komuta karargÃ¢hı bulunmaktadır."
                                               ],
                                               [
-                                                  "Aigaion Grubu baÄŸlantÄ±sÄ±",
-                                                  "Elonya\u0027nÄ±n sancak gemisi olan [[aigaion]] gÃ¼dÃ¼mlÃ¼ mermi firkateyni ve refakatindeki hÃ¼cumbotlar bu Ã¼ste konuÅŸludur. GÃ–KKALE-4 krizinde taarruz grubuna yakÄ±t ve mÃ¼himmat yÃ¼klemesi bu limanda tamamlanmÄ±ÅŸtÄ±r."
+                                                  "Aigaion Grubu bağlantısı",
+                                                  "Elonya\u0027nın sancak gemisi olan [[aigaion]] güdümlü mermi firkateyni ve refakatindeki hücumbotlar bu üste konuşludur. GÃ–KKALE-4 krizinde taarruz grubuna yakıt ve mühimmat yüklemesi bu limanda tamamlanmıştır."
                                               ],
                                               [
-                                                  "BÃ¶lgesel etkisi",
-                                                  "Ãœs, Kalyon Denizi\u0027ndeki dar deniz boÄŸazlarÄ±nÄ±n kontrolÃ¼nÃ¼ elinde tutarak Anatarya\u0027nÄ±n ticari deniz yollarÄ±nÄ± baskÄ± altÄ±nda tutma kabiliyetine sahiptir."
+                                                  "Bölgesel etkisi",
+                                                  "Üs, Kalyon Denizi\u0027ndeki dar deniz boğazlarının kontrolünü elinde tutarak Anatarya\u0027nın ticari deniz yollarını baskı altında tutma kabiliyetine sahiptir."
                                               ]
                                           ],
-                             "title":  "Lerya Donanma KomutanlÄ±ÄŸÄ± ve Pelagos Deniz ÃœssÃ¼",
+                             "title":  "Lerya Donanma Komutanlığı ve Pelagos Deniz Üssü",
                              "tags":  [
                                           "deniz-ussu",
                                           "liman",
@@ -3719,50 +3719,50 @@ const dataTR={
                                              "kalyon-denizi",
                                              "pelagos-karakolu"
                                          ],
-                             "lead":  "Elonya Deniz Kuvvetleri\u0027nin Kalyon Denizi\u0027ndeki ana harekÃ¢t merkezi, tersanesi ve firkateyn filotillasÄ± konuÅŸlanma limanÄ±.",
+                             "lead":  "Elonya Deniz Kuvvetleri\u0027nin Kalyon Denizi\u0027ndeki ana harekÃ¢t merkezi, tersanesi ve firkateyn filotillası konuşlanma limanı.",
                              "infobox":  [
                                              [
-                                                 "TÃ¼r",
-                                                 "Ana Deniz ÃœssÃ¼ ve Askeri Tersane"
+                                                 "Tür",
+                                                 "Ana Deniz Üssü ve Askeri Tersane"
                                              ],
                                              [
-                                                 "Ä°ÅŸletmeci",
+                                                 "İşletmeci",
                                                  "Elonya Deniz Kuvvetleri"
                                              ],
                                              [
-                                                 "BaÄŸlÄ± Birlikler",
-                                                 "1. Firkateyn FilotillasÄ±, Kalyon HÃ¼cumbot Taburu"
+                                                 "Bağlı Birlikler",
+                                                 "1. Firkateyn Filotillası, Kalyon Hücumbot Taburu"
                                              ],
                                              [
-                                                 "RÄ±htÄ±m Kapasitesi",
+                                                 "Rıhtım Kapasitesi",
                                                  "12 muharip gemi, 2 kuru havuz"
                                              ],
                                              [
                                                  "Konum",
-                                                 "Lerya Koyu / Kalyon KÄ±yÄ±sÄ±"
+                                                 "Lerya Koyu / Kalyon Kıyısı"
                                              ],
                                              [
-                                                 "StatÃ¼",
-                                                 "Faal (SavaÅŸ SeferberliÄŸi)"
+                                                 "Statü",
+                                                 "Faal (Savaş Seferberliği)"
                                              ]
                                          ]
                          },
     "arkent-jet-ussu":  {
                             "sections":  [
                                              [
-                                                 "Konum ve altyapÄ±",
-                                                 "Arkent\u0027in 35 km batÄ±sÄ±ndaki daÄŸ eteÄŸi ovasÄ±na inÅŸa edilen 1. Ana Jet ÃœssÃ¼, yeraltÄ± takviyeli hangarlarÄ±, taktik mÃ¼himmat sÄ±ÄŸÄ±naklarÄ± ve baÄŸÄ±msÄ±z yakÄ±t ikmal tÃ¼nelleriyle Anatarya\u0027nÄ±n en korunaklÄ± hava Ã¼ssÃ¼dÃ¼r. Ãœs pistleri, harp zamanÄ±nda otoyol acil iniÅŸ ÅŸeritleriyle entegre Ã§alÄ±ÅŸacak ÅŸekilde dizayn edilmiÅŸtir."
+                                                 "Konum ve altyapı",
+                                                 "Arkent\u0027in 35 km batısındaki dağ eteği ovasına inşa edilen 1. Ana Jet Üssü, yeraltı takviyeli hangarları, taktik mühimmat sığınakları ve bağımsız yakıt ikmal tünelleriyle Anatarya\u0027nın en korunaklı hava üssüdür. Üs pistleri, harp zamanında otoyol acil iniş şeritleriyle entegre çalışacak şekilde dizayn edilmiştir."
                                              ],
                                              [
-                                                 "KonuÅŸlu filolar",
-                                                 "Ãœs, Ã¼lkenin en seÃ§kin hava birliklerini barÄ±ndÄ±rÄ±r. Yeni nesil [[k21-kaan]] uÃ§aklarÄ±nÄ± ilk teslim alan 101. Karakartal Filosu ile Sarpburun ve Kalyon Ã¼zerinde hava devriyesi yapan [[k16-alaz]] filolarÄ± buradan sevk ve idare edilir. AyrÄ±ca [[baykut]] Ã¼retimi [[al-elma]] insansÄ±z savaÅŸ jetleri de bu Ã¼ste test ve harekÃ¢t faaliyetleri yÃ¼rÃ¼tmektedir."
+                                                 "Konuşlu filolar",
+                                                 "Üs, ülkenin en seçkin hava birliklerini barındırır. Yeni nesil [[k21-kaan]] uçaklarını ilk teslim alan 101. Karakartal Filosu ile Sarpburun ve Kalyon üzerinde hava devriyesi yapan [[k16-alaz]] filoları buradan sevk ve idare edilir. Ayrıca [[baykut]] üretimi [[al-elma]] insansız savaş jetleri de bu üste test ve harekÃ¢t faaliyetleri yürütmektedir."
                                              ],
                                              [
-                                                 "HarekÃ¢t rolÃ¼",
-                                                 "Kriz dÃ¶neminde Ã¼s, GÃ–KKALE-4 Ã¼zerindeki hava sahasÄ±na 6 dakikada reaksiyon gÃ¶steren Ã¶nleme nÃ¶beti sÃ¼rdÃ¼rmektedir. Elonya\u0027nÄ±n [[lerya-jet-ussu]] konuÅŸlu hava unsurlarÄ±yla karÅŸÄ± karÅŸÄ±ya gelen Anatarya jetleri, operasyonlarÄ±nÄ± Arkent Hava HarekÃ¢t Merkezi Ã¼zerinden icra eder."
+                                                 "HarekÃ¢t rolü",
+                                                 "Kriz döneminde üs, GÃ–KKALE-4 üzerindeki hava sahasına 6 dakikada reaksiyon gösteren önleme nöbeti sürdürmektedir. Elonya\u0027nın [[lerya-jet-ussu]] konuşlu hava unsurlarıyla karşı karşıya gelen Anatarya jetleri, operasyonlarını Arkent Hava HarekÃ¢t Merkezi üzerinden icra eder."
                                              ]
                                          ],
-                            "title":  "Arkent 1. Ana Jet Ãœs KomutanlÄ±ÄŸÄ± (Karakartal)",
+                            "title":  "Arkent 1. Ana Jet Üs Komutanlığı (Karakartal)",
                             "tags":  [
                                          "hava-ussu",
                                          "arkent",
@@ -3780,50 +3780,50 @@ const dataTR={
                                             "al-elma",
                                             "anasas"
                                         ],
-                            "lead":  "Anatarya Hava Kuvvetleri\u0027nin baÅŸkent savunmasÄ± ve batÄ± harekÃ¢t sahasÄ±nÄ± koruyan ana avcÄ± Ã¼ssÃ¼. K-21 KAAN, K16-Alaz ve insansÄ±z savaÅŸ filolarÄ±na ev sahipliÄŸi yapar.",
+                            "lead":  "Anatarya Hava Kuvvetleri\u0027nin başkent savunması ve batı harekÃ¢t sahasını koruyan ana avcı üssü. K-21 KAAN, K16-Alaz ve insansız savaş filolarına ev sahipliği yapar.",
                             "infobox":  [
                                             [
-                                                "TÃ¼r",
-                                                "Ana Muharip Jet ÃœssÃ¼"
+                                                "Tür",
+                                                "Ana Muharip Jet Üssü"
                                             ],
                                             [
-                                                "Ä°ÅŸletmeci",
+                                                "İşletmeci",
                                                 "Anatarya Hava Kuvvetleri"
                                             ],
                                             [
                                                 "Ana Filolar",
-                                                "101. Kartal Filo ([[k21-kaan]]), 132. HanÃ§er Filosu ([[k16-alaz]]), 14. Ä°nsansÄ±z AvcÄ± Filosu ([[al-elma]])"
+                                                "101. Kartal Filo ([[k21-kaan]]), 132. Hançer Filosu ([[k16-alaz]]), 14. İnsansız Avcı Filosu ([[al-elma]])"
                                             ],
                                             [
-                                                "Pist SayÄ±sÄ±",
+                                                "Pist Sayısı",
                                                 "2 (Betonarme, 3.400 m)"
                                             ],
                                             [
                                                 "Konum",
-                                                "Arkent BatÄ±sÄ±"
+                                                "Arkent Batısı"
                                             ],
                                             [
-                                                "StatÃ¼",
-                                                "Faal (1. Derece Sefer AlarmÄ±)"
+                                                "Statü",
+                                                "Faal (1. Derece Sefer Alarmı)"
                                             ]
                                         ]
                         },
     "sarpburun-radar":  {
                             "sections":  [
                                              [
-                                                 "Genel bakÄ±ÅŸ",
-                                                 "SARP-RAD, Sarpburun YarÄ±madasÄ±\u0027nÄ±n en yÃ¼ksek noktasÄ±nda yer alÄ±r. Tesis, Anatarya\u0027nÄ±n batÄ± sÄ±nÄ±rlarÄ±nÄ± ve [[gokkale-4]] uzay Ã¼ssÃ¼nÃ¼ yaklaÅŸan hava, deniz ve balistik fÃ¼ze tehditlerine karÅŸÄ± korumak iÃ§in 2031 yÄ±lÄ±nda hizmete girmiÅŸtir. ÃœÃ§ boyutlu AESA anteni ve geliÅŸmiÅŸ sinyal iÅŸleme algoritmalarÄ±, Kalyon Denizi Ã¼zerindeki alÃ§ak irtifa hedeflerini ufuk Ã¶tesinden tespit edebilir."
+                                                 "Genel bakış",
+                                                 "SARP-RAD, Sarpburun Yarımadası\u0027nın en yüksek noktasında yer alır. Tesis, Anatarya\u0027nın batı sınırlarını ve [[gokkale-4]] uzay üssünü yaklaşan hava, deniz ve balistik füze tehditlerine karşı korumak için 2031 yılında hizmete girmiştir. Üç boyutlu AESA anteni ve gelişmiş sinyal işleme algoritmaları, Kalyon Denizi üzerindeki alçak irtifa hedeflerini ufuk ötesinden tespit edebilir."
                                              ],
                                              [
                                                  "Elektronik harp yetenekleri",
-                                                 "Kompleks yalnÄ±zca pasif ve aktif radar taramasÄ± yapmakla kalmaz; aynÄ± zamanda geniÅŸ bant elektronik destek (ED) ve karÄ±ÅŸtÄ±rma (ET) kabiliyetine sahiptir. [[elonya]] keÅŸif uÃ§aklarÄ± ve Ä°HA\u0027larÄ±nÄ±n sÄ±nÄ±r ihlallerini engellemek iÃ§in yerel radar kÃ¶reltme ve GPS yanÄ±ltma protokolleri uygular."
+                                                 "Kompleks yalnızca pasif ve aktif radar taraması yapmakla kalmaz; aynı zamanda geniş bant elektronik destek (ED) ve karıştırma (ET) kabiliyetine sahiptir. [[elonya]] keşif uçakları ve İHA\u0027larının sınır ihlallerini engellemek için yerel radar köreltme ve GPS yanıltma protokolleri uygular."
                                              ],
                                              [
-                                                 "Taktik Ã¶nem",
-                                                 "GÃ–KKALE-4 krizinde SARP-RAD, [[aigaion]] firkateyn grubunun yaklaÅŸtÄ±ÄŸÄ±nÄ± tespit eden ilk yer gÃ¶zlem istasyonu olmuÅŸtur. Tesis, elde ettiÄŸi anlÄ±k hedef izlerini doÄŸrudan [[arkent-jet-ussu]]\u0027ndeki [[k21-kaan]] filolarÄ±na ve [[kor-kalkan-bataryasi]]\u0027na aktarmaktadÄ±r."
+                                                 "Taktik önem",
+                                                 "GÃ–KKALE-4 krizinde SARP-RAD, [[aigaion]] firkateyn grubunun yaklaştığını tespit eden ilk yer gözlem istasyonu olmuştur. Tesis, elde ettiği anlık hedef izlerini doğrudan [[arkent-jet-ussu]]\u0027ndeki [[k21-kaan]] filolarına ve [[kor-kalkan-bataryasi]]\u0027na aktarmaktadır."
                                              ]
                                          ],
-                            "title":  "Sarpburun Erken UyarÄ± Radar Kompleksi (SARP-RAD)",
+                            "title":  "Sarpburun Erken Uyarı Radar Kompleksi (SARP-RAD)",
                             "tags":  [
                                          "radar",
                                          "sarpburun",
@@ -3841,18 +3841,18 @@ const dataTR={
                                             "kor-kalkan-bataryasi",
                                             "kalkan-hss"
                                         ],
-                            "lead":  "Sarpburun YarÄ±madasÄ±\u0027nÄ±n kuzey sÄ±rtlarÄ±nda kurulu, Kalyon Denizi ve Avren hava sahasÄ±nÄ± 600 km yarÄ±Ã§apta gÃ¶zetleyen SARPSAN Ã¼retimi aktif faz dizili erken uyarÄ± ve elektronik harp kompleksi.",
+                            "lead":  "Sarpburun Yarımadası\u0027nın kuzey sırtlarında kurulu, Kalyon Denizi ve Avren hava sahasını 600 km yarıçapta gözetleyen SARPSAN üretimi aktif faz dizili erken uyarı ve elektronik harp kompleksi.",
                             "infobox":  [
                                             [
-                                                "TÃ¼r",
-                                                "Erken uyarÄ± ve hava gÃ¶zetleme radarÄ±"
+                                                "Tür",
+                                                "Erken uyarı ve hava gözetleme radarı"
                                             ],
                                             [
-                                                "Ä°ÅŸletmeci",
-                                                "Anatarya Hava Savunma KomutanlÄ±ÄŸÄ±"
+                                                "İşletmeci",
+                                                "Anatarya Hava Savunma Komutanlığı"
                                             ],
                                             [
-                                                "Ãœretici",
+                                                "Üretici",
                                                 "[[sarpsan]]"
                                             ],
                                             [
@@ -3861,15 +3861,15 @@ const dataTR={
                                             ],
                                             [
                                                 "Konum",
-                                                "[[sarpburun]] Kuzey SÄ±rtÄ±"
+                                                "[[sarpburun]] Kuzey Sırtı"
                                             ],
                                             [
                                                 "Koruma",
                                                 "[[kor-kalkan-bataryasi]]"
                                             ],
                                             [
-                                                "StatÃ¼",
-                                                "Faal (YÃ¼ksek Alarm)"
+                                                "Statü",
+                                                "Faal (Yüksek Alarm)"
                                             ]
                                         ]
                         }
@@ -7375,7 +7375,7 @@ const dataEN={
                              "sections":  [
                                               [
                                                   "Strategic position",
-                                                  "The Ä°stara Strait is the only nautical transit canal linking the Northern Sea with the Inner Sea. The garrison occupies historical fortress promontories modernized with radar domes, thermal cameras, and hardened underground bunkers."
+                                                  "The İstara Strait is the only nautical transit canal linking the Northern Sea with the Inner Sea. The garrison occupies historical fortress promontories modernized with radar domes, thermal cameras, and hardened underground bunkers."
                                               ],
                                               [
                                                   "Maritime traffic management",
@@ -7386,7 +7386,7 @@ const dataEN={
                                                   "Truck-mounted KOR-SAN coastal defense missile launchers deployed along the heights can engage hostile naval targets up to 180 km away, effectively denying passage to unauthorized foreign warships."
                                               ]
                                           ],
-                             "title":  "Ä°stara Strait Coastal Defense Garrison",
+                             "title":  "İstara Strait Coastal Defense Garrison",
                              "tags":  [
                                           "garrison",
                                           "istara",
@@ -7403,7 +7403,7 @@ const dataEN={
                                              "anatarya",
                                              "korsan"
                                          ],
-                             "lead":  "An Anatarian coastal defense garrison equipped with shore-to-ship missiles and surface surveillance radars guarding maritime transit through the Ä°stara Strait.",
+                             "lead":  "An Anatarian coastal defense garrison equipped with shore-to-ship missiles and surface surveillance radars guarding maritime transit through the İstara Strait.",
                              "infobox":  [
                                              [
                                                  "Type",
@@ -7419,7 +7419,7 @@ const dataEN={
                                              ],
                                              [
                                                  "Surveillance",
-                                                 "Ä°stara Vessel Traffic Service Radar Tower"
+                                                 "İstara Vessel Traffic Service Radar Tower"
                                              ],
                                              [
                                                  "Location",
@@ -7799,6 +7799,7 @@ document.addEventListener('click', (e) => {
   if (!link || link.target === '_blank' || link.hasAttribute('download')) return;
   const href = link.getAttribute('href');
   if (!href) return;
+  if (link.classList.contains('admin-entry') || href.includes('edit.html') || href.includes('/edit')) return;
   if (href.startsWith('#') && !href.startsWith('#/')) return;
 
   if (href.startsWith('/') || href.startsWith('#/')) {
