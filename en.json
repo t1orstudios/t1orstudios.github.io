@@ -3034,7 +3034,7 @@
                                      "k4-boran",
                                      "kriz"
                                  ],
-                     "imageKey":  "air-k16",
+                     "imageKey":  "file:k21-kaan.jpg",
                      "draft":  false
                  },
     "bayrak-t2":  {
@@ -3086,7 +3086,7 @@
                                       "al-elma",
                                       "kriz"
                                   ],
-                      "imageKey":  "",
+                      "imageKey":  "file:bayrak-t2.jpg",
                       "draft":  false
                   },
     "akin-3":  {
@@ -3138,7 +3138,7 @@
                                    "gokkale-4",
                                    "kriz"
                                ],
-                   "imageKey":  "",
+                   "imageKey":  "file:akin-3.jpg",
                    "draft":  false
                },
     "al-elma":  {
@@ -3190,7 +3190,7 @@
                                     "sarpsan",
                                     "kriz"
                                 ],
-                    "imageKey":  "",
+                    "imageKey":  "file:al-elma.jpg",
                     "draft":  false
                 },
     "pelagos-karakolu":  {

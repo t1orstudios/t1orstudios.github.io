@@ -131,7 +131,7 @@ const navItems=[['ana-sayfa','Home','/home'],['harita','Political map','/harita-
 return {home,article,index,cats,navItems,escapeHTML,visuals};
 }
 
-const dataTR={
+const dataTR = {
     "anatarya":  {
                      "title":  "Anatarya Cumhuriyeti",
                      "category":  "Ülkeler",
@@ -3167,7 +3167,7 @@ const dataTR={
                                      "k4-boran",
                                      "kriz"
                                  ],
-                     "imageKey":  "air-k16",
+                     "imageKey":  "file:k21-kaan.jpg",
                      "draft":  false
                  },
     "bayrak-t2":  {
@@ -3219,7 +3219,7 @@ const dataTR={
                                       "al-elma",
                                       "kriz"
                                   ],
-                      "imageKey":  "",
+                      "imageKey":  "file:bayrak-t2.jpg",
                       "draft":  false
                   },
     "akin-3":  {
@@ -3271,7 +3271,7 @@ const dataTR={
                                    "gokkale-4",
                                    "kriz"
                                ],
-                   "imageKey":  "",
+                   "imageKey":  "file:akin-3.jpg",
                    "draft":  false
                },
     "al-elma":  {
@@ -3323,7 +3323,7 @@ const dataTR={
                                     "sarpsan",
                                     "kriz"
                                 ],
-                    "imageKey":  "",
+                    "imageKey":  "file:al-elma.jpg",
                     "draft":  false
                 },
     "pelagos-karakolu":  {
@@ -3874,8 +3874,7 @@ const dataTR={
                                         ]
                         }
 };
-
-const dataEN={
+const dataEN = {
     "anatarya":  {
                      "title":  "Republic of Anataria",
                      "category":  "Countries",
@@ -6911,7 +6910,7 @@ const dataEN={
                                      "k4-boran",
                                      "kriz"
                                  ],
-                     "imageKey":  "air-k16",
+                     "imageKey":  "file:k21-kaan.jpg",
                      "draft":  false
                  },
     "bayrak-t2":  {
@@ -6963,7 +6962,7 @@ const dataEN={
                                       "al-elma",
                                       "kriz"
                                   ],
-                      "imageKey":  "",
+                      "imageKey":  "file:bayrak-t2.jpg",
                       "draft":  false
                   },
     "akin-3":  {
@@ -7015,7 +7014,7 @@ const dataEN={
                                    "gokkale-4",
                                    "kriz"
                                ],
-                   "imageKey":  "",
+                   "imageKey":  "file:akin-3.jpg",
                    "draft":  false
                },
     "al-elma":  {
@@ -7067,7 +7066,7 @@ const dataEN={
                                     "sarpsan",
                                     "kriz"
                                 ],
-                    "imageKey":  "",
+                    "imageKey":  "file:al-elma.jpg",
                     "draft":  false
                 },
     "pelagos-karakolu":  {

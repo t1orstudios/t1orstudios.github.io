@@ -22,11 +22,11 @@ header .brand{min-width:0;font-size:19px}
 .map-frame svg{display:block;width:100%;height:auto;max-height:58vh;aspect-ratio:8/5;touch-action:none;user-select:none;cursor:grab}
 .map-frame svg.dragging{cursor:grabbing}
 
-/* Labels and map typography with dynamic zoom scaling */
-.map-land-labels text{font:600 32px Georgia,serif;letter-spacing:3px;text-anchor:middle;fill:#172739;paint-order:stroke;stroke:#ffffff88;stroke-width:3px}
-.continent-label{fill:#b4c3d2;opacity:.55;font:22px Arial;letter-spacing:10px;text-anchor:middle}
-.region-label{fill:#dfc9be;font:italic 19px Georgia;text-anchor:middle}
-.atlas-water-labels text{fill:#56758e;font:italic 28px Georgia;letter-spacing:6px;text-anchor:middle}
+/* Labels and map typography */
+.map-land-labels text{font-family:Georgia,serif;font-weight:600;font-size:32px;letter-spacing:3px;text-anchor:middle;fill:#172739;paint-order:stroke;stroke:#ffffff88;stroke-width:3px}
+.continent-label{fill:#b4c3d2;opacity:.55;font-family:Arial,sans-serif;font-size:22px;letter-spacing:10px;text-anchor:middle}
+.region-label{fill:#dfc9be;font-family:Georgia,serif;font-style:italic;font-size:19px;text-anchor:middle}
+.atlas-water-labels text{fill:#56758e;font-family:Georgia,serif;font-style:italic;font-size:28px;letter-spacing:6px;text-anchor:middle}
 .atlas-water-labels .inner-sea{font-size:22px;letter-spacing:2px}
 
 .hit-area{fill:transparent;stroke:transparent;pointer-events:all}
@@ -34,19 +34,19 @@ header .brand{min-width:0;font-size:19px}
 .place:focus .hit-area,.place.selected .hit-area{stroke:#ffd270;stroke-width:2.5;stroke-dasharray:6 4;fill:#ffe9ab16}
 .place:hover .hit-area{fill:#ffffff16}
 
-/* Dynamic label sizing: when zooming in, text gracefully scales so distance between labels expands on screen */
-.city-label{font:600 calc(21px / (1 + (var(--map-zoom, 1) - 1) * 0.45)) Georgia,serif;fill:#ded8c8;paint-order:stroke;stroke:#16222de0;stroke-width:calc(3px / (1 + (var(--map-zoom, 1) - 1) * 0.3))}
-.feature-label{font:calc(20px / (1 + (var(--map-zoom, 1) - 1) * 0.45)) Georgia;fill:#d8e5f2;paint-order:stroke;stroke:#142638;stroke-width:calc(3.5px / (1 + (var(--map-zoom, 1) - 1) * 0.3))}
-.facility-label{font:600 calc(16px / (1 + (var(--map-zoom, 1) - 1) * 0.45)) Arial,sans-serif;letter-spacing:0.5px;fill:#eedaa2;paint-order:stroke;stroke:#101b27;stroke-width:calc(3.5px / (1 + (var(--map-zoom, 1) - 1) * 0.3))}
-.small-label{fill:#d4cba9;font:calc(16px / (1 + (var(--map-zoom, 1) - 1) * 0.45)) Arial;paint-order:stroke;stroke:#182532;stroke-width:calc(3px / (1 + (var(--map-zoom, 1) - 1) * 0.3))}
+/* Dynamic label sizing: text grows visibly when zooming for readability, but scales smoothly so spacing expands */
+.city-label{font-family:Georgia,serif;font-weight:600;font-size:calc(20px / (1 + (var(--map-zoom, 1) - 1) * 0.18));fill:#ded8c8;paint-order:stroke;stroke:#16222de0;stroke-width:calc(3.5px / (1 + (var(--map-zoom, 1) - 1) * 0.15))}
+.feature-label{font-family:Georgia,serif;font-size:calc(18px / (1 + (var(--map-zoom, 1) - 1) * 0.18));fill:#d8e5f2;paint-order:stroke;stroke:#142638;stroke-width:calc(3.5px / (1 + (var(--map-zoom, 1) - 1) * 0.15))}
+.facility-label{font-family:Arial,sans-serif;font-weight:600;font-size:calc(15px / (1 + (var(--map-zoom, 1) - 1) * 0.18));letter-spacing:0.5px;fill:#eedaa2;paint-order:stroke;stroke:#101b27;stroke-width:calc(3.5px / (1 + (var(--map-zoom, 1) - 1) * 0.15))}
+.small-label{font-family:Arial,sans-serif;font-size:calc(15px / (1 + (var(--map-zoom, 1) - 1) * 0.18));fill:#d4cba9;paint-order:stroke;stroke:#182532;stroke-width:calc(3px / (1 + (var(--map-zoom, 1) - 1) * 0.15))}
 
-.star{font:calc(25px / (1 + (var(--map-zoom, 1) - 1) * 0.45)) Georgia;fill:#dbc794;text-anchor:middle;paint-order:stroke;stroke:#142536;stroke-width:calc(2px / (1 + (var(--map-zoom, 1) - 1) * 0.3))}
+.star{font-family:Georgia,serif;font-size:calc(24px / (1 + (var(--map-zoom, 1) - 1) * 0.18));fill:#dbc794;text-anchor:middle;paint-order:stroke;stroke:#142536;stroke-width:calc(2px / (1 + (var(--map-zoom, 1) - 1) * 0.15))}
 .city-mark,.facility-mark{fill:#fae0a5;stroke:#172b3d;stroke-width:2}
-.label-line{fill:none;stroke:#e6d6b3;stroke-width:calc(1.6px / (1 + (var(--map-zoom, 1) - 1) * 0.25))}
+.label-line{fill:none;stroke:#e6d6b3;stroke-width:calc(1.6px / (1 + (var(--map-zoom, 1) - 1) * 0.12))}
 .border-ring{fill:none;stroke:#edcc8e;stroke-width:3}
 .coastal-shelf{fill:none;stroke:#263542;stroke-width:13;stroke-linejoin:round;pointer-events:none}
 .country-fill,.islet{stroke:#c0b9a680;stroke-width:1.25;stroke-linejoin:round}
-.country-label text{font:500 32px Georgia,serif;letter-spacing:4px;fill:#e5dfcf;paint-order:stroke;stroke:#17212da6;stroke-width:3px}
+.country-label text{font-family:Georgia,serif;font-weight:500;font-size:32px;letter-spacing:4px;fill:#e5dfcf;paint-order:stroke;stroke:#17212da6;stroke-width:3px}
 .country-label image{opacity:.85}
 .country-region:hover .country-fill,.country-region.selected .country-fill{stroke:#ebd9a8;stroke-width:2.5;filter:brightness(1.14)}
 .ceasefire-halo{fill:none;stroke:#172923;stroke-width:7;pointer-events:none}
@@ -82,7 +82,7 @@ header .brand{min-width:0;font-size:19px}
 .map-legend>span{display:flex;align-items:center;gap:7px}
 .map-legend img{display:block;border:1px solid #68819a;border-radius:1px}
 .north-arrow path{fill:#c6d9e8;stroke:#344c63}
-.north-arrow text{fill:#c6d9e8;font:24px Georgia}
+.north-arrow text{fill:#c6d9e8;font-family:Georgia,serif;font-size:24px}
 .map-note{max-width:1120px;margin:12px auto 0;font-size:12px;color:#8fa5bf;line-height:1.7}
 
 @media(max-width:760px){
