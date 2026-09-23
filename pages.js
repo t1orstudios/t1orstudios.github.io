@@ -87,4 +87,5 @@ input.addEventListener('keydown',e=>{if(e.key==='Escape')results.hidden=true;if(
 document.addEventListener('keydown',e=>{if(e.key==='/'&&!['INPUT','TEXTAREA'].includes(document.activeElement.tagName)){e.preventDefault();input.focus()}});
 document.addEventListener('click',e=>{if(!e.target.closest('.search'))results.hidden=true});
 window.addEventListener('hashchange',()=>{if(pages&&location.hash.startsWith('#/'))render()});
-fetch('/'+lang+'.json').then(r=>{if(!r.ok)throw Error('Content '+r.status);return r.json()}).then(data=>{pages=data;renderer=lang==='en'?createRendererEN(pages):createRenderer(pages);render()}).catch(()=>{main.innerHTML=lang==='en'?'<h1>Archive unavailable</h1><p>Refresh this page to try again.</p>':'<h1>Arşive ulaşılamıyor</h1><p>Sayfayı yenileyip tekrar deneyin.</p>'});
+pages=lang==='en'?window.__wikiEN:window.__wikiTR;
+if(pages){renderer=lang==='en'?createRendererEN(pages):createRenderer(pages);render()}else{main.innerHTML=lang==='en'?'<h1>Archive unavailable</h1><p>Refresh this page to try again.</p>':'<h1>Arşive ulaşılamıyor</h1><p>Sayfayı yenileyip tekrar deneyin.</p>'}

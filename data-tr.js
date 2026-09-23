@@ -1,0 +1,2471 @@
+window.__wikiTR={
+  "anatarya": {
+    "title": "Anatarya Cumhuriyeti",
+    "category": "Ülkeler",
+    "desc": "Kalyon Denizi’nin doğusunda yer alan üniter cumhuriyet.",
+    "lead": "Anatarya Cumhuriyeti, [[kalyon-denizi]] doğusundaki geniş bir yarımada ile iç platolar üzerinde yer alan, başkenti Arkent olan üniter bir cumhuriyettir. Ülke; sanayi üretimi, kara ulaşım ağı ve uzay teknolojileriyle bölgesel bir güç konumundadır. [[kuzey-kusagi]] üyesi olan Anatarya, [[elonya]] ile deniz yetki alanları, ada güvenliği ve askerî gözetleme faaliyetleri konusunda uzun süredir anlaşmazlık yaşamaktadır.\n\n[[gokkale-4]] uydu ve fırlatma kompleksine ev sahipliği yapan ülke, [[kartal-7]] programı nedeniyle [[kriz]] odağına yerleşmiştir. Elonya’nın savaşa gerekçe gösterdiği [[sarpburun-dosyasi]], Anatarya’ya atfedilen bir ilk saldırı planı içerir; dosya gerçekte [[elonya-istihbarati]] tarafından hazırlanmış sahte belgelerden oluşmaktadır.",
+    "facts": [
+      [
+        "Resmî ad",
+        "Anatarya Cumhuriyeti"
+      ],
+      [
+        "Başkent",
+        "Arkent"
+      ],
+      [
+        "Resmî dil",
+        "Anataryaca"
+      ],
+      [
+        "Yönetim",
+        "Üniter, parlamenter cumhuriyet"
+      ],
+      [
+        "Yasama organı",
+        "Cumhuriyet Meclisi"
+      ],
+      [
+        "Coğrafi konum",
+        "[[kalyon-denizi]] doğusu"
+      ],
+      [
+        "İttifak",
+        "[[kuzey-kusagi]]"
+      ],
+      [
+        "Uzay merkezi",
+        "[[gokkale-4]]"
+      ],
+      [
+        "Avren Birliği",
+        "Tam üye değil; ortaklık ilişkisi"
+      ]
+    ],
+    "sections": [
+      [
+        "Coğrafya ve iklim",
+        "Anatarya’nın batı kıyıları koylar, dağlık burunlar ve liman kentleriyle parçalanmış bir yapı gösterir. Kıyıdaki ılıman iklim, iç kesimlerde daha kurak ve mevsim farklarının belirgin olduğu plato iklimine dönüşür. Dağ sıraları, kıyı yerleşimleri ile iç bölge arasındaki ulaşımı belirli geçitlerde toplar.\n\n[[sarpburun]], kıyıdaki yerleşim yoğunluğundan görece uzakta kalan bir burundur. Açık denize erişimi ve geniş güvenlik alanı oluşturulabilmesi, bölgenin [[gokkale-4]] için seçilmesinde etkili olmuştur. [[kalyon-adalari]] çevresindeki deniz alanlarının statüsü ise komşu [[elonya]] ile ilişkilerde ayrı bir uyuşmazlık konusudur.\n\nÜlkenin [[istara-bogazi]] batısındaki toprakları [[avrupa]] ana karasına bağlıdır. Burada [[elonya]] ile kara sınırı bulunur. [[istara]] iki yakalı bir geçiş şehridir; başkent Arkent ise iç bölgede kalır."
+      ],
+      [
+        "Tarih",
+        "Cumhuriyet, eski hanedan yönetiminin çözülmesini izleyen anayasal dönüşüm döneminde kurulmuştur. İlk dönem yönetimleri, bölgesel idareleri ortak bir hukuk ve vergi düzeninde birleştirmeye öncelik vermiştir. Arkent’in başkent seçilmesi, siyasi merkezin liman ticaretine bağımlı kıyı şehirlerinden iç bölgeye taşınmasını simgelemiştir.\n\nSonraki sanayileşme döneminde demiryolları, makine üretimi ve teknik eğitim kurumları genişlemiştir. Savunma üretimi başlangıçta dış tedarike dayanırken, art arda yaşanan ambargolar yerli elektronik ve havacılık programlarını hızlandırmıştır. [[kuzey-kusagi]] üyeliği bu süreçte dış güvenlik güvencesi sağlamış, ancak ülkenin bağımsız savunma altyapısı kurma politikasını sona erdirmemiştir."
+      ],
+      [
+        "Devlet yapısı ve siyaset",
+        "Anatarya, çok partili parlamenter sistemle yönetilir. Yasama yetkisi Cumhuriyet Meclisine, yürütme yetkisi meclisin güvenine dayanan hükûmete aittir. Cumhurbaşkanlığı devletin sürekliliğini temsil eden anayasal makamdır. İller, merkezî yönetimin atadığı görevliler ile seçilmiş yerel organlar üzerinden idare edilir.\n\nİç siyasetin başlıca tartışmaları, iç bölgelerle kıyı şehirleri arasındaki ekonomik farklar, savunma harcamalarının bütçedeki payı ve güvenlik kurumlarının sivil denetimidir. Uzay programı geniş destek görse de [[gokkale-4]] tesisinin askerî görevleri ve kamuya kapalı bütçesi muhalefetin eleştirilerine konu olur."
+      ],
+      [
+        "Ekonomi ve altyapı",
+        "Ekonomi; sanayi, tarım, lojistik ve hizmet sektörlerine dayanır. İç havzalarda tahıl üretimi ve ağır sanayi, kıyı kentlerinde gemi bakımı, ihracat ve turizm öne çıkar. Elektronik, optik sistemler ve havacılık alt bileşenleri stratejik yatırımlar arasındadır.\n\nÜlkenin geniş kara ağı, uzun süreli üretim ve ikmal kapasitesi sağlar. Buna karşılık kıyı ticaretinin [[kalyon-denizi]] güzergâhlarına bağımlılığı, deniz taşımacılığındaki kesintileri ekonomik bir risk hâline getirir. Savaş sırasında ticari sigorta giderleri yükselmiş, kıyı yatırımları ve sivil taşımacılık yavaşlamıştır."
+      ],
+      [
+        "Toplum ve kültür",
+        "Anataryaca, eğitim ve kamu yönetiminin ortak dilidir. Kıyı, plato ve dağ bölgeleri arasında mimari, mutfak ve yerel ağız bakımından belirgin farklılıklar bulunur. Büyük sanayi kentleri, iç göçün oluşturduğu karma nüfus yapısıyla tanımlanır.\n\nCumhuriyetin modernleşme anlatısında mühendislik ve kamu eğitimi önemli yer tutar. Uzay programının sivil yüzü; hava tahmini, haberleşme, afet gözlemi ve üniversite araştırmalarıdır. Bu nedenle [[gokkale-4]], askerî öneminin yanında teknik ilerlemenin kamusal simgelerinden biri olarak görülür."
+      ],
+      [
+        "Savunma ve uzay programı",
+        "Anatarya’nın savunma yaklaşımı, geniş ülke derinliğini, yerli üretimi ve hava savunma ağını bir arada kullanmaya dayanır. Bölgesel teknoloji üstünlüğü, her kıyı noktasında sürekli kuvvet üstünlüğü anlamına gelmez. [[elonya]] tarafından dar bir sahaya yığılan deniz unsurları, özellikle [[sarpburun]] çevresinde yerel baskı oluşturabilir.\n\n[[gozcu-3]], mevcut gözetleme ve veri aktarım sistemidir. Yeni [[kartal-7]] ise askerî keşif kapasitesini artırmak üzere [[simsek-iii]] ile fırlatılacaktır. İki sistem de uzay programıyla ilişkilidir; KARTAL-7, belgelerde ileri sürüldüğü gibi bir yörünge bombardıman silahı değildir."
+      ],
+      [
+        "Dış ilişkiler",
+        "Anatarya’nın [[kuzey-kusagi]] üyeliği, ortak savunma ve istihbarat paylaşımına erişim sağlar. [[elonya]] ile aynı ittifakta yer alması, iki ülke arasındaki deniz anlaşmazlıklarını ortadan kaldırmamıştır. Taraflar, ada çevresindeki faaliyetleri sırasıyla egemenlik hakkı ve güvenlik tehdidi olarak yorumlamaktadır.\n\nAnatarya, [[sarpburun-dosyasi]] yayımlandığında belgelerin sahte olduğunu açıklamış ve ortak inceleme istemiştir. İttifakın askerî müdahale yerine soruşturma ve ateşkes çağrısını tercih etmesi, ülkede güvenlik taahhütlerine yönelik güveni zayıflatmıştır."
+      ],
+      [
+        "GÖKKALE-4 Krizi",
+        "[[elonya-istihbarati]] tarafından hazırlanan [[sarpburun-dosyasi]], Anatarya’nın [[kalyon-adalari]] çevresinde ilk saldırıya hazırlandığı izlenimini yaratmıştır. Elonya yönetimi, dosyayı yaklaşan bir tehdidin kanıtı olarak sunarak savaş kararı almış ve [[aigaion]] grubunu bölgeye sevk etmiştir.\n\nAnatarya’nın ortak savunma talebi, [[kuzey-kusagi]] içinde gerekli siyasi uzlaşmayı sağlayamamıştır. İttifak askerî harekât başlatmazken, ülke [[gokkale-4]] savunmasını kendi kuvvetleriyle yürütmeye başlamıştır."
+      ],
+      [
+        "Başlıca birlikler",
+        "[[hancer]], [[kuzey-isaret]] ve [[sarp-muhafiz]] GÖKKALE-4 çevresindeki savunmanın farklı unsurlarını oluşturur. Ana platformlar arasında [[k16-alaz]], [[kalkan-hss]], [[kaya-zma]] ve [[ut7-ilgaz]] yer alır."
+      ],
+      [
+        "Kipraya politikası",
+        "[[anatarya]], [[kuzey-kipraya]] bağımsızlığını tanıyan tek devlettir. Kuzeyle güvenlik ve ekonomik iş birliği yürütür. [[kipraya-tampon-hatti]] çevresindeki gelişmeler, [[elonya]] ile ilişkilerdeki başlıca anlaşmazlık alanlarından biridir."
+      ]
+    ],
+    "related": [
+      "elonya",
+      "kuzey-kusagi",
+      "sarpburun-dosyasi",
+      "gokkale-4",
+      "kriz",
+      "avren-birligi",
+      "kipraya",
+      "kuzey-isaret",
+      "doruk-ikmal",
+      "demir-iz"
+    ],
+    "imageKey": "flag-anatarya"
+  },
+  "elonya": {
+    "title": "Elonya Cumhuriyeti",
+    "category": "Ülkeler",
+    "desc": "Kalyon Denizi’nin batısında yer alan denizci cumhuriyet.",
+    "lead": "Elonya Cumhuriyeti, [[kalyon-denizi]] batısındaki kıyı yarımadası ile ada yerleşimlerinden oluşan parlamenter bir cumhuriyettir. Başkenti Lerya, ülkenin başlıca siyasi ve ticari merkezidir. Deniz taşımacılığı, liman hizmetleri ve ada ekonomileri devletin gelişiminde belirleyici olmuştur.\n\n[[anatarya]] ile birlikte [[kuzey-kusagi]] üyesi olan Elonya, [[kartal-7]] keşif uydusunun fırlatılmasını bölgesel güç dengesine yönelik bir tehdit olarak değerlendirmiştir. [[elonya-istihbarati]] tarafından üretilen [[sarpburun-dosyasi]], hükûmetin Anatarya’ya savaş açarken sunduğu resmî gerekçenin temelini oluşturmuştur.",
+    "facts": [
+      [
+        "Resmî ad",
+        "Elonya Cumhuriyeti"
+      ],
+      [
+        "Başkent",
+        "Lerya"
+      ],
+      [
+        "Resmî dil",
+        "Elonca"
+      ],
+      [
+        "Yönetim",
+        "Üniter, parlamenter cumhuriyet"
+      ],
+      [
+        "Yasama organı",
+        "Ulusal Meclis"
+      ],
+      [
+        "Coğrafi konum",
+        "[[kalyon-denizi]] batısı"
+      ],
+      [
+        "İttifak",
+        "[[kuzey-kusagi]]"
+      ],
+      [
+        "İstihbarat kurumu",
+        "[[elonya-istihbarati]]"
+      ],
+      [
+        "Avren Birliği",
+        "Tam üye"
+      ]
+    ],
+    "sections": [
+      [
+        "Coğrafya ve iklim",
+        "Elonya’nın yerleşim düzenini dar kıyı ovaları, dağlık iç kesimler ve adalar belirler. Büyük kentlerin çoğu doğal limanların çevresinde gelişmiştir. Yazları kurak kıyı iklimi, yüksek kesimlerde daha serin ve yağışlı koşullara dönüşür. Tarıma elverişli arazinin parçalı yapısı, deniz ticaretinin ekonomik önemini artırmıştır.\n\n[[kalyon-adalari]] çevresindeki ada zincirleri, ülkenin deniz yollarıyla güvenlik kaygılarını iç içe geçirir. Takımadanın batı kesimlerindeki Elonya yönetimi, orta kuşaktaki egemenlik anlaşmazlıklarıyla komşudur.\n\nElonya yarımadası kuzeyde [[avrupa]] ana karasına bağlanır. Kuzeydoğuda Anatarya’nın Avren yakasıyla kara sınırı paylaşır; bu sınır [[istara]] ve [[istara-bogazi]] batısındadır."
+      ],
+      [
+        "Tarih",
+        "Elonya Cumhuriyeti, kıyı kentleri ile ada yönetimlerinin ortak meclis etrafında birleşmesinden doğmuştur. Erken cumhuriyet döneminin temel sorunu, adaların ticari özerkliği ile merkezî yönetimin vergi ve savunma ihtiyaçlarını uzlaştırmak olmuştur. Lerya’daki denizcilik çevreleri, yeni devletin mali ve diplomatik yapısında etkili olmuştur.\n\nTicaret filosunun büyümesi, ülkeyi dış pazarlara bağlamış; deniz subaylığı ve liman idaresi güçlü meslek gelenekleri hâline gelmiştir. [[kuzey-kusagi]] üyeliği sonrasında hava ve deniz kuvvetleri ortak standartlara uyarlanmıştır. Buna rağmen [[anatarya]] ile ada çevresindeki askerî faaliyetler üzerine yaşanan krizler kalıcı biçimde çözülememiştir."
+      ],
+      [
+        "Devlet yapısı ve siyaset",
+        "Elonya, tek meclisli parlamenter bir sistemle yönetilir. Hükûmet Ulusal Meclise karşı sorumludur; cumhurbaşkanlığı ayrı bir anayasal makamdır. Ada belediyeleri ulaşım, turizm ve yerel altyapı alanlarında geniş görevler üstlenirken, dış politika ve savunma merkezî yönetimin yetkisinde kalır.\n\nSiyasette ticaretin sürekliliğini savunan çevrelerle deniz güvenliğini önceleyen gruplar arasında gerilim vardır. [[kartal-7]] tartışması, güvenlik yanlısı politikaların ağırlığını artırmıştır. [[sarpburun-dosyasi]] yalnızca dış kamuoyuna değil, savaş kararını desteklemesi beklenen meclis ve halka da sunulmuştur."
+      ],
+      [
+        "Ekonomi",
+        "Deniz taşımacılığı, liman işletmeciliği, turizm, gemi onarımı ve finansal hizmetler ekonominin başlıca alanlarıdır. Tarımda kıyı ürünleri, bağcılık ve ada üretimi öne çıkar. Sanayi tabanı [[anatarya]] kadar geniş değildir; bazı savunma sistemleri ve enerji girdileri dış tedarike bağlıdır.\n\nBu yapı, kısa süreli bir deniz harekâtını siyasi açıdan cazip gösterebilse de uzayan savaşı maliyetli kılar. Ticaret rotalarının bozulması, turizm gelirlerinin düşmesi ve sigorta maliyetlerinin yükselmesi, savaşın sivil ekonomi üzerindeki baskısını artırır."
+      ],
+      [
+        "Toplum ve kültür",
+        "Elonca resmî dil olmakla birlikte ada yerleşimleri arasında farklı ağızlar ve yerel gelenekler yaşar. Denizcilik, göç ve liman ticareti; edebiyatta, kamusal törenlerde ve aile mesleklerinde güçlü bir yer tutar. Lerya, ada nüfusunun eğitim ve istihdam amacıyla yöneldiği başlıca merkezdir.\n\nDevletin deniz güvenliği söylemi toplumun tamamının tek görüşte olduğu anlamına gelmez. Savaş öncesinde üniversiteler, ticaret kuruluşları ve muhalefet çevreleri, [[sarpburun-dosyasi]] için bağımsız inceleme talep etmiştir. Resmî yayınlarda ise dosya, yaklaşan saldırının kanıtı olarak işlenmiştir."
+      ],
+      [
+        "Savunma ve istihbarat",
+        "Elonya savunma planlaması, deniz yollarını açık tutmaya ve ada çevresinde kısa sürede kuvvet toplamaya odaklanır. [[aigaion]], bu yaklaşımın [[sarpburun]] sahasındaki başlıca unsurudur. Yerel deniz üstünlüğü, ülkenin bütün cephelerde üstün olduğu veya uzun bir kara savaşını sürdürebileceği anlamına gelmez.\n\n[[elonya-istihbarati]], dış istihbarat ve stratejik değerlendirme faaliyetlerinden sorumludur. Kurumun [[cam-perde]] kapsamında hazırladığı sahte belgeler, [[kartal-7]] programını keşif faaliyeti yerine yaklaşan bir saldırının hazırlığı gibi göstermiştir."
+      ],
+      [
+        "Dış ilişkiler ve savaş gerekçesi",
+        "Elonya, [[kuzey-kusagi]] içinde kendisini ittifakın deniz yollarını koruyan bir üye olarak konumlandırır. [[anatarya]] uzay programına yönelik itirazını da ulusal rekabetten çok ortak güvenlik meselesi olarak sunmuştur.\n\n[[sarpburun-dosyasi]], Anatarya’nın adalara yönelik ilk saldırısının yakın olduğunu ileri sürer. Elonya hükûmeti, bu iddiaya dayanarak savaş açmış; GÖKKALE-4’e yönelik harekâtı “önleyici savunma” olarak adlandırmıştır. Bu ifade Elonya’nın resmî gerekçesidir; ittifakın harekâta onay verdiği anlamına gelmez."
+      ],
+      [
+        "GÖKKALE-4 Krizi",
+        "Savaşın görünürdeki nedeni dosyada yer alan saldırı iddiasıdır. Askerî hedef ise [[kartal-7]] faaliyete geçmeden önce [[gokkale-4]] kapasitesini durdurmaktır. Yeni uydu, Elonya’nın deniz hareketleri ve ada konuşlanmalarının gizliliğini azaltacaktır.\n\nSahte belgelerin yol açtığı belirsizlik, [[kuzey-kusagi]] içinde ortak savunma kararını kilitlemiş; ittifak savaşa askerî olarak katılmamıştır. Belgelerin gerçek kökeni kriz başlarken kamuoyunca doğrulanmış değildir. Bu nedenle savaş, askerî çatışmanın yanında istihbarat iddialarının güvenilirliği üzerine yürüyen bir diplomatik mücadeleye dönüşmüştür."
+      ],
+      [
+        "Başlıca birlikler",
+        "[[aigaion]], [[mizrak]] ve [[nereus-komando]] deniz, hava ve özel görev unsurlarını temsil eder. [[m12-aster]], [[p8-pelagos]], [[triton-botu]] ile grubun fırkateyn ve destek gemileri farklı görevler üstlenir."
+      ],
+      [
+        "Kipraya politikası",
+        "[[elonya]], [[kipraya]] hükûmetini adanın tamamının meşru temsilcisi kabul eder. Kuzeyin ayrı bağımsızlığını tanımaz; adanın statüsünün müzakerelerle çözülmesini savunur. Anatarya’nın kuzeydeki güvenlik rolü iki ülke arasında gerilim yaratır."
+      ]
+    ],
+    "related": [
+      "anatarya",
+      "elonya-istihbarati",
+      "sarpburun-dosyasi",
+      "kuzey-kusagi",
+      "aigaion",
+      "kriz",
+      "avren-birligi",
+      "kipraya",
+      "ucaksavar",
+      "pelagos-devriye",
+      "iris-indirme"
+    ],
+    "imageKey": "flag-elonya"
+  },
+  "gokkale-4": {
+    "title": "GÖKKALE-4",
+    "category": "Tesisler",
+    "desc": "Uydu kontrolü, fırlatma hazırlığı ve çatışmanın merkezi.",
+    "lead": "GÖKKALE-4, [[anatarya]] tarafından işletilen uydu kontrol ve fırlatma kompleksidir. [[kartal-7]] askerî keşif uydusunun [[simsek-iii]] ile buradan fırlatılacak olması, tesisi [[elonya]] saldırısının merkezine yerleştirir.",
+    "facts": [
+      [
+        "Tesis türü",
+        "Uydu kontrol ve fırlatma kompleksi"
+      ],
+      [
+        "Bağlı ülke",
+        "[[anatarya]]"
+      ],
+      [
+        "İlgili bölge",
+        "[[sarpburun]]"
+      ],
+      [
+        "Mevcut uydu",
+        "[[gozcu-3]]"
+      ],
+      [
+        "Fırlatma yükü",
+        "[[kartal-7]]"
+      ],
+      [
+        "Fırlatma aracı",
+        "[[simsek-iii]]"
+      ]
+    ],
+    "sections": [
+      [
+        "Görevi",
+        "Kompleksin iki temel işlevi uydu operasyonlarını yürütmek ve yeni fırlatmayı hazırlamaktır. [[gozcu-3]] hâlihazırda yörüngedeki gözetleme ve veri aktarım uydusuyken, [[kartal-7]] henüz fırlatılmayı bekleyen yeni sistemdir."
+      ],
+      [
+        "Neden hedef alınıyor?",
+        "Tesis, [[elonya]] açısından yalnızca bir bina topluluğu değildir: yeni keşif kapasitesinin devreye gireceği noktadır. Saldırı, [[kartal-7]] üzerinden oluşacak askerî görünürlüğü önlemeyi amaçlar. [[sarpburun-dosyasi]] tesisi yaklaşan bir ilk saldırının merkezi gibi göstermiş, [[elonya]] hükûmeti bu iddiayı savaşa gerekçe olarak sunmuştur. Dosyanın gerçek kaynağı [[elonya-istihbarati]] olup tesise atfedilen saldırı planı sahtedir."
+      ],
+      [
+        "Sivil yaşam ve çalışanlar",
+        "Komplekste mühendisler, uydu operatörleri, bilim insanları, bakım ekipleri ve lojistik çalışanları görev yapar. Sivil personel haberleşme sistemlerini işletir, arızaları giderir, malzeme akışını sürdürür ve fırlatma hazırlıklarını yürütür. Kriz döneminde bu çalışmalar tahliye ve acil durum ekipleriyle eşgüdüm içinde devam eder."
+      ],
+      [
+        "Tesis düzeni",
+        "Kompleks; uydu kontrol merkezi, fırlatma sahası, teknik bakım alanları ve lojistik bölümlerinden oluşur. Sivil çalışma alanları ile askerî güvenlik bölgeleri ayrı erişim düzenlerine tabidir."
+      ]
+    ],
+    "related": [
+      "anatarya",
+      "sarpburun",
+      "gozcu-3",
+      "kartal-7",
+      "simsek-iii",
+      "kriz",
+      "sarpburun-dosyasi",
+      "kuzey-kusagi"
+    ]
+  },
+  "sarpburun": {
+    "title": "Sarpburun Yarımadası",
+    "category": "Coğrafya",
+    "desc": "Anatarya ana karasına doğudan bağlı stratejik kıyı yarımadası.",
+    "lead": "Sarpburun Yarımadası, [[anatarya]] ana karasından batıya, [[kalyon-denizi]] içine uzanan bir kıyı çıkıntısıdır. Doğudaki kara boynu üzerinden ana yarımadaya kesintisiz biçimde bağlıdır; ada değildir. [[gokkale-4]] uydu kontrol ve fırlatma kompleksi yarımadanın üzerinde yer alır.",
+    "facts": [
+      [
+        "Tür",
+        "Yarımada"
+      ],
+      [
+        "Ülke",
+        "[[anatarya]]"
+      ],
+      [
+        "Kara bağlantısı",
+        "Doğuda geniş kara boynu"
+      ],
+      [
+        "Stratejik tesis",
+        "[[gokkale-4]]"
+      ],
+      [
+        "Deniz",
+        "[[kalyon-denizi]]"
+      ]
+    ],
+    "sections": [
+      [
+        "Coğrafya",
+        "Yarımada, kıyıdan açık denize uzanan engebeli bir araziye sahiptir. Tesis ile ülkenin iç kesimleri arasındaki kara yolu doğudaki geniş boyun üzerinden geçer. Korunaklı koylar, kayalık burunlar ve kıyı sırtları yarımadanın batı kesimini biçimlendirir."
+      ],
+      [
+        "Krizdeki rolü",
+        "[[gokkale-4]] ve [[kartal-7]] programı nedeniyle [[kriz]] merkezindedir. [[aigaion]] denizden baskı kurarken, [[sarp-muhafiz]] kara erişimini ve tesis çevresini korur."
+      ]
+    ],
+    "related": [
+      "anatarya",
+      "gokkale-4",
+      "sarp-muhafiz",
+      "aigaion",
+      "kriz",
+      "demir-iz"
+    ]
+  },
+  "kalyon-denizi": {
+    "title": "Kalyon Denizi",
+    "category": "Coğrafya",
+    "desc": "İki ülkenin deniz merkezli geriliminin arka planı.",
+    "lead": "Kalyon Denizi, batıda [[elonya]] ile doğuda [[anatarya]] arasında uzanan denizdir. [[kalyon-adalari]] denizin güney kesiminde yer alır. Bölge, deniz ticareti ile iki ülke arasındaki egemenlik anlaşmazlıklarının merkezindedir.",
+    "facts": [
+      [
+        "Tür",
+        "Deniz"
+      ],
+      [
+        "İlgili coğrafya",
+        "[[kalyon-adalari]]"
+      ],
+      [
+        "İlgili ülkeler",
+        "[[anatarya]] · [[elonya]]"
+      ]
+    ],
+    "sections": [
+      [
+        "Stratejik bağlam",
+        "Deniz hareketleri ve ada üslerinin görünürlüğü, [[kartal-7]] programına yönelen itirazın merkezindedir. [[aigaion]] sevkiyatı, bu gerilimin askerî boyutunu temsil eder."
+      ],
+      [
+        "Sınırlar",
+        "Batıda [[elonya]], doğuda [[anatarya]] kıyılarıyla çevrilidir. Kuzeyde İç Deniz’e açılan geçit, güneyde ise [[kipraya]] çevresindeki deniz yolları bölgenin ulaşım bağlantılarını oluşturur. [[kalyon-adalari]] etrafındaki egemenlik anlaşmazlıkları deniz yetki alanlarını da etkiler."
+      ]
+    ],
+    "related": [
+      "kalyon-adalari",
+      "sarpburun",
+      "aigaion"
+    ]
+  },
+  "kalyon-adalari": {
+    "title": "Kalyon Adaları",
+    "category": "Coğrafya",
+    "desc": "Kalyon Denizi ile ilişkili ada coğrafyası.",
+    "lead": "Kalyon Adaları, [[kalyon-denizi]] ile bağlantılı ada topluluğudur. Ada üsleri ve askerî konuşlanmaların izlenmesi, [[anatarya]] ile [[elonya]] arasındaki krizin başlıca konularındandır.",
+    "facts": [
+      [
+        "Tür",
+        "Ada topluluğu"
+      ],
+      [
+        "İlgili deniz",
+        "[[kalyon-denizi]]"
+      ],
+      [
+        "Tekil ada adları",
+        "Henüz belirlenmedi"
+      ]
+    ],
+    "sections": [
+      [
+        "Krizle ilişkisi",
+        "[[kartal-7]] uydusunun keşif kabiliyeti, deniz hareketlerinin yanında adalardaki askerî faaliyetleri de kapsar. Takımadanın bazı kesimleri [[anatarya]], bazıları [[elonya]] tarafından yönetilir; orta kuşaktaki adaların egemenliği iki devlet arasında tartışmalıdır."
+      ]
+    ],
+    "related": [
+      "kalyon-denizi",
+      "kartal-7",
+      "elonya"
+    ]
+  },
+  "gozcu-3": {
+    "title": "GÖZCÜ-3",
+    "category": "Uzay programı",
+    "desc": "Yörüngede görev yapan gözetleme ve veri aktarım uydusu.",
+    "lead": "GÖZCÜ-3, [[anatarya]] uzay programında hâlihazırda yörüngede bulunan gözetleme ve veri aktarım uydusudur. [[gokkale-4]] kompleksinin mevcut uydu faaliyetleriyle ilişkilidir.",
+    "facts": [
+      [
+        "Tür",
+        "Gözetleme ve veri aktarım uydusu"
+      ],
+      [
+        "Durum",
+        "Yörüngede"
+      ],
+      [
+        "Bağlı ülke",
+        "[[anatarya]]"
+      ],
+      [
+        "İlgili tesis",
+        "[[gokkale-4]]"
+      ]
+    ],
+    "sections": [
+      [
+        "Görevi",
+        "GÖZCÜ-3 mevcut gözetleme ve veri aktarım kapasitesini temsil eder. Henüz fırlatılmamış olan [[kartal-7]] ile aynı sistem değildir."
+      ],
+      [
+        "Uzay programındaki yeri",
+        "[[gokkale-4]] çevresindeki kriz sırasında mevcut uydu faaliyetleri devam ederken, yeni fırlatmanın hazırlıkları da sürer."
+      ]
+    ],
+    "related": [
+      "kartal-7",
+      "gokkale-4",
+      "anatarya"
+    ]
+  },
+  "kartal-7": {
+    "title": "KARTAL-7",
+    "category": "Uzay programı",
+    "desc": "Fırlatılması beklenen yeni askerî keşif uydusu.",
+    "lead": "KARTAL-7, [[anatarya]] tarafından [[gokkale-4]] kompleksinden [[simsek-iii]] ile fırlatılması planlanan yeni askerî keşif uydusudur. Fırlatma hazırlığı, [[elonya]] ile yaşanan çatışmanın temel nedenidir.",
+    "facts": [
+      [
+        "Tür",
+        "Askerî keşif uydusu"
+      ],
+      [
+        "Durum",
+        "Fırlatma öncesi"
+      ],
+      [
+        "Fırlatma sahası",
+        "[[gokkale-4]]"
+      ],
+      [
+        "Taşıyıcı",
+        "[[simsek-iii]]"
+      ]
+    ],
+    "sections": [
+      [
+        "Stratejik önemi",
+        "Uydu, Elonya’nın deniz hareketlerini, ada üslerini ve askerî konuşlanmalarını görünür kılabilecek yeni bir keşif kapasitesi olarak tanımlanır. Bu kapasitenin devreye girmesi, iki ülke arasındaki dengeyi etkiler."
+      ],
+      [
+        "Fırlatma ve kriz",
+        "[[elonya]], bu kapasite ortaya çıkmadan fırlatmayı engellemeye çalışır. [[aigaion]] grubunun [[sarpburun]] yönüne sevki, [[gokkale-4]] çevresindeki çatışmayı başlatan askerî baskının parçasıdır."
+      ],
+      [
+        "GÖZCÜ-3 ile ilişkisi",
+        "[[gozcu-3]] zaten yörüngededir; KARTAL-7 ise yeni fırlatma yüküdür."
+      ]
+    ],
+    "related": [
+      "gozcu-3",
+      "simsek-iii",
+      "gokkale-4",
+      "kriz"
+    ]
+  },
+  "simsek-iii": {
+    "title": "ŞİMŞEK-III",
+    "category": "Uzay programı",
+    "desc": "KARTAL-7’yi taşıması planlanan fırlatma aracı.",
+    "lead": "ŞİMŞEK-III, [[kartal-7]] askerî keşif uydusunu [[gokkale-4]] kompleksinden uzaya taşıması planlanan fırlatma aracıdır.",
+    "facts": [
+      [
+        "Tür",
+        "Fırlatma aracı"
+      ],
+      [
+        "Yük",
+        "[[kartal-7]]"
+      ],
+      [
+        "Fırlatma sahası",
+        "[[gokkale-4]]"
+      ]
+    ],
+    "sections": [
+      [
+        "Programdaki rolü",
+        "[[anatarya]] uzay programının yeni keşif uydusunun yörüngeye ulaştırılmasında görev alır."
+      ]
+    ],
+    "related": [
+      "kartal-7",
+      "gokkale-4",
+      "anatarya"
+    ]
+  },
+  "aigaion": {
+    "title": "AIGAION Muharebe Grubu",
+    "category": "Birlikler",
+    "desc": "Elonya’nın Sarpburun’a sevk ettiği birleşik deniz kuvveti.",
+    "lead": "AIGAION Muharebe Grubu, [[elonya]] tarafından [[sarpburun]] yönüne sevk edilen deniz grubudur. AIGAION ve THALASSA fırkateynleri, [[nereus-cikarma]] ve [[kallisto-ikmal]] grubun temel bileşenleridir. [[kriz]] sırasında deniz gözetleme, refakat, kuvvet taşıma ve lojistik görevlerini birlikte yürütür.",
+    "facts": [
+      [
+        "Bağlı ülke",
+        "[[elonya]]"
+      ],
+      [
+        "Tür",
+        "Deniz muharebe grubu"
+      ],
+      [
+        "Fırkateynler",
+        "AIGAION · THALASSA"
+      ],
+      [
+        "Amfibi gemi",
+        "[[nereus-cikarma]]"
+      ],
+      [
+        "İkmal gemisi",
+        "[[kallisto-ikmal]]"
+      ],
+      [
+        "Deniz özel birliği",
+        "[[nereus-komando]]"
+      ]
+    ],
+    "sections": [
+      [
+        "Gemiler",
+        "AIGAION ve THALASSA, [[aigaion-firkateyni]] platformlarıdır. [[nereus-cikarma]] personel ve araç taşır; [[kallisto-ikmal]] denizde lojistik destek sağlar. Gemi adı NEREUS ile [[nereus-komando]] birlik adı birbirine karıştırılmamalıdır."
+      ],
+      [
+        "Hava ve kıyı desteği",
+        "[[p8-pelagos]] deniz devriye uçakları bilgi desteği sağlar. [[mizrak]] ve onun [[m12-aster]] uçakları ayrı bir hava birliğidir; gerektiğinde ortak görev planlamasına katılır. [[triton-botu]] ise deniz komando grubunun kısa mesafeli ulaşım araçlarındandır."
+      ],
+      [
+        "Krizdeki rolü",
+        "Grup, [[kartal-7]] fırlatması öncesinde [[gokkale-4]] üzerinde baskı kurmak üzere bölgeye gönderilmiştir. Denizden üstünlük, Sarpburun’un ada olduğu anlamına gelmez; tesisin doğuda ana karaya kesintisiz erişimi vardır."
+      ],
+      [
+        "Arma",
+        "Üç dişli mızrak ve dalga çizgileri deniz görevlerini simgeler. Lacivert ve açık mavi renkli amblem şeffaf PNG olarak sunulur; tekstil dokusu içermez."
+      ]
+    ],
+    "related": [
+      "elonya",
+      "sarpburun",
+      "gokkale-4",
+      "aigaion-firkateyni",
+      "nereus-cikarma",
+      "kallisto-ikmal",
+      "nereus-komando",
+      "mizrak"
+    ],
+    "imageKey": "patch-aigaion",
+    "draft": false
+  },
+  "hancer": {
+    "title": "132. Hançer Taktik Filosu",
+    "category": "Birlikler",
+    "desc": "1978’de kurulan Anatarya hava filosu; DAGGER 06 ve Kara Kasım’ın mirası.",
+    "lead": "132. Hançer Taktik Filosu, 1978’de Sarpburun bölgesinin hava savunması için kurulan [[anatarya]] hava birliğidir. “Dagger” çağrı adını kullanır. Anatarya hava üstünlüğünün simgelerinden sayılan filo, [[gokkale-4]] savunmasındaki rolünün yanında, 17 Kasım 1994’te kaybolan DAGGER 06 ve karargâhındaki anma plakasıyla tanınır.",
+    "facts": [
+      [
+        "Bağlı ülke",
+        "[[anatarya]]"
+      ],
+      [
+        "Kuruluş",
+        "1978"
+      ],
+      [
+        "Birlik türü",
+        "Taktik hava filosu"
+      ],
+      [
+        "Çağrı adı",
+        "Hançer / Dagger"
+      ],
+      [
+        "Tarihsel uçak",
+        "[[k4-boran]]"
+      ],
+      [
+        "Modernizasyon",
+        "2019’dan itibaren [[k16-alaz]]"
+      ],
+      [
+        "Kayıp uçak",
+        "DAGGER 06 — 17 Kasım 1994"
+      ],
+      [
+        "Anma sözü",
+        "Dönmeyenlerin nöbeti bitmez."
+      ]
+    ],
+    "sections": [
+      [
+        "Kuruluş ve ilk dönem (1978)",
+        "Filo, 1978’de [[sarpburun]] çevresinin hava savunmasını sağlamak üzere kuruldu. İlk döneminde [[k4-boran]] uçaklarıyla görev yaptı. Kıyı bölgesinin korunması, birliğin tarihsel görev kimliğinin temelini oluşturdu."
+      ],
+      [
+        "Kara Kasım Olayı (17 Kasım 1994)",
+        "17 Kasım 1994’te DAGGER 06 çağrı kodunu kullanan Anatarya’ya ait [[k4-boran]] uçağı kayboldu. Uçak, son telsiz mesajından 11 saniye sonra radardan silindi. Enkazına ulaşılamadı; pilot ile silah sistem subayının akıbeti açıklanmadı.\n\nBirliğin geçmişinde “Kara Kasım” olarak anılan olay, Sınıflandırılmış Dosya 94-117 içinde yer alır. Kaybın nedeni kesinleştirilmiş değildir."
+      ],
+      [
+        "Karargâhtaki anma plakası",
+        "Eski filo karargâhının duvarındaki plaka, DAGGER 06’yı ve geri dönmeyen mürettebatını anar. Plakanın metni şöyledir:\n\n132. TAKTİK FİLO KOMUTANLIĞI\nDAGGER 06\n17 KASIM 1994\nDönmeyenlerin nöbeti bitmez."
+      ],
+      [
+        "Modernizasyon ve uçaklar (2019)",
+        "2019’da [[k16-alaz]] modernizasyonu başladı. K-4 uçaklarının bir bölümü eğitim ve sınırlı görevler için kullanımda kaldı. Filonun tarihsel envanteri [[k4-boran]], modernizasyon dönemi ise [[k16-alaz]] ile tanımlanır."
+      ],
+      [
+        "2036 sinyali ve Dosya 94-117",
+        "2036’da tespit edilen bir sinyal, DAGGER 06’nın 1994’teki son yayınıyla aynı frekans özelliklerini taşıyordu. Dosya 94-117 kapsamında iki kaydın karşılaştırılması talep edildi.\n\nBu benzerlik, kayıp uçağın bulunduğu veya mürettebatın hayatta olduğu anlamına gelmez. Sinyalin kaynağı ve Kara Kasım ile bağlantısı, soruşturmanın çözümlenmemiş başlıklarıdır."
+      ],
+      [
+        "GÖKKALE-4 savunması ve SON ŞAFAK",
+        "Hançer, [[gokkale-4]] savunmasında görev alır ve SON ŞAFAK için yetkili birlik olarak anılır. [[kriz]] sırasında Anatarya’nın hava savunmasındaki başlıca birliklerdendir.\n\nBirliğin komutası ulusal askerî makamlardadır; [[kuzey-kusagi]] üyeliği filoyu otomatik olarak pakt komutasına geçirmez."
+      ],
+      [
+        "Birlik arması",
+        "Gümüş hançer ve açılmış kanatlar, Hançer adını ve hava görevini simgeler. Amblemde filonun 132 numarası yer alır."
+      ]
+    ],
+    "related": [
+      "anatarya",
+      "sarpburun",
+      "gokkale-4",
+      "kriz",
+      "k4-boran",
+      "k16-alaz"
+    ],
+    "imageKey": "patch-hancer",
+    "draft": false
+  },
+  "ucaksavar": {
+    "title": "21. Uçaksavar Taburu",
+    "category": "Birlikler",
+    "desc": "Elonya kuvvetlerine bağlı kıyı ve ada hava savunma taburu.",
+    "lead": "21. Uçaksavar Taburu, [[elonya]] Hava Kuvvetlerinin Lerya Körfezi ve batı [[kalyon-adalari]] üzerindeki hava gözetleme ağına bağlıdır. [[kriz]] sırasında [[aigaion]] görev grubunun kıyıya dönüş hattını korumuş, [[gokkale-4]] üzerine yapılacak bir uçuşa doğrudan katılmamıştır.",
+    "facts": [
+      [
+        "Bağlı ülke",
+        "[[elonya]]"
+      ],
+      [
+        "Birlik türü",
+        "Kıyı hava savunma taburu"
+      ],
+      [
+        "Konuşlanma",
+        "Lerya Körfezi"
+      ],
+      [
+        "Çağrı adı",
+        "Kalkan"
+      ],
+      [
+        "Görev alanı",
+        "[[kalyon-adalari]]"
+      ]
+    ],
+    "sections": [
+      [
+        "Kuruluş ve görev",
+        "Lerya Körfezi çevresindeki liman savunma birliklerinin tek komuta altında birleştirilmesiyle kuruldu. Radar mevzileri, hareketli bataryalar ve ada gözlem noktaları taburun ayrı unsurlarıdır. Tabur, [[elonya]] ulusal komutasında kalır; [[kuzey-kusagi]] üyeliği tek başına müşterek harekât yetkisi vermez."
+      ],
+      [
+        "Kalyon Denizi krizi",
+        "[[elonya-istihbarati]] tarafından üretilen [[sarpburun-dosyasi]] savaş ilanına dayanak olduğunda, tabur limanlar ile [[aigaion]] grubunun dönüş koridoru için hazır duruma geçirildi. [[mizrak]] filosuyla radar izlerini paylaştı. Doğu adalarında görülen tanımlanamayan izler, hem sivil trafik hem de askerî temas olasılığı araştırılmadan düşman hedefi sayılmadı."
+      ],
+      [
+        "İkmal ve sınırlamalar",
+        "Dağlık ada mevzilerine mühimmat ve yakıt sevkiyatını dar liman yolları sınırlar. Deniz ikmalinde [[kallisto-ikmal]] gemisiyle eşgüdüm sağlanır. Taburun sabit mevzileri [[sarpburun]] kıyılarına menzil sağlamaz; [[gokkale-4]] çevresindeki Anatarya birlikleriyle organik bağı yoktur."
+      ],
+      [
+        "Birlik arması",
+        "Radar yayları ve yukarı dönük iki ok, hava gözetleme görevini; 21 sayısı taburu temsil eder."
+      ]
+    ],
+    "related": [
+      "elonya",
+      "kalyon-adalari",
+      "mizrak",
+      "aigaion",
+      "kriz",
+      "elonya-istihbarati"
+    ],
+    "imageKey": "patch-ucaksavar",
+    "draft": false
+  },
+  "kriz": {
+    "title": "GÖKKALE-4 Krizi",
+    "category": "Olaylar",
+    "desc": "KARTAL-7 fırlatması çevresinde gelişen çatışma.",
+    "lead": "GÖKKALE-4 Krizi, [[elonya]] yönetiminin [[anatarya]] karşısında savaş kararı almasıyla askerî çatışmaya dönüşen siyasi ve güvenlik krizidir. Savaşın resmî gerekçesi olarak [[sarpburun-dosyasi]] sunulmuş; harekâtın başlıca hedefi [[kartal-7]] keşif uydusunun [[gokkale-4]] kompleksinden fırlatılmasını engellemek olmuştur. [[kuzey-kusagi]], sahte belgeler çevresinde oluşan görüş ayrılığı nedeniyle savaşa askerî olarak katılmamıştır.",
+    "facts": [
+      [
+        "Savunan taraf",
+        "[[anatarya]]"
+      ],
+      [
+        "Saldıran taraf",
+        "[[elonya]]"
+      ],
+      [
+        "Odak noktası",
+        "[[gokkale-4]]"
+      ],
+      [
+        "Sonuç",
+        "Henüz belirlenmedi"
+      ]
+    ],
+    "sections": [
+      [
+        "Arka plan",
+        "[[anatarya]] tarafından geliştirilen [[kartal-7]], [[elonya]] deniz hareketleri ve ada konuşlanmalarına ilişkin keşif kapasitesini artıracaktır. [[gozcu-3]] yörüngede görevini sürdürürken yeni uydu için [[gokkale-4]] tesisinde hazırlık yapılmaktadır."
+      ],
+      [
+        "Sahte belgeler ve savaş gerekçesi",
+        "[[elonya-istihbarati]], [[cam-perde]] kapsamında [[sarpburun-dosyasi]] adlı belge bütününü hazırlamıştır. Dosya, Anatarya’nın ilk saldırıyı planladığını ileri sürer. Elonya hükûmeti bu iddiayı savaşın gerekçesi olarak sunmuş; Anatarya belgelerin sahte olduğunu açıklamıştır."
+      ],
+      [
+        "İttifakın tutumu",
+        "İki ülkenin de üyesi olduğu [[kuzey-kusagi]], dosyanın güvenilirliği ve ortak savunma hükmünün uygulanması konusunda uzlaşamamıştır. Ortak askerî müdahale kararı alınmamış, diplomatik temaslar ve inceleme süreciyle yetinilmiştir. Bu karar Elonya harekâtına verilmiş bir onay değildir."
+      ],
+      [
+        "Askerî tırmanış",
+        "[[aigaion]] grubu [[sarpburun]] yönüne sevk edilmiştir. Anatarya, tesisi ve fırlatma programını kendi kuvvetleriyle korurken Elonya yeni keşif kapasitesi ortaya çıkmadan tesisi devre dışı bırakmayı amaçlamaktadır."
+      ],
+      [
+        "Mevcut durum",
+        "[[gokkale-4]] çevresindeki askerî çatışma sürerken [[kartal-7]] için fırlatma hazırlıkları devam etmektedir. [[sarpburun-dosyasi]] belgelerinin kökeni üzerindeki soruşturma, diplomatik görüşmelerin başlıca gündemidir. [[kuzey-kusagi]] içinde ortak müdahale konusunda uzlaşma sağlanamamıştır."
+      ]
+    ],
+    "related": [
+      "anatarya",
+      "elonya",
+      "sarpburun-dosyasi",
+      "kuzey-kusagi",
+      "cam-perde",
+      "gokkale-4"
+    ]
+  },
+  "kuzey-kusagi": {
+    "title": "Kuzey Kuşağı Savunma Paktı",
+    "category": "Kurumlar",
+    "desc": "Üye devletlerin ortak savunma ve güvenlik ittifakı.",
+    "lead": "Kuzey Kuşağı Savunma Paktı (KKSP), [[anatarya]], [[elonya]], [[veloria]], [[dalmerya]], [[vardena]] ve [[rovenya]] arasında ortak savunma ve askerî eşgüdüm sağlayan ittifaktır. Paktın askerî görev alanı, [[avren-birligi]] kurumlarından ayrıdır. [[kipraya]] ve [[kuzey-kipraya]] pakt üyesi değildir. [[kriz]] sırasında iki üye devletin savaşması, ortak savunma karar sürecini kilitlemiştir.",
+    "facts": [
+      [
+        "Kısaltma",
+        "KKSP"
+      ],
+      [
+        "Tür",
+        "Kolektif savunma ittifakı"
+      ],
+      [
+        "Üyeler",
+        "[[anatarya]] · [[elonya]] · [[veloria]] · [[dalmerya]] · [[vardena]] · [[rovenya]]"
+      ],
+      [
+        "Karar organı",
+        "Pakt Konseyi"
+      ],
+      [
+        "Karar yöntemi",
+        "Oydaşma"
+      ],
+      [
+        "Kipraya",
+        "Üye değil"
+      ],
+      [
+        "Krizdeki tutum",
+        "Ortak askerî müdahale yok"
+      ]
+    ],
+    "sections": [
+      [
+        "Kuruluş ve amaç",
+        "Pakt, kuzey ticaret kuşağındaki devletlerin tek başlarına karşılayamadıkları güvenlik ihtiyaçları etrafında kurulmuştur. Ortak tatbikatlar, haberleşme standartları ve müşterek planlama mekanizmaları geliştirmiştir. Üyelik, ulusal orduların ortadan kalkması veya her çatışmanın otomatik biçimde ortak savaşa dönüşmesi anlamına gelmez."
+      ],
+      [
+        "Karar yapısı",
+        "Pakt Konseyi, üye devletlerin temsilcilerinden oluşur. İttifak adına askerî harekât kararı oydaşma gerektirir. Ortak savunma hükmü, saldırıya uğrayan bir üyenin yardım talebini görüşmeye açar; olayın niteliği ve verilecek karşılık ayrıca karara bağlanır.\n\nİki üye arasındaki savaş için öncelik, acil istişare ve uyuşmazlığın incelenmesidir. Bu kural, bir üyenin diğerine saldırmasını meşru kılmaz; ittifakın hangi tarafta ve hangi yetkiyle hareket edebileceğine ilişkin karar sürecini belirler."
+      ],
+      [
+        "Sarpburun Dosyası ve karar kilitlenmesi",
+        "[[elonya]], [[sarpburun-dosyasi]] ile Anatarya’nın ilk saldırıya hazırlandığını ileri sürmüştür. [[anatarya]] ise dosyayı reddederek saldırıya uğrayan taraf olduğunu ve ortak savunma hükmünün uygulanması gerektiğini savunmuştur.\n\nBelgelerin bağımsız incelemesi tamamlanmadan bazı üyeler askerî karar vermeyi reddetmiş, diğerleri Anatarya’nın talebini desteklemiştir. Elonya da kendisine karşı bir ortak harekâta onay vermemiştir. Sahte belgeler böylece yalnızca kamuoyunu etkilememiş, ittifakın karar sürecini de kilitlemiştir."
+      ],
+      [
+        "Müdahale etmeme kararı",
+        "Konsey, ortak askerî kuvvet görevlendirmemiş; ateşkes çağrısı, belge incelemesi ve diplomatik temaslarla sınırlı kalmıştır. Bu tutum Elonya’nın savaş gerekçesinin doğrulandığı veya paktın tarafsızlık antlaşması imzaladığı anlamına gelmez.\n\nAnatarya açısından sonuç, beklenen kolektif savunma yardımının gelmemesi olmuştur. İttifakın kurumsal olarak savaşa girmemesi ile tek tek üyelerin siyasi tutumları ayrı konulardır.."
+      ],
+      [
+        "Üye devletlerin tutumu",
+        "[[veloria]] kaynak incelemesi tamamlanmadan harekâta karşı çıkmış, [[dalmerya]] sivil deniz trafiği için arabuluculuğa odaklanmıştır. [[vardena]] çatışmanın kara sınırlarına yayılmasını önlemeyi, [[rovenya]] ise Anatarya’nın savunma talebinin peşinen reddedilmemesini savunmuştur. [[elonya]] kendi harekâtına karşı ortak kuvvet kullanılmasını kabul etmemiştir. Bu ayrışmalar, [[sarpburun-dosyasi]] etrafındaki belirsizlikle birlikte oydaşmayı engellemiştir."
+      ],
+      [
+        "Bayrak ve simge",
+        "Lacivert zemin üzerindeki altı kollu beyaz yıldız, ortak savunma yükümlülüğünü paylaşan altı üyeyi simgeler. Merkezdeki açık altıgen, üyelerin eşit temsil edildiği konseyi temsil eder."
+      ]
+    ],
+    "related": [
+      "anatarya",
+      "elonya",
+      "sarpburun-dosyasi",
+      "kriz",
+      "veloria",
+      "dalmerya",
+      "vardena",
+      "rovenya",
+      "kipraya",
+      "avren-birligi"
+    ],
+    "imageKey": "flag-kuzey-kusagi"
+  },
+  "elonya-istihbarati": {
+    "title": "Elonya Ulusal İstihbarat Dairesi",
+    "category": "Kurumlar",
+    "desc": "Elonya’nın dış istihbarat ve stratejik değerlendirme kurumu.",
+    "lead": "Elonya Ulusal İstihbarat Dairesi (EUİD), [[elonya]] hükûmetine dış güvenlik değerlendirmeleri sunan istihbarat kurumudur. [[cam-perde]] kapsamında hazırladığı [[sarpburun-dosyasi]], [[anatarya]] ile savaşın siyasi gerekçesinin oluşturulmasında belirleyici olmuştur.",
+    "facts": [
+      [
+        "Kısaltma",
+        "EUİD"
+      ],
+      [
+        "Bağlı ülke",
+        "[[elonya]]"
+      ],
+      [
+        "Temel görev",
+        "Dış istihbarat ve stratejik değerlendirme"
+      ],
+      [
+        "İlgili faaliyet",
+        "[[cam-perde]]"
+      ],
+      [
+        "İlgili dosya",
+        "[[sarpburun-dosyasi]]"
+      ]
+    ],
+    "sections": [
+      [
+        "Görev ve konumu",
+        "Daire, yabancı devletlerin askerî ve siyasi gelişmelerini değerlendirir; hükûmete ve yetkili güvenlik kurullarına rapor sunar. Deniz yolları, ada konuşlanmaları ve [[anatarya]] savunma programları kurumun öncelikli çalışma alanlarıdır. Kurumun değerlendirmeleri ile hükûmetin savaş kararı birbirinden ayrı sorumluluk alanlarıdır."
+      ],
+      [
+        "Cam Perde faaliyeti",
+        "[[kartal-7]] programının Elonya’nın askerî hareketlerini görünür kılacağı değerlendirmesinin ardından, kurum içinde [[cam-perde]] adlı örtülü siyasi etki faaliyeti yürütülmüştür. Hazırlanan dosya, mevcut bölgesel anlaşmazlıkları gerçek dışı bir ilk saldırı planıyla birleştirmiştir.\n\nFaaliyetin amacı, savaşa kamuoyu desteği sağlamak ve [[kuzey-kusagi]] üyelerinin Anatarya lehine hızla ortak karar almasını önlemektir. Kurumun bütün çalışanlarının faaliyetten haberdar olduğu kabul edilmez."
+      ],
+      [
+        "Kriz sırasındaki konumu",
+        "Daire, dosyayı kamuya sunulan bir ulusal güvenlik değerlendirmesinin temeli olarak hükûmete iletmiştir. [[anatarya]] belgeleri reddederken Elonya makamları kaynak gizliliğini gerekçe göstermiştir. Dosyanın bağımsız biçimde incelenememesi, ittifak içindeki siyasi ayrışmayı derinleştirmiştir."
+      ]
+    ],
+    "related": [
+      "elonya",
+      "cam-perde",
+      "sarpburun-dosyasi",
+      "kuzey-kusagi"
+    ]
+  },
+  "sarpburun-dosyasi": {
+    "title": "Sarpburun Dosyası",
+    "category": "Belgeler",
+    "desc": "Elonya’nın savaş gerekçesi olarak sunduğu sahte belge bütünü.",
+    "lead": "Sarpburun Dosyası, [[elonya-istihbarati]] tarafından [[cam-perde]] kapsamında hazırlanan ve [[anatarya]] yönetimine aitmiş gibi sunulan sahte belgelerin ortak adıdır. Dosya, Anatarya’nın [[kalyon-adalari]] çevresine yönelik bir ilk saldırı planladığını ileri sürmüş; [[elonya]] yönetimi tarafından savaş açmanın gerekçesi olarak kullanılmıştır.",
+    "facts": [
+      [
+        "Tür",
+        "Sahte istihbarat dosyası"
+      ],
+      [
+        "Hazırlayan",
+        "[[elonya-istihbarati]]"
+      ],
+      [
+        "Faaliyet",
+        "[[cam-perde]]"
+      ],
+      [
+        "Hedef alınan devlet",
+        "[[anatarya]]"
+      ],
+      [
+        "Siyasi sonuç",
+        "Savaş gerekçesi ve ittifak kararlarının kilitlenmesi"
+      ]
+    ],
+    "sections": [
+      [
+        "İddialar",
+        "Dosyada, [[gokkale-4]] merkezli bir saldırı hazırlığı yapıldığı, [[kartal-7]] fırlatmasının bu hazırlığın son aşaması olduğu ve ada bölgelerine yönelik askerî harekâtın yakın bulunduğu iddia edilir. Gerçek bir keşif programının varlığı, gerçek dışı saldırı iddiasına inandırıcılık kazandırmak için kullanılmıştır.\n\nKARTAL-7’nin asıl görevi askerî keşiftir. Dosyada uyduya ve tesise atfedilen saldırı planı, programın gerçek işlevinden ayrı tutulmalıdır."
+      ],
+      [
+        "Yayımlanması ve savaş kararı",
+        "Elonya hükûmeti dosyanın seçilmiş bölümlerini kamuoyuna sunmuş, daha geniş içeriği [[kuzey-kusagi]] temsilcileriyle paylaşmıştır. Açıklamayı savaş kararı ve [[aigaion]] grubunun [[sarpburun]] yönüne sevki izlemiştir. Anatarya, açıklanan metinlerin kendi emir zincirine ait olmadığını bildirmiştir."
+      ],
+      [
+        "Gerçek kökeni ve kamusal belirsizlik",
+        "Dosya, [[elonya-istihbarati]] bünyesindeki [[cam-perde]] faaliyeti sırasında üretilmiştir. Ancak belgelerin kökeni kriz sırasında uluslararası kamuoyu önünde doğrulanmış değildir. Soruşturma kayıtlarına erişebilenler ile yalnızca resmî açıklamaları izleyenler farklı bilgilere sahiptir.\n\n[[kuzey-kusagi]] üyelerinin bir bölümü inceleme sonuçlanmadan harekete geçmek istememiştir. İttifakın beklemesi, dosyanın doğruluğunu kabul ettiği anlamına gelmez."
+      ],
+      [
+        "Siyasi etkileri",
+        "Dosya, Elonya’nın saldırısını yaklaşan bir tehdide cevap olarak çerçevelemiş ve Anatarya’nın yardım talebini tartışmalı hâle getirmiştir. [[kriz]] bu nedenle hem bir tesis savunması hem de savaşın gerekçesi üzerine yürüyen bir meşruiyet mücadelesidir. Belgelerin ne zaman ve nasıl kamuoyu önünde çürütüleceği, mevcut zaman çizelgesinin sonrasına bırakılmıştır."
+      ]
+    ],
+    "related": [
+      "cam-perde",
+      "elonya-istihbarati",
+      "kuzey-kusagi",
+      "kriz",
+      "kartal-7"
+    ]
+  },
+  "cam-perde": {
+    "title": "Cam Perde",
+    "category": "Olaylar",
+    "desc": "Sarpburun Dosyası’nın hazırlanmasına dayanan örtülü siyasi etki faaliyeti.",
+    "lead": "Cam Perde, [[elonya-istihbarati]] tarafından [[anatarya]] karşıtı savaş gerekçesini oluşturmak amacıyla yürütülen örtülü faaliyetin kod adıdır. Başlıca ürünü [[sarpburun-dosyasi]] olan faaliyet, [[kuzey-kusagi]] içinde ortak askerî müdahaleyi önleyecek bir siyasi belirsizlik yaratmayı hedeflemiştir.",
+    "facts": [
+      [
+        "Yürüten",
+        "[[elonya-istihbarati]]"
+      ],
+      [
+        "Bağlı ülke",
+        "[[elonya]]"
+      ],
+      [
+        "Başlıca ürün",
+        "[[sarpburun-dosyasi]]"
+      ],
+      [
+        "Hedef",
+        "Savaşı gerekçelendirme ve ittifak kararını geciktirme"
+      ]
+    ],
+    "sections": [
+      [
+        "Arka plan",
+        "[[kartal-7]] programı, Elonya’nın deniz hareketlerinin ve ada üslerinin gizliliğini azaltacak bir gelişme olarak görülmüştür. [[gokkale-4]] tesisine doğrudan saldırının ittifak içinde tepki yaratması beklendiğinden, askerî harekât öncesinde siyasi bir gerekçe hazırlanmıştır."
+      ],
+      [
+        "Amaç ve sonuç",
+        "Faaliyet, Anatarya’nın saldırıyı başlatacağı iddiasını öne çıkararak Elonya’nın harekâtını önleyici bir cevap gibi göstermiştir. [[sarpburun-dosyasi]] üzerinden oluşan tartışma, ortak savunma kararının alınmasını engellemiş ve Elonya’ya harekâtın başlangıcında diplomatik zaman kazandırmıştır.\n\nCam Perde askerî zaferi garanti eden bir plan değildir. Faaliyetin başarısı, yalnızca savaşın başlangıcındaki siyasi ortamla ilgilidir; [[gokkale-4]] savunmasının ve uydu fırlatmasının sonucu ayrıca belirlenir."
+      ]
+    ],
+    "related": [
+      "elonya-istihbarati",
+      "sarpburun-dosyasi",
+      "kriz",
+      "kuzey-kusagi"
+    ]
+  },
+  "avrupa": {
+    "title": "Avren ana karası",
+    "category": "Coğrafya",
+    "desc": "Elonya ve Anatarya’nın Avren yakasının bağlandığı kuzeybatı ana karası.",
+    "lead": "Avren, [[veloria]], [[dalmerya]], [[vardena]], [[rovenya]] ve [[elonya]] ile Anatarya’nın boğazın batısındaki topraklarını kapsayan kuzeybatı ana karasıdır. [[anatarya]] ve [[elonya]], [[istara]] batısında kara sınırı paylaşır.",
+    "facts": [
+      [
+        "Tür",
+        "Kıta / ana kara"
+      ],
+      [
+        "İlgili ülkeler",
+        "[[elonya]] · [[anatarya]]"
+      ],
+      [
+        "Kritik geçit",
+        "[[istara-bogazi]]"
+      ]
+    ],
+    "sections": [
+      [
+        "Devletler ve sınırlar",
+        "[[veloria]] kuzeybatı kıyılarını, [[dalmerya]] batı yarımadasını, [[vardena]] orta geçiş kuşağını ve [[rovenya]] kuzeydoğu kıyılarını kapsar. [[elonya]] güneye uzanan yarımada devletidir. Anatarya’nın Avren toprağı, Elonya ile Rovenya arasında yer alır."
+      ],
+      [
+        "Siyasi örgütler",
+        "Bölgedeki devletlerin çoğu hem [[kuzey-kusagi]] hem [[avren-birligi]] üyesidir. İki örgütün üyelikleri bire bir aynı değildir. [[kipraya]] coğrafi olarak açık denizde bir ada devleti olsa da Avren Birliği’ne üyedir."
+      ]
+    ],
+    "related": [
+      "veloria",
+      "dalmerya",
+      "vardena",
+      "rovenya",
+      "elonya",
+      "anatarya",
+      "avren-birligi"
+    ],
+    "imageKey": "",
+    "draft": false
+  },
+  "istara": {
+    "title": "İstara",
+    "category": "Coğrafya",
+    "desc": "Anatarya’nın iki yakasını birleştiren boğaz şehri.",
+    "lead": "İstara, [[anatarya]] sınırları içinde, [[istara-bogazi]] çevresinde gelişmiş bir liman ve geçiş şehridir. Yerleşim Avren yakası ile ana yarımada arasında uzanır. İki kıta yakasını bağlayan şehir, bölgenin en önemli ticaret geçitlerinden biridir. Anatarya’nın başkenti Arkent’tir.",
+    "facts": [
+      [
+        "Ülke",
+        "[[anatarya]]"
+      ],
+      [
+        "Konum",
+        "[[istara-bogazi]]"
+      ],
+      [
+        "Avren bağlantısı",
+        "[[avrupa]]"
+      ],
+      [
+        "İşlev",
+        "Liman, ticaret ve kıtalar arası geçiş"
+      ]
+    ],
+    "sections": [
+      [
+        "Coğrafya",
+        "Şehrin batı yakası Avren üzerindedir. Doğu yakası Anatarya’nın büyük ana yarımadasına bağlanır. [[elonya]] ile kara sınırı, şehirden daha batıda bulunur; boğazın kendisi iki ülkenin sınırı değildir."
+      ],
+      [
+        "Stratejik önem",
+        "Boğaz geçişi ve liman faaliyetleri, kenti kuzey ile güney deniz güzergâhları arasında önemli bir bağlantı noktası yapar. [[gokkale-4]] ve [[sarpburun]] ise ayrı bir kıyı bölgesinde, daha güneyde yer alır."
+      ]
+    ],
+    "related": [
+      "anatarya",
+      "avrupa",
+      "istara-bogazi",
+      "sarpburun"
+    ],
+    "imageKey": "",
+    "draft": false
+  },
+  "istara-bogazi": {
+    "title": "İstara Boğazı",
+    "category": "Coğrafya",
+    "desc": "Kuzey Denizi ile İç Deniz’i birleştiren dar su geçidi.",
+    "lead": "İstara Boğazı, Kuzey Denizi ile İç Deniz arasında uzanan dar deniz geçididir. Boğazın iki yakası da [[anatarya]] toprağıdır ve [[istara]] şehri bu geçidin çevresinde gelişmiştir. Batı yakası [[avrupa]] ana karasına, doğu yakası Anatarya’nın büyük yarımadasına bağlıdır.",
+    "facts": [
+      [
+        "Tür",
+        "Boğaz"
+      ],
+      [
+        "Kıyı devleti",
+        "[[anatarya]]"
+      ],
+      [
+        "Başlıca şehir",
+        "[[istara]]"
+      ],
+      [
+        "Bağladığı sular",
+        "Kuzey Denizi · İç Deniz"
+      ]
+    ],
+    "sections": [
+      [
+        "Deniz bağlantıları",
+        "Kuzey Denizi’nden gelen gemiler bu boğazdan İç Deniz’e ulaşır. İç Deniz’in güneybatı çıkışındaki ikinci geçit, [[kalyon-denizi]] ile bağlantı sağlar."
+      ],
+      [
+        "Kara sınırından farkı",
+        "Anatarya ve [[elonya]], Avren yakasında kara sınırı paylaşır. Bu sınır İstara Boğazı’nın batısındadır; boğaz çevresindeki iki kıyı Anatarya’ya aittir."
+      ]
+    ],
+    "related": [
+      "istara",
+      "avrupa",
+      "anatarya",
+      "elonya",
+      "kalyon-denizi"
+    ],
+    "imageKey": "",
+    "draft": false
+  },
+  "veloria": {
+    "title": "Veloria Federasyonu",
+    "category": "Ülkeler",
+    "desc": "Kuzeybatı Avren üzerinde yer alan bölgesel devlet.",
+    "lead": "Veloria Federasyonu, kuzeybatı Avren üzerinde yer alan, başkenti Veler olan bir devlettir. Geniş kuzeybatı kıyıları ve iç sanayi havzaları üzerinde gelişmiş bir federasyondur. Liman kentleri, finans merkezleri ve ileri imalat bölgeleri ülkenin ekonomik omurgasını oluşturur. [[kuzey-kusagi]] ve [[avren-birligi]] üyesidir.",
+    "facts": [
+      [
+        "Başkent",
+        "Veler"
+      ],
+      [
+        "Yönetim",
+        "Federal parlamenter cumhuriyet"
+      ],
+      [
+        "Kıta",
+        "[[avrupa]]"
+      ],
+      [
+        "Savunma ittifakı",
+        "[[kuzey-kusagi]]"
+      ],
+      [
+        "Siyasi-ekonomik birlik",
+        "[[avren-birligi]]"
+      ]
+    ],
+    "sections": [
+      [
+        "Coğrafya",
+        "Geniş kuzeybatı kıyıları ve iç sanayi havzaları üzerinde gelişmiş bir federasyondur. Liman kentleri, finans merkezleri ve ileri imalat bölgeleri ülkenin ekonomik omurgasını oluşturur."
+      ],
+      [
+        "Tarih ve yönetim",
+        "Veloria, bölgesel krallıkların ortak bir federal meclis altında birleşmesiyle kurulmuştur. İki büyük kıtasal ticaret krizinin ardından eyaletler arası altyapı ve ortak dış politika yetkileri genişletilmiştir."
+      ],
+      [
+        "Ekonomi ve toplum",
+        "Yüksek katma değerli üretim, finans, optik ve havacılık sanayisi öne çıkar. Güçlü eyalet yönetimleri, merkezi hükûmetin dış politika kararlarını parlamento denetimine bağlar."
+      ],
+      [
+        "GÖKKALE-4 Krizi",
+        "Veloria, dosyanın kaynağı bağımsız olarak doğrulanmadan ortak askerî harekâta onay verilmemesini savunmuştur. Bu tutum Elonya’nın iddialarını doğruladığı anlamına gelmez; hükûmet aynı zamanda saldırının durdurulmasını istemiştir. [[sarpburun-dosyasi]] ve [[kriz]], ülkenin dış politikasındaki başlıca gündem maddeleridir."
+      ],
+      [
+        "Bayrak",
+        "Lacivert zemin, altın dikey şerit ve beyaz baklava. Bayrak, federasyonun veya cumhuriyetin ortak devlet simgesidir."
+      ]
+    ],
+    "related": [
+      "avren-birligi",
+      "kuzey-kusagi",
+      "anatarya",
+      "elonya",
+      "kriz"
+    ],
+    "imageKey": "flag-veloria",
+    "draft": false
+  },
+  "dalmerya": {
+    "title": "Dalmerya Cumhuriyeti",
+    "category": "Ülkeler",
+    "desc": "Batı Avren kıyısı üzerinde yer alan bölgesel devlet.",
+    "lead": "Dalmerya Cumhuriyeti, batı Avren kıyısı üzerinde yer alan, başkenti Dalmera olan bir devlettir. Batı Avren’dan güneye uzanan uzun bir yarımada devletidir. Kıyı şehirleri ile dağlık iç kesimler arasında belirgin ekonomik ve kültürel farklılıklar vardır. [[kuzey-kusagi]] ve [[avren-birligi]] üyesidir.",
+    "facts": [
+      [
+        "Başkent",
+        "Dalmera"
+      ],
+      [
+        "Yönetim",
+        "Parlamenter cumhuriyet"
+      ],
+      [
+        "Kıta",
+        "[[avrupa]]"
+      ],
+      [
+        "Savunma ittifakı",
+        "[[kuzey-kusagi]]"
+      ],
+      [
+        "Siyasi-ekonomik birlik",
+        "[[avren-birligi]]"
+      ]
+    ],
+    "sections": [
+      [
+        "Coğrafya",
+        "Batı Avren’dan güneye uzanan uzun bir yarımada devletidir. Kıyı şehirleri ile dağlık iç kesimler arasında belirgin ekonomik ve kültürel farklılıklar vardır."
+      ],
+      [
+        "Tarih ve yönetim",
+        "Bir dönem bağımsız olan liman cumhuriyetlerinin birleşmesi, Dalmerya’nın siyasi temelini oluşturmuştur. Birleşme sonrasında ticaret hukuku ve bölgesel belediye özerkliği birlikte korunmuştur."
+      ],
+      [
+        "Ekonomi ve toplum",
+        "Gemi inşası, deniz sigortacılığı, liman işletmeciliği ve makine üretimi ekonomide önemli yer tutar. Dalmerya, Kalyon’daki ticari hatların açık kalmasını ulusal çıkarı olarak görür."
+      ],
+      [
+        "GÖKKALE-4 Krizi",
+        "Dalmerya, deniz trafiği ve sivil tahliyeler için diplomatik temas yürütmüş; ittifak dışında tek taraflı savaşa katılmamıştır. Her iki taraftan da ticari gemilere yönelik kısıtlamaları azaltmalarını istemiştir. [[sarpburun-dosyasi]] ve [[kriz]], ülkenin dış politikasındaki başlıca gündem maddeleridir."
+      ],
+      [
+        "Bayrak",
+        "Koyu yeşil zemin üzerinde beyaz çapraz kuşak. Bayrak, federasyonun veya cumhuriyetin ortak devlet simgesidir."
+      ]
+    ],
+    "related": [
+      "avren-birligi",
+      "kuzey-kusagi",
+      "anatarya",
+      "elonya",
+      "kriz"
+    ],
+    "imageKey": "flag-dalmerya",
+    "draft": false
+  },
+  "vardena": {
+    "title": "Vardena Cumhuriyeti",
+    "category": "Ülkeler",
+    "desc": "Orta Avren geçiş kuşağı üzerinde yer alan bölgesel devlet.",
+    "lead": "Vardena Cumhuriyeti, orta Avren geçiş kuşağı üzerinde yer alan, başkenti Vardis olan bir devlettir. Elonya’nın kuzeyinde, dağ geçitleri ve nehir havzaları çevresinde yer alan bir devlettir. Batı ile doğu Avren arasındaki kara yolları ülkenin stratejik değerini belirler. [[kuzey-kusagi]] ve [[avren-birligi]] üyesidir.",
+    "facts": [
+      [
+        "Başkent",
+        "Vardis"
+      ],
+      [
+        "Yönetim",
+        "Parlamenter cumhuriyet"
+      ],
+      [
+        "Kıta",
+        "[[avrupa]]"
+      ],
+      [
+        "Savunma ittifakı",
+        "[[kuzey-kusagi]]"
+      ],
+      [
+        "Siyasi-ekonomik birlik",
+        "[[avren-birligi]]"
+      ]
+    ],
+    "sections": [
+      [
+        "Coğrafya",
+        "Elonya’nın kuzeyinde, dağ geçitleri ve nehir havzaları çevresinde yer alan bir devlettir. Batı ile doğu Avren arasındaki kara yolları ülkenin stratejik değerini belirler."
+      ],
+      [
+        "Tarih ve yönetim",
+        "Vardena, eski sınır eyaletlerinin anayasal birleşmesiyle kurulmuştur. Tarih boyunca geçiş güzergâhlarının denetimi ile komşu devletler arasında denge kurma siyaseti öne çıkmıştır."
+      ],
+      [
+        "Ekonomi ve toplum",
+        "Demiryolu taşımacılığı, tarım makineleri, enerji iletimi ve transit ticaret temel ekonomik alanlardır. Savunma siyaseti, sınır güvenliği ve ittifak içindeki uzlaşma mekanizmalarına dayanır."
+      ],
+      [
+        "GÖKKALE-4 Krizi",
+        "Vardena, savaşın Avren kara sınırına yayılmasından kaygı duyar. İnceleme komisyonu ile geçici ateşkes önerisini desteklemiş, Elonya’nın iddialarını bağımsız bir hüküm gibi kabul etmemiştir. [[sarpburun-dosyasi]] ve [[kriz]], ülkenin dış politikasındaki başlıca gündem maddeleridir."
+      ],
+      [
+        "Bayrak",
+        "Mor zemin üzerinde beyaz ve altın yatay şeritler. Bayrak, federasyonun veya cumhuriyetin ortak devlet simgesidir."
+      ]
+    ],
+    "related": [
+      "avren-birligi",
+      "kuzey-kusagi",
+      "anatarya",
+      "elonya",
+      "kriz"
+    ],
+    "imageKey": "flag-vardena",
+    "draft": false
+  },
+  "rovenya": {
+    "title": "Rovenya Federasyonu",
+    "category": "Ülkeler",
+    "desc": "Kuzeydoğu Avren üzerinde yer alan bölgesel devlet.",
+    "lead": "Rovenya Federasyonu, kuzeydoğu Avren üzerinde yer alan, başkenti Roven olan bir devlettir. Kuzey Denizi’nin batı ve kuzey kıyılarına açılan geniş bir federasyondur. Ormanlık platolar, nehir kentleri ve kuzey limanları farklı ekonomik bölgeler oluşturur. [[kuzey-kusagi]] ve [[avren-birligi]] üyesidir.",
+    "facts": [
+      [
+        "Başkent",
+        "Roven"
+      ],
+      [
+        "Yönetim",
+        "Federal cumhuriyet"
+      ],
+      [
+        "Kıta",
+        "[[avrupa]]"
+      ],
+      [
+        "Savunma ittifakı",
+        "[[kuzey-kusagi]]"
+      ],
+      [
+        "Siyasi-ekonomik birlik",
+        "[[avren-birligi]]"
+      ]
+    ],
+    "sections": [
+      [
+        "Coğrafya",
+        "Kuzey Denizi’nin batı ve kuzey kıyılarına açılan geniş bir federasyondur. Ormanlık platolar, nehir kentleri ve kuzey limanları farklı ekonomik bölgeler oluşturur."
+      ],
+      [
+        "Tarih ve yönetim",
+        "Rovenya’nın federal yapısı, iç bölgeler ile kıyı yönetimleri arasında uzun müzakereler sonucunda oluşmuştur. Ortak savunma ve dış ticaret federal düzeyde, eğitim ve yerel idare bölgesel düzeyde yürütülür."
+      ],
+      [
+        "Ekonomi ve toplum",
+        "Enerji, ağır makine, demiryolları ve liman ticareti önemli gelir kaynaklarıdır. Kuzey Denizi’nden İstara Boğazı’na uzanan ticari bağlantının açık tutulması dış politikasının önceliklerindendir."
+      ],
+      [
+        "GÖKKALE-4 Krizi",
+        "Rovenya, Sarpburun Dosyası’ndaki iddiaların Anatarya’nın ortak savunma talebini otomatik olarak geçersiz kılamayacağını savunmuştur. Bununla birlikte pakt içinde gerekli oydaşma oluşmadığından ortak harekât başlamamıştır. [[sarpburun-dosyasi]] ve [[kriz]], ülkenin dış politikasındaki başlıca gündem maddeleridir."
+      ],
+      [
+        "Bayrak",
+        "Zeytin yeşili zemin, lacivert alt kuşak ve altın disk. Bayrak, federasyonun veya cumhuriyetin ortak devlet simgesidir."
+      ]
+    ],
+    "related": [
+      "avren-birligi",
+      "kuzey-kusagi",
+      "anatarya",
+      "elonya",
+      "kriz"
+    ],
+    "imageKey": "flag-rovenya",
+    "draft": false
+  },
+  "kipraya": {
+    "title": "Kipraya Cumhuriyeti",
+    "category": "Ülkeler",
+    "desc": "Kipraya adasının güneyini yöneten, Avren Birliği üyesi cumhuriyet.",
+    "lead": "Kipraya Cumhuriyeti, [[anatarya]] kıyılarının güneyindeki [[kipraya-adasi]] üzerinde yer alan devlettir. Ada genelinde tanınan hükûmet, fiilen güney kesimini yönetir; kuzeyde [[kuzey-kipraya]] ayrı bir yönetim kurmuştur. Başkent Kipra, iki kesimi ayıran [[kipraya-tampon-hatti]] tarafından bölünür. Cumhuriyet [[avren-birligi]] üyesidir, [[kuzey-kusagi]] üyesi değildir.",
+    "facts": [
+      [
+        "Başkent",
+        "Güney Kipra"
+      ],
+      [
+        "Yönetim",
+        "Parlamenter cumhuriyet"
+      ],
+      [
+        "Fiilî yönetim alanı",
+        "Adanın güneyi"
+      ],
+      [
+        "Uluslararası statü",
+        "Ada genelinde tanınan hükûmet"
+      ],
+      [
+        "Birlik üyeliği",
+        "[[avren-birligi]]"
+      ],
+      [
+        "KKSP üyeliği",
+        "Üye değil"
+      ]
+    ],
+    "sections": [
+      [
+        "Coğrafya",
+        "Güney kıyı ovaları, iç dağlık alanlar ve adanın başlıca ticaret limanları cumhuriyetin fiilî yönetimindedir. Kuzey kesimle temas, denetimli geçiş noktalarından sağlanır."
+      ],
+      [
+        "Bölünmenin tarihi",
+        "Ortak cumhuriyetin kurumları, iki toplum arasındaki temsil ve güvenlik anlaşmazlıklarıyla zayıfladı. Birleşme yanlısı darbe girişimini izleyen Anatarya müdahalesi ve çatışmalar sonrasında ateşkes hattı oluştu. Nüfus hareketleri, mülkiyet ihtilafları ve karşılıklı güvenlik kaygıları bölünmeyi kalıcılaştırdı."
+      ],
+      [
+        "Dış ilişkiler",
+        "[[avren-birligi]] ve [[elonya]] cumhuriyeti adanın meşru hükûmeti olarak tanır. Birlik üyeliğinin hukuki kapsamı ada geneline uzansa da ortak mevzuat kuzeyde fiilen uygulanmaz. [[kuzey-kipraya]] ile görüşmeler [[kipraya-tampon-hatti]] çevresindeki tarafsız alanlarda yürütülür."
+      ],
+      [
+        "Ekonomi",
+        "Liman hizmetleri, turizm, deniz araştırmaları ve tarımsal ihracat başlıca gelir kaynaklarıdır. Bölünme nedeniyle adalar arası ticaret ile kuzey-güney geçişlerinde farklı denetim düzenleri bulunur."
+      ],
+      [
+        "Bayrak",
+        "Koyu altın zemin üzerindeki beyaz kuşak deniz yollarını, lacivert halka ortak ada yurttaşlığı idealini simgeler."
+      ]
+    ],
+    "related": [
+      "kipraya-adasi",
+      "kuzey-kipraya",
+      "kipraya-tampon-hatti",
+      "avren-birligi",
+      "anatarya",
+      "elonya"
+    ],
+    "imageKey": "flag-kipraya",
+    "draft": false
+  },
+  "avren-birligi": {
+    "title": "Avren Birliği",
+    "category": "Kurumlar",
+    "desc": "Avren ülkeleri ile Kipraya’yı bir araya getiren siyasi ve ekonomik birlik.",
+    "lead": "Avren Birliği (AB), ortak pazar, dolaşım, ticaret standartları ve bölgesel kalkınma alanlarında çalışan devletler arası bir birliktir. [[veloria]], [[dalmerya]], [[vardena]], [[rovenya]], [[elonya]] ve [[kipraya]] üyedir. Birliğin siyasi ve ekonomik kurumları [[kuzey-kusagi]] askerî yapısından ayrıdır.",
+    "facts": [
+      [
+        "Kısaltma",
+        "AB"
+      ],
+      [
+        "Tür",
+        "Siyasi ve ekonomik birlik"
+      ],
+      [
+        "Üyeler",
+        "[[veloria]] · [[dalmerya]] · [[vardena]] · [[rovenya]] · [[elonya]] · [[kipraya]]"
+      ],
+      [
+        "Anatarya’nın statüsü",
+        "Ortaklık ve gümrük anlaşmaları; tam üye değil"
+      ],
+      [
+        "Temel organlar",
+        "Avren Konseyi · Ortak Meclis · Birlik Komisyonu"
+      ]
+    ],
+    "sections": [
+      [
+        "Kuruluş ve yetkiler",
+        "Birlik, kıtasal ticaretin önündeki gümrük engellerini azaltmak üzere kurulmuş, zamanla ortak ürün standartları ve bölgesel fonlarla genişlemiştir. Üye devletler ordularını ve temel dış politika yetkilerini korur."
+      ],
+      [
+        "KKSP’den farkı",
+        "[[kuzey-kusagi]] bir askerî savunma paktıdır. Avren Birliği ise siyasi ve ekonomik bütünleşme kurumudur. Kipraya’nın AB üyesi olup KKSP dışında olması ve Anatarya’nın KKSP üyesi olup AB’ye tam üye olmaması bu farkı gösterir."
+      ],
+      [
+        "GÖKKALE-4 Krizi",
+        "[[elonya]] birliğin üyesi olmasına rağmen savaş kararı otomatik olarak birlik politikası sayılmamıştır. Birlik, [[sarpburun-dosyasi]] için bağımsız inceleme ve ateşkes talep etmiş; yaptırım seçenekleri üzerinde ortak görüş geliştirmekte zorlanmıştır. Bu tartışmalar, KKSP’nin askerî müdahale kararından ayrı yürür."
+      ],
+      [
+        "Bayrak",
+        "Koyu petrol mavisi zemin üzerinde altın renkli altı eşkenar dörtgen bir halka oluşturur. Altı parça mevcut üye devletleri, açık merkez ortak siyasi alanı simgeler."
+      ],
+      [
+        "Kipraya’nın statüsü",
+        "[[kipraya]] üyeliği hukuken ada genelini kapsar. Cumhuriyetin fiilen yönetmediği [[kuzey-kipraya]] topraklarında ortak mevzuatın uygulanması askıdadır. Kuzey yönetiminin ayrı bir üyeliği ve Birlik kurumlarında ayrı temsili bulunmaz."
+      ]
+    ],
+    "related": [
+      "kuzey-kusagi",
+      "veloria",
+      "dalmerya",
+      "vardena",
+      "rovenya",
+      "elonya",
+      "kipraya"
+    ],
+    "imageKey": "flag-avren-birligi",
+    "draft": false
+  },
+  "k16-alaz": {
+    "title": "K-16 Alaz",
+    "category": "Araçlar",
+    "desc": "Anatarya’nın tek motorlu çok rollü savaş uçağı.",
+    "lead": "K-16 Alaz, [[anatarya]] hava kuvvetleri tarafından kullanılan tek pilotlu, tek motorlu çok rollü savaş uçağıdır. [[hancer]] filosunda 2019’da başlayan modernizasyonun ana platformudur. [[gokkale-4]] çevresindeki hava sahasının korunmasında görev yapar.",
+    "facts": [
+      [
+        "Ülke",
+        "[[anatarya]]"
+      ],
+      [
+        "Sınıf",
+        "Çok rollü savaş uçağı"
+      ],
+      [
+        "Mürettebat",
+        "1 pilot"
+      ],
+      [
+        "Motor düzeni",
+        "Tek jet motoru"
+      ],
+      [
+        "Kullanıcı",
+        "[[hancer]]"
+      ],
+      [
+        "Filo modernizasyonu",
+        "2019"
+      ]
+    ],
+    "sections": [
+      [
+        "Gelişim ve hizmet",
+        "Alaz’ın hizmete alınmasıyla [[hancer]] bünyesindeki [[k4-boran]] ağırlıklı yapı dönüşmeye başladı. Yeni uçak, tek pilotun uçuş ve görev sistemlerini birlikte yönetebildiği bir kokpit düzenine sahiptir."
+      ],
+      [
+        "Görevler",
+        "Hava sahasının korunması, önleme ve taktik hava görevlerinde kullanılır. [[gokkale-4]] krizinde tesis bölgesinin hava savunmasına katkı verir."
+      ],
+      [
+        "Filo içindeki yeri",
+        "Alaz ön hat görevlerinin ağırlığını taşırken [[k4-boran]] eğitim ve sınırlı görevlerde kullanılmaya devam eder. İki platform, filonun farklı dönemlerini temsil eder."
+      ]
+    ],
+    "related": [
+      "hancer",
+      "k4-boran",
+      "gokkale-4"
+    ],
+    "imageKey": "air-k16",
+    "draft": false
+  },
+  "ut7-ilgaz": {
+    "title": "UT-7 Ilgaz",
+    "category": "Araçlar",
+    "desc": "Genel maksat helikopteri.",
+    "lead": "UT-7 Ilgaz, [[anatarya]] tarafından kullanılan genel maksat helikopteri platformudur. Personel taşıma, arama-kurtarma ve tıbbi tahliye görevlerine uygun genel maksat helikopteridir. Sarp Muhafız birliğine ihtiyaç durumunda ulaştırma desteği sağlar.",
+    "facts": [
+      [
+        "Ülke",
+        "[[anatarya]]"
+      ],
+      [
+        "Sınıf",
+        "Genel maksat helikopteri"
+      ],
+      [
+        "Mürettebat",
+        "2 pilot + görev ekibi"
+      ],
+      [
+        "İlgili birlik",
+        "[[sarp-muhafiz]]"
+      ]
+    ],
+    "sections": [
+      [
+        "Görev",
+        "Personel taşıma, arama-kurtarma ve tıbbi tahliye görevlerine uygun genel maksat helikopteridir. Sarp Muhafız birliğine ihtiyaç durumunda ulaştırma desteği sağlar."
+      ],
+      [
+        "Hizmet ve destek",
+        "Çift motorlu Ilgaz, kıyı üsleri ile iç bölgelerdeki tesisler arasında personel ve malzeme taşır. [[sarp-muhafiz]] için ulaştırma desteği sağlar; tıbbi tahliye görevlerinde kabin düzeni sedye taşımaya uygun biçimde değiştirilir."
+      ]
+    ],
+    "related": [
+      "anatarya",
+      "sarp-muhafiz"
+    ],
+    "imageKey": "air-ut7",
+    "draft": false
+  },
+  "kaya-zma": {
+    "title": "Kaya ZMA",
+    "category": "Araçlar",
+    "desc": "Zırhlı personel taşıma aracı.",
+    "lead": "Kaya ZMA, [[anatarya]] tarafından kullanılan zırhlı personel taşıma aracı platformudur. Kara yolu erişimi, personel nakli ve korumalı devriye için kullanılan tekerlekli zırhlı araç ailesidir. Tesis çevresinde kara hareketliliği sağlar.",
+    "facts": [
+      [
+        "Ülke",
+        "[[anatarya]]"
+      ],
+      [
+        "Sınıf",
+        "Zırhlı personel taşıma aracı"
+      ],
+      [
+        "Mürettebat",
+        "3 mürettebat + personel bölmesi"
+      ],
+      [
+        "İlgili birlik",
+        "[[sarp-muhafiz]]"
+      ]
+    ],
+    "sections": [
+      [
+        "Görev",
+        "Kara yolu erişimi, personel nakli ve korumalı devriye için kullanılan tekerlekli zırhlı araç ailesidir. Tesis çevresinde kara hareketliliği sağlar."
+      ]
+    ],
+    "related": [
+      "anatarya",
+      "sarp-muhafiz",
+      "demir-iz"
+    ],
+    "imageKey": "veh-kaya",
+    "draft": false
+  },
+  "kalkan-hss": {
+    "title": "Kalkan HSS",
+    "category": "Araçlar",
+    "desc": "Mobil hava savunma sistemi.",
+    "lead": "Kalkan HSS, [[anatarya]] tarafından kullanılan mobil hava savunma sistemi platformudur. Radar, komuta aracı ve hava savunma araçlarından oluşan sistem ailesidir.",
+    "facts": [
+      [
+        "Ülke",
+        "[[anatarya]]"
+      ],
+      [
+        "Sınıf",
+        "Mobil hava savunma sistemi"
+      ],
+      [
+        "Mürettebat",
+        "Araç ve görev ekibine göre değişir"
+      ],
+      [
+        "İlgili birlik",
+        "[[sarp-muhafiz]]"
+      ]
+    ],
+    "sections": [
+      [
+        "Görev",
+        "Radar, komuta aracı ve hava savunma araçlarından oluşan sistem ailesidir."
+      ]
+    ],
+    "related": [
+      "anatarya",
+      "sarp-muhafiz"
+    ],
+    "imageKey": "veh-kalkan",
+    "draft": false
+  },
+  "m12-aster": {
+    "title": "M-12 Aster",
+    "category": "Araçlar",
+    "desc": "Çok rollü savaş uçağı.",
+    "lead": "M-12 Aster, [[elonya]] tarafından kullanılan çok rollü savaş uçağı platformudur. Elonya’nın hava savunması ve deniz kuvvetlerine hava desteği görevlerinde kullandığı çok rollü uçaktır. 41. Mızrak filosunun ana platformudur.",
+    "facts": [
+      [
+        "Ülke",
+        "[[elonya]]"
+      ],
+      [
+        "Sınıf",
+        "Çok rollü savaş uçağı"
+      ],
+      [
+        "Mürettebat",
+        "1 pilot"
+      ],
+      [
+        "İlgili birlik",
+        "[[mizrak]]"
+      ]
+    ],
+    "sections": [
+      [
+        "Görev",
+        "Elonya’nın hava savunması ve deniz kuvvetlerine hava desteği görevlerinde kullandığı çok rollü uçaktır. 41. Mızrak filosunun ana platformudur."
+      ],
+      [
+        "Tasarım ve hizmet",
+        "Tek pilotlu delta kanat düzeni ve tek jet motoru, Aster’in temel yapısını oluşturur. [[mizrak]] filosu tarafından işletilen uçaklar, kıyı hava sahası ile ada geçişlerinin korunmasında görev yapar."
+      ]
+    ],
+    "related": [
+      "elonya",
+      "aigaion"
+    ],
+    "imageKey": "air-m12",
+    "draft": false
+  },
+  "p8-pelagos": {
+    "title": "P-8 Pelagos",
+    "category": "Araçlar",
+    "desc": "Deniz devriye uçağı.",
+    "lead": "P-8 Pelagos, [[elonya]] tarafından kullanılan deniz devriye uçağı platformudur. Deniz sahası gözlemi, arama-kurtarma koordinasyonu ve uzun süreli devriye görevlerine ayrılmış turboprop uçaktır. AIGAION grubuna bilgi desteği verir; bir savaş uçağı filosunun organik envanteri değildir.",
+    "facts": [
+      [
+        "Ülke",
+        "[[elonya]]"
+      ],
+      [
+        "Sınıf",
+        "Deniz devriye uçağı"
+      ],
+      [
+        "Mürettebat",
+        "2 pilot + görev ekibi"
+      ],
+      [
+        "İlgili birlik",
+        "[[aigaion]] destek unsurları"
+      ]
+    ],
+    "sections": [
+      [
+        "Görev",
+        "Deniz sahası gözlemi, arama-kurtarma koordinasyonu ve uzun süreli devriye görevlerine ayrılmış turboprop uçaktır. AIGAION grubuna bilgi desteği verir; bir savaş uçağı filosunun organik envanteri değildir."
+      ],
+      [
+        "Görev düzeni",
+        "Çift turboprop motorlu, yüksek kanatlı Pelagos’un kabininde uçuş ekibi ile deniz gözetleme operatörleri birlikte çalışır. Gözlem bilgileri kıyı merkezlerine ve [[aigaion]] grubuna aktarılır. Arama-kurtarma çalışmalarında deniz üzerindeki temasların belirlenmesine yardımcı olur."
+      ]
+    ],
+    "related": [
+      "elonya",
+      "aigaion"
+    ],
+    "imageKey": "air-p8",
+    "draft": false
+  },
+  "triton-botu": {
+    "title": "Triton Hızlı Botu",
+    "category": "Araçlar",
+    "desc": "Hızlı personel taşıma botu.",
+    "lead": "Triton Hızlı Botu, [[elonya]] tarafından kullanılan hızlı personel taşıma botu platformudur. Kısa mesafeli deniz ulaşımı, kıyı devriyesi ve personel aktarımı için kullanılan hızlı bottur. Nereus Deniz Komando Grubu tarafından kullanılır.",
+    "facts": [
+      [
+        "Ülke",
+        "[[elonya]]"
+      ],
+      [
+        "Sınıf",
+        "Hızlı personel taşıma botu"
+      ],
+      [
+        "Mürettebat",
+        "2 mürettebat + görev ekibi"
+      ],
+      [
+        "İlgili birlik",
+        "[[nereus-komando]]"
+      ]
+    ],
+    "sections": [
+      [
+        "Görev",
+        "Kısa mesafeli deniz ulaşımı, kıyı devriyesi ve personel aktarımı için kullanılan hızlı bottur. Nereus Deniz Komando Grubu tarafından kullanılır."
+      ]
+    ],
+    "related": [
+      "elonya",
+      "aigaion"
+    ],
+    "imageKey": "veh-triton",
+    "draft": false
+  },
+  "aigaion-firkateyni": {
+    "title": "AIGAION Sınıfı Fırkateyn",
+    "category": "Araçlar",
+    "desc": "Çok maksatlı fırkateyn.",
+    "lead": "AIGAION Sınıfı Fırkateyn, [[elonya]] tarafından kullanılan çok maksatlı fırkateyn platformudur. AIGAION ve THALASSA adlı gemilerin ait olduğu fırkateyn sınıfıdır. Muharebe grubunun refakat, deniz gözetleme ve komuta bağlantısı görevlerini üstlenir.",
+    "facts": [
+      [
+        "Ülke",
+        "[[elonya]]"
+      ],
+      [
+        "Sınıf",
+        "Çok maksatlı fırkateyn"
+      ],
+      [
+        "Mürettebat",
+        "Gemi görev teşkilatı"
+      ],
+      [
+        "İlgili birlik",
+        "[[aigaion]]"
+      ]
+    ],
+    "sections": [
+      [
+        "Görev",
+        "AIGAION ve THALASSA adlı gemilerin ait olduğu fırkateyn sınıfıdır. Muharebe grubunun refakat, deniz gözetleme ve komuta bağlantısı görevlerini üstlenir."
+      ]
+    ],
+    "related": [
+      "elonya",
+      "aigaion"
+    ],
+    "imageKey": "veh-aigaion",
+    "draft": false
+  },
+  "nereus-cikarma": {
+    "title": "NEREUS Çıkarma Gemisi",
+    "category": "Araçlar",
+    "desc": "Amfibi nakliye ve destek gemisi.",
+    "lead": "NEREUS Çıkarma Gemisi, [[elonya]] tarafından kullanılan amfibi nakliye ve destek gemisi platformudur. Personel, araç ve destek malzemesi taşıyan amfibi gemidir. 8. Nereus Deniz Komando Grubu ile aynı adı taşır ancak gemi ve birlik farklı yapılardır.",
+    "facts": [
+      [
+        "Ülke",
+        "[[elonya]]"
+      ],
+      [
+        "Sınıf",
+        "Amfibi nakliye ve destek gemisi"
+      ],
+      [
+        "Mürettebat",
+        "Gemi mürettebatı + taşınan birlik"
+      ],
+      [
+        "İlgili birlik",
+        "[[aigaion]] · [[nereus-komando]]"
+      ]
+    ],
+    "sections": [
+      [
+        "Görev",
+        "Personel, araç ve destek malzemesi taşıyan amfibi gemidir. 8. Nereus Deniz Komando Grubu ile aynı adı taşır ancak gemi ve birlik farklı yapılardır."
+      ]
+    ],
+    "related": [
+      "elonya",
+      "aigaion"
+    ],
+    "imageKey": "veh-nereus",
+    "draft": false
+  },
+  "kallisto-ikmal": {
+    "title": "KALLISTO İkmal Gemisi",
+    "category": "Araçlar",
+    "desc": "Deniz lojistik gemisi.",
+    "lead": "KALLISTO İkmal Gemisi, [[elonya]] tarafından kullanılan deniz lojistik gemisi platformudur. Muharebe grubunun yakıt, erzak ve bakım malzemesi ihtiyaçlarını destekleyen lojistik gemidir. Grubun uzun süreli deniz varlığını sürdürmesine yardımcı olur.",
+    "facts": [
+      [
+        "Ülke",
+        "[[elonya]]"
+      ],
+      [
+        "Sınıf",
+        "Deniz lojistik gemisi"
+      ],
+      [
+        "Mürettebat",
+        "Gemi görev teşkilatı"
+      ],
+      [
+        "İlgili birlik",
+        "[[aigaion]]"
+      ]
+    ],
+    "sections": [
+      [
+        "Görev",
+        "Muharebe grubunun yakıt, erzak ve bakım malzemesi ihtiyaçlarını destekleyen lojistik gemidir. Grubun uzun süreli deniz varlığını sürdürmesine yardımcı olur."
+      ]
+    ],
+    "related": [
+      "elonya",
+      "aigaion"
+    ],
+    "imageKey": "veh-kallisto",
+    "draft": false
+  },
+  "sarp-muhafiz": {
+    "title": "4. Sarp Muhafız Bölüğü",
+    "category": "Birlikler",
+    "desc": "Anatarya kuvvetlerine bağlı tesis koruma ve müdahale birliği.",
+    "lead": "[[sarpburun]] üzerindeki kritik altyapıyı koruyan, askerî güvenlik ve müdahale görevli bölüktür. Ana kara bağlantısı, personel güvenliği ve kriz sırasında sivil tahliye düzeninin korunmasına odaklanır.",
+    "facts": [
+      [
+        "Bağlı ülke",
+        "[[anatarya]]"
+      ],
+      [
+        "Birlik türü",
+        "Tesis koruma ve müdahale birliği"
+      ],
+      [
+        "Çağrı adı",
+        "Sarp"
+      ],
+      [
+        "Zırhlı araç",
+        "[[kaya-zma]]"
+      ],
+      [
+        "Ulaştırma desteği",
+        "[[ut7-ilgaz]]"
+      ]
+    ],
+    "sections": [
+      [
+        "Kuruluş ve görev",
+        "[[sarpburun]] üzerindeki kritik altyapıyı koruyan, askerî güvenlik ve müdahale görevli bölüktür. Ana kara bağlantısı, personel güvenliği ve kriz sırasında sivil tahliye düzeninin korunmasına odaklanır. Birliğin komutası ulusal askerî makamlarındadır; [[kuzey-kusagi]] üyeliği birliği otomatik olarak pakt komutasına geçirmez."
+      ],
+      [
+        "Uçak ve araçlar",
+        "Zırhlı araç: [[kaya-zma]].\n\nUlaştırma desteği: [[ut7-ilgaz]].\n\nDestek için tahsis edilen araçlar ile birliğin ana envanteri ayrı değerlendirilir."
+      ],
+      [
+        "GÖKKALE-4 Krizi",
+        "Birlik, [[kriz]] sırasında [[anatarya]] savunma faaliyetleri içinde görev alır."
+      ],
+      [
+        "Birlik arması",
+        "Kayalık yarımada ve gözetleme kulesi, birliğin koruduğu coğrafyayı temsil eder. Amblemde 4 numarası yer alır."
+      ]
+    ],
+    "related": [
+      "anatarya",
+      "gokkale-4",
+      "kriz",
+      "kaya-zma",
+      "ut7-ilgaz"
+    ],
+    "imageKey": "patch-sarp-muhafiz",
+    "draft": false
+  },
+  "mizrak": {
+    "title": "41. Mızrak Taktik Filosu",
+    "category": "Birlikler",
+    "desc": "Elonya kuvvetlerine bağlı taktik hava filosu.",
+    "lead": "Elonya hava kuvvetlerine bağlı çok rollü uçuş birliğidir. [[aigaion]] grubunun faaliyet gösterdiği sahada hava görevleri yürütür. Deniz devriye uçaklarıyla aynı teşkilat değildir.",
+    "facts": [
+      [
+        "Bağlı ülke",
+        "[[elonya]]"
+      ],
+      [
+        "Birlik türü",
+        "Taktik hava filosu"
+      ],
+      [
+        "Çağrı adı",
+        "Mızrak"
+      ],
+      [
+        "Ana uçak",
+        "[[m12-aster]]"
+      ]
+    ],
+    "sections": [
+      [
+        "Kuruluş ve görev",
+        "Elonya hava kuvvetlerine bağlı çok rollü uçuş birliğidir. [[aigaion]] grubunun faaliyet gösterdiği sahada hava görevleri yürütür. Deniz devriye uçaklarıyla aynı teşkilat değildir. Birliğin komutası ulusal askerî makamlarındadır; [[kuzey-kusagi]] üyeliği birliği otomatik olarak pakt komutasına geçirmez."
+      ],
+      [
+        "Uçak ve araçlar",
+        "Ana uçak: [[m12-aster]].\n\nDestek için tahsis edilen araçlar ile birliğin ana envanteri ayrı değerlendirilir."
+      ],
+      [
+        "GÖKKALE-4 Krizi",
+        "Birlik, [[kriz]] sırasında [[elonya]] kuvvetlerinin bölgesel harekâtı içinde görev alır."
+      ],
+      [
+        "Birlik arması",
+        "Gümüş mızrak ve geriye süpürülmüş kanatlar, filonun adını ve uçuş görevini simgeler. 41 numarası kullanılır."
+      ]
+    ],
+    "related": [
+      "elonya",
+      "gokkale-4",
+      "kriz",
+      "m12-aster"
+    ],
+    "imageKey": "patch-mizrak",
+    "draft": false
+  },
+  "nereus-komando": {
+    "title": "8. Nereus Deniz Komando Grubu",
+    "category": "Birlikler",
+    "desc": "Elonya kuvvetlerine bağlı deniz özel görev birliği.",
+    "lead": "Elonya’nın deniz ortamında görev yapan özel birliklerinden biridir. [[aigaion]] grubuna bağlı görevlerde personel koruma, denizden intikal ve arama-kurtarma desteği gibi faaliyetler yürütür.",
+    "facts": [
+      [
+        "Bağlı ülke",
+        "[[elonya]]"
+      ],
+      [
+        "Birlik türü",
+        "Deniz özel görev birliği"
+      ],
+      [
+        "Çağrı adı",
+        "Nereus"
+      ],
+      [
+        "Hızlı bot",
+        "[[triton-botu]]"
+      ],
+      [
+        "Denizden taşıma",
+        "[[nereus-cikarma]]"
+      ]
+    ],
+    "sections": [
+      [
+        "Kuruluş ve görev",
+        "Elonya’nın deniz ortamında görev yapan özel birliklerinden biridir. [[aigaion]] grubuna bağlı görevlerde personel koruma, denizden intikal ve arama-kurtarma desteği gibi faaliyetler yürütür. Birliğin komutası ulusal askerî makamlarındadır; [[kuzey-kusagi]] üyeliği birliği otomatik olarak pakt komutasına geçirmez."
+      ],
+      [
+        "Uçak ve araçlar",
+        "Hızlı bot: [[triton-botu]].\n\nDenizden taşıma: [[nereus-cikarma]].\n\nDestek için tahsis edilen araçlar ile birliğin ana envanteri ayrı değerlendirilir."
+      ],
+      [
+        "GÖKKALE-4 Krizi",
+        "Birlik, [[kriz]] sırasında [[elonya]] kuvvetlerinin bölgesel harekâtı içinde görev alır."
+      ],
+      [
+        "Birlik arması",
+        "Dalış maskesi ile üç dişli mızrak, deniz ortamını simgeler. 8 numarası birliği tanımlar; NEREUS gemisinden ayrı bir teşkilattır."
+      ]
+    ],
+    "related": [
+      "elonya",
+      "gokkale-4",
+      "kriz",
+      "triton-botu",
+      "nereus-cikarma"
+    ],
+    "imageKey": "patch-nereus-komando",
+    "draft": false
+  },
+  "k4-boran": {
+    "title": "K-4 Boran",
+    "category": "Araçlar",
+    "desc": "Hançer filosunun tarihsel çift motorlu önleme uçağı.",
+    "lead": "K-4 Boran, [[anatarya]] hava kuvvetlerinin iki mürettebatlı, çift motorlu önleme ve taktik görev uçağıdır. 1978’de kurulan [[hancer]] filosunun ilk ana platformudur. 17 Kasım 1994’te kaybolan DAGGER 06, bu uçak ailesine aittir.",
+    "facts": [
+      [
+        "Ülke",
+        "[[anatarya]]"
+      ],
+      [
+        "Görev",
+        "Önleme ve taktik hava görevleri"
+      ],
+      [
+        "Mürettebat",
+        "Pilot ve silah sistem subayı"
+      ],
+      [
+        "Motor düzeni",
+        "Çift jet motoru"
+      ],
+      [
+        "Kullanıcı",
+        "[[hancer]]"
+      ],
+      [
+        "Hizmet durumu",
+        "Eğitim ve sınırlı görevler"
+      ]
+    ],
+    "sections": [
+      [
+        "Hizmete giriş",
+        "Boran, Hançer filosunun kuruluş döneminde [[sarpburun]] çevresindeki hava savunmasının başlıca uçağıydı. İki kişilik kokpit düzeninde pilot uçuşu, silah sistem subayı ise görev sistemlerini yönetir."
+      ],
+      [
+        "DAGGER 06",
+        "17 Kasım 1994’te DAGGER 06 çağrı kodunu kullanan K-4, son telsiz mesajından 11 saniye sonra radardan kayboldu. Enkazına ulaşılamadı. Olay, [[hancer]] arşivindeki Dosya 94-117’de kayıtlıdır."
+      ],
+      [
+        "K-16 dönemine geçiş",
+        "2019’da başlayan [[k16-alaz]] modernizasyonuyla ön hat görevlerinin ağırlığı yeni platforma geçti. K-4’lerin bir bölümü mürettebat eğitimi ve sınırlı görevlerde tutuldu."
+      ]
+    ],
+    "related": [
+      "hancer",
+      "k16-alaz",
+      "sarpburun"
+    ],
+    "imageKey": "air-k4",
+    "draft": false
+  },
+  "kuzey-kipraya": {
+    "title": "Kuzey Kipraya Cumhuriyeti",
+    "category": "Ülkeler",
+    "desc": "Kipraya adasının kuzeyindeki, yalnızca Anatarya tarafından tanınan yönetim.",
+    "lead": "Kuzey Kipraya Cumhuriyeti, [[kipraya-adasi]] kuzeyinde ayrı kurumlarıyla yönetilen devlettir. Bağımsızlığı yalnızca [[anatarya]] tarafından tanınır. [[kipraya]] hükûmeti ve [[avren-birligi]], kuzeyi Kipraya Cumhuriyeti’nin parçası olarak değerlendirir. Yönetim merkezi Kuzey Kipra’dır.",
+    "facts": [
+      [
+        "Yönetim merkezi",
+        "Kuzey Kipra"
+      ],
+      [
+        "Yönetim",
+        "Parlamenter cumhuriyet"
+      ],
+      [
+        "Tanınma",
+        "Yalnızca [[anatarya]]"
+      ],
+      [
+        "Avren Birliği",
+        "Ayrı üyeliği yok"
+      ],
+      [
+        "KKSP",
+        "Üye değil"
+      ],
+      [
+        "Güvenlik ortağı",
+        "[[anatarya]]"
+      ]
+    ],
+    "sections": [
+      [
+        "Kuruluş ve yönetim",
+        "Ateşkesin ardından kuzeyde ayrı idari kurumlar oluşturuldu; izleyen dönemde bağımsızlık ilan edildi. Meclis, belediyeler ve kamu kurumları kuzey kesimde faaliyet gösterir. Güney hükûmeti bağımsızlık ilanını tanımaz."
+      ],
+      [
+        "Anatarya ile ilişkiler",
+        "Anatarya, kuzeyin diplomatik tanınmasını, ulaşım bağlantılarını ve güvenliğini destekler. Bu ilişki kuzeye KKSP üyeliği sağlamaz; kuzey adına pakt içinde ayrı bir temsil bulunmaz."
+      ],
+      [
+        "Toplum ve ekonomi",
+        "Kuzey kıyısındaki limanlar, üniversiteler, turizm ve tarım ekonomik hayatın başlıca alanlarıdır. Tanınma sorunu doğrudan ticaret ve ulaşım seçeneklerini daraltır; Anatarya üzerinden kurulan bağlantılar önem taşır."
+      ],
+      [
+        "Kipra ve geçişler",
+        "Başkentteki iki idare [[kipraya-tampon-hatti]] ile ayrılır. Geçişler belirlenmiş kapılarda kimlik denetimiyle yapılır. Mülkiyet, yerinden edilmiş toplulukların hakları ve güvenlik düzenlemeleri görüşmelerdeki başlıca sorunlardır."
+      ],
+      [
+        "Bayrak",
+        "Açık gümüş zemin üzerindeki iki bordo kuşak kıyı ile iç bölgeyi, ortadaki bordo eşkenar dörtgen kuzey yönetiminin ortak kurumlarını simgeler."
+      ]
+    ],
+    "related": [
+      "kipraya",
+      "kipraya-adasi",
+      "kipraya-tampon-hatti",
+      "anatarya"
+    ],
+    "imageKey": "flag-kuzey-kipraya",
+    "draft": false
+  },
+  "kipraya-adasi": {
+    "title": "Kipraya Adası",
+    "category": "Coğrafya",
+    "desc": "Güney Denizi’nde iki yönetim ve bir tampon hatla bölünmüş ada.",
+    "lead": "Kipraya, [[anatarya]] kıyılarının güneyinde ve [[kalyon-denizi]] güneydoğu çıkışında yer alan adadır. Güney kesimini [[kipraya]], kuzey kesimini [[kuzey-kipraya]] yönetir. İki yönetim arasındaki [[kipraya-tampon-hatti]], başkent Kipra’dan da geçer.",
+    "facts": [
+      [
+        "Konum",
+        "Güney Denizi"
+      ],
+      [
+        "Güney yönetimi",
+        "[[kipraya]]"
+      ],
+      [
+        "Kuzey yönetimi",
+        "[[kuzey-kipraya]]"
+      ],
+      [
+        "Bölünmüş şehir",
+        "Kipra"
+      ],
+      [
+        "Ayırıcı hat",
+        "[[kipraya-tampon-hatti]]"
+      ]
+    ],
+    "sections": [
+      [
+        "Fiziki coğrafya",
+        "Uzun doğu burnu, kuzey kıyı sırtları ve güneydeki geniş ovalar adanın ana coğrafi unsurlarıdır. İç yükseltiler arasında kalan havzalar tarım ve yerleşim alanlarını oluşturur."
+      ],
+      [
+        "Siyasi coğrafya",
+        "Ateşkes hattı uluslararası tanınan iki devlet arasındaki olağan bir sınır değildir. Güney hükûmeti ada genelinde tanınırken kuzey yönetimi yalnızca Anatarya tarafından tanınır. Haritadaki renkler fiilî yönetim alanlarını gösterir."
+      ],
+      [
+        "Bölgesel önemi",
+        "Ada, Kalyon’dan güneye açılan deniz yollarını izleyen bir konumdadır. Anatarya ile Elonya arasındaki gerilim adanın güvenlik siyasetini, ticaretini ve birleşme görüşmelerini doğrudan etkiler."
+      ]
+    ],
+    "related": [
+      "kipraya",
+      "kuzey-kipraya",
+      "kipraya-tampon-hatti",
+      "kalyon-denizi"
+    ],
+    "imageKey": "",
+    "draft": false
+  },
+  "kipraya-tampon-hatti": {
+    "title": "Kipraya Tampon Hattı",
+    "category": "Coğrafya",
+    "desc": "Kuzey ve güney yönetimlerini ayıran gözetim bölgesi.",
+    "lead": "Kipraya Tampon Hattı, [[kipraya-adasi]] üzerindeki ateşkes düzenini korumak amacıyla oluşturulmuş gözetim bölgesidir. [[kipraya]] ile [[kuzey-kipraya]] arasında uzanır ve Kipra şehrini ikiye ayırır. Hat, tarafsız Ateşkes Gözlem Heyeti tarafından izlenir.",
+    "facts": [
+      [
+        "Konum",
+        "[[kipraya-adasi]]"
+      ],
+      [
+        "Statü",
+        "Ateşkes ve gözetim bölgesi"
+      ],
+      [
+        "Gözetim",
+        "Ateşkes Gözlem Heyeti"
+      ],
+      [
+        "Geçiş",
+        "Belirlenmiş kontrol noktaları"
+      ]
+    ],
+    "sections": [
+      [
+        "Ateşkes düzeni",
+        "Hat boyunca tarafların askerî hareketleri sınırlandırılır. Gözlem heyeti ihlalleri kayda geçirir ve iki yönetim arasında doğrudan temasın kesildiği durumlarda iletişimi sağlar."
+      ],
+      [
+        "Günlük hayat",
+        "Kipra’da bazı sokaklar ve eski yerleşim alanları hattın içinde kalır. İnsanların geçişi belirlenmiş kapılardan sağlanırken mülk kullanımı, bakım çalışmaları ve tarımsal faaliyetler özel düzenlemelere tabidir."
+      ],
+      [
+        "Diplomatik statü",
+        "Tampon bölge, kuzey yönetiminin bağımsızlığının tanındığı anlamına gelmez. Nihai siyasi çözüm görüşmeleri sürerken ateşkesin korunmasını sağlar."
+      ]
+    ],
+    "related": [
+      "kipraya-adasi",
+      "kipraya",
+      "kuzey-kipraya"
+    ],
+    "imageKey": "",
+    "draft": false
+  },
+  "kuzey-isaret": {
+    "title": "6. Kuzey İşaret Taburu",
+    "category": "Birlikler",
+    "desc": "Anatarya’nın Sarpburun haberleşme ve erken uyarı birliği.",
+    "lead": "6. Kuzey İşaret Taburu, [[anatarya]] kara ve hava unsurlarının [[sarpburun]] yarımadasındaki radar verisini, telsiz trafiğini ve sivil uyarıları birleştiren haberleşme birliğidir. [[gokkale-4]] tesisini koruyan kuvvetlere ortak durum resmi sağlar.",
+    "facts": [
+      [
+        "Bağlı ülke",
+        "[[anatarya]]"
+      ],
+      [
+        "Birlik türü",
+        "Haberleşme ve erken uyarı"
+      ],
+      [
+        "Görev yeri",
+        "[[sarpburun]]"
+      ],
+      [
+        "Eşgüdüm",
+        "[[hancer]] · [[sarp-muhafiz]]"
+      ]
+    ],
+    "sections": [
+      [
+        "Kuruluş",
+        "Kıyıdaki eski gözetleme istasyonları ile iç kesimdeki hareketli haberleşme takımları tek tabur çatısında toplandı. Fırlatma alanının sivil haberleşme hatları askerî şebekeden ayrı tutulur."
+      ],
+      [
+        "Krizdeki rolü",
+        "[[kriz]] sırasında [[hancer]] filosuna hava resmi iletti, [[sarp-muhafiz]] ile tahliye güzergâhlarını eşgüdümledi. Sahte [[sarpburun-dosyasi]] içindeki saat ve frekans bilgileri taburun kayıtlarıyla karşılaştırıldığında tutarsızlıklar bulundu."
+      ],
+      [
+        "Doktrin",
+        "Tabur emir verme yetkisi yerine doğrulanmış veriyi birimlere dağıtır. Kıyı hatları kesildiğinde taşınabilir röleler ve [[gozcu-3]] veri akışı ayrı kanallardan değerlendirilir."
+      ]
+    ],
+    "related": [
+      "anatarya",
+      "hancer",
+      "sarp-muhafiz",
+      "gokkale-4",
+      "gozcu-3",
+      "kriz"
+    ],
+    "imageKey": "patch-kuzey-isaret",
+    "draft": false
+  },
+  "doruk-ikmal": {
+    "title": "18. Doruk İkmal Alayı",
+    "category": "Birlikler",
+    "desc": "Anatarya’nın yarımadaya giden kara ikmalinin koruyucusu.",
+    "lead": "18. Doruk İkmal Alayı, [[anatarya]] iç platosundan [[sarpburun]] geçitlerine uzanan yakıt, tıbbi malzeme ve bakım sevkiyatını düzenler. [[gokkale-4]] tesisinin kesintisiz çalışması için kritik bir lojistik ağ yürütür.",
+    "facts": [
+      [
+        "Bağlı ülke",
+        "[[anatarya]]"
+      ],
+      [
+        "Birlik türü",
+        "Lojistik alayı"
+      ],
+      [
+        "Görev alanı",
+        "Arkent–Sarpburun hattı"
+      ],
+      [
+        "Araç desteği",
+        "[[kaya-zma]]"
+      ]
+    ],
+    "sections": [
+      [
+        "Kuruluş",
+        "Dağ geçitlerindeki mevsimsel kapanmalar, birbirinden kopuk depoların ortak bir sevk merkezinden yönetilmesini gerektirdi. Alay, askerî kargoyla sivil acil yardımın aynı yolda birbirini engellememesi için ayrı zaman pencereleri kullanır."
+      ],
+      [
+        "Krizdeki rolü",
+        "[[kriz]] başlayınca ana yol üzerindeki köprüler kontrol altına alındı. [[sarp-muhafiz]] birliğinin personel nakli desteklendi; [[kaya-zma]] araçları konvoy güvenliğine göre tahsis edildi. Fırlatma hazırlığındaki malzeme diğer ikmal kalemlerinden ayrı kayıt altında tutuldu."
+      ],
+      [
+        "Sınırlar",
+        "Alay muharip birlik değildir; konvoy koruması için görevlendirilen unsurlar kendi komuta zincirlerini korur."
+      ]
+    ],
+    "related": [
+      "anatarya",
+      "sarpburun",
+      "gokkale-4",
+      "sarp-muhafiz",
+      "kaya-zma"
+    ],
+    "imageKey": "patch-doruk-ikmal",
+    "draft": false
+  },
+  "pelagos-devriye": {
+    "title": "3. Pelagos Deniz Devriye Filosu",
+    "category": "Birlikler",
+    "desc": "Elonya’nın Kalyon Denizi deniz gözetleme filosu.",
+    "lead": "3. Pelagos Deniz Devriye Filosu, [[elonya]] kıyıları ile [[kalyon-adalari]] arasındaki deniz trafiğini [[p8-pelagos]] uçaklarıyla izler. [[mizrak]] savaş filosundan ayrı komuta ve görev düzenine sahiptir.",
+    "facts": [
+      [
+        "Bağlı ülke",
+        "[[elonya]]"
+      ],
+      [
+        "Birlik türü",
+        "Deniz devriye filosu"
+      ],
+      [
+        "Ana uçak",
+        "[[p8-pelagos]]"
+      ],
+      [
+        "Eşgüdüm",
+        "[[aigaion]]"
+      ]
+    ],
+    "sections": [
+      [
+        "Kuruluş",
+        "Balıkçılık denetimi ve arama kurtarma için kullanılan kıyı uçuşlarının askerî gözetleme ihtiyacıyla birleşmesi üzerine kuruldu. Barış zamanında sivil kurtarma merkezlerine konum bilgisi sağlar."
+      ],
+      [
+        "Krizdeki rolü",
+        "[[kriz]] sırasında [[aigaion]] grubunun doğusundaki deniz trafiğini izledi. [[ucaksavar]] taburuna aktardığı hava ve deniz izleri, sivil uçuşların yanlış sınıflandırılmasını önlemeye yardımcı oldu. Devriye uçakları savaş ilanına gerekçe olan [[sarpburun-dosyasi]] belgesinin doğrulanmasında görev almadı."
+      ],
+      [
+        "Uçak ve usuller",
+        "[[p8-pelagos]] uzun süreli deniz gözlemi için kullanılır; filo, [[mizrak]] gibi önleme görevleri üstlenmez."
+      ]
+    ],
+    "related": [
+      "elonya",
+      "p8-pelagos",
+      "mizrak",
+      "aigaion",
+      "ucaksavar",
+      "kriz"
+    ],
+    "imageKey": "patch-pelagos-devriye",
+    "draft": false
+  },
+  "demir-iz": {
+    "title": "27. Demir İz Mekanize Piyade Alayı",
+    "category": "Birlikler",
+    "desc": "Anatarya’nın Sarpburun kara yaklaşımını savunan mekanize alayı.",
+    "lead": "27. Demir İz Mekanize Piyade Alayı, [[anatarya]] Kara Kuvvetlerinin [[sarpburun]] yarımadasına açılan kara geçitlerinde görev yapan manevra birliğidir. [[kaya-zma]] araçlarını kullanır; [[gokkale-4]] tesisinin iç güvenliğini yürüten [[sarp-muhafiz]] bölüğünden ayrı bir komuta altında bulunur.",
+    "facts": [
+      [
+        "Bağlı ülke",
+        "[[anatarya]]"
+      ],
+      [
+        "Birlik türü",
+        "Mekanize piyade alayı"
+      ],
+      [
+        "Kuruluş",
+        "1986"
+      ],
+      [
+        "Konuşlanma",
+        "Sarpburun kara geçitleri"
+      ],
+      [
+        "Ana araç",
+        "[[kaya-zma]]"
+      ],
+      [
+        "İkmal",
+        "[[doruk-ikmal]]"
+      ]
+    ],
+    "sections": [
+      [
+        "Tarih ve teşkilat",
+        "1986 yılında yarımadanın iç bölgeyle bağlantısını korumak için kuruldu. Başlangıçtaki piyade taburları, yolların genişlemesi ve [[kaya-zma]] araçlarının hizmete alınmasıyla mekanize bir yapıya geçti. Alayın keşif, piyade ve bakım unsurları ayrı taburlar hâlinde çalışır."
+      ],
+      [
+        "Savunma görevi",
+        "Alay kıyıdaki fırlatma sahasının içine konuşlanmaz; ana görevi dağ geçitleri ile köprüler üzerinden gelen kara tehdidini karşılamak ve sivil çıkış yollarının açık kalmasını sağlamaktır. [[doruk-ikmal]] konvoylarına koruma sağlar, ancak lojistik alayın sevk emrini vermez. [[kuzey-isaret]] taburundan doğrulanmış durum bilgisi alır."
+      ],
+      [
+        "GÖKKALE-4 Krizi",
+        "[[kriz]] sırasında yarımadaya çıkan iki kara yolunda denetim kurdu. [[elonya]] hava hareketliliğinin olası hedefleri tartışılırken alay, sivil trafiği durdurmadan köprü yaklaşımındaki araçları kademeli olarak dağıttı. [[iris-indirme]] ile belgelenmiş bir çatışması yoktur."
+      ],
+      [
+        "Birlik arması",
+        "Dağ geçidini simgeleyen iki zirvenin altında mekanize aracın paleti yer alır. 27 sayısı alayı tanımlar."
+      ]
+    ],
+    "related": [
+      "anatarya",
+      "sarpburun",
+      "kaya-zma",
+      "doruk-ikmal",
+      "kuzey-isaret",
+      "sarp-muhafiz",
+      "kriz",
+      "iris-indirme"
+    ],
+    "imageKey": "patch-demir-iz",
+    "draft": false
+  },
+  "iris-indirme": {
+    "title": "9. İris Hava İndirme Tugayı",
+    "category": "Birlikler",
+    "desc": "Elonya’nın ada hattı için oluşturduğu hava indirme tugayı.",
+    "lead": "9. İris Hava İndirme Tugayı, [[elonya]] Kara Kuvvetlerinin hızlı sevk edilen hava indirme birliğidir. Görev alanı batı [[kalyon-adalari]] ile Elonya ana karasındaki hava meydanlarını kapsar. Tugay, [[aigaion]] grubundaki [[nereus-komando]] deniz birlikleriyle aynı teşkilatın parçası değildir.",
+    "facts": [
+      [
+        "Bağlı ülke",
+        "[[elonya]]"
+      ],
+      [
+        "Birlik türü",
+        "Hava indirme tugayı"
+      ],
+      [
+        "Kuruluş",
+        "1991"
+      ],
+      [
+        "Görev alanı",
+        "Batı [[kalyon-adalari]]"
+      ],
+      [
+        "Hava desteği",
+        "[[mizrak]]"
+      ],
+      [
+        "Deniz eşgüdümü",
+        "[[aigaion]]"
+      ]
+    ],
+    "sections": [
+      [
+        "Kuruluş ve eğitim",
+        "1991 yılında ada garnizonlarına kısa sürede takviye göndermek amacıyla kuruldu. Paraşütçü taburları, hafif keşif unsurları ve sağlık bölüğü tugayı oluşturur. Ağır zırhlı araçları bulunmadığı için uzun süreli bir kara harekâtında dış ikmale bağımlıdır."
+      ],
+      [
+        "Ada harekâtı doktrini",
+        "Hava indirme, güvenliği belirlenmiş bir meydana iniş veya paraşütle intikal biçiminde planlanır. Uçuş koridoru [[ucaksavar]] radar ağı ve [[mizrak]] filosuyla eşgüdümlenir. [[pelagos-devriye]] deniz trafiğine ilişkin bilgi sağlar; devriye filosu tugaya bağlı değildir."
+      ],
+      [
+        "GÖKKALE-4 Krizi",
+        "[[sarpburun-dosyasi]] yayımlandıktan sonra tugay batı ada hattında alarma geçti. Bir tabur ana kara hava meydanlarında yedek tutulurken öteki unsurlar adalardaki pistleri korudu. [[sarpburun]] üzerine gerçekleşmiş bir hava indirme operasyonu kaydedilmemiştir; hazırlık emri savaş planının icrası anlamına gelmez."
+      ],
+      [
+        "Birlik arması",
+        "Açık paraşüt kubbesi ve iki yana uzanan kanatlar, hava indirme görevini; 9 sayısı tugayı temsil eder."
+      ]
+    ],
+    "related": [
+      "elonya",
+      "kalyon-adalari",
+      "ucaksavar",
+      "mizrak",
+      "pelagos-devriye",
+      "aigaion",
+      "nereus-komando",
+      "kriz",
+      "demir-iz"
+    ],
+    "imageKey": "patch-iris-indirme",
+    "draft": false
+  }
+}
+;
