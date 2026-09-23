@@ -43,13 +43,14 @@ async function imageData(file){return new Promise((resolve,reject)=>{const reade
 async function publish(){if(!token)throw Error('Önce GitHub yönetici erişimiyle giriş yap.');flush();const p=state[language][selected];if(p&&(!p.title||!p.category))throw Error('Başlık ve kategori boş bırakılamaz.');
  const ref=await request('/git/ref/heads/main');if(ref.object.sha!==headSha)throw Error('Depo başka bir yerde değişti. Bu sekmeyi yenileyip yeni sürüm üzerinden düzenle.');
  const commit=await request('/git/commits/'+headSha);
- const [oldScript,oldIndex,old404]=await Promise.all(['pages.js','index.html','404.html'].map(path=>fileAt(path,headSha)));
+ const [oldScript,oldIndex,old404,oldEdit]=await Promise.all(['pages.js','index.html','404.html','edit.html'].map(path=>fileAt(path,headSha)));
  const expression=/const dataTR=[^\n]*;\nconst dataEN=[^\n]*;/;
  if(!expression.test(oldScript))throw Error('Wiki veri yapısı değişmiş. Kaydetmeden önce yeni sürümü kontrol et.');
  const script=oldScript.replace(expression,'const dataTR='+JSON.stringify(state.tr)+';\nconst dataEN='+JSON.stringify(state.en)+';');
  const version=await hash(script);
  const updateHTML=html=>{if(!/\/pages\.js(?:\?v=[a-f0-9]+)?"/.test(html))throw Error('Ana sayfada wiki betiği bulunamadı.');return html.replace(/\/pages\.js(?:\?v=[a-f0-9]+)?"/g,'/pages.js?v='+version+'"')};
- const files=[['tr.json',JSON.stringify(state.tr,null,2)+'\n'],['en.json',JSON.stringify(state.en,null,2)+'\n'],['pages.js',script],['index.html',updateHTML(oldIndex)],['404.html',updateHTML(old404)]];
+ const updateEdit=html=>html.replace(/<script id="embedded-tr" type="application\/json">.*?<\/script>/,'<script id="embedded-tr" type="application/json">'+JSON.stringify(state.tr)+'</script>').replace(/<script id="embedded-en" type="application\/json">.*?<\/script>/,'<script id="embedded-en" type="application/json">'+JSON.stringify(state.en)+'</script>');
+ const files=[['tr.json',JSON.stringify(state.tr,null,2)+'\n'],['en.json',JSON.stringify(state.en,null,2)+'\n'],['pages.js',script],['index.html',updateHTML(oldIndex)],['404.html',updateHTML(old404)],['edit.html',updateEdit(oldEdit)]];
  const tree=await Promise.all(files.map(async([path,content])=>({path,mode:'100644',type:'blob',sha:await createBlob(content)})));
  for(const [name,file] of uploads)if(Object.values(state).some(pages=>Object.values(pages).some(page=>page.imageKey==='file:'+name)))tree.push({path:name,mode:'100644',type:'blob',sha:await createBlob(await imageData(file),'base64')});
  const newTree=await request('/git/trees','POST',{base_tree:commit.tree.sha,tree});
