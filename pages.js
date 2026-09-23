@@ -180,6 +180,18 @@ function parseCurrentRoute() {
   if (raw === 'tum-maddeler' || raw === 'all-articles' || raw === 'articles') {
     return { type: 'all', id: 'tum-maddeler' };
   }
+  if (raw === 'edit') {
+    location.replace('/edit.html' + (location.search || ''));
+    return { type: 'unknown', raw: 'edit' };
+  }
+  if (raw === 'harita') {
+    location.replace('/harita.html' + (location.search || ''));
+    return { type: 'unknown', raw: 'harita' };
+  }
+  if (raw === 'harita-en') {
+    location.replace('/harita-en.html' + (location.search || ''));
+    return { type: 'unknown', raw: 'harita-en' };
+  }
 
   const parts = raw.split('/').map(p => p.trim()).filter(Boolean);
   if (parts.length === 1) {
@@ -292,7 +304,7 @@ document.addEventListener('click', (e) => {
 
   if (href.startsWith('/') || href.startsWith('#/')) {
     const pathOnly = href.split("?")[0].split("#")[0].toLowerCase();
-    const staticExts = [".svg", ".png", ".jpg", ".jpeg", ".webp", ".css", ".js", ".json", ".xml", ".txt"];
+    const staticExts = [".svg", ".png", ".jpg", ".jpeg", ".webp", ".css", ".js", ".json", ".xml", ".txt", ".html"];
     const isStaticFile = staticExts.some(ext => pathOnly.endsWith(ext)) || pathOnly.startsWith("/uploads") || pathOnly === "/harita" || pathOnly === "/harita-en" || pathOnly === "/edit";
     if (isStaticFile) return;
     e.preventDefault();
