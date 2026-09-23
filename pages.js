@@ -5,6 +5,7 @@ const visuals={"facility": {"src": "/gokkale.jpg", "alt": "GÖKKALE-4 tesisi gö
 const legacyVisuals={'anatarya':'facility','elonya':'coast','gokkale-4':'facility','sarpburun':'facility','kalyon-denizi':'coast','kalyon-adalari':'coast','kartal-7':'satellite','simsek-iii':'facility','kriz':'facility'};
 const pageVisuals=Object.fromEntries(Object.entries(pages).map(([id,p])=>[id,p.imageKey===undefined?legacyVisuals[id]:p.imageKey]));
 for(const [id,p] of Object.entries(pages))if(/^upload:[a-f0-9]{32}$/.test(p.imageKey||''))visuals[p.imageKey]={src:'/uploads/'+p.imageKey.slice(7),alt:p.title,caption:p.title,kind:'uploaded'};
+for(const [id,p] of Object.entries(pages))if(/^file:[a-z0-9][a-z0-9.-]{0,90}\.(?:png|jpe?g|webp)$/.test(p.imageKey||''))visuals[p.imageKey]={src:'/'+p.imageKey.slice(5),alt:p.title,caption:p.title,kind:'uploaded'};
 
 function figure(key){const v=visuals[key];if(!v)return '';return `<figure class="article-image ${v.kind||''}"><a href="${v.src}" target="_blank" rel="noopener" aria-label="Görseli tam boy aç"><img src="${v.src}" alt="${escapeHTML(v.alt)}" width="${v.kind==='patch'?720:600}" height="${v.kind==='patch'?720:400}" decoding="async"></a><figcaption>${escapeHTML(v.caption)}${v.download?`<a class="asset-download" href="${v.src}" download>${v.kind==='patch'?'PNG indir':'Bayrağı indir'} ↓</a>`:''}</figcaption></figure>`}
 
@@ -30,6 +31,7 @@ const visuals={"facility": {"src": "/gokkale.jpg", "alt": "View of the GÖKKALE-
 const legacyVisuals={'anatarya':'facility','elonya':'coast','gokkale-4':'facility','sarpburun':'facility','kalyon-denizi':'coast','kalyon-adalari':'coast','kartal-7':'satellite','simsek-iii':'facility','kriz':'facility'};
 const pageVisuals=Object.fromEntries(Object.entries(pages).map(([id,p])=>[id,p.imageKey===undefined?legacyVisuals[id]:p.imageKey]));
 for(const [id,p] of Object.entries(pages))if(/^upload:[a-f0-9]{32}$/.test(p.imageKey||''))visuals[p.imageKey]={src:'/uploads/'+p.imageKey.slice(7),alt:p.title,caption:p.title,kind:'uploaded'};
+for(const [id,p] of Object.entries(pages))if(/^file:[a-z0-9][a-z0-9.-]{0,90}\.(?:png|jpe?g|webp)$/.test(p.imageKey||''))visuals[p.imageKey]={src:'/'+p.imageKey.slice(5),alt:p.title,caption:p.title,kind:'uploaded'};
 
 function figure(key){const v=visuals[key];if(!v)return '';return `<figure class="article-image ${v.kind||''}"><a href="${v.src}" target="_blank" rel="noopener" aria-label="Open full-size image"><img src="${v.src}" alt="${escapeHTML(v.alt)}" width="${v.kind==='patch'?720:600}" height="${v.kind==='patch'?720:400}" decoding="async"></a><figcaption>${escapeHTML(v.caption)}${v.download?`<a class="asset-download" href="${v.src}" download>${v.kind==='patch'?'Download PNG':'Download flag'} ↓</a>`:''}</figcaption></figure>`}
 
