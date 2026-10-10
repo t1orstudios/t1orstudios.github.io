@@ -15,9 +15,10 @@
   const button = panel.querySelector('button');
   const volume = panel.querySelector('input');
   const status = panel.querySelector('.music-status');
-  let wanted = prefs.enabled === true;
+  let wanted = prefs.enabled !== false;
   let pending = false;
   let failed = false;
+  let blocked = false;
   const en = () => document.documentElement.lang.startsWith('en');
   function persist() {
     try { sessionStorage.setItem(key, JSON.stringify({ enabled: wanted, volume: audio.volume, time: audio.currentTime })); } catch {}
@@ -31,15 +32,19 @@
     volume.setAttribute('aria-label', en() ? 'Music volume' : 'Müzik ses seviyesi');
     panel.querySelector('.music-volume span').textContent = en() ? 'Volume' : 'Ses';
     panel.querySelector('.music-conversion').textContent = en() ? 'Converted to Ogg Opus; composition unchanged.' : 'Ogg Opus biçimine dönüştürüldü; beste değiştirilmedi.';
-    status.textContent = failed ? (en() ? 'Music could not load. Tap to retry.' : 'Müzik yüklenemedi. Yeniden denemek için bas.') : 'Five Armies · Kevin MacLeod';
+    status.textContent = blocked ? (en() ? 'Click anywhere to start music.' : 'Müziğin başlaması için sayfaya dokun.') : failed ? (en() ? 'Music could not load. Tap to retry.' : 'Müzik yüklenemedi. Yeniden denemek için bas.') : 'Five Armies · Kevin MacLeod';
   }
   async function play() {
     if (pending || !audio.paused) return;
     wanted = true;
     failed = false;
+    blocked = false;
     pending = true;
     draw();
-    try { await audio.play(); } catch { failed = true; wanted = false; }
+    try { await audio.play(); } catch (error) {
+      if (error.name === 'NotAllowedError') blocked = true;
+      else { failed = true; wanted = false; }
+    }
     finally { pending = false; draw(); persist(); }
   }
   audio.addEventListener('loadedmetadata', () => {
@@ -64,4 +69,5 @@
   window.addEventListener('pagehide', () => { persist(); audio.pause(); });
   new MutationObserver(draw).observe(document.documentElement, { attributes: true, attributeFilter: ['lang'] });
   draw();
+  if (wanted) play();
 })();
