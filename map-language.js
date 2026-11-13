@@ -1,1 +1,0 @@
-document.querySelector('.language-picker').addEventListener('change',e=>{location.assign(e.target.value==='en'?'/harita-en.html':'/harita.html')});
