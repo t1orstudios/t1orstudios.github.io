@@ -35,7 +35,7 @@
       ],
       [
         "Space center",
-        "[[gokkale-4]]"
+        "[[skyfortress-4]]"
       ],
       [
         "Avren Union",
@@ -45,7 +45,7 @@
     "sections": [
       [
         "Geography and climate",
-        "Anatarya’s western coastline is broken up by bays, mountainous headlands and port cities. The temperate coastal climate gives way inland to a drier plateau climate with pronounced seasonal differences. Mountain ranges channel transport between coastal settlements and the interior through specific passes.\n\n[[sarpburun]] is a headland relatively distant from densely settled coastal areas. Access to the open sea and the possibility of establishing a broad security zone helped determine its selection for [[gokkale-4]]. The status of the waters surrounding [[kalyon-adalari]] is a separate source of dispute with neighboring [[elonya]].\n\nThe country’s territory west of [[istara-bogazi]] is attached to the mainland of [[avrupa]]. It shares a land border with [[elonya]] there. [[istara]] is a city spanning both shores of the crossing, while the capital, Arkent, lies inland."
+        "Anatarya’s western coastline is broken up by bays, mountainous headlands and port cities. The temperate coastal climate gives way inland to a drier plateau climate with pronounced seasonal differences. Mountain ranges channel transport between coastal settlements and the interior through specific passes.\n\n[[sarpburun]] is a headland relatively distant from densely settled coastal areas. Access to the open sea and the possibility of establishing a broad security zone helped determine its selection for [[skyfortress-4]]. The status of the waters surrounding [[kalyon-adalari]] is a separate source of dispute with neighboring [[elonya]].\n\nThe country’s territory west of [[istara-bogazi]] is attached to the mainland of [[avrupa]]. It shares a land border with [[elonya]] there. [[istara]] is a city spanning both shores of the crossing, while the capital, Arkent, lies inland."
       ],
       [
         "History",
@@ -53,7 +53,7 @@
       ],
       [
         "State structure and politics",
-        "Anatarya is governed through a multiparty parliamentary system. Legislative power belongs to the Assembly of the Republic, and executive power to a government dependent on parliamentary confidence. The presidency is a constitutional office representing the continuity of the state. Provinces are administered through officials appointed by the central government and elected local bodies.\n\nThe principal domestic political debates concern economic disparities between the interior and coastal cities, the share of the budget devoted to defense spending, and civilian oversight of security institutions. Although the space program enjoys broad support, the military missions and undisclosed budget of [[gokkale-4]] draw criticism from the opposition."
+        "Anatarya is governed through a multiparty parliamentary system. Legislative power belongs to the Assembly of the Republic, and executive power to a government dependent on parliamentary confidence. The presidency is a constitutional office representing the continuity of the state. Provinces are administered through officials appointed by the central government and elected local bodies.\n\nThe principal domestic political debates concern economic disparities between the interior and coastal cities, the share of the budget devoted to defense spending, and civilian oversight of security institutions. Although the space program enjoys broad support, the military missions and undisclosed budget of [[skyfortress-4]] draw criticism from the opposition."
       ],
       [
         "Economy and infrastructure",
@@ -61,7 +61,7 @@
       ],
       [
         "Society and culture",
-        "Anatarian is the common language of education and public administration. Coastal, plateau and mountain regions differ markedly in architecture, cuisine and local dialects. Large industrial cities are characterized by mixed populations shaped by internal migration.\n\nEngineering and public education occupy an important place in the republic’s account of modernization. The civilian face of the space program consists of weather forecasting, communications, disaster observation and university research. For this reason, [[gokkale-4]] is regarded as a public symbol of technical progress as well as a site of military importance."
+        "Anatarian is the common language of education and public administration. Coastal, plateau and mountain regions differ markedly in architecture, cuisine and local dialects. Large industrial cities are characterized by mixed populations shaped by internal migration.\n\nEngineering and public education occupy an important place in the republic’s account of modernization. The civilian face of the space program consists of weather forecasting, communications, disaster observation and university research. For this reason, [[skyfortress-4]] is regarded as a public symbol of technical progress as well as a site of military importance."
       ],
       [
         "Defense and the space program",
@@ -72,12 +72,12 @@
         "Anatarya’s membership in [[kuzey-kusagi]] provides access to collective defense and intelligence sharing. Membership in the same alliance as [[elonya]] has not eliminated the maritime disputes between the two countries. The parties interpret activities around the islands respectively as an exercise of sovereign rights and a security threat.\n\nWhen [[sarpburun-dosyasi]] was published, Anataria declared the documents to be forgeries and called for a joint investigation. The alliance’s preference for an investigation and a call for a ceasefire rather than military intervention weakened confidence in its security commitments within the country."
       ],
       [
-        "GÖKKALE-4 Crisis",
-        "The [[sarpburun-dosyasi]], prepared by [[elonya-istihbarati]], created the impression that Anataria was preparing a first strike around [[kalyon-adalari]]. Elonia’s government presented the dossier as evidence of an imminent threat, decided to go to war and dispatched the [[aigaion]] group to the region.\n\nAnatarya’s request for collective defense failed to secure the necessary political consensus within [[kuzey-kusagi]]. While the alliance refrained from launching a military operation, the country began defending [[gokkale-4]] with its own forces."
+        "SKYFORTRESS-4 Crisis",
+        "The [[sarpburun-dosyasi]], prepared by [[elonya-istihbarati]], created the impression that Anataria was preparing a first strike around [[kalyon-adalari]]. Elonia’s government presented the dossier as evidence of an imminent threat, decided to go to war and dispatched the [[aigaion]] group to the region.\n\nAnatarya’s request for collective defense failed to secure the necessary political consensus within [[kuzey-kusagi]]. While the alliance refrained from launching a military operation, the country began defending [[skyfortress-4]] with its own forces."
       ],
       [
         "Principal units",
-        "[[hancer]], [[kuzey-isaret]] and [[sarp-muhafiz]] form different elements of the defense around GÖKKALE-4. Principal platforms include [[k16-alaz]], [[kalkan-hss]], [[kaya-zma]] and [[ut7-ilgaz]]."
+        "[[hancer]], [[kuzey-isaret]] and [[sarp-muhafiz]] form different elements of the defense around SKYFORTRESS-4. Principal platforms include [[k16-alaz]], [[kalkan-hss]], [[kaya-zma]] and [[ut7-ilgaz]]."
       ],
       [
         "Kipraya policy",
@@ -88,13 +88,15 @@
       "elonya",
       "kuzey-kusagi",
       "sarpburun-dosyasi",
-      "gokkale-4",
+      "skyfortress-4",
       "kriz",
       "avren-birligi",
       "kipraya",
       "kuzey-isaret",
       "doruk-ikmal",
-      "demir-iz"
+      "demir-iz",
+      "coast-guard-command",
+      "sarpburun-air-base"
     ],
     "imageKey": "flag-anatarya"
   },
@@ -168,11 +170,11 @@
       ],
       [
         "Foreign relations and justification for war",
-        "Within [[kuzey-kusagi]], Elonia presents itself as a member protecting the alliance’s sea lanes. It also framed its objection to [[anatarya]]’s space program as a matter of collective security rather than national rivalry.\n\nThe [[sarpburun-dosyasi]] alleges that an Anatarian first strike against the islands is imminent. Based on this claim, Elonia’s government declared war, calling the operation against GÖKKALE-4 “preventive defense.” This expression is Elonia’s official justification; it does not mean that the alliance approved the operation."
+        "Within [[kuzey-kusagi]], Elonia presents itself as a member protecting the alliance’s sea lanes. It also framed its objection to [[anatarya]]’s space program as a matter of collective security rather than national rivalry.\n\nThe [[sarpburun-dosyasi]] alleges that an Anatarian first strike against the islands is imminent. Based on this claim, Elonia’s government declared war, calling the operation against SKYFORTRESS-4 “preventive defense.” This expression is Elonia’s official justification; it does not mean that the alliance approved the operation."
       ],
       [
-        "GÖKKALE-4 Crisis",
-        "The apparent cause of the war is the allegation of an attack contained in the dossier. The military objective is to disable [[gokkale-4]]’s capacity before [[kartal-7]] enters service. The new satellite would reduce the secrecy of Elonia’s naval movements and island deployments.\n\nThe uncertainty caused by the forged documents deadlocked the collective defense decision within [[kuzey-kusagi]], and the alliance did not participate militarily in the war. The documents’ true origin was not publicly verified when the crisis began. The war therefore became a diplomatic struggle over the credibility of intelligence claims alongside the military conflict."
+        "SKYFORTRESS-4 Crisis",
+        "The apparent cause of the war is the allegation of an attack contained in the dossier. The military objective is to disable [[skyfortress-4]]’s capacity before [[kartal-7]] enters service. The new satellite would reduce the secrecy of Elonia’s naval movements and island deployments.\n\nThe uncertainty caused by the forged documents deadlocked the collective defense decision within [[kuzey-kusagi]], and the alliance did not participate militarily in the war. The documents’ true origin was not publicly verified when the crisis began. The war therefore became a diplomatic struggle over the credibility of intelligence claims alongside the military conflict."
       ],
       [
         "Principal units",
@@ -199,11 +201,11 @@
     ],
     "imageKey": "flag-elonya"
   },
-  "gokkale-4": {
-    "title": "GÖKKALE-4",
+  "skyfortress-4": {
+    "title": "SKYFORTRESS-4",
     "category": "Facilities",
     "desc": "Satellite control, launch preparation and the center of the conflict.",
-    "lead": "GÖKKALE-4 is a satellite control and launch complex operated by [[anatarya]]. The planned launch of the [[kartal-7]] military reconnaissance satellite from the site aboard [[simsek-iii]] places the facility at the center of [[elonya]]’s attack.",
+    "lead": "SKYFORTRESS-4 is a satellite control and launch complex operated by [[anatarya]]. The planned launch of the [[kartal-7]] military reconnaissance satellite from the site aboard [[simsek-iii]] places the facility at the center of [[elonya]]’s attack.",
     "facts": [
       [
         "Facility type",
@@ -246,6 +248,18 @@
       [
         "Facility layout",
         "The complex consists of a satellite control center, launch site, technical maintenance areas and logistics sections. Civilian work areas and military security zones are subject to separate access arrangements."
+      ],
+      [
+        "Facility layout",
+        "The facility is divided into four quarters and a central island by two main roads, one east–west and one north–south, each with two lanes in each direction and a median. Streets are lined with sidewalks, curbs and lamps.\n\nNorth-west, launch: the rocket pad, antenna field, Stage Assembly Hall, two maintenance workshops, a communications tower and a weather mast. North-east, staff and civilians: dormitories and a mess hall around a courtyard, Administration, the Fire Station, the Medical Center, a helipad, the Security and Visitor Center, staff parking, a bus stop and a memorial square. South-west, [[sarp-muhafiz]]: the headquarters with its six-bay garage, SART HQ for the Sarp Armored Response Team, a barracks, parade ground, firing range and parking. South-east, logistics and infrastructure: three warehouses, a truck yard, a fuel farm, the power center, water treatment, a water tower and the service tunnel entrance.\n\nIn the middle, just north of the junction, stands Mission Control with its front toward the main gate, flanked by two parking lots marked NO HEAVY VEHICLES."
+      ],
+      [
+        "Mission Control interior",
+        "Besides the Launch Ops hall, Mission Control has 20 furnished areas on two floors. The ground floor holds reception, security screening, the staff corridor, satellite operations, pad control, cyber security, communications, a briefing room, a meeting room, the commander’s office and an infirmary. The shelter floor below holds backup control, a server room, secure communications, a data archive, an NBC shelter, a maintenance workshop, an air filtration room, a generator hall, an emergency stairway and an escape tunnel. Direction signs mark the corridors. Red emergency lights on the shelter floor always stay on; the other lights go out in a power sabotage."
+      ],
+      [
+        "In the game",
+        "In the Skyfortress Military Facility game this is the central map location, shown as SKYFORTRESS-4 on every sign, screen and team selection. Its shelters are the [[sarp-south-shelter]] and the shelter floor of Mission Control, and the shift cycle is described under [[shift-system]]."
       ]
     ],
     "related": [
@@ -257,14 +271,19 @@
       "kriz",
       "sarpburun-dosyasi",
       "kuzey-kusagi",
-      "sarpburun-radar-istasyonu"
+      "sarpburun-radar-istasyonu",
+      "sarp-south-shelter",
+      "shift-system",
+      "sarpburun-air-base",
+      "rockcove-station",
+      "day-night-cycle"
     ]
   },
   "sarpburun": {
     "title": "Sarpburun Peninsula",
     "category": "Geography",
     "desc": "A strategic coastal peninsula connected to mainland Anataria in the east.",
-    "lead": "Sarpburun Peninsula is a coastal projection extending westward from the mainland of [[anatarya]] into [[kalyon-denizi]]. It is continuously connected to the main peninsula by the isthmus in the east; it is not an island. The [[gokkale-4]] satellite control and launch complex stands on the peninsula.",
+    "lead": "Sarpburun Peninsula is a coastal projection extending westward from the mainland of [[anatarya]] into [[kalyon-denizi]]. It is continuously connected to the main peninsula by the isthmus in the east; it is not an island. The [[skyfortress-4]] satellite control and launch complex stands on the peninsula.",
     "facts": [
       [
         "Type",
@@ -280,7 +299,7 @@
       ],
       [
         "Strategic facility",
-        "[[gokkale-4]]"
+        "[[skyfortress-4]]"
       ],
       [
         "Sea",
@@ -294,20 +313,23 @@
     "sections": [
       [
         "Geography",
-        "The peninsula has rugged terrain extending from the coast toward the open sea. The road between the facility and the country’s interior crosses the broad eastern isthmus. Sheltered bays, rocky headlands and coastal ridges shape the peninsula’s western portion.\n\nApproximately 180 km of open sea separate GÖKKALE-4 from the nearest Elonian mainland shore. That coast cannot be seen with the naked eye from the peninsula; closer encounters take place around the Kalyon islets and naval vessels."
+        "The peninsula has rugged terrain extending from the coast toward the open sea. The road between the facility and the country’s interior crosses the broad eastern isthmus. Sheltered bays, rocky headlands and coastal ridges shape the peninsula’s western portion.\n\nApproximately 180 km of open sea separate SKYFORTRESS-4 from the nearest Elonian mainland shore. That coast cannot be seen with the naked eye from the peninsula; closer encounters take place around the Kalyon islets and naval vessels."
       ],
       [
         "Role in the crisis",
-        "It is at the center of [[kriz]] because of [[gokkale-4]] and the [[kartal-7]] program. While [[aigaion]] exerts pressure from the sea, [[sarp-muhafiz]] protects land access and the facility’s perimeter."
+        "It is at the center of [[kriz]] because of [[skyfortress-4]] and the [[kartal-7]] program. While [[aigaion]] exerts pressure from the sea, [[sarp-muhafiz]] protects land access and the facility’s perimeter."
       ]
     ],
     "related": [
       "anatarya",
-      "gokkale-4",
+      "skyfortress-4",
       "sarp-muhafiz",
       "aigaion",
       "kriz",
-      "demir-iz"
+      "demir-iz",
+      "sarp-south-shelter",
+      "karadere-village",
+      "sarpburun-air-base"
     ]
   },
   "kalyon-denizi": {
@@ -380,7 +402,7 @@
     "title": "GÖZCÜ-3",
     "category": "Space program",
     "desc": "A surveillance and data relay satellite operating in orbit.",
-    "lead": "GÖZCÜ-3 is the surveillance and data relay satellite in [[anatarya]]’s space program that is already in orbit. It is associated with the existing satellite operations of the [[gokkale-4]] complex.",
+    "lead": "GÖZCÜ-3 is the surveillance and data relay satellite in [[anatarya]]’s space program that is already in orbit. It is associated with the existing satellite operations of the [[skyfortress-4]] complex.",
     "facts": [
       [
         "Type",
@@ -396,7 +418,7 @@
       ],
       [
         "Associated facility",
-        "[[gokkale-4]]"
+        "[[skyfortress-4]]"
       ]
     ],
     "sections": [
@@ -406,12 +428,12 @@
       ],
       [
         "Place in the space program",
-        "During the crisis around [[gokkale-4]], existing satellite operations continue alongside preparations for the new launch."
+        "During the crisis around [[skyfortress-4]], existing satellite operations continue alongside preparations for the new launch."
       ]
     ],
     "related": [
       "kartal-7",
-      "gokkale-4",
+      "skyfortress-4",
       "anatarya"
     ]
   },
@@ -419,7 +441,7 @@
     "title": "KARTAL-7",
     "category": "Space program",
     "desc": "A new military reconnaissance satellite awaiting launch.",
-    "lead": "KARTAL-7 is a new military reconnaissance satellite that [[anatarya]] plans to launch from the [[gokkale-4]] complex aboard [[simsek-iii]]. The launch preparations are the fundamental cause of the conflict with [[elonya]].",
+    "lead": "KARTAL-7 is a new military reconnaissance satellite that [[anatarya]] plans to launch from the [[skyfortress-4]] complex aboard [[simsek-iii]]. The launch preparations are the fundamental cause of the conflict with [[elonya]].",
     "facts": [
       [
         "Type",
@@ -431,7 +453,7 @@
       ],
       [
         "Launch site",
-        "[[gokkale-4]]"
+        "[[skyfortress-4]]"
       ],
       [
         "Carrier",
@@ -445,7 +467,7 @@
       ],
       [
         "Launch and crisis",
-        "[[elonya]] is attempting to prevent the launch before this capability emerges. The dispatch of the [[aigaion]] group toward [[sarpburun]] is part of the military pressure that initiated the conflict around [[gokkale-4]]."
+        "[[elonya]] is attempting to prevent the launch before this capability emerges. The dispatch of the [[aigaion]] group toward [[sarpburun]] is part of the military pressure that initiated the conflict around [[skyfortress-4]]."
       ],
       [
         "Relationship with GÖZCÜ-3",
@@ -455,7 +477,7 @@
     "related": [
       "gozcu-3",
       "simsek-iii",
-      "gokkale-4",
+      "skyfortress-4",
       "kriz"
     ]
   },
@@ -463,7 +485,7 @@
     "title": "ŞİMŞEK-III",
     "category": "Space program",
     "desc": "The launch vehicle intended to carry KARTAL-7.",
-    "lead": "ŞİMŞEK-III is the launch vehicle intended to carry the [[kartal-7]] military reconnaissance satellite into space from the [[gokkale-4]] complex.",
+    "lead": "ŞİMŞEK-III is the launch vehicle intended to carry the [[kartal-7]] military reconnaissance satellite into space from the [[skyfortress-4]] complex.",
     "facts": [
       [
         "Type",
@@ -475,7 +497,7 @@
       ],
       [
         "Launch site",
-        "[[gokkale-4]]"
+        "[[skyfortress-4]]"
       ]
     ],
     "sections": [
@@ -486,7 +508,7 @@
     ],
     "related": [
       "kartal-7",
-      "gokkale-4",
+      "skyfortress-4",
       "anatarya"
     ]
   },
@@ -532,7 +554,7 @@
       ],
       [
         "Role in the crisis",
-        "The group was sent to the region to exert pressure on [[gokkale-4]] before the launch of [[kartal-7]]. Superiority at sea does not mean that Sarpburun is an island; the facility has uninterrupted access to the mainland in the east."
+        "The group was sent to the region to exert pressure on [[skyfortress-4]] before the launch of [[kartal-7]]. Superiority at sea does not mean that Sarpburun is an island; the facility has uninterrupted access to the mainland in the east."
       ],
       [
         "Emblem",
@@ -542,7 +564,7 @@
     "related": [
       "elonya",
       "sarpburun",
-      "gokkale-4",
+      "skyfortress-4",
       "aigaion-firkateyni",
       "nereus-cikarma",
       "kallisto-ikmal",
@@ -554,10 +576,10 @@
     "draft": false
   },
   "hancer": {
-    "title": "132nd Hançer Tactical Squadron",
+    "title": "132nd Dagger Tactical Squadron",
     "category": "Units",
     "desc": "An Anatarian air squadron founded in 1978; the legacy of DAGGER 06 and Black November.",
-    "lead": "The 132nd Hançer Tactical Squadron is an [[anatarya]] air unit established in 1978 to provide air defense for the Sarpburun region. It uses the call sign “Dagger.” Regarded as one of the symbols of Anatarian air superiority, the squadron is known both for its role in the defense of [[gokkale-4]] and for DAGGER 06, which disappeared on 17 November 1994, and the commemorative plaque at its headquarters.",
+    "lead": "The 132nd Dagger Tactical Squadron is an [[anatarya]] air unit established in 1978 to provide air defense for the Sarpburun region. It uses the call sign “Dagger.” Regarded as one of the symbols of Anatarian air superiority, the squadron is known both for its role in the defense of [[skyfortress-4]] and for DAGGER 06, which disappeared on 17 November 1994, and the commemorative plaque at its headquarters.",
     "facts": [
       [
         "Country",
@@ -573,7 +595,7 @@
       ],
       [
         "Call sign",
-        "Hançer / Dagger"
+        "Dagger"
       ],
       [
         "Historic aircraft",
@@ -594,6 +616,14 @@
       [
         "Historic loss",
         "DAGGER 06 ([[kara-kasim]])"
+      ],
+      [
+        "Base",
+        "[[sarpburun-air-base]]"
+      ],
+      [
+        "Aircraft in the game",
+        "[[k16-alaz]] · [[k21-kaan]]"
       ]
     ],
     "sections": [
@@ -618,24 +648,31 @@
         "A signal detected in 2036 shared the same frequency characteristics as DAGGER 06’s final transmission in 1994. A comparison of the two recordings was requested under File 94-117.\n\nThis similarity does not mean that the missing aircraft has been found or that its crew is alive. The source of the signal and its connection to Black November remain unresolved issues in the investigation."
       ],
       [
-        "Defense of GÖKKALE-4 and LAST DAWN",
-        "Hançer serves in the defense of [[gokkale-4]] and is identified as the unit authorized for LAST DAWN. It is one of the principal units in Anataria’s air defense during [[kriz]].\n\nThe unit is commanded by the national military authorities; membership in [[kuzey-kusagi]] does not automatically place the squadron under pact command."
+        "Defense of SKYFORTRESS-4 and LAST DAWN",
+        "Dagger serves in the defense of [[skyfortress-4]] and is identified as the unit authorized for LAST DAWN. It is one of the principal units in Anataria’s air defense during [[kriz]].\n\nThe unit is commanded by the national military authorities; membership in [[kuzey-kusagi]] does not automatically place the squadron under pact command."
       ],
       [
         "Unit insignia",
-        "A silver dagger and spread wings symbolize the Hançer name and its air mission. The emblem bears the squadron’s number, 132."
+        "A silver dagger and spread wings symbolize the squadron’s name and its air mission. The emblem bears the squadron’s number, 132."
+      ],
+      [
+        "Sarpburun Air Base and aircraft in the game",
+        "The squadron is based at [[sarpburun-air-base]], with its headquarters, four hardened shelters and a mountain hangar. Its aircraft are called from the shelters: the [[k16-alaz]] from HAS 1 to 3 and the [[k21-kaan]] from HAS 4. Dagger members have eight ranks, with Wing Commander at the top, and the KAAN is open only to that rank."
       ]
     ],
     "related": [
       "anatarya",
       "sarpburun",
-      "gokkale-4",
+      "skyfortress-4",
       "kriz",
       "k4-boran",
       "k16-alaz",
       "kara-kasim",
       "dosya-94-117",
-      "sarpburun-radar-istasyonu"
+      "sarpburun-radar-istasyonu",
+      "sarpburun-air-base",
+      "vehicle-bays",
+      "divisions-and-ranks"
     ],
     "imageKey": "patch-hancer",
     "draft": false
@@ -644,7 +681,7 @@
     "title": "21st Anti-Aircraft Battalion",
     "category": "Units",
     "desc": "An Elonian coastal and island air defense battalion.",
-    "lead": "The 21st Anti-Aircraft Battalion belongs to the [[elonya]] Air Force surveillance network over Lerya Bay and the western [[kalyon-adalari]]. During [[kriz]] it protected the coastal return route of the [[aigaion]] task group; it did not directly take part in a flight over [[gokkale-4]].",
+    "lead": "The 21st Anti-Aircraft Battalion belongs to the [[elonya]] Air Force surveillance network over Lerya Bay and the western [[kalyon-adalari]]. During [[kriz]] it protected the coastal return route of the [[aigaion]] task group; it did not directly take part in a flight over [[skyfortress-4]].",
     "facts": [
       [
         "Country",
@@ -678,7 +715,7 @@
       ],
       [
         "Supply and limits",
-        "Narrow harbor roads constrain ammunition and fuel delivery to the mountainous island sites. Maritime supply is coordinated with [[kallisto-ikmal]]. Its fixed sites do not cover the [[sarpburun]] coast; it has no organic relationship to Anatarian units around [[gokkale-4]]."
+        "Narrow harbor roads constrain ammunition and fuel delivery to the mountainous island sites. Maritime supply is coordinated with [[kallisto-ikmal]]. Its fixed sites do not cover the [[sarpburun]] coast; it has no organic relationship to Anatarian units around [[skyfortress-4]]."
       ],
       [
         "Unit insignia",
@@ -698,10 +735,10 @@
     "draft": false
   },
   "kriz": {
-    "title": "GÖKKALE-4 Crisis",
+    "title": "SKYFORTRESS-4 Crisis",
     "category": "Events",
     "desc": "The conflict surrounding the KARTAL-7 launch.",
-    "lead": "The GÖKKALE-4 Crisis is a political and security crisis that became an armed conflict when the government of [[elonya]] decided to go to war against [[anatarya]]. The [[sarpburun-dosyasi]] was presented as the official justification for war; the operation’s principal objective was to prevent the launch of the [[kartal-7]] reconnaissance satellite from the [[gokkale-4]] complex. [[kuzey-kusagi]] did not participate militarily in the war because of disagreements surrounding the forged documents.",
+    "lead": "The SKYFORTRESS-4 Crisis is a political and security crisis that became an armed conflict when the government of [[elonya]] decided to go to war against [[anatarya]]. The [[sarpburun-dosyasi]] was presented as the official justification for war; the operation’s principal objective was to prevent the launch of the [[kartal-7]] reconnaissance satellite from the [[skyfortress-4]] complex. [[kuzey-kusagi]] did not participate militarily in the war because of disagreements surrounding the forged documents.",
     "facts": [
       [
         "Defending side",
@@ -713,7 +750,7 @@
       ],
       [
         "Focal point",
-        "[[gokkale-4]]"
+        "[[skyfortress-4]]"
       ],
       [
         "Outcome",
@@ -723,7 +760,7 @@
     "sections": [
       [
         "Background",
-        "Developed by [[anatarya]], [[kartal-7]] will increase reconnaissance capacity concerning [[elonya]]’s naval movements and island deployments. While [[gozcu-3]] continues operating in orbit, preparations for the new satellite are underway at [[gokkale-4]]."
+        "Developed by [[anatarya]], [[kartal-7]] will increase reconnaissance capacity concerning [[elonya]]’s naval movements and island deployments. While [[gozcu-3]] continues operating in orbit, preparations for the new satellite are underway at [[skyfortress-4]]."
       ],
       [
         "Forged documents and justification for war",
@@ -739,7 +776,7 @@
       ],
       [
         "Current situation",
-        "As armed conflict continues around [[gokkale-4]], preparations for the launch of [[kartal-7]] remain underway. The investigation into the origins of the [[sarpburun-dosyasi]] documents is the principal subject of diplomatic talks. Consensus on joint intervention has not been achieved within [[kuzey-kusagi]]."
+        "As armed conflict continues around [[skyfortress-4]], preparations for the launch of [[kartal-7]] remain underway. The investigation into the origins of the [[sarpburun-dosyasi]] documents is the principal subject of diplomatic talks. Consensus on joint intervention has not been achieved within [[kuzey-kusagi]]."
       ]
     ],
     "related": [
@@ -748,7 +785,7 @@
       "sarpburun-dosyasi",
       "kuzey-kusagi",
       "cam-perde",
-      "gokkale-4"
+      "skyfortress-4"
     ]
   },
   "kuzey-kusagi": {
@@ -904,7 +941,7 @@
     "sections": [
       [
         "Allegations",
-        "The dossier alleges that preparations for an attack centered on [[gokkale-4]] are underway, that the launch of [[kartal-7]] is the final stage of those preparations, and that a military operation against the island regions is imminent. The existence of an actual reconnaissance program was used to lend credibility to the fictitious allegation of an attack.\n\nKARTAL-7’s actual role is military reconnaissance. The attack plan attributed to the satellite and facility in the dossier should be distinguished from the program’s real function."
+        "The dossier alleges that preparations for an attack centered on [[skyfortress-4]] are underway, that the launch of [[kartal-7]] is the final stage of those preparations, and that a military operation against the island regions is imminent. The existence of an actual reconnaissance program was used to lend credibility to the fictitious allegation of an attack.\n\nKARTAL-7’s actual role is military reconnaissance. The attack plan attributed to the satellite and facility in the dossier should be distinguished from the program’s real function."
       ],
       [
         "Publication and the decision for war",
@@ -953,11 +990,11 @@
     "sections": [
       [
         "Background",
-        "The [[kartal-7]] program was viewed as a development that would reduce the secrecy of Elonia’s naval movements and island bases. Since a direct attack on [[gokkale-4]] was expected to provoke a reaction within the alliance, a political justification was prepared before the military operation."
+        "The [[kartal-7]] program was viewed as a development that would reduce the secrecy of Elonia’s naval movements and island bases. Since a direct attack on [[skyfortress-4]] was expected to provoke a reaction within the alliance, a political justification was prepared before the military operation."
       ],
       [
         "Purpose and outcome",
-        "By foregrounding the allegation that Anataria would initiate an attack, the activity portrayed Elonia’s operation as a preventive response. The debate arising from [[sarpburun-dosyasi]] prevented a collective defense decision and bought Elonia diplomatic time at the start of the operation.\n\nGlass Curtain is not a plan that guarantees military victory. Its success relates only to the political environment at the start of the war; the outcome of the defense of [[gokkale-4]] and the satellite launch is determined separately."
+        "By foregrounding the allegation that Anataria would initiate an attack, the activity portrayed Elonia’s operation as a preventive response. The debate arising from [[sarpburun-dosyasi]] prevented a collective defense decision and bought Elonia diplomatic time at the start of the operation.\n\nGlass Curtain is not a plan that guarantees military victory. Its success relates only to the political environment at the start of the war; the outcome of the defense of [[skyfortress-4]] and the satellite launch is determined separately."
       ]
     ],
     "related": [
@@ -1038,7 +1075,7 @@
       ],
       [
         "Strategic importance",
-        "The strait crossing and port activities make the city an important link between northern and southern sea routes. [[gokkale-4]] and [[sarpburun]], meanwhile, lie farther south in a separate coastal region."
+        "The strait crossing and port activities make the city an important link between northern and southern sea routes. [[skyfortress-4]] and [[sarpburun]], meanwhile, lie farther south in a separate coastal region."
       ]
     ],
     "related": [
@@ -1134,7 +1171,7 @@
         "High-value-added manufacturing, finance, optics and aerospace industries are prominent. Strong state governments subject the central government’s foreign policy decisions to parliamentary oversight."
       ],
       [
-        "GÖKKALE-4 Crisis",
+        "SKYFORTRESS-4 Crisis",
         "Veloria argued that joint military operations should not be approved before the source of the dossier was independently verified. This position does not mean it confirmed Elonia’s allegations; the government also demanded a halt to the attack. [[sarpburun-dosyasi]] and [[kriz]] are principal items on the country’s foreign policy agenda."
       ],
       [
@@ -1193,7 +1230,7 @@
         "Shipbuilding, marine insurance, port operations and machinery manufacturing occupy an important place in the economy. Dalmeria considers keeping commercial routes in Kalyon open a national interest."
       ],
       [
-        "GÖKKALE-4 Crisis",
+        "SKYFORTRESS-4 Crisis",
         "Dalmerya pursued diplomatic contacts concerning maritime traffic and civilian evacuations; it did not unilaterally enter the war outside the alliance. It asked both sides to reduce restrictions on commercial vessels. [[sarpburun-dosyasi]] and [[kriz]] are principal items on the country’s foreign policy agenda."
       ],
       [
@@ -1252,7 +1289,7 @@
         "Rail transport, agricultural machinery, energy transmission and transit trade are the principal economic sectors. Defense policy rests on border security and mechanisms for consensus within the alliance."
       ],
       [
-        "GÖKKALE-4 Crisis",
+        "SKYFORTRESS-4 Crisis",
         "Vardena is concerned that the war could spread to the Avren land border. It supported an investigative commission and a temporary ceasefire proposal, and did not accept Elonia’s allegations as an independent finding. [[sarpburun-dosyasi]] and [[kriz]] are principal items on the country’s foreign policy agenda."
       ],
       [
@@ -1311,7 +1348,7 @@
         "Energy, heavy machinery, railways and port trade are important sources of revenue. Keeping the commercial connection from the Northern Sea to İstara Strait open is a foreign policy priority."
       ],
       [
-        "GÖKKALE-4 Crisis",
+        "SKYFORTRESS-4 Crisis",
         "Rovenya argued that the allegations in the Sarpburun Dossier could not automatically invalidate Anataria’s request for collective defense. However, a joint operation did not begin because the necessary consensus within the pact was not reached. [[sarpburun-dosyasi]] and [[kriz]] are principal items on the country’s foreign policy agenda."
       ],
       [
@@ -1430,7 +1467,7 @@
         "[[kuzey-kusagi]] is a military defense pact. The Avren Union is an institution for political and economic integration. Kipraya’s membership in the AB while remaining outside the KKSP, and Anataria’s membership in the KKSP without full membership in the AB, illustrate this distinction."
       ],
       [
-        "GÖKKALE-4 Crisis",
+        "SKYFORTRESS-4 Crisis",
         "Although [[elonya]] is a union member, its decision for war was not automatically treated as union policy. The union called for an independent examination of [[sarpburun-dosyasi]] and a ceasefire, but struggled to develop a common position on possible sanctions. These debates proceed separately from the KKSP’s decision on military intervention."
       ],
       [
@@ -1458,7 +1495,7 @@
     "title": "K-16 Alaz",
     "category": "Vehicles",
     "desc": "Anatarya’s single-engine multirole fighter aircraft.",
-    "lead": "The K-16 Alaz is a single-pilot, single-engine multirole fighter aircraft used by [[anatarya]]’s air force. It is the principal platform of the modernization that began in [[hancer]] squadron in 2019. It serves in protecting the airspace around [[gokkale-4]].",
+    "lead": "The K-16 Alaz is a single-pilot, single-engine multirole fighter aircraft used by [[anatarya]]’s air force. It is the principal platform of the modernization that began in [[hancer]] squadron in 2019. It serves in protecting the airspace around [[skyfortress-4]].",
     "facts": [
       [
         "Country",
@@ -1483,6 +1520,10 @@
       [
         "Squadron modernization",
         "2019"
+      ],
+      [
+        "Base",
+        "[[sarpburun-air-base]]"
       ]
     ],
     "sections": [
@@ -1492,17 +1533,25 @@
       ],
       [
         "Missions",
-        "It is used for airspace protection, interception and tactical air missions. During the [[gokkale-4]] crisis, it contributes to air defense of the facility area."
+        "It is used for airspace protection, interception and tactical air missions. During the [[skyfortress-4]] crisis, it contributes to air defense of the facility area."
       ],
       [
         "Place within the squadron",
         "While Alaz carries the main burden of frontline missions, [[k4-boran]] continues to be used for training and limited duties. The two platforms represent different periods in the squadron’s history."
+      ],
+      [
+        "In the game",
+        "The K-16 is called from hardened shelters HAS 1 to 3 of [[sarpburun-air-base]] (bays DG_1 to DG_3) at the first rank, with a 600-second cooldown, and only one can be in the field per player. It starts with the engine off and the gear down. The single engine gives about 76 kN of military thrust and 127 kN with afterburner on a 12-tonne airframe, enough for about Mach 1.0 at military power and Mach 1.09 with afterburner; the ceiling in the workshop airspace is 20,000 feet. It has a 20 mm cannon, four KS-9 heat-seeking missiles on rails and flares. Its HSD display shows contacts from the [[frost-acv]] data link."
       ]
     ],
     "related": [
       "hancer",
       "k4-boran",
-      "gokkale-4"
+      "skyfortress-4",
+      "sarpburun-air-base",
+      "vehicle-bays",
+      "frost-acv",
+      "k21-kaan"
     ],
     "imageKey": "air-k16",
     "draft": false
@@ -1548,9 +1597,9 @@
     "draft": false
   },
   "kaya-zma": {
-    "title": "Kaya ZMA",
+    "title": "CRAG ACV (Kaya ZMA)",
     "category": "Vehicles",
-    "desc": "Armored personnel carrier.",
+    "desc": "Armored combat vehicle of the Sarp Armored Response Team.",
     "lead": "The Kaya ZMA is an armored personnel carrier platform used by [[anatarya]]. It is a family of wheeled armored vehicles used for road access, personnel transport and protected patrols. It provides ground mobility around the facility.",
     "facts": [
       [
@@ -1568,18 +1617,28 @@
       [
         "Associated unit",
         "[[sarp-muhafiz]]"
+      ],
+      [
+        "Game name",
+        "CRAG ACV"
       ]
     ],
     "sections": [
       [
         "Role",
         "A family of wheeled armored vehicles used for road access, personnel transport and protected patrols. It provides ground mobility around the facility."
+      ],
+      [
+        "In the game: CRAG ACV",
+        "In the game the Kaya ZMA is shown as the CRAG ACV (Armored Combat Vehicle; ZMA stands for Zırhlı Muharebe Aracı). Its hull is about 36 × 14 × 11 studs. Crew seats are limited to the Sarp Armored Response Team; passenger seats are open to everyone. It is called from bay SG_2 of the Sarp Guard garage with an 8-minute cooldown, regardless of rank, and a desert camouflage option is available there. The vehicle workshop was the first place where the driving, seat, weapon and damage systems of all vehicles were built."
       ]
     ],
     "related": [
       "anatarya",
       "sarp-muhafiz",
-      "demir-iz"
+      "demir-iz",
+      "vehicle-bays",
+      "sentinel-lpv"
     ],
     "imageKey": "veh-kaya",
     "draft": false
@@ -1869,6 +1928,10 @@
       [
         "Transport support",
         "[[ut7-ilgaz]]"
+      ],
+      [
+        "Vehicles",
+        "[[sentinel-lpv]] · [[kaya-zma]] (CRAG ACV)"
       ]
     ],
     "sections": [
@@ -1881,20 +1944,27 @@
         "Armored vehicle: [[kaya-zma]].\n\nTransport support: [[ut7-ilgaz]].\n\nVehicles allocated for support are considered separately from the unit’s core inventory."
       ],
       [
-        "GÖKKALE-4 Crisis",
+        "SKYFORTRESS-4 Crisis",
         "The unit participates in [[anatarya]]’s defense activities during [[kriz]]."
       ],
       [
         "Unit insignia",
         "The rocky peninsula and watchtower represent the geography the unit protects. The emblem bears the number 4."
+      ],
+      [
+        "Vehicles and the Armored Response Team",
+        "The company has two sub-units: Facility Security, the general guards, and the Sarp Armored Response Team (SART), its armored element, which operates from the two-story SART HQ with maroon trim in the south-west quarter of [[skyfortress-4]]. Joining SART needs the rank of Guard Captain (3,000 XP). Every Sarp Guard member can call the unarmed [[sentinel-lpv]] without limit; the CRAG ACV ([[kaya-zma]]) crew seats are reserved for SART."
       ]
     ],
     "related": [
       "anatarya",
-      "gokkale-4",
+      "skyfortress-4",
       "kriz",
       "kaya-zma",
-      "ut7-ilgaz"
+      "ut7-ilgaz",
+      "sentinel-lpv",
+      "vehicle-bays",
+      "divisions-and-ranks"
     ],
     "imageKey": "patch-sarp-muhafiz",
     "draft": false
@@ -1932,7 +2002,7 @@
         "Principal aircraft: [[m12-aster]].\n\nVehicles allocated for support are considered separately from the unit’s core inventory."
       ],
       [
-        "GÖKKALE-4 Crisis",
+        "SKYFORTRESS-4 Crisis",
         "The unit participates in the regional operation of [[elonya]]’s forces during [[kriz]]."
       ],
       [
@@ -1942,7 +2012,7 @@
     ],
     "related": [
       "elonya",
-      "gokkale-4",
+      "skyfortress-4",
       "kriz",
       "m12-aster"
     ],
@@ -1986,7 +2056,7 @@
         "Fast boat: [[triton-botu]].\n\nSea transport: [[nereus-cikarma]].\n\nVehicles allocated for support are considered separately from the unit’s core inventory."
       ],
       [
-        "GÖKKALE-4 Crisis",
+        "SKYFORTRESS-4 Crisis",
         "The unit participates in the regional operation of [[elonya]]’s forces during [[kriz]]."
       ],
       [
@@ -1996,7 +2066,7 @@
     ],
     "related": [
       "elonya",
-      "gokkale-4",
+      "skyfortress-4",
       "kriz",
       "triton-botu",
       "nereus-cikarma"
@@ -2007,7 +2077,7 @@
   "k4-boran": {
     "title": "K-4 Boran",
     "category": "Vehicles",
-    "desc": "Hançer squadron’s historic twin-engine interceptor.",
+    "desc": "Dagger squadron’s historic twin-engine interceptor.",
     "lead": "The K-4 Boran is a two-crew, twin-engine interceptor and tactical mission aircraft of [[anatarya]]’s air force. It was the first principal platform of [[hancer]] squadron, established in 1978. DAGGER 06, which disappeared on 17 November 1994, belongs to this aircraft family.",
     "facts": [
       [
@@ -2038,7 +2108,7 @@
     "sections": [
       [
         "Entry into service",
-        "Boran was the principal aircraft for air defense around [[sarpburun]] during Hançer squadron’s founding period. In its two-seat cockpit, the pilot handles flight while the weapons systems officer manages the mission systems."
+        "Boran was the principal aircraft for air defense around [[sarpburun]] during Dagger squadron’s founding period. In its two-seat cockpit, the pilot handles flight while the weapons systems officer manages the mission systems."
       ],
       [
         "DAGGER 06",
@@ -2215,10 +2285,10 @@
     "draft": false
   },
   "kuzey-isaret": {
-    "title": "6th Northern Signals Battalion",
+    "title": "6th Northern Signal Battalion",
     "category": "Units",
     "desc": "Anatarya’s Sarpburun communications and early warning unit.",
-    "lead": "The 6th Northern Signals Battalion combines radar data, radio traffic and civil warnings for [[anatarya]] forces on the [[sarpburun]] peninsula. It provides a common operational picture for forces protecting [[gokkale-4]].",
+    "lead": "The 6th Northern Signal Battalion combines radar data, radio traffic and civil warnings for [[anatarya]] forces on the [[sarpburun]] peninsula. It provides a common operational picture for forces protecting [[skyfortress-4]].",
     "facts": [
       [
         "Country",
@@ -2235,6 +2305,10 @@
       [
         "Coordination",
         "[[hancer]] · [[sarp-muhafiz]]"
+      ],
+      [
+        "Vehicles",
+        "[[frost-acv]] · [[taurus-mtv]] MTV-C"
       ]
     ],
     "sections": [
@@ -2249,26 +2323,33 @@
       [
         "Doctrine",
         "The battalion distributes verified information rather than issuing orders. When coastal lines fail, portable relays and the [[gozcu-3]] data feed are assessed through separate channels."
+      ],
+      [
+        "Vehicles in the game",
+        "The battalion uses the [[taurus-mtv]] MTV-C communications vehicle and the [[frost-acv]], an armored command vehicle with a sensor mast whose data link feeds the displays of [[k16-alaz]] aircraft and [[altai-mbt]] commanders. The Frost is called from a small garage at the Northern Signal headquarters."
       ]
     ],
     "related": [
       "anatarya",
       "hancer",
       "sarp-muhafiz",
-      "gokkale-4",
+      "skyfortress-4",
       "gozcu-3",
       "kriz",
       "sarpburun-radar-istasyonu",
-      "dosya-94-117"
+      "dosya-94-117",
+      "frost-acv",
+      "taurus-mtv",
+      "vehicle-bays"
     ],
     "imageKey": "patch-kuzey-isaret",
     "draft": false
   },
   "doruk-ikmal": {
-    "title": "18th Doruk Logistics Regiment",
+    "title": "18th Doruk Supply Regiment",
     "category": "Units",
     "desc": "Anatarya’s supply unit for the peninsula road corridor.",
-    "lead": "The 18th Doruk Logistics Regiment manages fuel, medical supplies and maintenance shipments from the [[anatarya]] interior to the passes of [[sarpburun]]. Its network helps sustain [[gokkale-4]].",
+    "lead": "The 18th Doruk Supply Regiment manages fuel, medical supplies and maintenance shipments from the [[anatarya]] interior to the passes of [[sarpburun]]. Its network helps sustain [[skyfortress-4]].",
     "facts": [
       [
         "Country",
@@ -2299,14 +2380,20 @@
       [
         "Limits",
         "The regiment is not a combat unit; escorts assigned to its convoys retain their own chain of command."
+      ],
+      [
+        "Vehicles in the game",
+        "The regiment’s workhorse is the [[taurus-mtv]] MTV-L, a cargo version with a tarpaulin-covered load bed that carries four people. In the shift system the regiment is part of the facility staff and carries fuel to the launch pad."
       ]
     ],
     "related": [
       "anatarya",
       "sarpburun",
-      "gokkale-4",
+      "skyfortress-4",
       "sarp-muhafiz",
-      "kaya-zma"
+      "kaya-zma",
+      "taurus-mtv",
+      "shift-system"
     ],
     "imageKey": "patch-doruk-ikmal",
     "draft": false
@@ -2360,10 +2447,10 @@
     "draft": false
   },
   "demir-iz": {
-    "title": "27th Demir İz Mechanized Infantry Regiment",
+    "title": "27th Iron Fist Mechanized Infantry Regiment",
     "category": "Units",
     "desc": "Anatarya’s mechanized regiment defending the land approaches to Sarpburun.",
-    "lead": "The 27th Demir İz Mechanized Infantry Regiment is an [[anatarya]] Army maneuver unit stationed at the land passes leading onto the [[sarpburun]] peninsula. It operates [[kaya-zma]] vehicles under a command separate from the [[sarp-muhafiz]] company responsible for security inside [[gokkale-4]].",
+    "lead": "The 27th Iron Fist Mechanized Infantry Regiment is an [[anatarya]] Army maneuver unit stationed at the land passes leading onto the [[sarpburun]] peninsula. It operates [[kaya-zma]] vehicles under a command separate from the [[sarp-muhafiz]] company responsible for security inside [[skyfortress-4]].",
     "facts": [
       [
         "Country",
@@ -2388,6 +2475,14 @@
       [
         "Supply",
         "[[doruk-ikmal]]"
+      ],
+      [
+        "Tanks",
+        "[[altai-mbt]] · [[leopard-2a4-t1]]"
+      ],
+      [
+        "Armed vehicle",
+        "[[taurus-mtv]] MTV-A"
       ]
     ],
     "sections": [
@@ -2400,12 +2495,16 @@
         "The regiment is not stationed inside the coastal launch site. It defends mountain passes and bridges against a land threat while keeping civilian exit routes open. It escorts [[doruk-ikmal]] convoys but does not command the logistics regiment. It receives verified reports from [[kuzey-isaret]]."
       ],
       [
-        "GÖKKALE-4 Crisis",
+        "SKYFORTRESS-4 Crisis",
         "During [[kriz]] it monitored both land routes onto the peninsula. As planners assessed possible [[elonya]] airborne movements, the regiment dispersed vehicles near bridge approaches in stages without halting civilian traffic. No engagement with [[iris-indirme]] is documented."
       ],
       [
         "Unit insignia",
         "Two peaks represent the mountain passes above a mechanized vehicle track. The number 27 identifies the regiment."
+      ],
+      [
+        "Armor in the game",
+        "The regiment’s vehicles are called from the garrison motor pool: the heavy [[altai-mbt]] from IF_1 and IF_2, with a 10-minute cooldown and the fifth rank (Tank Commander), and the armed [[taurus-mtv]] MTV-A from IF_3 and IF_4. A second tank, the [[leopard-2a4-t1]], is in development in the vehicle workshop."
       ]
     ],
     "related": [
@@ -2416,7 +2515,11 @@
       "kuzey-isaret",
       "sarp-muhafiz",
       "kriz",
-      "iris-indirme"
+      "iris-indirme",
+      "altai-mbt",
+      "leopard-2a4-t1",
+      "taurus-mtv",
+      "vehicle-bays"
     ],
     "imageKey": "patch-demir-iz",
     "draft": false
@@ -2462,7 +2565,7 @@
         "An airborne movement is planned either as a landing at a secured airfield or by parachute. Flight corridors are coordinated with the [[ucaksavar]] radar network and the [[mizrak]] squadron. [[pelagos-devriye]] supplies information on maritime traffic but is not subordinate to the brigade."
       ],
       [
-        "GÖKKALE-4 Crisis",
+        "SKYFORTRESS-4 Crisis",
         "Following publication of the [[sarpburun-dosyasi]], the brigade went on alert along the western islands. One battalion remained in reserve at mainland airfields while other elements protected island runways. No airborne operation over [[sarpburun]] is recorded; a readiness order did not itself constitute execution of a war plan."
       ],
       [
@@ -2488,7 +2591,7 @@
     "title": "Sarpburun Radar Station",
     "category": "Facilities",
     "desc": "Anatarya's early warning radar installation overlooking Sarpburun and the Kalyon Sea.",
-    "lead": "Sarpburun Radar Station is an [[anatarya]] early warning and coastal surveillance facility perched upon the high ridges of the [[sarpburun]] peninsula. Located on the bluffs east of the [[gokkale-4]] complex, it is operated by [[kuzey-isaret]]. It relays real-time radar tracks of the Kalyon Sea and approach corridors to [[hancer]] and air defense forces.",
+    "lead": "Sarpburun Radar Station is an [[anatarya]] early warning and coastal surveillance facility perched upon the high ridges of the [[sarpburun]] peninsula. Located on the bluffs east of the [[skyfortress-4]] complex, it is operated by [[kuzey-isaret]]. It relays real-time radar tracks of the Kalyon Sea and approach corridors to [[hancer]] and air defense forces.",
     "facts": [
       [
         "Facility type",
@@ -2508,7 +2611,7 @@
       ],
       [
         "Data distribution",
-        "[[hancer]] · [[kalkan-hss]] · [[gokkale-4]]"
+        "[[hancer]] · [[kalkan-hss]] · [[skyfortress-4]]"
       ]
     ],
     "sections": [
@@ -2526,7 +2629,7 @@
       ]
     ],
     "related": [
-      "gokkale-4",
+      "skyfortress-4",
       "sarpburun",
       "kuzey-isaret",
       "hancer",
@@ -2688,7 +2791,7 @@
         "Ostanyan security doctrine centers upon keeping international sea lanes and strategic chokepoints open. Megacorporations like 'Iron Dome Aerospace' and 'General Dynamics-Osten' supply fifth-generation stealth fighters and precision munitions worldwide."
       ],
       [
-        "Posture during the GÖKKALE-4 Crisis",
+        "Posture during the SKYFORTRESS-4 Crisis",
         "Anataria's independent orbital program at [[sarpburun]] was labeled by Ostanya as an uncontrolled escalation threatening its ally Elonia. While avoiding formal involvement in the declaration of war, Ostanya has supplied real-time reconnaissance feeds to the Elonian Navy."
       ]
     ],
@@ -2697,7 +2800,7 @@
       "aigaion",
       "ursya",
       "huaxia",
-      "gokkale-4",
+      "skyfortress-4",
       "kriz"
     ],
     "imageKey": "",
@@ -2745,7 +2848,7 @@
       "k4-boran",
       "hancer",
       "ostenya",
-      "gokkale-4",
+      "skyfortress-4",
       "kriz"
     ],
     "imageKey": "",
@@ -2755,7 +2858,7 @@
     "title": "People's Republic of Huaxia",
     "category": "Countries",
     "desc": "Eastern manufacturing, microelectronics, and orbital component titan.",
-    "lead": "The People's Republic of Huaxia is an eastern industrial titan and demographic heavyweight serving as the primary foundry of global electronics. Producing the lion's share of high-purity silicon wafers, rare earth minerals, and solar array wafers, Huaxia supplied the dense photovoltaic cells and optical beam splitters utilized on [[gokkale-4]].",
+    "lead": "The People's Republic of Huaxia is an eastern industrial titan and demographic heavyweight serving as the primary foundry of global electronics. Producing the lion's share of high-purity silicon wafers, rare earth minerals, and solar array wafers, Huaxia supplied the dense photovoltaic cells and optical beam splitters utilized on [[skyfortress-4]].",
     "facts": [
       [
         "Government",
@@ -2771,7 +2874,7 @@
       ],
       [
         "Program share",
-        "GÖKKALE-4 high-efficiency solar cells"
+        "SKYFORTRESS-4 high-efficiency solar cells"
       ],
       [
         "Foreign policy",
@@ -2791,7 +2894,7 @@
     "related": [
       "anatarya",
       "elonya",
-      "gokkale-4",
+      "skyfortress-4",
       "ostenya",
       "ursya",
       "kriz"
@@ -2803,7 +2906,7 @@
     "title": "ANASAS Aerospace",
     "category": "Organizations",
     "desc": "Anataria Aerospace Industries; the nation's premier aircraft and launch system prime contractor.",
-    "lead": "ANASAS (Anataria Aerospace Industries) is the industrial cornerstone of [[anatarya]]'s sovereignty in the skies and orbital space. Founded following historical foreign arms embargoes, the company is the lead integrator of the [[k21-kaan]] 5th-generation stealth fighter, the [[simsek-iii]] space launch vehicle, and the primary bus structures for the [[gokkale-4]] satellite constellation.",
+    "lead": "ANASAS (Anataria Aerospace Industries) is the industrial cornerstone of [[anatarya]]'s sovereignty in the skies and orbital space. Founded following historical foreign arms embargoes, the company is the lead integrator of the [[k21-kaan]] 5th-generation stealth fighter, the [[simsek-iii]] space launch vehicle, and the primary bus structures for the [[skyfortress-4]] satellite constellation.",
     "facts": [
       [
         "Founded",
@@ -2819,7 +2922,7 @@
       ],
       [
         "Flagship programs",
-        "[[k21-kaan]] · [[simsek-iii]] · [[gokkale-4]]"
+        "[[k21-kaan]] · [[simsek-iii]] · [[skyfortress-4]]"
       ],
       [
         "Industrial partners",
@@ -2839,7 +2942,7 @@
     "related": [
       "anatarya",
       "k21-kaan",
-      "gokkale-4",
+      "skyfortress-4",
       "simsek-iii",
       "sarpsan",
       "korsan"
@@ -2979,7 +3082,7 @@
       "anatarya",
       "kalkan-hss",
       "simsek-iii",
-      "gokkale-4",
+      "skyfortress-4",
       "bayrak-t2"
     ],
     "imageKey": "",
@@ -3018,6 +3121,14 @@
       [
         "Weapons bays",
         "Internal fuselage and lateral stations (Stealth configuration)"
+      ],
+      [
+        "Game access",
+        "Dagger · Wing Commander (rank 8)"
+      ],
+      [
+        "Game base",
+        "HAS 4, [[sarpburun-air-base]]"
       ]
     ],
     "sections": [
@@ -3028,6 +3139,14 @@
       [
         "Combat debut in the 2036 Crisis",
         "Following the forward deployment of the Elonian AIGAION frigate, two K-21 prototypes scrambled from Arkent on combat air patrol. Inability of Elonian radars to acquire weapons-grade locks proved pivotal in checking coalition escalation."
+      ],
+      [
+        "In the game",
+        "The K-21 KAAN is the squadron’s elite aircraft and is available only to [[hancer]] members of the eighth rank, Wing Commander. It is called from HAS 4 (bay DG_4) of [[sarpburun-air-base]] with a 600-second cooldown and carries tail number 21-001. Two engines give 152.6 kN of military thrust and 258.8 kN with afterburner on a 24-tonne airframe, which is enough to exceed the speed of sound without afterburner (about Mach 1.3 at military power and 1.8 with afterburner). The hull has 900 HP and each wing 320 HP.\n\nThree internal bays hold four KS-9 missiles: one in each side bay and two in the main bay; the doors open for about 0.4 seconds before launch and close one second after the last missile is gone. A 20 mm cannon with 510 rounds fires through a door in the right wing root and 30 flares are carried."
+      ],
+      [
+        "Stealth signature",
+        "The KAAN has a radar signature of 0.25 and an infrared signature of 0.6 relative to the K-16. The [[frost-acv]] mast sees it only at 1,000 studs instead of 4,000, and KS-9 seekers acquire it at 3,300 studs instead of 5,500. The signature rises to full while a bay or gun door is open and for two seconds afterwards, and the infrared signature rises to full with the afterburner lit. The cockpit display shows STEALTH or VISIBLE accordingly. Losing one engine halves the thrust and turns the nose toward the dead engine."
       ]
     ],
     "related": [
@@ -3036,7 +3155,11 @@
       "anasas",
       "sarpsan",
       "k4-boran",
-      "kriz"
+      "kriz",
+      "sarpburun-air-base",
+      "frost-acv",
+      "vehicle-bays",
+      "divisions-and-ranks"
     ],
     "imageKey": "file:k21-kaan.jpg",
     "draft": false
@@ -3121,7 +3244,7 @@
       ],
       [
         "Connectivity",
-        "Encrypted SATCOM via GÖKKALE Constellation"
+        "Encrypted SATCOM via SKYFORTRESS Constellation"
       ]
     ],
     "sections": [
@@ -3131,7 +3254,7 @@
       ],
       [
         "Direct space telemetry tie-in",
-        "Through an onboard steerable dish antenna, the platform routes mission data directly through the [[gokkale-4]] orbital relay for real-time strategic battle management."
+        "Through an onboard steerable dish antenna, the platform routes mission data directly through the [[skyfortress-4]] orbital relay for real-time strategic battle management."
       ]
     ],
     "related": [
@@ -3139,7 +3262,7 @@
       "baykut",
       "bayrak-t2",
       "al-elma",
-      "gokkale-4",
+      "skyfortress-4",
       "kriz"
     ],
     "imageKey": "file:akin-3.jpg",
@@ -3324,8 +3447,8 @@
         "The KOR-KALKAN complex comprises reinforced underground silos, mobile vertical launch containers, and SARPSAN fire-control radars. The battery can engage up to 16 airborne targets simultaneously, including stealth missiles and low-altitude cruise missiles."
       ],
       [
-        "Defense of GÖKKALE-4",
-        "The site's primary mission is creating an umbrella over the GÖKKALE-4 launch pads and satellite uplink stations. During the naval buildup, the battery maintained around-the-clock radar lock tracking approaching Elonian strike wings."
+        "Defense of SKYFORTRESS-4",
+        "The site's primary mission is creating an umbrella over the SKYFORTRESS-4 launch pads and satellite uplink stations. During the naval buildup, the battery maintained around-the-clock radar lock tracking approaching Elonian strike wings."
       ],
       [
         "Deterrent envelope",
@@ -3347,11 +3470,11 @@
       "kalkan-hss",
       "korsan",
       "sarpsan",
-      "gokkale-4",
+      "skyfortress-4",
       "sarpburun"
     ],
-    "lead": "A long-range surface-to-air missile installation operated by Anataria, safeguarding Sarpburun airspace and GÖKKALE-4 from standoff aerial and missile strikes.",
-    "desc": "A long-range air defense battery guarding GÖKKALE-4 and Sarpburun airspace.",
+    "lead": "A long-range surface-to-air missile installation operated by Anataria, safeguarding Sarpburun airspace and SKYFORTRESS-4 from standoff aerial and missile strikes.",
+    "desc": "A long-range air defense battery guarding SKYFORTRESS-4 and Sarpburun airspace.",
     "facts": [
       [
         "Type",
@@ -3447,7 +3570,7 @@
     "sections": [
       [
         "Engineering and structure",
-        "Completed in 2028 across the narrow marine narrows separating Sarpburun from the mainland, the bridge is designed to withstand severe sea gales and seismic tremors. Its double-track railway conveys heavy rocket stages and cryogenic propellant convoys to [[gokkale-4]]."
+        "Completed in 2028 across the narrow marine narrows separating Sarpburun from the mainland, the bridge is designed to withstand severe sea gales and seismic tremors. Its double-track railway conveys heavy rocket stages and cryogenic propellant convoys to [[skyfortress-4]]."
       ],
       [
         "Fortification",
@@ -3455,7 +3578,7 @@
       ],
       [
         "Vulnerability",
-        "Because the peninsula has no other road connection to the mainland, the Sarp Gate bridge is a critical single point of failure; its loss would isolate all personnel and defense units stationed at GÖKKALE-4."
+        "Because the peninsula has no other road connection to the mainland, the Sarp Gate bridge is a critical single point of failure; its loss would isolate all personnel and defense units stationed at SKYFORTRESS-4."
       ]
     ],
     "title": "Sarpburun Gate Suspension Bridge",
@@ -3463,18 +3586,18 @@
       "bridge",
       "sarpburun",
       "transit",
-      "gokkale-4",
+      "skyfortress-4",
       "facilities"
     ],
     "category": "Facilities",
     "imageKey": "doruk-ikmal",
     "related": [
       "sarpburun",
-      "gokkale-4",
+      "skyfortress-4",
       "doruk-ikmal",
       "anatarya"
     ],
-    "lead": "The strategic heavy suspension bridge and fortified causeway linking the Sarpburun Peninsula to mainland Anataria; the lifeline of GÖKKALE-4 logistics.",
+    "lead": "The strategic heavy suspension bridge and fortified causeway linking the Sarpburun Peninsula to mainland Anataria; the lifeline of SKYFORTRESS-4 logistics.",
     "desc": "A fortified bridge and land crossing connecting the Sarpburun Peninsula to mainland Anataria.",
     "facts": [
       [
@@ -3572,7 +3695,7 @@
       ],
       [
         "Aigaion task group",
-        "Elonia's flagship guided missile frigate [[aigaion]] and accompanying missile corvettes are homeported here. Munitions staging and pre-deployment logistics for the GÖKKALE-4 operation were completed at this waterfront."
+        "Elonia's flagship guided missile frigate [[aigaion]] and accompanying missile corvettes are homeported here. Munitions staging and pre-deployment logistics for the SKYFORTRESS-4 operation were completed at this waterfront."
       ],
       [
         "Strategic impact",
@@ -3691,7 +3814,7 @@
     "sections": [
       [
         "Overview",
-        "SARP-RAD stands atop the highest elevation of the Sarpburun Peninsula. Commissioned in 2031 to protect Anataria's western territorial boundary and the [[gokkale-4]] spaceport against hostile air, surface, and ballistic missile threats, its 3D AESA antenna and advanced digital signal processors provide over-the-horizon tracking of sea-skimming targets."
+        "SARP-RAD stands atop the highest elevation of the Sarpburun Peninsula. Commissioned in 2031 to protect Anataria's western territorial boundary and the [[skyfortress-4]] spaceport against hostile air, surface, and ballistic missile threats, its 3D AESA antenna and advanced digital signal processors provide over-the-horizon tracking of sea-skimming targets."
       ],
       [
         "Electronic warfare capabilities",
@@ -3699,7 +3822,7 @@
       ],
       [
         "Tactical significance",
-        "During the GÖKKALE-4 crisis, SARP-RAD was the first terrestrial radar station to detect the tactical approach of the [[aigaion]] frigate battle group. Target track data is fused and transmitted directly to [[k21-kaan]] fighters at [[arkent-jet-ussu]] and [[kor-kalkan-bataryasi]]."
+        "During the SKYFORTRESS-4 crisis, SARP-RAD was the first terrestrial radar station to detect the tactical approach of the [[aigaion]] frigate battle group. Target track data is fused and transmitted directly to [[k21-kaan]] fighters at [[arkent-jet-ussu]] and [[kor-kalkan-bataryasi]]."
       ]
     ],
     "title": "Sarpburun Early Warning Radar Complex (SARP-RAD)",
@@ -3715,7 +3838,7 @@
     "imageKey": "sarp-muhafiz",
     "related": [
       "sarpburun",
-      "gokkale-4",
+      "skyfortress-4",
       "sarpsan",
       "kor-kalkan-bataryasi",
       "kalkan-hss"
@@ -3751,6 +3874,1158 @@
         "Status",
         "Operational (High Alert)"
       ]
+    ]
+  },
+  "altai-mbt": {
+    "title": "ALTAI MBT",
+    "category": "Vehicles",
+    "desc": "Heavy main battle tank of the 27th Iron Fist Mechanized Infantry Regiment.",
+    "lead": "The ALTAI MBT (lore name Altay) is the heavy main battle tank of [[demir-iz]], modeled on the Altay T1. It is a four-man tank with a 120 mm smoothbore gun, an active protection system and a dedicated driver station, and only Iron Fist crews may drive it.",
+    "facts": [
+      [
+        "Country",
+        "[[anatarya]]"
+      ],
+      [
+        "Class",
+        "Main battle tank"
+      ],
+      [
+        "Operator",
+        "[[demir-iz]]"
+      ],
+      [
+        "Crew",
+        "4 (driver, gunner, commander, loader)"
+      ],
+      [
+        "Main gun",
+        "120 mm L/55 smoothbore (APFSDS and HE)"
+      ],
+      [
+        "Secondary armament",
+        "7.62 mm coaxial machine gun · 12.7 mm SARP remote weapon station"
+      ],
+      [
+        "Protection",
+        "AKKOR active protection · ERA skirts · smoke launchers"
+      ],
+      [
+        "Hull strength",
+        "1,600 HP"
+      ],
+      [
+        "Top speed",
+        "65 km/h road · 45 off-road · 30 reverse"
+      ],
+      [
+        "Variants",
+        "Standard NATO green (27-101) · Woodland camouflage (27-102)"
+      ]
+    ],
+    "sections": [
+      [
+        "Role",
+        "The ALTAI is the heavy and elite armored asset of the Iron Fist regiment. It is not issued to the [[sarp-muhafiz]] company, whose armored response element uses the [[kaya-zma]] instead. The tank has no passenger seats."
+      ],
+      [
+        "Crew stations",
+        "The crew boards through hatches. The driver enters through his own hatch, the gunner and commander share the commander’s hatch (the first to board becomes the gunner) and the loader has a separate hatch.\n\nDriver: with the hatch open the driver sits turned out with head and shoulders exposed. With the hatch closed he works from a driver station with three fixed periscopes, a selectable camera view (automatic, front, left, right, rear) with rear distance lines at 1.5, 3 and 6 m, a digital instrument display and a backup analog gauge.\n\nGunner: fires the main gun and coaxial machine gun through an MFD display with APFSDS, HE and coaxial selection, thermal imaging, zoom and a laser rangefinder.\n\nCommander: a 360° cupola with an independent panoramic sight, a SARP view, a 360° camera mode and a gunner repeater. The panoramic sight can hand its target to the turret (hunter-killer) and the commander also controls smoke.\n\nLoader: working from his own hatch he operates a 7.62 mm machine gun when the hatch is open, and halves the main gun reload time. With no loader aboard, reloading takes twice as long.\n\nIn the latest workshop revision of 13 November the control layout is being changed so that the driver also fires the main gun and the coaxial machine gun, while the gunner operates the 12.7 mm SARP station; see [[leopard-2a4-t1]] for the same arrangement."
+      ],
+      [
+        "Protection and survivability",
+        "Armor values follow the real Altay T1: turret front 650 mm, hull front 550 mm, sides 90 mm, ERA-equipped skirts 140 mm, rear 40 mm and roof 30 mm.\n\nThe AKKOR active protection system carries two charges on each side. It engages only rounds that will actually hit the tank, defeating projectiles of 30 mm and above at a range of 25 studs, and it never engages the tank’s own crew’s shots. Two smoke salvos last about 20 seconds each. AKKOR charges and smoke are restored only by hull repair or at a resupply point.\n\nThe ammunition compartment at the back of the turret is fitted with blow-off panels: if it detonates the panels fly off and the crew survives. A detonation of the hull ammunition destroys the tank and the turret is thrown clear."
+      ],
+      [
+        "Mobility",
+        "On roads the ALTAI reaches 64 studs per second (65 km/h) and 45 off-road; reverse is limited to 30. It accelerates from zero to 32 km/h in 6.5 seconds and to 90 percent of top speed in about 24 seconds. The tracked hull pivots in place at 24° per second and the turn rate falls to about 8° per second at top speed. The road surface is read from the terrain material."
+      ],
+      [
+        "Variants and markings",
+        "Two variants exist: the standard version in flat NATO green with tactical number 27-101, and a Woodland version in a three-color NATO camouflage with number 27-102. The turret carries the Iron Fist insignia and tactical number on each side and the Anataria flag on the rear."
+      ],
+      [
+        "Availability in the game",
+        "The ALTAI is called from Iron Fist vehicle bays IF_1 and IF_2 at the garrison motor pool and requires the fifth rank (Tank Commander). A tank can be recalled only after a 600-second cooldown. See [[vehicle-bays]] and [[divisions-and-ranks]]."
+      ]
+    ],
+    "related": [
+      "demir-iz",
+      "leopard-2a4-t1",
+      "taurus-mtv",
+      "kaya-zma",
+      "vehicle-bays",
+      "frost-acv"
+    ]
+  },
+  "leopard-2a4-t1": {
+    "title": "Leopard 2A4 T1",
+    "category": "Vehicles",
+    "desc": "Up-armored Leopard 2A4 in woodland camouflage; second tank of the 27th Iron Fist.",
+    "lead": "The Leopard 2A4 T1 is the second main battle tank of [[demir-iz]], a Leopard 2A4 with the T1 reactive-passive add-on armor package, painted in a three-color woodland camouflage. It serves alongside the heavier [[altai-mbt]]. Its characteristics follow the real vehicle rather than being balanced against the Altay.",
+    "facts": [
+      [
+        "Country",
+        "[[anatarya]]"
+      ],
+      [
+        "Class",
+        "Main battle tank"
+      ],
+      [
+        "Operator",
+        "[[demir-iz]]"
+      ],
+      [
+        "Crew",
+        "4"
+      ],
+      [
+        "Mass",
+        "62 tonnes"
+      ],
+      [
+        "Engine",
+        "MTU MB 873 Ka-501 V12 · 1,500 hp"
+      ],
+      [
+        "Top speed",
+        "72 km/h road · 45 off-road · 31 reverse"
+      ],
+      [
+        "Main gun",
+        "120 mm Rh-120 L/44 smoothbore"
+      ],
+      [
+        "Ammunition",
+        "42 rounds: 15 in the turret ready rack, 27 in the hull"
+      ],
+      [
+        "Machine guns",
+        "2 × 7.62 mm MG3 (coaxial and loader’s hatch)"
+      ],
+      [
+        "Active protection",
+        "None"
+      ],
+      [
+        "Tactical number",
+        "27-201"
+      ]
+    ],
+    "sections": [
+      [
+        "Role",
+        "The Leopard 2A4 T1 gives the Iron Fist regiment a second tank. The ALTAI remains the heavy, elite choice; the Leopard is the regiment’s more conventional armored platform. As of 13 November it exists in the vehicle workshop only; moving it into the main game is a separate step."
+      ],
+      [
+        "Crew layout",
+        "The Leopard introduces a layout in which one player can operate the whole tank. The driver steers and also fires the main gun and the coaxial MG3, switching between the driving periscopes and the gunner’s sight with a key. The gunner works the loader’s-hatch MG3 from an open mount and must open the hatch to use it. The commander has the PERI-R17 periscope and a repeater of the gunner’s EMES-15 sight and also controls smoke. The loader halves the reload time but has no weapon of his own.\n\nThe Leopard does not have the 360° camera ring or the data-link NET page, because the real 2A4 T1 does not have them."
+      ],
+      [
+        "Armor and the T1 package",
+        "Open-source estimates put the 2A4 turret front near 590 mm and the hull front near 450 mm against kinetic energy rounds. The T1 package adds composite box modules to the turret front, the gun shield and the turret sides, and slat cage armor along the rear half of the turret and behind the engine deck. The cage armor usually spoils shaped-charge hits from RPGs and similar weapons. The Leopard has no active protection system."
+      ],
+      [
+        "Ammunition and vulnerability",
+        "The Leopard carries its 42 rounds as in the real tank: 15 in the turret bustle on the left, protected by blow-off panels, and 27 in a hull magazine to the left of the driver. The hull magazine is unprotected, so a penetration that ignites it destroys the tank. The ready rack is used first; once it is empty, reloading from the hull is slower (12 seconds with a loader, 20 seconds without)."
+      ],
+      [
+        "Appearance",
+        "The turret front is the 2A4’s upright, flat design, distinct from the arrowhead wedge modules of the Altay, and the T1 box modules are bolted on top. The woodland camouflage uses large irregular blotches of green, brown and black. The regiment insignia and number 27-201 appear on the turret sides."
+      ]
+    ],
+    "related": [
+      "demir-iz",
+      "altai-mbt",
+      "vehicle-bays",
+      "divisions-and-ranks",
+      "update-log"
+    ]
+  },
+  "sentinel-lpv": {
+    "title": "Sentinel LPV",
+    "category": "Vehicles",
+    "desc": "Unarmed light patrol vehicle of the 4th Sarp Guard Company.",
+    "lead": "The Sentinel LPV (Light Patrol Vehicle) is an unarmed, Defender-110-style patrol car used by every member of the [[sarp-muhafiz]] company. It carries a driver and six passengers and is the everyday vehicle of facility security around [[skyfortress-4]].",
+    "facts": [
+      [
+        "Country",
+        "[[anatarya]]"
+      ],
+      [
+        "Class",
+        "Light patrol vehicle (unarmed)"
+      ],
+      [
+        "Operator",
+        "[[sarp-muhafiz]]"
+      ],
+      [
+        "Seats",
+        "Driver + 6 passengers"
+      ],
+      [
+        "Top speed",
+        "80 studs per second"
+      ],
+      [
+        "Hull strength",
+        "400 HP"
+      ],
+      [
+        "Armor",
+        "3–5 mm (light rifle fire penetrates)"
+      ],
+      [
+        "Plate",
+        "SG 04-117"
+      ]
+    ],
+    "sections": [
+      [
+        "Role",
+        "The Sentinel is a utility vehicle for patrols, escorts and moving guards around the facility. Any Sarp Guard member can drive it; the six passenger seats are open to everyone."
+      ],
+      [
+        "Boarding and controls",
+        "Boarding is by door: the front left door is the driver’s, the front right door the front passenger’s, the rear doors give access to a three-seat bench and the tailgate to two seats facing each other. Leaving the vehicle puts the passenger outside the same door, or the next one if it is blocked, or on the roof as a last resort.\n\nKeys: L roof beacon, K siren, H horn (held), B headlights, X engine off, C change seat, F exit. The driver’s hands rest on the wheel, which turns four times the angle of the front wheels."
+      ],
+      [
+        "Appearance",
+        "The body is navy blue with a silver-gray roof and sills and a white stripe. The front doors carry the unit insignia, the rear sides the Anataria flag, and the hood and spare tire read SARP GUARD."
+      ],
+      [
+        "Availability in the game",
+        "Sarp Guard bays SG_1 and SG_3 to SG_6 issue the Sentinel without a rank requirement, cooldown or limit on numbers. See [[vehicle-bays]]."
+      ]
+    ],
+    "related": [
+      "sarp-muhafiz",
+      "kaya-zma",
+      "taurus-mtv",
+      "vehicle-bays"
+    ]
+  },
+  "taurus-mtv": {
+    "title": "Taurus MTV",
+    "category": "Vehicles",
+    "desc": "Family of armored multirole tactical vehicles in armed, communications and cargo versions.",
+    "lead": "The Taurus MTV (Multi-role Tactical Vehicle) is a family of armored Humvee-style vehicles built on a common chassis with interchangeable bodies. Three versions serve three different units: the armed MTV-A with [[demir-iz]], the communications MTV-C with [[kuzey-isaret]] and the cargo MTV-L with [[doruk-ikmal]].",
+    "facts": [
+      [
+        "Country",
+        "[[anatarya]]"
+      ],
+      [
+        "Class",
+        "Armored multirole tactical vehicle"
+      ],
+      [
+        "Versions",
+        "MTV-A (armed) · MTV-C (communications) · MTV-L (cargo)"
+      ],
+      [
+        "Top speed",
+        "70 studs per second"
+      ],
+      [
+        "Plates",
+        "AN 27-412 (A) · AN 06-208 (C) · AN 18-115 (L)"
+      ],
+      [
+        "Not used by",
+        "[[sarp-muhafiz]] · [[hancer]]"
+      ]
+    ],
+    "sections": [
+      [
+        "MTV-A",
+        "The armed version of [[demir-iz]]: a four-door armored vehicle with an open roof turret carrying a shielded 12.7 mm heavy machine gun. The gunner stands, aims with the mouse and reloads with R. An Iron Fist member who boards through the rear door becomes the gunner if the position is free. Hull strength is 650 HP and the armor is 14, 12, 10 and 8 mm; the turret shield is 12 mm thick and stops 7.62 mm rounds while leaving the gunner’s head exposed."
+      ],
+      [
+        "MTV-C",
+        "The communications version of [[kuzey-isaret]]: two doors, an unarmed radio cabin and room for two staff in the rear. Hull strength 550 HP, armor 12, 10, 8 and 6 mm. The unit’s heavier command vehicle is the [[frost-acv]]."
+      ],
+      [
+        "MTV-L",
+        "The cargo version of [[doruk-ikmal]]: two doors and a tarpaulin-covered load bed through which four people can be carried. Hull strength 500 HP, armor 12, 6, 6 and 6 mm; the side of the load bed is open to 7.62 mm fire."
+      ],
+      [
+        "Appearance and crews",
+        "All versions are painted dark military green, with the unit insignia on the front doors, the Anataria flag on the rear sides and an MTV-A/C/L stencil beside the hood. Only the owning unit’s members can drive; the passenger seats are open to everyone. The keys are H horn, B headlights, X engine off, C change seat and F exit."
+      ],
+      [
+        "Availability in the game",
+        "Iron Fist bays IF_3 and IF_4 issue the MTV-A without limit or cooldown at the first rank. See [[vehicle-bays]]."
+      ]
+    ],
+    "related": [
+      "demir-iz",
+      "kuzey-isaret",
+      "doruk-ikmal",
+      "frost-acv",
+      "sentinel-lpv",
+      "vehicle-bays"
+    ]
+  },
+  "frost-acv": {
+    "title": "Frost ACV",
+    "category": "Vehicles",
+    "desc": "Armored command vehicle with a deployable sensor mast of the 6th Northern Signal Battalion.",
+    "lead": "The Frost ACV (Armored Command Vehicle) is a 4×4 MRAP-class command vehicle of [[kuzey-isaret]]. It stops, raises a telescopic sensor mast, detects aircraft and ground vehicles and shares those contacts by data link with friendly vehicle displays. The name is the English form of the Turkish “Ayaz”.",
+    "facts": [
+      [
+        "Country",
+        "[[anatarya]]"
+      ],
+      [
+        "Class",
+        "Armored command vehicle (4×4, V-hull)"
+      ],
+      [
+        "Operator",
+        "[[kuzey-isaret]]"
+      ],
+      [
+        "Crew",
+        "5 (driver, commander, gunner, 2 staff)"
+      ],
+      [
+        "Armament",
+        "12.7 mm remote weapon station on the roof"
+      ],
+      [
+        "Hull strength",
+        "1,000 HP"
+      ],
+      [
+        "Top speed",
+        "About 95 studs per second on road · 60 off-road"
+      ],
+      [
+        "Mast raise / lower",
+        "8 s / 5 s"
+      ],
+      [
+        "Detection range",
+        "Air 4,000 studs · ground 1,000 studs"
+      ],
+      [
+        "Plate",
+        "AN 06-301"
+      ]
+    ],
+    "sections": [
+      [
+        "Role",
+        "The Frost gives the signals battalion an armored, armed command post. The commander sits at the sensor station, the gunner works the remote weapon from inside the vehicle and the battalion’s two staff members ride in the rear."
+      ],
+      [
+        "Sensor mast",
+        "The mast has three telescopic stages and carries a rotating radar dome, a day and thermal camera head and a short antenna. It can be raised only when the vehicle is almost stopped; if the vehicle moves faster than 4 studs per second the mast lowers automatically with a MAST AUTO-STOW warning. Damage to the mast module shuts the sensor down until it is repaired.\n\nWith the mast up the vehicle sees aircraft, hostile drones and missiles to 4,000 studs and ground vehicles to 1,000 studs, provided there is a clear line of sight. Low-observable aircraft such as the [[k21-kaan]] are detected much later: the KAAN’s radar signature of 0.25 shortens the detection range to about 1,000 studs."
+      ],
+      [
+        "Data link",
+        "The Frost merges its contacts with those of any other Frost whose mast is up and writes them to a shared data link. Contacts appear only on vehicle displays: on the commander’s RADAR and CAM pages, on the HSD page of the [[k16-alaz]] and on the NET page of the [[altai-mbt]] commander’s display. Infantry on foot see nothing."
+      ],
+      [
+        "Availability in the game",
+        "The Frost is called from the Northern Signal garage (bay NS_1), a single-bay garage at the north end of the headquarters courtyard, at the first rank with a 300-second cooldown. See [[vehicle-bays]]."
+      ]
+    ],
+    "related": [
+      "kuzey-isaret",
+      "taurus-mtv",
+      "k16-alaz",
+      "k21-kaan",
+      "altai-mbt",
+      "vehicle-bays"
+    ]
+  },
+  "dolphin-rhib": {
+    "title": "Dolphin RHIB",
+    "category": "Vehicles",
+    "desc": "Rigid-hull inflatable boat of the 3rd Coast Guard Command.",
+    "lead": "The Dolphin RHIB is the smallest vessel of the [[coast-guard-command]], a rigid-hull inflatable boat about 30 studs long used for patrols, boarding and rescue in the Rockcove bay and the sea beyond. Four boats, CG-3R1 to CG-3R4, are based at the station.",
+    "facts": [
+      [
+        "Country",
+        "[[anatarya]]"
+      ],
+      [
+        "Class",
+        "Rigid-hull inflatable boat"
+      ],
+      [
+        "Operator",
+        "[[coast-guard-command]]"
+      ],
+      [
+        "Hull numbers",
+        "CG-3R1 to CG-3R4"
+      ],
+      [
+        "Size",
+        "About 30 × 10 studs"
+      ],
+      [
+        "Hull strength",
+        "450 HP"
+      ],
+      [
+        "Berths",
+        "CG_1 to CG_4 (floating pontoon)"
+      ]
+    ],
+    "sections": [
+      [
+        "Description",
+        "Dark gray inflatable collar, white hull, an open console with a windscreen and wheel, jockey seats, a bow machine gun mount, a rear frame with radar and light and two outboard motors. The OPV [[northwind-opv]] carries one Dolphin in its stern ramp."
+      ],
+      [
+        "Availability in the game",
+        "The Dolphin is called from berths CG_1 to CG_4 on the pontoon at the head of the bay. It needs the first rank and has no cooldown. See [[vehicle-bays]] and [[rockcove-station]]."
+      ]
+    ],
+    "related": [
+      "coast-guard-command",
+      "seagull-fpb",
+      "northwind-opv",
+      "rockcove-station"
+    ]
+  },
+  "seagull-fpb": {
+    "title": "Seagull FPB",
+    "category": "Vehicles",
+    "desc": "Fast patrol boat of the 3rd Coast Guard Command.",
+    "lead": "The Seagull-class fast patrol boat is the mid-size vessel of the [[coast-guard-command]], about 75 studs long with a deep-V hull, an enclosed bridge and a 12.7 mm remote-controlled weapon at the bow. Three boats, CG-331 to CG-333, are based at Rockcove.",
+    "facts": [
+      [
+        "Country",
+        "[[anatarya]]"
+      ],
+      [
+        "Class",
+        "Fast patrol boat"
+      ],
+      [
+        "Operator",
+        "[[coast-guard-command]]"
+      ],
+      [
+        "Hull numbers",
+        "CG-331 · CG-332 · CG-333"
+      ],
+      [
+        "Size",
+        "About 75 × 18 studs"
+      ],
+      [
+        "Armament",
+        "12.7 mm remote weapon station"
+      ],
+      [
+        "Hull strength",
+        "1,400 HP"
+      ],
+      [
+        "Berths",
+        "CG_5 to CG_7 (finger pier)"
+      ]
+    ],
+    "sections": [
+      [
+        "Description",
+        "The enclosed bridge has two seats, a console and displays and can be entered, and a lower cabin holds two bunks and a table. A mast carries the radar and navigation lights, and an open aft deck has rails and a life ring."
+      ],
+      [
+        "Availability in the game",
+        "The Seagull is called from berths CG_5 to CG_7 and requires the third rank, with a 300-second cooldown. See [[vehicle-bays]] and [[rockcove-station]]."
+      ]
+    ],
+    "related": [
+      "coast-guard-command",
+      "dolphin-rhib",
+      "northwind-opv",
+      "rockcove-station"
+    ]
+  },
+  "northwind-opv": {
+    "title": "Northwind OPV",
+    "category": "Vehicles",
+    "desc": "Offshore patrol vessel, the largest ship of the 3rd Coast Guard Command.",
+    "lead": "The Northwind-class offshore patrol vessel is the flagship type of the [[coast-guard-command]]. Two ships serve at Rockcove: CG-301 NORTHWIND and CG-302 STORMRIDER. At about 165 studs they are the largest vessels of Anataria’s coast guard.",
+    "facts": [
+      [
+        "Country",
+        "[[anatarya]]"
+      ],
+      [
+        "Class",
+        "Offshore patrol vessel"
+      ],
+      [
+        "Operator",
+        "[[coast-guard-command]]"
+      ],
+      [
+        "Ships",
+        "CG-301 NORTHWIND · CG-302 STORMRIDER"
+      ],
+      [
+        "Size",
+        "About 165 × 27 studs"
+      ],
+      [
+        "Armament",
+        "40 mm bow gun · 2 × 12.7 mm mounts"
+      ],
+      [
+        "Aviation",
+        "Stern helicopter deck"
+      ],
+      [
+        "Hull strength",
+        "3,200 HP"
+      ],
+      [
+        "Berths",
+        "CG_8 and CG_9 (quay)"
+      ]
+    ],
+    "sections": [
+      [
+        "Description",
+        "Off-white hull with a gray superstructure, a dark red antifouling bottom and the pale orange and navy Coast Guard stripe. On deck are the bow gun with its shield, anchor winch, enclosed bridge with bridge wings, a mast with radar, a funnel, four life rafts and a stern RHIB ramp holding a [[dolphin-rhib]].\n\nInside, the bridge has the helm console, chart table and captain’s chair; the main deck passage leads to a crew cabin with six bunks, a mess and a sick bay, and a stairway to the engine room."
+      ],
+      [
+        "Availability in the game",
+        "The Northwind is called from berths CG_8 and CG_9 and requires the fifth rank, with a 600-second cooldown. Ships are driven through a ship drive system added to the main game on 12 November. See [[vehicle-bays]] and [[rockcove-station]]."
+      ]
+    ],
+    "related": [
+      "coast-guard-command",
+      "seagull-fpb",
+      "dolphin-rhib",
+      "rockcove-station"
+    ]
+  },
+  "sarp-south-shelter": {
+    "title": "Sarp South Shelter",
+    "category": "Facilities",
+    "desc": "Deep military bunker cut into the Sarp mountain range, used as an evacuation shelter.",
+    "lead": "The Sarp South Shelter is a deep military shelter excavated into the Sarp mountain range at the eastern edge of the region. A long tunnel with a bend, a blast lock and a vehicle hall lead to a main corridor with eleven rooms. During a catastrophe alarm it is the place where the facility’s personnel are evacuated to survive the blast.",
+    "facts": [
+      [
+        "Country",
+        "[[anatarya]]"
+      ],
+      [
+        "Facility type",
+        "Deep military shelter"
+      ],
+      [
+        "Location",
+        "Sarp mountain range, eastern edge of the region"
+      ],
+      [
+        "Entrance",
+        "Portal with a 24 × 20 stud blast door"
+      ],
+      [
+        "Main hall",
+        "Vehicle hall with 8 bays"
+      ],
+      [
+        "Rooms",
+        "11 along the main corridor"
+      ],
+      [
+        "Emergency exit",
+        "Escape tunnel and an 87-stud shaft to a hillside hatch house"
+      ],
+      [
+        "Evacuation points",
+        "24"
+      ]
+    ],
+    "sections": [
+      [
+        "Approach and entrance tunnel",
+        "The shelter road ends at a portal in the mountainside. Behind the outer blast door a vaulted tunnel runs straight, then bends by about 31 degrees so that the inner blast door cannot be seen from the portal, and runs straight again to the blast lock. The vaulted sections use reinforced concrete with steel ribs every 20 studs; cable trays and color-coded pipes for water, air and fuel run along the walls."
+      ],
+      [
+        "Blast lock and vehicle hall",
+        "The blast lock is 44 studs wide and has an inner blast door of the same size as the outer door. Beside it lie a pedestrian air lock, a decontamination room and a guard room. Beyond the inner door is the 100-stud vehicle hall with eight parking bays, large enough for the [[kaya-zma]] to drive in without touching the walls. The 24 evacuation arrival points are in the central lane of this hall."
+      ],
+      [
+        "Main corridor and rooms",
+        "A 14-stud corridor leads east from the hall. On the north side are the Command Center, Communications, Infirmary, Dormitory A and Dormitory B. On the south side are the Mess Hall and Kitchen, Generator Hall, Air Filtration Plant, Water and Pumps, Stores and the Armory (whose gate is a decorative closed cage). Doors inside the shelter stay open and the generators, consoles and wells are decoration."
+      ],
+      [
+        "Emergency exit",
+        "The emergency exit leaves from the south wall of the vehicle hall. An escape tunnel leads to an 87-stud shaft with a truss ladder and landings, and the shaft ends at a concrete hatch house covered with grass on the hillside, whose door is always open. The exit does not belong to the protected zone, and [[elonya]] forces can infiltrate through it."
+      ],
+      [
+        "Role in the catastrophe sequence",
+        "When the evacuation alarm sounds, every volume of the shelter counts as a protected zone. Characters inside it survive the blast; everyone outside is killed. See [[shift-system]]."
+      ]
+    ],
+    "related": [
+      "skyfortress-4",
+      "shift-system",
+      "sarpburun",
+      "sarp-gecidi",
+      "kaya-zma"
+    ]
+  },
+  "rockcove-station": {
+    "title": "Rockcove Coast Guard Station",
+    "category": "Facilities",
+    "desc": "Naval base on the southwestern bay of Sarpburun, home of the 3rd Coast Guard Command.",
+    "lead": "Rockcove Coast Guard Station is the base of the [[coast-guard-command]] on the east shore of a bay southwest of [[skyfortress-4]]. It consists of two levels, an upper terrace with the headquarters and a lower quay with berths for nine ships.",
+    "facts": [
+      [
+        "Country",
+        "[[anatarya]]"
+      ],
+      [
+        "Facility type",
+        "Coast guard station and harbor"
+      ],
+      [
+        "Operator",
+        "[[coast-guard-command]]"
+      ],
+      [
+        "Location",
+        "Bay southwest of [[skyfortress-4]]"
+      ],
+      [
+        "Berths",
+        "9: 2 OPV, 3 FPB, 4 RHIB"
+      ],
+      [
+        "Upper terrace",
+        "About +45 elevation"
+      ],
+      [
+        "Lower quay",
+        "About +4 elevation"
+      ],
+      [
+        "Deployment",
+        "Always at Rockcove HQ"
+      ]
+    ],
+    "sections": [
+      [
+        "Layout",
+        "The upper terrace holds the two-story headquarters, a barracks, a two-bay garage, a helicopter pad, a radar and communications mast and a ceremonial ground, surrounded by a fence with a checkpoint and two watchtowers overlooking the bay mouth. A switchback vehicle road and an enclosed personnel stairway connect it to the lower quay.\n\nThe headquarters has a Deployment Hall where the coast guard spawns, a locker area, briefing room and armory on the ground floor and an Operations Center with radar and map displays above. The lower quay has the berths, a fuel pier, a quay crane, a control tower, a workshop and a boat hangar, and a rock breakwater with a green light protects the mouth of the bay."
+      ],
+      [
+        "Berths and ships",
+        "Nine berths are numbered CG_1 to CG_9. Berths CG_1 to CG_4 are a floating pontoon for the [[dolphin-rhib]], CG_5 to CG_7 a finger pier for the [[seagull-fpb]] and CG_8 and CG_9 quay berths for the [[northwind-opv]]. Each berth has a post with a panel and a lamp showing whether it is free, in use or blocked, and a gangway that appears only when a ship is present. A harbor terminal on the quay shows the status of all nine berths."
+      ],
+      [
+        "Deployment",
+        "Members of the coast guard command always spawn at the Rockcove headquarters. The old garrison spawn was removed on 12 November."
+      ],
+      [
+        "Road",
+        "The CoastGuardRoad runs about 1,100 studs west from the main supply road to the station."
+      ]
+    ],
+    "related": [
+      "coast-guard-command",
+      "dolphin-rhib",
+      "seagull-fpb",
+      "northwind-opv",
+      "skyfortress-4"
+    ]
+  },
+  "sarpburun-air-base": {
+    "title": "Sarpburun Air Base",
+    "category": "Facilities",
+    "desc": "Home base of the 132nd Dagger Tactical Squadron with four hardened shelters and a hidden mountain hangar.",
+    "lead": "Sarpburun Air Base is the airfield of the [[hancer]] squadron, rebuilt on 10 November on its original site. It has a 2,400-stud runway, a parallel taxiway, four hardened aircraft shelters, a headquarters building and, at the east end of the runway, a hidden hangar cut into the mountain that is reserved for the squadron’s most elite aircraft.",
+    "facts": [
+      [
+        "Country",
+        "[[anatarya]]"
+      ],
+      [
+        "Facility type",
+        "Military air base"
+      ],
+      [
+        "Operator",
+        "[[hancer]]"
+      ],
+      [
+        "Runway",
+        "2,400 × 150 studs, runways 08 / 26"
+      ],
+      [
+        "Shelters",
+        "4 hardened aircraft shelters (HAS 1–4)"
+      ],
+      [
+        "Aircraft",
+        "[[k16-alaz]] (HAS 1–3) · [[k21-kaan]] (HAS 4)"
+      ],
+      [
+        "Mountain hangar",
+        "160 × 400 × 56 stud hall"
+      ],
+      [
+        "Perimeter",
+        "Fence with one guarded gate"
+      ]
+    ],
+    "sections": [
+      [
+        "Airfield",
+        "The runway is marked with threshold piano keys, numbers 08 and 26, a dashed centerline, touchdown zones and aiming-point blocks. It has white edge lights, green and red threshold lights, an approach light array and PAPI at the 08 end. A parallel taxiway with yellow centerline and blue edge lights is joined to the runway by three connectors, and there are six floodlight masts on the apron.\n\nA control tower, a three-bay fire station with a fire truck, a three-tank fuel farm and two earth-covered ammunition bunkers stand elsewhere on the base. Signs mark the explosives area, and the one gate is protected by a guard booth, a barrier and speed bumps."
+      ],
+      [
+        "Hardened aircraft shelters",
+        "Four reinforced concrete shelters, HAS 1 to HAS 4, each 110 studs wide and 150 deep with a vaulted shell and an exhaust stack. Their sliding armored doors are built closed and are opened by the shelter door service: they open automatically when an aircraft is called out of the shelter, or manually from the door controls inside and outside (Dagger members only), and never close while a vehicle or player stands in the doorway. Each shelter has a call panel and a status lamp above the door.\n\nHAS 1 to 3 house the [[k16-alaz]]; HAS 4 is reserved for the [[k21-kaan]]. See [[vehicle-bays]]."
+      ],
+      [
+        "Dagger headquarters",
+        "The two-story headquarters faces the plaza and the apron. Its entrance hall has a duty desk, a VEHICLE TERMINAL display showing the state of the four shelters, and a commemorative plaque reading 132ND TACTICAL SQUADRON / DAGGER 06 / 17 NOVEMBER 1994 / The watch of those who never returned never ends. A preparation room holds the Dagger locker and a briefing room has a display and benches, and the commander’s office is on the upper floor. The Dagger spawn point is on the plaza."
+      ],
+      [
+        "Mountain hangar",
+        "At the east end of the runway a taxi channel lined with retaining walls leads to a concrete portal set into the rock, 180 studs wide and 70 high, with two heavy sliding armored doors and a camouflage net over the top. Behind it is a concrete hall 160 studs wide and 400 long with ribbed ceiling beams and an empty reserved parking area marked in yellow. At least 20 studs of rock cover the ceiling. The portal carries no sign; the facility is secret."
+      ],
+      [
+        "Runway sabotage",
+        "If [[elonya]] saboteurs destroy the runway objective, the base’s spawn points close and the call panels refuse to issue aircraft, showing RUNWAY CLOSED, until the sector is reset. Aircraft already in the field are not affected."
+      ]
+    ],
+    "related": [
+      "hancer",
+      "k16-alaz",
+      "k21-kaan",
+      "vehicle-bays",
+      "arkent-jet-ussu",
+      "skyfortress-4"
+    ]
+  },
+  "karadere-village": {
+    "title": "Karadere Village",
+    "category": "Facilities",
+    "desc": "Two-neighborhood hillside village around a clock tower square and a monument roundabout.",
+    "lead": "Karadere is a village on the hinterland roads of [[sarpburun]], laid out as two orderly neighborhoods linked by asphalt streets with sidewalks. Its center is a square with a clock tower, and the crossing of the Karadere and Liman roads is a roundabout with a limestone monument that is also the center of the village’s capture zone.",
+    "facts": [
+      [
+        "Country",
+        "[[anatarya]]"
+      ],
+      [
+        "Settlement type",
+        "Village"
+      ],
+      [
+        "Neighborhoods",
+        "East and West"
+      ],
+      [
+        "Houses",
+        "At least 44, of which at least 10 can be entered"
+      ],
+      [
+        "Square",
+        "72 × 70 studs with a clock tower"
+      ],
+      [
+        "Roundabout",
+        "Island radius 9 studs, monument and “KARADERE” plaque"
+      ],
+      [
+        "Roads",
+        "Karadere Road · Liman Road"
+      ]
+    ],
+    "sections": [
+      [
+        "Streets",
+        "Eight streets cross the village: D1 to D4 in the East neighborhood and B1 to B4 in the West neighborhood, plus two connecting streets (S0 and E0) from the roundabout. Each has a 14-stud asphalt carriageway with 2.5-stud sidewalks and curbs, with lampposts every 40 studs and crosswalks where streets meet the square and the roundabout."
+      ],
+      [
+        "Houses",
+        "Houses stand in orderly rows facing the street, each on a leveled plot, with a stone path from the door to the sidewalk. Their types, facades and roofs are varied, and the enterable ones have an empty, abandoned interior with open or barricaded windows. Olive groves surround the neighborhoods and cypress trees line the streets."
+      ],
+      [
+        "Square and roundabout",
+        "The clock tower stands in the middle of the 72 × 70 stud square, facing north toward the capture area, with a fountain, café tables, a plane tree, four benches and three market stalls around it. At the crossing of the two main roads, the roundabout island carries a three-step limestone base with a bronze anchor and laurel wreath and the plaque KARADERE. The monument sits in the middle of the village’s capture area and works as cover."
+      ]
+    ],
+    "related": [
+      "sarpburun",
+      "skyfortress-4",
+      "shift-system"
+    ]
+  },
+  "coast-guard-command": {
+    "title": "3rd Coast Guard Command",
+    "category": "Units",
+    "desc": "Anatarya’s coastal patrol and rescue command based at Rockcove.",
+    "lead": "The 3rd Coast Guard Command is a unit of the Anatarya Coast Guard Command, the body that also operates [[istara]]. It was established in 2029 with the construction of [[skyfortress-4]] and patrols the restricted sea area on the sea side of the facility, intercepts [[elonya]] reconnaissance and landing craft and carries out search and rescue. In the crisis it is the first line of defense on the coast.",
+    "facts": [
+      [
+        "Country",
+        "[[anatarya]]"
+      ],
+      [
+        "Unit type",
+        "Coast guard command"
+      ],
+      [
+        "Established",
+        "2029"
+      ],
+      [
+        "Base",
+        "[[rockcove-station]]"
+      ],
+      [
+        "Colors",
+        "Navy blue and white with a pale orange stripe (team color “Storm blue”)"
+      ],
+      [
+        "Insignia",
+        "Anchor, shield and the number 3"
+      ],
+      [
+        "Ships",
+        "[[northwind-opv]] · [[seagull-fpb]] · [[dolphin-rhib]]"
+      ]
+    ],
+    "sections": [
+      [
+        "Role in the game",
+        "The command is listed under ARMED FORCES in the team selection screen as 3rd Coast Guard Command. Its members always spawn at the Rockcove headquarters and call ships from the nine berths of the station; the Dolphin RHIB needs the first rank, the Seagull FPB the third and the Northwind OPV the fifth. See [[divisions-and-ranks]] and [[vehicle-bays]]."
+      ],
+      [
+        "Fleet",
+        "The fleet totals nine ships: two Northwind-class offshore patrol vessels, three Seagull-class fast patrol boats and four Dolphin rigid-hull inflatable boats."
+      ]
+    ],
+    "related": [
+      "rockcove-station",
+      "northwind-opv",
+      "seagull-fpb",
+      "dolphin-rhib",
+      "skyfortress-4",
+      "pelagos-karakolu"
+    ]
+  },
+  "shift-system": {
+    "title": "Shift system",
+    "category": "Game systems",
+    "desc": "The continuous 15-minute shift cycle of launch preparation, sabotage and catastrophe.",
+    "lead": "The server of the Skyfortress Military Facility game never ends a match. It runs one shift after another, each about 900 seconds long, until the ŞİMŞEK-III launch window at the end of the shift decides who gains experience. The defenders ([[anatarya]]: soldiers and facility staff) try to prepare and launch [[kartal-7]]; the attackers ([[elonya]]) try to stop the launch, and if they cause a catastrophe the whole facility rushes to the shelters.",
+    "facts": [
+      [
+        "Shift length",
+        "About 900 seconds of active play"
+      ],
+      [
+        "Phases",
+        "Briefing · Active · Result · Alarm · Lockdown"
+      ],
+      [
+        "Launch window",
+        "T-0 at the end of the Active phase"
+      ],
+      [
+        "Defenders",
+        "Armed forces and facility staff of [[anatarya]]"
+      ],
+      [
+        "Attackers",
+        "Hostiles of [[elonya]]"
+      ],
+      [
+        "Shelters",
+        "[[sarp-south-shelter]] · Main Control shelter floor"
+      ],
+      [
+        "Persistence",
+        "Experience points are saved per player"
+      ]
+    ],
+    "sections": [
+      [
+        "Shift cycle",
+        "Each shift runs through these phases: Briefing (30 seconds, the world resets and players choose a division and spawn), Active (900 seconds), the T-0 decision, Result (20 seconds, announcement and experience awards) and then a new Briefing. If the server is empty the timer waits. A catastrophe can interrupt the Active phase at any moment and leads to a 120-second Alarm, the detonation and a 30-second Lockdown before the world resets completely."
+      ],
+      [
+        "Launch conditions",
+        "At T-0 the launch succeeds only if all four conditions hold: 12 of 12 launch checks are done, fuel is at 100 percent, there is no open critical fault and the Launch Control objective (3C) has not been sabotaged. A flawless shift also needs that no critical fault ever occurred and that the hazard level never exceeded 50."
+      ],
+      [
+        "Facility staff duties",
+        "Scientists perform launch checks at consoles (a new check opens every minute and takes 4 seconds of holding a prompt). Maintenance crews repair faults in the five systems — pump, generator, cooling, antenna and hydraulics. A minor fault turns critical if left for 120 seconds. Logistics crews, and any defender, carry fuel canisters (10 percent each) from the depots to the launch pad; a carried canister slows the player and is lost if the carrier dies.\n\nCritical faults raise a hazard meter by 0.5 per second each; with none, it falls by 0.2 per second. When the hazard reaches 100 a catastrophe begins."
+      ],
+      [
+        "Attackers and sabotage",
+        "The attackers advance through sectors by capturing zones and arming charges. Their sabotage has effects across the shift: destroying the SARP-RAD radar opens the mountain road gate; attacking the power plant halves the interval between faults and darkens launch consoles for 60 seconds; hitting the fuel objective delays T-0 once by 180 seconds and removes 30 points of fuel; sabotaging Launch Control makes the launch impossible and opens the shelter floor; destroying the runway closes the air base’s call panels; and completing objective 3D starts the catastrophe."
+      ],
+      [
+        "Catastrophe",
+        "A catastrophe begins either by sabotage or by neglect (the hazard level). The alarm lasts 120 seconds with sirens, red lights and an evacuation indicator toward the nearest shelter; the shelter doors are open. At the end of the alarm every character outside a shelter zone dies, regardless of team. During the 30-second lockdown the shelter doors are closed and nobody spawns; afterwards the doors open, XP is awarded, the world is fully reset and a new shift begins. See [[sarp-south-shelter]]."
+      ],
+      [
+        "Experience",
+        "Experience points are awarded for tasks: 5 for a launch check or canister, 10 for a repair, 15 for capturing a zone, 20 for arming or defusing a charge. At the end of the shift the defenders receive 100 for a launch (plus 50 for a flawless shift), the attackers 100 for an abort and 150 for a catastrophe, and defenders inside a shelter at the blast receive 20. End-of-shift awards are scaled by how long the player was on the team, with a minimum of 25 percent. XP is saved in a data store, and rank is shown on the player list held with Tab. There is no on-screen shift timer; the launch window is shown only on the display in the Launch Control room."
+      ],
+      [
+        "Teams",
+        "Capacity is enforced by the server only: at most 30 attackers and 60 defenders. See [[divisions-and-ranks]]."
+      ]
+    ],
+    "related": [
+      "divisions-and-ranks",
+      "vehicle-bays",
+      "sarp-south-shelter",
+      "skyfortress-4",
+      "kartal-7",
+      "simsek-iii",
+      "day-night-cycle"
+    ]
+  },
+  "vehicle-bays": {
+    "title": "Vehicle bays",
+    "category": "Game systems",
+    "desc": "How vehicles, aircraft and ships are called, parked and recalled.",
+    "lead": "Vehicles of the Skyfortress Military Facility game are not found lying around the map; they are called from numbered vehicle bays in the garages, shelters and berths of each unit. A bay panel opens a menu that lists the vehicles the player’s unit may call, with their rank requirements and cooldowns.",
+    "facts": [
+      [
+        "Call points",
+        "Garages, hangar shelters and ship berths"
+      ],
+      [
+        "Menu",
+        "Vehicle Bay prompt, vehicle list, 3D preview, DEPLOY"
+      ],
+      [
+        "Limit",
+        "One vehicle per player at a time"
+      ],
+      [
+        "Despawn",
+        "30 seconds without a driver, unless parked"
+      ],
+      [
+        "Park key",
+        "P (gamepad: up arrow)"
+      ]
+    ],
+    "sections": [
+      [
+        "Calling a vehicle",
+        "A Vehicle Bay prompt on the panel is shown only to the unit that owns the bay. The menu lists vehicles as AVAILABLE, LOCKED (rank too low), COOLDOWN with a countdown or IN FIELD, and a card shows a rotating 3D preview, top speed, armor, seats, armament, crew and a description. Pressing DEPLOY calls the vehicle; if the player already has one in the field, a second press confirms that it will be recalled. The menu closes when the player walks 15 studs away, dies or changes team.\n\nEach bay has a panel screen and a neon status lamp: green is ready, amber is on cooldown or in the field and red is blocked. The Sarp Guard VEHICLE TERMINAL shows the live state of all six of its bays, and the Dagger terminal shows the four shelters."
+      ],
+      [
+        "Bays and their limits",
+        "Sarp Guard garage: SG_1 and SG_3 to SG_6 issue the [[sentinel-lpv]]; SG_2 issues the [[kaya-zma]] (CRAG ACV), with an 8-minute cooldown and only for the Sarp Armored Response Team; the same bay also offers a desert camouflage option.\n\nIron Fist motor pool: IF_1 and IF_2 issue the [[altai-mbt]] (woodland camouflage option), with a 10-minute cooldown; IF_3 and IF_4 issue the [[taurus-mtv]] MTV-A without limit.\n\nNorthern Signal garage: NS_1 issues the [[frost-acv]] (first rank, 300 seconds).\n\nDagger flight line: DG_1 to DG_3 issue the [[k16-alaz]]; DG_4 (HAS 4) issues only the [[k21-kaan]], requiring the eighth rank with a 600-second cooldown. Aircraft are never called while the runway is closed.\n\nRockcove harbor: CG_1 to CG_9 issue the [[dolphin-rhib]], [[seagull-fpb]] and [[northwind-opv]]. Ships are moored in their berths and are marked as parked."
+      ],
+      [
+        "Vehicle lifetime",
+        "Vehicles are not cleared at the start of a shift, and a vehicle that has been destroyed does not return by itself. A player who calls a new vehicle has all of their previous vehicles recalled. A called vehicle disappears after 30 seconds if no one sits in the driver’s seat (occupants are put out first); the last ten seconds of the countdown are shown in red as DESPAWN IN 0:27. The owner can park the vehicle with P, which shows PARKED and stops the countdown. If someone else sits in the driver’s seat the vehicle becomes theirs, and all of a player’s vehicles are deleted when they leave the game."
+      ],
+      [
+        "Occupied bays",
+        "A newly called vehicle automatically removes the vehicle that blocks the bay and puts its occupants out, and pedestrians standing in the bay are moved in front of the panel."
+      ]
+    ],
+    "related": [
+      "divisions-and-ranks",
+      "shift-system",
+      "altai-mbt",
+      "kaya-zma",
+      "sentinel-lpv",
+      "taurus-mtv",
+      "frost-acv",
+      "k16-alaz",
+      "k21-kaan",
+      "rockcove-station"
+    ]
+  },
+  "day-night-cycle": {
+    "title": "Day–night cycle",
+    "category": "Game systems",
+    "desc": "The 48-minute cycle of dawn, day, dusk and night with a real sun and moon.",
+    "lead": "The Skyfortress Military Facility game has a shared day–night cycle: every player sees the same time of day, and the sun and moon move smoothly across the sky of [[sarpburun]]. The facility’s outdoor lamps come on at dusk and go off at dawn, except during a power outage.",
+    "facts": [
+      [
+        "Cycle length",
+        "48 minutes (2,880 seconds)"
+      ],
+      [
+        "Day share",
+        "Two thirds: about 32 minutes of day and 16 of night"
+      ],
+      [
+        "Sunrise / sunset",
+        "06:00 / 20:00 game time"
+      ],
+      [
+        "Start time",
+        "07:00"
+      ],
+      [
+        "Latitude",
+        "38°"
+      ]
+    ],
+    "sections": [
+      [
+        "Clock",
+        "The game day passes in 48 real minutes. Daytime (14 game hours) lasts about 32 minutes and the night (10 game hours) about 16 minutes, so the night passes about 2.9 times faster than the day. Four moments define the look of the sky: night (22:00 to 04:00), dawn (06:00), day (09:00 to 17:00) and dusk (19:45), with transitions between 05:00 and 07:30 and between 18:30 and 21:00. Brightness, ambient light, atmosphere haze and sky color all change with the time; the night is dark but remains playable."
+      ],
+      [
+        "Outdoor lamps",
+        "Lamps with no roof within 80 studs above them are outdoor lamps. They turn on from 19:30 and off at 06:15, and during a facility power outage the ones on the facility power grid stay dark even at night. Runway edge lights and vehicle headlights are not governed by the cycle."
+      ],
+      [
+        "Not included",
+        "The cycle has no moon phases, weather, seasons or time-dependent gameplay rules."
+      ]
+    ],
+    "related": [
+      "shift-system",
+      "skyfortress-4",
+      "sarpburun"
+    ]
+  },
+  "divisions-and-ranks": {
+    "title": "Divisions and ranks",
+    "category": "Game systems",
+    "desc": "The units players can join, their sub-units and the rank requirements for vehicles.",
+    "lead": "Players of the Skyfortress Military Facility game choose a division on the team selection screen, which has three columns: ARMED FORCES, FACILITY STAFF and HOSTILES. Each division is a separate team with its own spawn point, uniform and vehicles. Capacity is enforced only by the server and never shown on screen.",
+    "facts": [
+      [
+        "Armed forces",
+        "4th Sarp Guard Company · 27th Iron Fist Mechanized Infantry · 132nd Dagger Tactical Squadron · 6th Northern Signal Battalion · 3rd Coast Guard Command"
+      ],
+      [
+        "Facility staff",
+        "Launch Scientists · Maintenance Crew · Logistics Crew · 18th Doruk Supply Regiment"
+      ],
+      [
+        "Hostiles",
+        "8th Nereus Naval Commandos · 9th Iris Airborne Brigade"
+      ],
+      [
+        "Switching",
+        "Divisions can be changed every 10 seconds"
+      ],
+      [
+        "Capacity",
+        "Attackers 30 · defenders 60"
+      ]
+    ],
+    "sections": [
+      [
+        "Armed forces",
+        "[[sarp-muhafiz]] protects the facility and has two sub-units: Facility Security and the Sarp Armored Response Team. [[demir-iz]] operates the heavy armor. [[hancer]] flies the aircraft. [[kuzey-isaret]] provides communications and sensing. [[coast-guard-command]] patrols the sea."
+      ],
+      [
+        "Facility staff",
+        "The Launch Scientists, Maintenance Crew, Logistics Crew and [[doruk-ikmal]] are the non-military staff who prepare the launch; see [[shift-system]]."
+      ],
+      [
+        "Hostiles",
+        "The Elonya attackers are [[nereus-komando]] and [[iris-indirme]]."
+      ],
+      [
+        "Ranks and vehicle access",
+        "Rank is earned with XP. The Sarp Guard rank thresholds are 0, 50, 150, 350, 700, 1,200, 3,000 and 3,500 XP. Joining the Sarp Armored Response Team needs the rank of Guard Captain (3,000 XP); once on the team, anyone can call the CRAG ACV at any rank. Dagger has eight ranks and the top one, Wing Commander, is required to fly the [[k21-kaan]]. In the Iron Fist regiment the fifth rank is Tank Commander, which unlocks the [[altai-mbt]]. The game owner starts at the top rank of every division."
+      ],
+      [
+        "Uniforms and appearance",
+        "Division uniforms are issued from lockers: Sarp Guard, Maintenance Crew, Iron Fist, Dagger and Northern Signal sets have been added. A female soldier body is being modeled for players in a separate workshop; it is not yet selectable in the game."
+      ],
+      [
+        "Names and labels",
+        "All text the player sees is in English, and unit names use the forms Iron Fist (formerly Demir İz) and Dagger (Hançer). The facility itself is called SKYFORTRESS-4 in the game."
+      ]
+    ],
+    "related": [
+      "shift-system",
+      "vehicle-bays",
+      "sarp-muhafiz",
+      "demir-iz",
+      "hancer",
+      "kuzey-isaret",
+      "coast-guard-command"
+    ]
+  },
+  "update-log": {
+    "title": "Skyfortress update log",
+    "category": "Game systems",
+    "desc": "Development timeline of the Skyfortress Military Facility game, 4–13 November 2026.",
+    "lead": "This log lists the main updates to the Skyfortress Military Facility game in order, from the import of this archive on 4 November to the aircraft shelter doors of 13 November 2026. It was compiled from the project’s design documents and progress ledgers.",
+    "facts": [
+      [
+        "Period",
+        "4–13 November 2026"
+      ],
+      [
+        "Game",
+        "Skyfortress Military Facility (Roblox)"
+      ],
+      [
+        "Main place",
+        "Sarpburun map"
+      ],
+      [
+        "Vehicle workshop",
+        "Separate test place for new vehicles"
+      ]
+    ],
+    "sections": [
+      [
+        "4 November",
+        "The regional archive was imported (71 entries with a political map) and the vehicle system started with the [[kaya-zma]]."
+      ],
+      [
+        "5 November",
+        "The [[shift-system]] and the Sarpburun map were designed, with Naramo-style team selection ([[divisions-and-ranks]]). New vehicles: [[sentinel-lpv]], [[taurus-mtv]] and the first [[altai-mbt]]. [[rockcove-station]] and the [[coast-guard-command]] were added, along with Sarp Guard, Maintenance Crew and Iron Fist uniforms, a realism pass on the facility, road junctions and the Kızılsu forest, and map detail phases 1 and 2."
+      ],
+      [
+        "6 November",
+        "Altay versions 3 to 6: commander’s cupola, driver station, panoramic sight, woodland camouflage and high-detail turret kit. The [[k16-alaz]] with flight, weapons and damage models, Dagger and Northern Signal uniforms, new R15 animations, a ship damage system, a garrison realism and interior sensor scan, the facility layout and launch terminals."
+      ],
+      [
+        "7 November",
+        "[[vehicle-bays]] were added to the main game with ranks, cooldowns and vehicle lifetime rules. [[karadere-village]] was rebuilt in three versions, finishing with the roundabout monument. The [[frost-acv]] was built and the facility was reorganized into four quarters."
+      ],
+      [
+        "10 November",
+        "The [[k21-kaan]] stage one, with stealth signature, twin engines and internal weapon bays. [[sarpburun-air-base]] was rebuilt with four shelters and a mountain hangar. The Mission Control interior (20 rooms over two floors) and a wheeled-vehicle torque model were added."
+      ],
+      [
+        "12 November",
+        "The [[day-night-cycle]], overhead name tags and a map backdrop were added. The Sarp mountain range closed the east edge of the map with a single canyon pass, and the [[sarp-south-shelter]] was rebuilt as a deep bunker. Coast guard ships can be called and driven, about 120 signs were cleared of obstructions and the facility’s in-game name became SKYFORTRESS-4."
+      ],
+      [
+        "13 November",
+        "Aircraft shelter doors that open on demand were added and HAS 4 was reserved for the K-21 KAAN. The [[leopard-2a4-t1]] and the driver-gunner tank crew layout were designed in the workshop, and a female soldier body was started in Blender."
+      ]
+    ],
+    "related": [
+      "shift-system",
+      "vehicle-bays",
+      "divisions-and-ranks",
+      "day-night-cycle",
+      "skyfortress-4"
     ]
   }
 }
