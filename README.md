@@ -1,17 +1,22 @@
-# GÖKKALE Arşivi
+# Skyfortress Archive
 
-Bu depo [t1orstudios.github.io](https://t1orstudios.github.io/) adresindeki wikinin tamamını yayımlar. Site ve siyasi harita GitHub Pages üzerinden statik dosya olarak sunulur; ChatGPT Sites API'sinden veri çekmez.
+This repository publishes the whole wiki at [t1orstudios.github.io](https://t1orstudios.github.io/). The site and the political map are served as static files through GitHub Pages; no external API supplies their data. The site is in English only.
 
-## Maddeleri düzenleme
+## Editing articles
 
-[Yönetici paneli](https://t1orstudios.github.io/edit.html) üzerinden maddeleri ve görselleri düzenleyebilirsin. Depoya yazma yetkisi olan bir GitHub hesabı ve yalnızca bu depo için `Contents: Read and write` izni olan ince kapsamlı erişim anahtarı gerekir. Anahtar sekmenin belleğinde kalır; site dosyalarına yazılmaz. Panel tek commit ile iki dilin JSON kopyalarını, `pages.js` ve önbellek sürümünü günceller.
+Use the [admin panel](https://t1orstudios.github.io/edit.html) to edit articles and images. It needs a GitHub account with write access to this repository and a fine-grained access token that has `Contents: Read and write` permission for this repository only. The token stays in the memory of the tab and is never written to the site files. The panel updates `en.json`, `pages.js` and the cache version in a single commit.
 
-Elle düzenleme için:
+To edit by hand:
 
-- Türkçe maddeler: [`pages.js`](pages.js) içindeki `const dataTR=`
-- İngilizce maddeler: [`pages.js`](pages.js) içindeki `const dataEN=`
-- Maddeler aynı `slug` anahtarıyla iki dilde tutulur. Mevcut alanları (`title`, `category`, `desc`, `lead`, `facts`, `sections`, `related`, `imageKey`, `draft`) izleyin.
-- Fotoğraf eklemek için `.png`, `.jpg`, `.jpeg` veya `.webp` dosyasını bu deponun köküne yükleyin. Maddenin `imageKey` alanını örneğin `file:birlik-fotografi.png` yapın. İsterseniz katalogdaki mevcut `patch-demir-iz` gibi anahtarları da kullanabilirsiniz.
-- GitHub değişiklikleri kaydedilip Pages dağıtımı bitince yayında görünür. Yalnızca depoya yazma yetkisi olan hesaplar değişiklik yapabilir.
+- Articles are in [`pages.js`](pages.js) under `const dataEN=`, mirrored in [`en.json`](en.json).
+- Keep the existing fields (`title`, `category`, `desc`, `lead`, `facts`, `sections`, `related`, `imageKey`, `draft`). Link to another article with `[[article-id]]`.
+- To add a photo, upload a `.png`, `.jpg`, `.jpeg` or `.webp` file to the root of this repository and set the article's `imageKey` to, for example, `file:unit-photo.png`. You can also use catalog keys such as `patch-demir-iz`.
+- Changes appear after they are saved to GitHub and the Pages deployment finishes. Only accounts with write access can change the site.
 
-Arayüz `index.html`, `pages.js` ve `style.css`; siyasi harita `harita.html`, `harita-en.html`, `map.js` ve `map.css` dosyalarında bulunur. Görseller ve madde verileri aynı depodadır. Eski e-posta/şifreli yönetici paneli GitHub Pages üzerinde çalışmaz; yönetici yetkisi GitHub depo erişimiyle yönetilir. `t1orstudios/skyfortress` ayrı bir kaynak deposudur; oradaki commit tek başına yayını güncellemez.
+## Layout
+
+The interface is in `index.html`, `pages.js` and `style.css`; the political map is in `harita-en.html`, `map.js` and `map.css`. Images and article data live in the same repository. The old e-mail and password admin does not work on GitHub Pages; admin rights come from GitHub repository access. The game itself is developed in the separate `t1orstudios/skyfortress` repository; a commit there does not update this site by itself.
+
+## Game content
+
+Articles in the *Game systems* category and the vehicle, unit and facility entries that mention the game describe the Skyfortress Military Facility game as of 13 November 2026. The *Skyfortress update log* article lists the updates in order.
