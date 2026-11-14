@@ -178,7 +178,7 @@
       ],
       [
         "Principal units",
-        "[[aigaion]], [[mizrak]] and [[nereus-komando]] represent naval, air and special mission elements. [[m12-aster]], [[p8-pelagos]], [[triton-botu]], and the group’s frigates and support ships undertake different roles."
+        "[[aigaion]], [[mizrak]] and [[nereus-komando]] represent naval, air and special mission elements. [[m12-aster]], [[p8-pelagos]], [[triton-botu]], and the group’s frigates and support ships undertake different roles. Elonian aircraft also fly from the Ostanyan supercarrier [[usos-meridian]]."
       ],
       [
         "Kipraya policy",
@@ -197,7 +197,8 @@
       "ucaksavar",
       "pelagos-devriye",
       "iris-indirme",
-      "lerya-deniz-ussu"
+      "lerya-deniz-ussu",
+      "usos-meridian"
     ],
     "imageKey": "flag-elonya"
   },
@@ -541,6 +542,10 @@
       [
         "Naval special unit",
         "[[nereus-komando]]"
+      ],
+      [
+        "Carrier support",
+        "[[usos-meridian]] (Ostanyan)"
       ]
     ],
     "sections": [
@@ -559,6 +564,10 @@
       [
         "Emblem",
         "A trident and wave lines symbolize maritime duties. The navy and light blue emblem is presented as a transparent PNG without a textile texture."
+      ],
+      [
+        "Carrier support",
+        "The group does not include an aircraft carrier of its own. During [[kriz]] the Ostanyan supercarrier [[usos-meridian]] sailed with it, carrying the M-12N fighters of [[mizrak]] and Ostanyan early warning aircraft. AIGAION and THALASSA screen the carrier, and [[kallisto-ikmal]] shares the group’s replenishment duties."
       ]
     ],
     "related": [
@@ -570,7 +579,8 @@
       "kallisto-ikmal",
       "nereus-komando",
       "mizrak",
-      "lerya-deniz-ussu"
+      "lerya-deniz-ussu",
+      "usos-meridian"
     ],
     "imageKey": "patch-aigaion",
     "draft": false
@@ -1700,6 +1710,10 @@
       [
         "Associated unit",
         "[[mizrak]]"
+      ],
+      [
+        "Naval variant",
+        "M-12N (carrier-capable)"
       ]
     ],
     "sections": [
@@ -1710,11 +1724,17 @@
       [
         "Design and service",
         "A single-pilot delta-wing configuration and a single jet engine form Aster’s basic design. Aircraft operated by [[mizrak]] squadron protect coastal airspace and island passages."
+      ],
+      [
+        "Naval variant (M-12N)",
+        "For operations from [[usos-meridian]], Elonia’s Aster fleet received a carrier-capable conversion, the M-12N. It adds a tailhook, a strengthened landing gear with a catapult launch bar and folding wingtips that let the aircraft fit on the deck-edge elevators and in the hangar. The M-12N keeps the single engine, the cockpit and the weapons of the land-based aircraft and wears the same gray scheme with Elonia’s blue and white fin stripes."
       ]
     ],
     "related": [
       "elonya",
-      "aigaion"
+      "aigaion",
+      "mizrak",
+      "usos-meridian"
     ],
     "imageKey": "air-m12",
     "draft": false
@@ -2008,13 +2028,18 @@
       [
         "Unit insignia",
         "A silver spear and swept-back wings symbolize the squadron’s name and flying mission. The number 41 is used."
+      ],
+      [
+        "Carrier operations",
+        "During [[kriz]] the squadron embarked its M-12N Aster fighters aboard [[usos-meridian]], an Ostanyan supercarrier assigned to support Elonian air operations. Elonian pilots and maintainers fly and service the aircraft; Ostanyan crews run the catapults, arresting gear and hangar. Flying from the carrier lets the squadron reach [[sarpburun]] without depending on airfields on the Elonian mainland."
       ]
     ],
     "related": [
       "elonya",
       "skyfortress-4",
       "kriz",
-      "m12-aster"
+      "m12-aster",
+      "usos-meridian"
     ],
     "imageKey": "patch-mizrak",
     "draft": false
@@ -2366,6 +2391,10 @@
       [
         "Vehicle support",
         "[[kaya-zma]]"
+      ],
+      [
+        "In the game",
+        "ARMED FORCES · spawns at the garrison logistics HQ"
       ]
     ],
     "sections": [
@@ -2383,7 +2412,7 @@
       ],
       [
         "Vehicles in the game",
-        "The regiment’s workhorse is the [[taurus-mtv]] MTV-L, a cargo version with a tarpaulin-covered load bed that carries four people. In the shift system the regiment is part of the facility staff and carries fuel to the launch pad."
+        "The regiment’s workhorse is the [[taurus-mtv]] MTV-L, a cargo version with a tarpaulin-covered load bed that carries four people. Since 14 November 2026 the regiment is part of the ARMED FORCES and spawns in front of its logistics headquarters on the east side of SARPBURUN GARRISON. Behind the headquarters stands the regiment’s central depot, with pallet racks, forklifts and five loading docks facing a truck yard. Part of the yard is marked out for a truck garage, which will be built to the size of the heavy military trucks planned for the regiment."
       ]
     ],
     "related": [
@@ -2393,7 +2422,9 @@
       "sarp-muhafiz",
       "kaya-zma",
       "taurus-mtv",
-      "shift-system"
+      "shift-system",
+      "divisions-and-ranks",
+      "vehicle-bays"
     ],
     "imageKey": "patch-doruk-ikmal",
     "draft": false
@@ -2793,6 +2824,10 @@
       [
         "Posture during the SKYFORTRESS-4 Crisis",
         "Anataria's independent orbital program at [[sarpburun]] was labeled by Ostanya as an uncontrolled escalation threatening its ally Elonia. While avoiding formal involvement in the declaration of war, Ostanya has supplied real-time reconnaissance feeds to the Elonian Navy."
+      ],
+      [
+        "USOS Meridian",
+        "Ostanya’s most visible contribution to the crisis is [[usos-meridian]], a nuclear supercarrier of the 7th Ocean Fleet that sailed into the Kalyon Sea and was placed at the service of [[elonya]]. The ship and its crew remain Ostanyan, while the fighters on its deck belong to Elonia’s [[mizrak]]. Ostanya describes this as running the ship rather than taking part in the war."
       ]
     ],
     "related": [
@@ -2801,7 +2836,8 @@
       "ursya",
       "huaxia",
       "skyfortress-4",
-      "kriz"
+      "kriz",
+      "usos-meridian"
     ],
     "imageKey": "",
     "draft": false
@@ -4803,7 +4839,7 @@
     "title": "Vehicle bays",
     "category": "Game systems",
     "desc": "How vehicles, aircraft and ships are called, parked and recalled.",
-    "lead": "Vehicles of the Skyfortress Military Facility game are not found lying around the map; they are called from numbered vehicle bays in the garages, shelters and berths of each unit. A bay panel opens a menu that lists the vehicles the player’s unit may call, with their rank requirements and cooldowns.",
+    "lead": "Vehicles of the Skyfortress Military Facility game are not found lying around the map; they are called from numbered vehicle bays in the garages beside each unit’s headquarters, shelters and berths of each unit. A bay panel opens a menu that lists the vehicles the player’s unit may call, with their rank requirements and cooldowns.",
     "facts": [
       [
         "Call points",
@@ -4833,7 +4869,7 @@
       ],
       [
         "Bays and their limits",
-        "Sarp Guard garage: SG_1 and SG_3 to SG_6 issue the [[sentinel-lpv]]; SG_2 issues the [[kaya-zma]] (CRAG ACV), with an 8-minute cooldown and only for the Sarp Armored Response Team; the same bay also offers a desert camouflage option.\n\nIron Fist motor pool: IF_1 and IF_2 issue the [[altai-mbt]] (woodland camouflage option), with a 10-minute cooldown; IF_3 and IF_4 issue the [[taurus-mtv]] MTV-A without limit.\n\nNorthern Signal garage: NS_1 issues the [[frost-acv]] (first rank, 300 seconds).\n\nDagger flight line: DG_1 to DG_3 issue the [[k16-alaz]]; DG_4 (HAS 4) issues only the [[k21-kaan]], requiring the eighth rank with a 600-second cooldown. Aircraft are never called while the runway is closed.\n\nRockcove harbor: CG_1 to CG_9 issue the [[dolphin-rhib]], [[seagull-fpb]] and [[northwind-opv]]. Ships are moored in their berths and are marked as parked."
+        "Sarp Guard garage: SG_1 and SG_3 to SG_6 issue the [[sentinel-lpv]]; SG_2 issues the [[kaya-zma]] (CRAG ACV), with an 8-minute cooldown and only for the Sarp Armored Response Team; the same bay also offers a desert camouflage option.\n\nIron Fist garage, next to the regiment’s headquarters in SARPBURUN GARRISON: IF_1 and IF_2 issue the [[altai-mbt]] (woodland camouflage option), with a 10-minute cooldown; IF_3 and IF_4 issue the [[taurus-mtv]] MTV-A without limit.\n\nNorthern Signal garage, next to the battalion’s headquarters: NS_1 issues the [[frost-acv]] (first rank, 300 seconds); NS_2 and NS_3 issue the [[taurus-mtv]] MTV-C without limit.\n\nDagger flight line: DG_1 to DG_3 issue the [[k16-alaz]]; DG_4 (HAS 4) issues only the [[k21-kaan]], requiring the eighth rank with a 600-second cooldown. Aircraft are never called while the runway is closed.\n\nRockcove harbor: CG_1 to CG_9 issue the [[dolphin-rhib]], [[seagull-fpb]] and [[northwind-opv]]. Ships are moored in their berths and are marked as parked.\n\nThe [[doruk-ikmal]] has no bays yet: a site beside its logistics depot is reserved for a truck garage that will be sized to the regiment’s heavy trucks."
       ],
       [
         "Vehicle lifetime",
@@ -4912,11 +4948,11 @@
     "facts": [
       [
         "Armed forces",
-        "4th Sarp Guard Company · 27th Iron Fist Mechanized Infantry · 132nd Dagger Tactical Squadron · 6th Northern Signal Battalion · 3rd Coast Guard Command"
+        "4th Sarp Guard Company · 27th Iron Fist Mechanized Infantry · 132nd Dagger Tactical Squadron · 6th Northern Signal Battalion · 3rd Coast Guard Command · 18th Doruk Supply Regiment"
       ],
       [
         "Facility staff",
-        "Launch Scientists · Maintenance Crew · Logistics Crew · 18th Doruk Supply Regiment"
+        "Launch Scientists · Maintenance Crew · Logistics Crew"
       ],
       [
         "Hostiles",
@@ -4934,11 +4970,11 @@
     "sections": [
       [
         "Armed forces",
-        "[[sarp-muhafiz]] protects the facility and has two sub-units: Facility Security and the Sarp Armored Response Team. [[demir-iz]] operates the heavy armor. [[hancer]] flies the aircraft. [[kuzey-isaret]] provides communications and sensing. [[coast-guard-command]] patrols the sea."
+        "[[sarp-muhafiz]] protects the facility and has two sub-units: Facility Security and the Sarp Armored Response Team. [[demir-iz]] operates the heavy armor. [[hancer]] flies the aircraft. [[kuzey-isaret]] provides communications and sensing. [[coast-guard-command]] patrols the sea. [[doruk-ikmal]] is the military logistics regiment; it spawns at its logistics headquarters in SARPBURUN GARRISON."
       ],
       [
         "Facility staff",
-        "The Launch Scientists, Maintenance Crew, Logistics Crew and [[doruk-ikmal]] are the non-military staff who prepare the launch; see [[shift-system]]."
+        "The Launch Scientists, Maintenance Crew and Logistics Crew are the civilian staff who prepare the launch; see [[shift-system]]. The Logistics Crew spawns at the facility’s logistics depots."
       ],
       [
         "Hostiles",
@@ -4970,12 +5006,12 @@
   "update-log": {
     "title": "Skyfortress update log",
     "category": "Game systems",
-    "desc": "Development timeline of the Skyfortress Military Facility game, 4–13 November 2026.",
-    "lead": "This log lists the main updates to the Skyfortress Military Facility game in order, from the import of this archive on 4 November to the aircraft shelter doors of 13 November 2026. It was compiled from the project’s design documents and progress ledgers.",
+    "desc": "Development timeline of the Skyfortress Military Facility game, 4–14 November 2026.",
+    "lead": "This log lists the main updates to the Skyfortress Military Facility game in order, from the import of this archive on 4 November to the garrison rebuild of 14 November 2026. It was compiled from the project’s design documents and progress ledgers.",
     "facts": [
       [
         "Period",
-        "4–13 November 2026"
+        "4–14 November 2026"
       ],
       [
         "Game",
@@ -5018,6 +5054,10 @@
       [
         "13 November",
         "Aircraft shelter doors that open on demand were added and HAS 4 was reserved for the K-21 KAAN. The [[leopard-2a4-t1]] and the driver-gunner tank crew layout were designed in the workshop, and a female soldier body was started in Blender."
+      ],
+      [
+        "14 November",
+        "SARPBURUN GARRISON was rebuilt with 48-stud two-lane roads, kerbs, paved sidewalks, road markings, street lights and rows of pines; the armory, MP station and workshop were moved to make room. The 27th Iron Fist and the 6th Northern Signal each received a garage next to their headquarters, and Northern Signal can now call two [[taurus-mtv]] MTV-C as well as the [[frost-acv]] ([[vehicle-bays]]). The [[doruk-ikmal]] moved to ARMED FORCES and now spawns at a new logistics headquarters and central depot on the east side of the garrison, with ground reserved for a future truck garage; the civilian Logistics Crew spawns at the facility depots. A concept for the Elonian side’s aircraft carrier, [[usos-meridian]], was drawn."
       ]
     ],
     "related": [
@@ -5025,7 +5065,198 @@
       "vehicle-bays",
       "divisions-and-ranks",
       "day-night-cycle",
-      "skyfortress-4"
+      "skyfortress-4",
+      "usos-meridian",
+      "doruk-ikmal"
     ]
+  },
+  "usos-meridian": {
+    "title": "USOS Meridian (CVN-96)",
+    "category": "Vehicles",
+    "desc": "Ostanyan nuclear supercarrier deployed off Sarpburun with Elonia’s air wing embarked.",
+    "lead": "USOS Meridian (CVN-96) is a Meridian-class nuclear-powered supercarrier of the [[ostenya]] 7th Ocean Fleet. During the [[kriz]] it was sent into the Kalyon Sea and placed at the service of [[elonya]]: the ship, its catapults and its deck crew remain Ostanyan, while the fighters that launch from its deck belong to Elonia’s [[mizrak]]. It gives the [[aigaion]] the airfield at sea that Elonia, which has no carrier of its own, could not otherwise field.",
+    "facts": [
+      [
+        "Owner",
+        "[[ostenya]]"
+      ],
+      [
+        "Operator",
+        "Ostanyan Navy · 7th Ocean Fleet"
+      ],
+      [
+        "Class",
+        "Meridian-class nuclear supercarrier"
+      ],
+      [
+        "Hull number",
+        "CVN-96"
+      ],
+      [
+        "Deployment",
+        "Kalyon Sea, with the [[aigaion]]"
+      ],
+      [
+        "Embarked air wing",
+        "[[mizrak]] ([[m12-aster]] M-12N) · Ostanyan support aircraft"
+      ],
+      [
+        "Length",
+        "339 m (flight deck)"
+      ],
+      [
+        "Flight deck beam",
+        "82 m"
+      ],
+      [
+        "Catapults",
+        "4 electromagnetic"
+      ],
+      [
+        "Elevators",
+        "3 deck-edge"
+      ],
+      [
+        "Self-defense",
+        "RAM launchers · close-in guns · laser mounts"
+      ]
+    ],
+    "sections": [
+      [
+        "The Kalyon deployment",
+        "Elonia’s navy fields frigates and support ships but no aircraft carrier, and its defense industry depends on foreign suppliers. When [[ostenya]] declared its freedom of navigation patrols in the Kalyon Sea, it also sailed Meridian into the area and assigned the ship to support Elonian air operations without formally entering the war.\n\nThe arrangement is deliberately divided. Meridian keeps its Ostanyan ensign, captain and crew, who run the reactor, the bridge, the catapults, the arresting gear and the hangar. The aircraft that fly combat missions are Elonian, flown and maintained by Elonian personnel, and an Elonian air wing liaison works beside the ship’s air department in the island. The Elonian flag flies from the mast as the host air wing’s colors. Ostanya presents its role as running the ship, not fighting the war; Anataria regards the distinction as a fiction."
+      ],
+      [
+        "Flight deck",
+        "The flight deck carries a 9° angled landing area with three arresting wires and white ramp stripes at the stern. Two electromagnetic catapults run along the bow and two more along the waist of the angled deck, each with a raised jet blast deflector behind it. Three deck-edge elevators connect the flight deck to the hangar: two on the starboard side, one ahead of and one behind the island, and one on the port side. The hull number 96 is painted on the bow. Aircraft are parked in a herringbone row along the starboard bow and in a line aft of the island."
+      ],
+      [
+        "Island and sensors",
+        "The island is compact and stands on the starboard edge aft of midships. Its lower tier holds the navigation bridge and Primary Flight Control, whose raked glass band looks down over the landing area. The upper tier carries four flat AESA radar faces, one on each side, and a mast with a sensor dome and the flags. Rolling-airframe missile launchers, close-in guns and laser mounts sit on sponsons below the deck edge at the bow, the stern and the port waist."
+      ],
+      [
+        "Hangar",
+        "The hangar deck lies about 9.5 m above the waterline and is roughly 200 m long, 40 m wide and 9 m high. Open fire-division doors split it into bays. Pipes for fresh water, the fire main and JP-5 fuel run along the overhead, and the deck is marked with a yellow grid of tie-down points. The two starboard elevator openings let daylight and sea spray into the bays. Elonian M-12N fighters are stowed with their wingtips folded, beside maintenance spots, tow tractors and weapons skids."
+      ],
+      [
+        "Air wing",
+        "Elonia’s [[mizrak]] flies the [[m12-aster]] in its navalized M-12N form from the ship. Ostanyan crews fly the support aircraft: the [[ew4-halcyon]] airborne early warning aircraft, which feeds the air picture to the Elonian fighters and the [[aigaion]], and the [[sh70-petrel]] helicopters, which provide plane guard, search and rescue and anti-submarine cover."
+      ],
+      [
+        "In the game",
+        "As of November 2026, Meridian is in the concept stage. It will be modeled in Blender as the launch point for the Elonian side’s aircraft, at the same scale as the game’s aircraft: about 1,530 studs long and 370 studs wide across the flight deck, with the flight deck about 95 studs above the water. The concept drawings cover the hero view, the stern approach, the deck plan, the elevations, the hangar and Primary Flight Control."
+      ]
+    ],
+    "related": [
+      "ostenya",
+      "elonya",
+      "aigaion",
+      "mizrak",
+      "m12-aster",
+      "ew4-halcyon",
+      "sh70-petrel",
+      "kriz"
+    ],
+    "imageKey": "file:usos-meridian.jpg",
+    "draft": false
+  },
+  "ew4-halcyon": {
+    "title": "EW-4 Halcyon",
+    "category": "Vehicles",
+    "desc": "Ostanyan carrier-based airborne early warning aircraft.",
+    "lead": "The EW-4 Halcyon is a twin-turboprop airborne early warning aircraft of the [[ostenya]] navy, designed to operate from aircraft carriers. A rotating radar dome above the fuselage lets it watch the sea and the sky far beyond the horizon of a ship’s own sensors. Two Halcyons fly from [[usos-meridian]] during the [[kriz]].",
+    "facts": [
+      [
+        "Country",
+        "[[ostenya]]"
+      ],
+      [
+        "Class",
+        "Carrier airborne early warning aircraft"
+      ],
+      [
+        "Crew",
+        "2 pilots + 3 mission operators"
+      ],
+      [
+        "Engines",
+        "Twin turboprop"
+      ],
+      [
+        "Radar",
+        "Rotating radome, about 7 m across"
+      ],
+      [
+        "Deployed on",
+        "[[usos-meridian]]"
+      ]
+    ],
+    "sections": [
+      [
+        "Role",
+        "The Halcyon builds the air and surface picture for a carrier group and passes it to fighters and ships over data links. Off [[sarpburun]] it watches Anatarian air activity around [[skyfortress-4]] and guides the M-12N fighters of [[mizrak]] and the ships of the [[aigaion]]."
+      ],
+      [
+        "Design",
+        "A high, folding wing, a four-fin tail and the radome on its pylon give the aircraft its shape. The wings fold back along the fuselage so that it fits on the deck-edge elevators and in the hangar. It is launched by catapult and recovered on the arresting wires like the fighters."
+      ],
+      [
+        "Crew",
+        "The Halcyons aboard Meridian are flown and operated by Ostanyan crews. Elonian liaison officers receive the picture they produce, but the aircraft themselves are not part of Elonia’s inventory."
+      ]
+    ],
+    "related": [
+      "usos-meridian",
+      "ostenya",
+      "mizrak",
+      "aigaion",
+      "sh70-petrel"
+    ],
+    "draft": false
+  },
+  "sh70-petrel": {
+    "title": "SH-70 Petrel",
+    "category": "Vehicles",
+    "desc": "Ostanyan shipborne multi-mission helicopter.",
+    "lead": "The SH-70 Petrel is a twin-engine multi-mission helicopter of the [[ostenya]] navy. Aboard [[usos-meridian]] it flies plane guard during launches and recoveries, carries out search and rescue and covers the carrier group against submarines.",
+    "facts": [
+      [
+        "Country",
+        "[[ostenya]]"
+      ],
+      [
+        "Class",
+        "Shipborne multi-mission helicopter"
+      ],
+      [
+        "Crew",
+        "2 pilots + 2 crew"
+      ],
+      [
+        "Rotor",
+        "Four blades, folding"
+      ],
+      [
+        "Deployed on",
+        "[[usos-meridian]]"
+      ]
+    ],
+    "sections": [
+      [
+        "Role",
+        "During flight operations a Petrel hovers off the carrier’s side, ready to pick up a pilot who ejects or ditches. Between launch cycles the helicopters fly utility runs to the escorts of the [[aigaion]] and hunt for submarines with a dipping sonar."
+      ],
+      [
+        "Design",
+        "The four-bladed main rotor and the tail fold for stowage, so that the helicopter takes up little space in the hangar. Two spots on the starboard bow of the flight deck are kept for helicopters."
+      ]
+    ],
+    "related": [
+      "usos-meridian",
+      "ostenya",
+      "ew4-halcyon",
+      "aigaion"
+    ],
+    "draft": false
   }
 }
