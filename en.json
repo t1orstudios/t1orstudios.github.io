@@ -2675,7 +2675,7 @@
       "dosya-94-117",
       "kriz"
     ],
-    "imageKey": "",
+    "imageKey": "file:sarpburun-radar-istasyonu.jpg",
     "draft": false
   },
   "kara-kasim": {
@@ -4593,7 +4593,8 @@
       "seagull-fpb",
       "northwind-opv",
       "skyfortress-4"
-    ]
+    ],
+    "imageKey": "file:rockcove-station.jpg"
   },
   "sarpburun-air-base": {
     "title": "Sarpburun Air Base",
@@ -4663,7 +4664,8 @@
       "vehicle-bays",
       "arkent-jet-ussu",
       "skyfortress-4"
-    ]
+    ],
+    "imageKey": "file:sarpburun-air-base.jpg"
   },
   "karadere-village": {
     "title": "Karadere Village",
@@ -4718,7 +4720,8 @@
       "sarpburun",
       "skyfortress-4",
       "shift-system"
-    ]
+    ],
+    "imageKey": "file:karadere-village.jpg"
   },
   "coast-guard-command": {
     "title": "3rd Coast Guard Command",
@@ -4848,7 +4851,8 @@
       "kartal-7",
       "simsek-iii",
       "day-night-cycle"
-    ]
+    ],
+    "imageKey": "file:shift-system.jpg"
   },
   "vehicle-bays": {
     "title": "Vehicle bays",
@@ -4954,7 +4958,8 @@
       "shift-system",
       "skyfortress-4",
       "sarpburun"
-    ]
+    ],
+    "imageKey": "file:day-night-cycle.jpg"
   },
   "divisions-and-ranks": {
     "title": "Divisions and ranks",
@@ -5017,7 +5022,8 @@
       "hancer",
       "kuzey-isaret",
       "coast-guard-command"
-    ]
+    ],
+    "imageKey": "file:divisions-and-ranks.jpg"
   },
   "update-log": {
     "title": "Skyfortress update log",
