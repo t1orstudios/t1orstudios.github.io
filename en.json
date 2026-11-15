@@ -1727,11 +1727,11 @@
       ],
       [
         "Design and service",
-        "A single-pilot delta-wing configuration and a single jet engine form Aster’s basic design. Aircraft operated by [[mizrak]] squadron protect coastal airspace and island passages."
+        "Aster is a single-seat, twin-engine delta-canard fighter: close-coupled canards sit just behind the cockpit, ahead of a cropped delta wing, and two engines lie side by side in the rear fuselage under a single fin. Aircraft operated by [[mizrak]] squadron protect coastal airspace and island passages."
       ],
       [
         "Naval variant (M-12N)",
-        "For operations from [[usos-meridian]], Elonia’s Aster fleet received a carrier-capable conversion, the M-12N. It adds a tailhook, a strengthened landing gear with a catapult launch bar and folding wingtips that let the aircraft fit on the deck-edge elevators and in the hangar. The M-12N keeps the single engine, the cockpit and the weapons of the land-based aircraft and wears the same gray scheme with Elonia’s blue and white fin stripes. See [[m12n-aster]]."
+        "For operations from [[usos-meridian]], Elonia’s Aster fleet received a carrier-capable conversion, the M-12N. It adds a tailhook, a strengthened landing gear with a catapult launch bar and folding wingtips that let the aircraft fit on the deck-edge elevators and in the hangar. The M-12N keeps the two engines, the cockpit and the weapons of the land-based aircraft and wears the same gray scheme with Elonia’s blue and white fin stripes. See [[m12n-aster]]."
       ]
     ],
     "related": [
@@ -5289,7 +5289,7 @@
     "title": "M-12N Aster",
     "category": "Vehicles",
     "desc": "Carrier-capable version of the M-12 Aster, flown by Elonia from USOS Meridian.",
-    "lead": "The M-12N Aster is the navalized version of Elonia’s [[m12-aster]] multirole fighter. It was converted so that [[mizrak]] could fly from the Ostanyan supercarrier [[usos-meridian]] during the [[kriz]]. The picture shows the first prototype, N01, on a carrier deck with its wingtips folded.",
+    "lead": "The M-12N Aster is the navalized version of Elonia’s [[m12-aster]] multirole fighter. It was converted so that [[mizrak]] could fly from the Ostanyan supercarrier [[usos-meridian]] during the [[kriz]]. The picture shows aircraft 41-201 of the squadron on the flight deck.",
     "facts": [
       [
         "Country",
@@ -5323,7 +5323,7 @@
     "sections": [
       [
         "Changes from the land version",
-        "The M-12N adds a tailhook under the rear fuselage, a stronger main landing gear and a twin-wheel nose leg with a catapult launch bar. The outer wing panels fold upward so that the aircraft fits on the deck-edge elevators and in the hangar of [[usos-meridian]]. A fixed air-refueling probe sits beside the cockpit. The single engine, the cockpit and the weapons are the same as on the land-based aircraft."
+        "The M-12N adds a tailhook under the rear fuselage, a stronger main landing gear and a twin-wheel nose leg with a catapult launch bar. The outer wing panels fold upward so that the aircraft fits on the deck-edge elevators and in the hangar of [[usos-meridian]]. A fixed air-refueling probe sits beside the cockpit. The two engines, the cockpit and the gun are the same as on the land-based aircraft."
       ],
       [
         "Prototype N01",
@@ -5332,6 +5332,10 @@
       [
         "In service",
         "Elonian pilots and maintainers fly and service the M-12N; the Ostanyan crew of [[usos-meridian]] runs the catapults, arresting gear and hangar. The fighters are supported by Ostanyan [[ew4-halcyon]] early warning aircraft."
+      ],
+      [
+        "In the game",
+        "In the Skyfortress Military Facility game the M-12N is a flyable twin-engine fighter of the 41st Spear Tactical Squadron, the game name of [[mizrak]]. Only members of that squadron can take the pilot seat.\n\nIt carries a fixed load: a 23 mm gun with 400 rounds, two PL-9 heat-seeking missiles on the wingtips, two GB-250 guided bombs under the wings, a centerline fuel tank and 30 flares. Keys 1, 2 and 3 select the gun, the missiles and the bombs. The GB-250 glides to a point or a vehicle marked through the HUD and only works inside its release range; it damages vehicles and players but not buildings.\n\nOn the ground the wings fold with K and the tailhook drops with J. The canopy, control surfaces, nozzles, landing gear and cockpit displays all move. Folded wings limit the aircraft to slow taxiing, and damaged hydraulics stop the wings and the hook from moving."
       ]
     ],
     "related": [
@@ -5341,7 +5345,7 @@
       "elonya",
       "ew4-halcyon"
     ],
-    "imageKey": "file:m12n-prototype.jpg",
+    "imageKey": "file:m12n-aster.jpg",
     "draft": false
   }
 }
