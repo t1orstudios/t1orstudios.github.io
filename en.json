@@ -436,7 +436,8 @@
       "kartal-7",
       "skyfortress-4",
       "anatarya"
-    ]
+    ],
+    "imageKey": "file:gozcu-3.jpg"
   },
   "kartal-7": {
     "title": "KARTAL-7",
@@ -919,7 +920,8 @@
       "cam-perde",
       "sarpburun-dosyasi",
       "kuzey-kusagi"
-    ]
+    ],
+    "imageKey": "logo-elonya-istihbarati"
   },
   "sarpburun-dosyasi": {
     "title": "Sarpburun Dossier",
@@ -972,7 +974,8 @@
       "kuzey-kusagi",
       "kriz",
       "kartal-7"
-    ]
+    ],
+    "imageKey": "file:sarpburun-dosyasi.jpg"
   },
   "cam-perde": {
     "title": "Glass Curtain",
@@ -1012,7 +1015,8 @@
       "sarpburun-dosyasi",
       "kriz",
       "kuzey-kusagi"
-    ]
+    ],
+    "imageKey": "file:cam-perde.jpg"
   },
   "avrupa": {
     "title": "Avren mainland",
@@ -1052,7 +1056,7 @@
       "anatarya",
       "avren-birligi"
     ],
-    "imageKey": "",
+    "imageKey": "file:avrupa.jpg",
     "draft": false
   },
   "istara": {
@@ -1094,7 +1098,7 @@
       "istara-bogazi",
       "sarpburun"
     ],
-    "imageKey": "",
+    "imageKey": "file:istara.jpg",
     "draft": false
   },
   "istara-bogazi": {
@@ -1137,7 +1141,7 @@
       "elonya",
       "kalyon-denizi"
     ],
-    "imageKey": "",
+    "imageKey": "file:istara-bogazi.jpg",
     "draft": false
   },
   "veloria": {
@@ -1713,7 +1717,7 @@
       ],
       [
         "Naval variant",
-        "M-12N (carrier-capable)"
+        "[[m12n-aster]] (carrier-capable)"
       ]
     ],
     "sections": [
@@ -1727,14 +1731,15 @@
       ],
       [
         "Naval variant (M-12N)",
-        "For operations from [[usos-meridian]], Elonia’s Aster fleet received a carrier-capable conversion, the M-12N. It adds a tailhook, a strengthened landing gear with a catapult launch bar and folding wingtips that let the aircraft fit on the deck-edge elevators and in the hangar. The M-12N keeps the single engine, the cockpit and the weapons of the land-based aircraft and wears the same gray scheme with Elonia’s blue and white fin stripes."
+        "For operations from [[usos-meridian]], Elonia’s Aster fleet received a carrier-capable conversion, the M-12N. It adds a tailhook, a strengthened landing gear with a catapult launch bar and folding wingtips that let the aircraft fit on the deck-edge elevators and in the hangar. The M-12N keeps the single engine, the cockpit and the weapons of the land-based aircraft and wears the same gray scheme with Elonia’s blue and white fin stripes. See [[m12n-aster]]."
       ]
     ],
     "related": [
       "elonya",
       "aigaion",
       "mizrak",
-      "usos-meridian"
+      "usos-meridian",
+      "m12n-aster"
     ],
     "imageKey": "air-m12",
     "draft": false
@@ -2039,7 +2044,8 @@
       "skyfortress-4",
       "kriz",
       "m12-aster",
-      "usos-meridian"
+      "usos-meridian",
+      "m12n-aster"
     ],
     "imageKey": "patch-mizrak",
     "draft": false
@@ -2261,7 +2267,7 @@
       "kipraya-tampon-hatti",
       "kalyon-denizi"
     ],
-    "imageKey": "",
+    "imageKey": "file:kipraya-adasi.jpg",
     "draft": false
   },
   "kipraya-tampon-hatti": {
@@ -2306,7 +2312,7 @@
       "kipraya",
       "kuzey-kipraya"
     ],
-    "imageKey": "",
+    "imageKey": "file:kipraya-tampon-hatti.jpg",
     "draft": false
   },
   "kuzey-isaret": {
@@ -2786,7 +2792,7 @@
       "cam-perde",
       "kriz"
     ],
-    "imageKey": "",
+    "imageKey": "file:dosya-94-117.jpg",
     "draft": false
   },
   "ostenya": {
@@ -2839,7 +2845,7 @@
       "kriz",
       "usos-meridian"
     ],
-    "imageKey": "",
+    "imageKey": "flag-ostenya",
     "draft": false
   },
   "ursya": {
@@ -2887,7 +2893,7 @@
       "skyfortress-4",
       "kriz"
     ],
-    "imageKey": "",
+    "imageKey": "flag-ursya",
     "draft": false
   },
   "huaxia": {
@@ -2935,7 +2941,7 @@
       "ursya",
       "kriz"
     ],
-    "imageKey": "",
+    "imageKey": "flag-huaxia",
     "draft": false
   },
   "anasas": {
@@ -2983,7 +2989,7 @@
       "sarpsan",
       "korsan"
     ],
-    "imageKey": "",
+    "imageKey": "logo-anasas",
     "draft": false
   },
   "baykut": {
@@ -3031,7 +3037,7 @@
       "k21-kaan",
       "kriz"
     ],
-    "imageKey": "",
+    "imageKey": "logo-baykut",
     "draft": false
   },
   "sarpsan": {
@@ -3078,7 +3084,7 @@
       "k21-kaan",
       "dosya-94-117"
     ],
-    "imageKey": "",
+    "imageKey": "logo-sarpsan",
     "draft": false
   },
   "korsan": {
@@ -3121,7 +3127,7 @@
       "skyfortress-4",
       "bayrak-t2"
     ],
-    "imageKey": "",
+    "imageKey": "logo-korsan",
     "draft": false
   },
   "k21-kaan": {
@@ -3380,7 +3386,7 @@
       "facilities"
     ],
     "category": "Facilities",
-    "imageKey": "triton-botu",
+    "imageKey": "file:pelagos-karakolu.jpg",
     "related": [
       "kalyon-adalari",
       "kalyon-denizi",
@@ -3440,7 +3446,7 @@
       "facilities"
     ],
     "category": "Facilities",
-    "imageKey": "doruk-ikmal",
+    "imageKey": "file:kara-kasim-feneri.jpg",
     "related": [
       "kalyon-denizi",
       "kalyon-adalari",
@@ -3501,7 +3507,7 @@
       "facilities"
     ],
     "category": "Facilities",
-    "imageKey": "kalkan-hss",
+    "imageKey": "file:kor-kalkan-bataryasi.jpg",
     "related": [
       "kalkan-hss",
       "korsan",
@@ -3566,7 +3572,7 @@
       "facilities"
     ],
     "category": "Facilities",
-    "imageKey": "pelagos-devriye",
+    "imageKey": "file:lerya-jet-ussu.jpg",
     "related": [
       "elonya",
       "m12-aster",
@@ -3626,7 +3632,7 @@
       "facilities"
     ],
     "category": "Facilities",
-    "imageKey": "doruk-ikmal",
+    "imageKey": "file:sarp-gecidi.jpg",
     "related": [
       "sarpburun",
       "skyfortress-4",
@@ -3687,7 +3693,7 @@
       "facilities"
     ],
     "category": "Facilities",
-    "imageKey": "sarp-muhafiz",
+    "imageKey": "file:istara-garnizonu.jpg",
     "related": [
       "istara",
       "istara-bogazi",
@@ -3748,7 +3754,7 @@
       "facilities"
     ],
     "category": "Facilities",
-    "imageKey": "aigaion",
+    "imageKey": "file:lerya-deniz-ussu.jpg",
     "related": [
       "elonya",
       "aigaion",
@@ -3809,7 +3815,7 @@
       "facilities"
     ],
     "category": "Facilities",
-    "imageKey": "kartal",
+    "imageKey": "file:arkent-jet-ussu.jpg",
     "related": [
       "anatarya",
       "k21-kaan",
@@ -3871,7 +3877,7 @@
       "facilities"
     ],
     "category": "Facilities",
-    "imageKey": "sarp-muhafiz",
+    "imageKey": "file:sarpburun-radar.jpg",
     "related": [
       "sarpburun",
       "skyfortress-4",
@@ -3992,7 +3998,8 @@
       "kaya-zma",
       "vehicle-bays",
       "frost-acv"
-    ]
+    ],
+    "imageKey": "file:altai-mbt.jpg"
   },
   "leopard-2a4-t1": {
     "title": "Leopard 2A4 T1",
@@ -4077,7 +4084,8 @@
       "vehicle-bays",
       "divisions-and-ranks",
       "update-log"
-    ]
+    ],
+    "imageKey": "file:leopard-2a4-t1.jpg"
   },
   "sentinel-lpv": {
     "title": "Sentinel LPV",
@@ -4141,7 +4149,8 @@
       "kaya-zma",
       "taurus-mtv",
       "vehicle-bays"
-    ]
+    ],
+    "imageKey": "file:sentinel-lpv.jpg"
   },
   "taurus-mtv": {
     "title": "Taurus MTV",
@@ -4203,7 +4212,8 @@
       "frost-acv",
       "sentinel-lpv",
       "vehicle-bays"
-    ]
+    ],
+    "imageKey": "file:taurus-mtv.jpg"
   },
   "frost-acv": {
     "title": "Frost ACV",
@@ -4277,7 +4287,8 @@
       "k21-kaan",
       "altai-mbt",
       "vehicle-bays"
-    ]
+    ],
+    "imageKey": "file:frost-acv.jpg"
   },
   "dolphin-rhib": {
     "title": "Dolphin RHIB",
@@ -4329,7 +4340,8 @@
       "seagull-fpb",
       "northwind-opv",
       "rockcove-station"
-    ]
+    ],
+    "imageKey": "file:dolphin-rhib.jpg"
   },
   "seagull-fpb": {
     "title": "Seagull FPB",
@@ -4385,7 +4397,8 @@
       "dolphin-rhib",
       "northwind-opv",
       "rockcove-station"
-    ]
+    ],
+    "imageKey": "file:seagull-fpb.jpg"
   },
   "northwind-opv": {
     "title": "Northwind OPV",
@@ -4445,7 +4458,8 @@
       "seagull-fpb",
       "dolphin-rhib",
       "rockcove-station"
-    ]
+    ],
+    "imageKey": "file:northwind-opv.jpg"
   },
   "sarp-south-shelter": {
     "title": "Sarp South Shelter",
@@ -4758,7 +4772,8 @@
       "dolphin-rhib",
       "skyfortress-4",
       "pelagos-karakolu"
-    ]
+    ],
+    "imageKey": "patch-coast-guard-command"
   },
   "shift-system": {
     "title": "Shift system",
@@ -4891,7 +4906,8 @@
       "k16-alaz",
       "k21-kaan",
       "rockcove-station"
-    ]
+    ],
+    "imageKey": "file:vehicle-bays.jpg"
   },
   "day-night-cycle": {
     "title": "Day–night cycle",
@@ -5068,7 +5084,8 @@
       "skyfortress-4",
       "usos-meridian",
       "doruk-ikmal"
-    ]
+    ],
+    "imageKey": "file:update-log.jpg"
   },
   "usos-meridian": {
     "title": "USOS Meridian (CVN-96)",
@@ -5140,7 +5157,7 @@
       ],
       [
         "Air wing",
-        "Elonia’s [[mizrak]] flies the [[m12-aster]] in its navalized M-12N form from the ship. Ostanyan crews fly the support aircraft: the [[ew4-halcyon]] airborne early warning aircraft, which feeds the air picture to the Elonian fighters and the [[aigaion]], and the [[sh70-petrel]] helicopters, which provide plane guard, search and rescue and anti-submarine cover."
+        "Elonia’s [[mizrak]] flies the [[m12n-aster]], the navalized form of the [[m12-aster]], from the ship. Ostanyan crews fly the support aircraft: the [[ew4-halcyon]] airborne early warning aircraft, which feeds the air picture to the Elonian fighters and the [[aigaion]], and the [[sh70-petrel]] helicopters, which provide plane guard, search and rescue and anti-submarine cover."
       ],
       [
         "In the game",
@@ -5155,7 +5172,8 @@
       "m12-aster",
       "ew4-halcyon",
       "sh70-petrel",
-      "kriz"
+      "kriz",
+      "m12n-aster"
     ],
     "imageKey": "file:usos-meridian.jpg",
     "draft": false
@@ -5212,7 +5230,8 @@
       "aigaion",
       "sh70-petrel"
     ],
-    "draft": false
+    "draft": false,
+    "imageKey": "file:ew4-halcyon.jpg"
   },
   "sh70-petrel": {
     "title": "SH-70 Petrel",
@@ -5257,6 +5276,66 @@
       "ew4-halcyon",
       "aigaion"
     ],
+    "draft": false,
+    "imageKey": "file:sh70-petrel.jpg"
+  },
+  "m12n-aster": {
+    "title": "M-12N Aster",
+    "category": "Vehicles",
+    "desc": "Carrier-capable version of the M-12 Aster, flown by Elonia from USOS Meridian.",
+    "lead": "The M-12N Aster is the navalized version of Elonia’s [[m12-aster]] multirole fighter. It was converted so that [[mizrak]] could fly from the Ostanyan supercarrier [[usos-meridian]] during the [[kriz]]. The picture shows the first prototype, N01, on a carrier deck with its wingtips folded.",
+    "facts": [
+      [
+        "Country",
+        "[[elonya]]"
+      ],
+      [
+        "Base type",
+        "[[m12-aster]]"
+      ],
+      [
+        "Role",
+        "Carrier-based multirole fighter"
+      ],
+      [
+        "Operator",
+        "[[mizrak]]"
+      ],
+      [
+        "Deployed on",
+        "[[usos-meridian]]"
+      ],
+      [
+        "Prototype",
+        "N01"
+      ],
+      [
+        "Crew",
+        "1"
+      ]
+    ],
+    "sections": [
+      [
+        "Changes from the land version",
+        "The M-12N adds a tailhook under the rear fuselage, a stronger main landing gear and a twin-wheel nose leg with a catapult launch bar. The outer wing panels fold upward so that the aircraft fits on the deck-edge elevators and in the hangar of [[usos-meridian]]. A fixed air-refueling probe sits beside the cockpit. The single engine, the cockpit and the weapons are the same as on the land-based aircraft."
+      ],
+      [
+        "Prototype N01",
+        "The first converted aircraft, N01, flew its trials in gray with Elonia’s blue and white fin stripes, a red and white test boom on the nose and an orange band around the rear fuselage that marks it as a test aircraft. It is shown here on the bow catapult of [[usos-meridian]]."
+      ],
+      [
+        "In service",
+        "Elonian pilots and maintainers fly and service the M-12N; the Ostanyan crew of [[usos-meridian]] runs the catapults, arresting gear and hangar. The fighters are supported by Ostanyan [[ew4-halcyon]] early warning aircraft."
+      ]
+    ],
+    "related": [
+      "m12-aster",
+      "mizrak",
+      "usos-meridian",
+      "elonya",
+      "ew4-halcyon"
+    ],
+    "imageKey": "file:m12n-prototype.jpg",
     "draft": false
   }
 }
