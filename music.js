@@ -19,20 +19,19 @@
   let pending = false;
   let failed = false;
   let blocked = false;
-  const en = () => document.documentElement.lang.startsWith('en');
   function persist() {
     try { sessionStorage.setItem(key, JSON.stringify({ enabled: wanted, volume: audio.volume, time: audio.currentTime })); } catch {}
   }
   function draw() {
     const playing = !audio.paused;
-    button.textContent = pending ? (en() ? 'Loading…' : 'Yükleniyor…') : playing ? (en() ? 'Ⅱ Pause music' : 'Ⅱ Müziği durdur') : (en() ? '▶ Play music' : '▶ Müziği aç');
+    button.textContent = pending ? 'Loading…' : playing ? 'Ⅱ Pause music' : '▶ Play music';
     button.setAttribute('aria-pressed', String(playing));
     button.disabled = pending;
-    panel.setAttribute('aria-label', en() ? 'Archive music' : 'Arşiv müziği');
-    volume.setAttribute('aria-label', en() ? 'Music volume' : 'Müzik ses seviyesi');
-    panel.querySelector('.music-volume span').textContent = en() ? 'Volume' : 'Ses';
-    panel.querySelector('.music-conversion').textContent = en() ? 'Converted to Ogg Opus; composition unchanged.' : 'Ogg Opus biçimine dönüştürüldü; beste değiştirilmedi.';
-    status.textContent = blocked ? (en() ? 'Click anywhere to start music.' : 'Müziğin başlaması için sayfaya dokun.') : failed ? (en() ? 'Music could not load. Tap to retry.' : 'Müzik yüklenemedi. Yeniden denemek için bas.') : 'Five Armies · Kevin MacLeod';
+    panel.setAttribute('aria-label', 'Archive music');
+    volume.setAttribute('aria-label', 'Music volume');
+    panel.querySelector('.music-volume span').textContent = 'Volume';
+    panel.querySelector('.music-conversion').textContent = 'Converted to Ogg Opus; composition unchanged.';
+    status.textContent = blocked ? 'Click anywhere to start music.' : failed ? 'Music could not load. Tap to retry.' : 'Five Armies · Kevin MacLeod';
   }
   async function play() {
     if (pending || !audio.paused) return;

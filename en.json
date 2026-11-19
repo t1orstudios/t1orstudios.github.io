@@ -1644,7 +1644,7 @@
       ],
       [
         "In the game: CRAG ACV",
-        "In the game the Kaya ZMA is shown as the CRAG ACV (Armored Combat Vehicle; ZMA stands for Zırhlı Muharebe Aracı). Its hull is about 36 × 14 × 11 studs. Crew seats are limited to the Sarp Armored Response Team; passenger seats are open to everyone. It is called from bay SG_2 of the Sarp Guard garage with an 8-minute cooldown, regardless of rank, and a desert camouflage option is available there. The vehicle workshop was the first place where the driving, seat, weapon and damage systems of all vehicles were built."
+        "In the game the Kaya ZMA is shown as the CRAG ACV (Armored Combat Vehicle). Its hull is about 36 × 14 × 11 studs. Crew seats are limited to the Sarp Armored Response Team; passenger seats are open to everyone. It is called from bay SG_2 of the Sarp Guard garage with an 8-minute cooldown, regardless of rank, and a desert camouflage option is available there. The vehicle workshop was the first place where the driving, seat, weapon and damage systems of all vehicles were built."
       ]
     ],
     "related": [
@@ -4219,7 +4219,7 @@
     "title": "Frost ACV",
     "category": "Vehicles",
     "desc": "Armored command vehicle with a deployable sensor mast of the 6th Northern Signal Battalion.",
-    "lead": "The Frost ACV (Armored Command Vehicle) is a 4×4 MRAP-class command vehicle of [[kuzey-isaret]]. It stops, raises a telescopic sensor mast, detects aircraft and ground vehicles and shares those contacts by data link with friendly vehicle displays. The name is the English form of the Turkish “Ayaz”.",
+    "lead": "The Frost ACV (Armored Command Vehicle) is a 4×4 MRAP-class command vehicle of [[kuzey-isaret]]. It stops, raises a telescopic sensor mast, detects aircraft and ground vehicles and shares those contacts by data link with friendly vehicle displays.",
     "facts": [
       [
         "Country",
@@ -5011,7 +5011,7 @@
       ],
       [
         "Names and labels",
-        "All text the player sees is in English, and unit names use the forms Iron Fist (formerly Demir İz) and Dagger (Hançer). The facility itself is called SKYFORTRESS-4 in the game."
+        "All text the player sees is in English, and unit names use the forms Iron Fist and Dagger. The facility itself is called SKYFORTRESS-4 in the game."
       ]
     ],
     "related": [

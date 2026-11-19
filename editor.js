@@ -10,7 +10,7 @@ const slugify=s=>s.toLocaleLowerCase('en').normalize('NFD').replace(/[\u0300-\u0
 async function request(path,method='GET',body){
  const response=await fetch(path.startsWith('https:')?path:API+path,{method,headers:{'Accept':'application/vnd.github+json','Authorization':'Bearer '+token,'Content-Type':'application/json'},body:body?JSON.stringify(body):undefined,cache:'no-store'});
  let data;try{data=await response.json()}catch{throw Error('GitHub response could not be read ('+response.status+').')}
- if(!response.ok)throw Error(response.status===401?'The access token is invalid or has expired.':response.status===403?'This account has no write access to the repository, or API access is restricted.':response.status===409||response.status===422?'Depo bu sırada değişti. Sayfayı yenileyip tekrar dene.':data.message||'GitHub hatası '+response.status);
+ if(!response.ok)throw Error(response.status===401?'The access token is invalid or has expired.':response.status===403?'This account has no write access to the repository, or API access is restricted.':response.status===409||response.status===422?'The repository changed meanwhile. Reload the page and try again.':data.message||'GitHub error '+response.status);
  return data;
 }
 function decodeBase64(content){const bytes=Uint8Array.from(atob(content.replace(/\s/g,'')),c=>c.charCodeAt(0));return new TextDecoder().decode(bytes)}
