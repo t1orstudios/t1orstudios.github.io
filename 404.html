@@ -2,14 +2,17 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <meta name="theme-color" content="#0e1622">
+  <meta name="theme-color" content="#0b111b">
   <meta name="color-scheme" content="dark">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="Two countries. One coast. A conflict reaching into orbit. Military archive records, bases and classified files of the 2036 SKYFORTRESS-4 Crisis between Anataria and Elonia.">
   <title>Skyfortress Archive — 2036 Regional Encyclopedia</title>
-  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
-  <link rel="apple-touch-icon" href="/favicon.svg">
-  <link rel="stylesheet" href="/style.css?v=4d2c3d07202e">
+  <link rel="icon" href="/favicon.svg?v=44ebdd2f0fcf" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="/favicon.svg?v=44ebdd2f0fcf">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Serif:wght@500;600&display=swap">
+  <link rel="stylesheet" href="/style.css?v=c5a527345eb9">
   <link rel="canonical" href="https://t1orstudios.github.io/">
   <meta property="og:site_name" content="Skyfortress Archive">
   <meta property="og:type" content="website">
@@ -29,15 +32,53 @@
   <meta name="twitter:image" content="https://t1orstudios.github.io/skyfortress-4.jpg">
 </head>
 <body>
+  <a href="#main" class="skip-link">Skip to content</a>
   <div class="fiction-banner" id="fiction-banner">Everything on this site is fictional.</div>
-  <header>
-    <a class="brand" href="/home"><span class="mark">S<span>4</span></span><span>SKYFORTRESS <b>ARCHIVE</b><small>REGIONAL ENCYCLOPEDIA</small></span></a>
-    <div class="search"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Search the archive…" aria-label="Search the archive" autocomplete="off"><kbd>/</kbd><div id="results" hidden></div></div>
-    <a class="admin-entry" href="/edit.html">Edit the wiki</a>
-  </header>
+  <div class="site-header-sentinel" aria-hidden="true"></div>
+  <div class="site-header-wrap">
+    <header class="site-header">
+      <button type="button" id="drawer-open" class="menu-trigger" aria-label="Open navigation menu" aria-expanded="false" aria-controls="nav-drawer">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true">
+          <path d="M4 7h16M4 12h16M4 17h16"/>
+        </svg>
+        <span>Explore</span>
+      </button>
+      <a class="brand" href="/home">
+        <span class="mark">S<span>4</span></span>
+        <span>SKYFORTRESS <b>ARCHIVE</b><small>REGIONAL ENCYCLOPEDIA</small></span>
+      </a>
+      <div class="search" role="search">
+        <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <circle cx="11" cy="11" r="7"/>
+          <path d="m20 20-3.5-3.5"/>
+        </svg>
+        <input id="search" type="search" placeholder="Search the archive…" aria-label="Search the archive" role="combobox" aria-autocomplete="list" aria-expanded="false" aria-controls="results" autocomplete="off">
+        <kbd>/</kbd>
+        <div id="results" role="listbox" aria-label="Search results" hidden></div>
+      </div>
+      <div class="header-actions">
+        <a class="header-action" href="/harita-en.html">Political map</a>
+        <a class="admin-entry" href="/edit.html">Edit wiki</a>
+      </div>
+    </header>
+  </div>
+
+  <dialog id="nav-drawer" class="nav-drawer" aria-label="Archive navigation">
+    <div class="nav-drawer-scroller">
+      <div class="nav-drawer-sheet">
+        <div class="drawer-head">
+          <span class="drawer-title">Explore Archive</span>
+          <button type="button" id="drawer-close" class="drawer-close" aria-label="Close navigation menu" autofocus>✕</button>
+        </div>
+        <nav id="drawer-nav" class="drawer-nav" aria-label="Mobile navigation"></nav>
+        <div class="drawer-foot">Regional records · 2036 Crisis · EN</div>
+      </div>
+    </div>
+  </dialog>
+
   <div class="layout">
     <aside class="sidebar">
-      <p class="nav-label">EXPLORE</p>
+      <p class="nav-label">Explore</p>
       <nav id="nav" aria-label="Main navigation"></nav>
       <div class="sidebar-note">
         <span>SKYFORTRESS ARCHIVE</span>
@@ -47,16 +88,16 @@
     </aside>
     <main id="main" tabindex="-1"></main>
     <aside class="contents">
-      <p class="nav-label">ON THIS PAGE</p>
+      <p class="nav-label">On this page</p>
       <nav id="toc" aria-label="Contents"></nav>
-      <div class="reading-note">ARCHIVE NOTE<p>Blue names open the related encyclopedia entry.</p></div>
+      <div class="reading-note">ARCHIVE NOTE<p>Blue links open the related encyclopedia dossier.</p></div>
     </aside>
   </div>
   <footer>
     <span>SKYFORTRESS ARCHIVE</span>
-    <span>Geography · History · Aviation</span>
+    <span>Geography · History · Aviation · Units</span>
     <a href="/all-articles">Article index ↗</a>
   </footer>
-  <script src="/pages.js?v=5b2932242631" defer></script>
+  <script src="/pages.js?v=765a53de10a3" defer></script>
 </body>
 </html>

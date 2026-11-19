@@ -178,7 +178,7 @@
       ],
       [
         "Principal units",
-        "[[aigaion]], [[mizrak]] and [[nereus-komando]] represent naval, air and special mission elements. [[m12-aster]], [[p8-pelagos]], [[triton-botu]], and the group’s frigates and support ships undertake different roles. Elonian aircraft also fly from the Ostanyan supercarrier [[usos-meridian]]."
+        "[[aigaion]], [[mizrak]] and [[nereus-komando]] represent naval, air and special mission elements. [[m12-aster]], [[p8-pelagos]], [[triton-botu]], and the group’s frigates and support ships undertake different roles. Elonian aircraft also fly from the Ostanian supercarrier [[usos-meridian]]."
       ],
       [
         "Kipraya policy",
@@ -546,7 +546,7 @@
       ],
       [
         "Carrier support",
-        "[[usos-meridian]] (Ostanyan)"
+        "[[usos-meridian]] (Ostanian)"
       ]
     ],
     "sections": [
@@ -568,7 +568,7 @@
       ],
       [
         "Carrier support",
-        "The group does not include an aircraft carrier of its own. During [[kriz]] the Ostanyan supercarrier [[usos-meridian]] sailed with it, carrying the M-12N fighters of [[mizrak]] and Ostanyan early warning aircraft. AIGAION and THALASSA screen the carrier, and [[kallisto-ikmal]] shares the group’s replenishment duties."
+        "The group does not include an aircraft carrier of its own. During [[kriz]] the Ostanian supercarrier [[usos-meridian]] sailed with it, carrying the M-12N fighters of [[mizrak]] and Ostanian early warning aircraft. AIGAION and THALASSA screen the carrier, and [[kallisto-ikmal]] shares the group’s replenishment duties."
       ]
     ],
     "related": [
@@ -1060,10 +1060,10 @@
     "draft": false
   },
   "istara": {
-    "title": "İstara",
+    "title": "Istara",
     "category": "Geography",
     "desc": "The strait city connecting Anataria’s two shores.",
-    "lead": "İstara is a port and transit city within [[anatarya]] that developed around [[istara-bogazi]]. The settlement extends between the Avren side and the main peninsula. Linking the shores of two continents, the city is one of the region’s most important trade passages. Anataria’s capital is Arkent.",
+    "lead": "Istara is a port and transit city within [[anatarya]] that developed around [[istara-bogazi]]. The settlement extends between the Avren side and the main peninsula. Linking the shores of two continents, the city is one of the region’s most important trade passages. Anataria’s capital is Arkent.",
     "facts": [
       [
         "Country",
@@ -1102,7 +1102,7 @@
     "draft": false
   },
   "istara-bogazi": {
-    "title": "İstara Strait",
+    "title": "Istara Strait",
     "category": "Geography",
     "desc": "The narrow waterway connecting the Northern Sea and the Inland Sea.",
     "lead": "The Istara Strait is a narrow maritime chokepoint connecting the exit of the [[kalyon-denizi]] to southern shipping routes along the Avren mainland.",
@@ -1131,7 +1131,7 @@
       ],
       [
         "Distinction from the land border",
-        "Anatarya and [[elonya]] share a land border on the Avren side. This border lies west of İstara Strait; both shores around the strait belong to Anataria."
+        "Anatarya and [[elonya]] share a land border on the Avren side. This border lies west of Istara Strait; both shores around the strait belong to Anataria."
       ]
     ],
     "related": [
@@ -1359,7 +1359,7 @@
       ],
       [
         "Economy and society",
-        "Energy, heavy machinery, railways and port trade are important sources of revenue. Keeping the commercial connection from the Northern Sea to İstara Strait open is a foreign policy priority."
+        "Energy, heavy machinery, railways and port trade are important sources of revenue. Keeping the commercial connection from the Northern Sea to Istara Strait open is a foreign policy priority."
       ],
       [
         "SKYFORTRESS-4 Crisis",
@@ -2036,7 +2036,7 @@
       ],
       [
         "Carrier operations",
-        "During [[kriz]] the detachment embarked its M-12N Aster fighters aboard [[usos-meridian]], an Ostanyan supercarrier assigned to support Elonian air operations. Elonian pilots and maintainers fly and service the aircraft; Ostanyan crews run the catapults, arresting gear and hangar. Flying from the carrier lets the detachment reach [[sarpburun]] without depending on airfields on the Elonian mainland."
+        "During [[kriz]] the detachment embarked its M-12N Aster fighters aboard [[usos-meridian]], an Ostanian supercarrier assigned to support Elonian air operations. Elonian pilots and maintainers fly and service the aircraft; Ostanian crews run the catapults, arresting gear and hangar. Flying from the carrier lets the detachment reach [[sarpburun]] without depending on airfields on the Elonian mainland."
       ]
     ],
     "related": [
@@ -2796,10 +2796,10 @@
     "draft": false
   },
   "ostenya": {
-    "title": "United States of Ostanya",
+    "title": "United States of Ostania",
     "category": "Countries",
     "desc": "Transoceanic superpower and operator of the ARGUS global positioning constellation.",
-    "lead": "The United States of Ostanya (USO) is a transoceanic military, technological, and economic superpower occupying a vast continent west of Avren. As the champion of maritime free trade and cutting-edge aerospace standards, Ostanya commands nuclear supercarrier strike groups and operates the ARGUS satellite constellation, projecting undisputed naval and orbital presence. A close strategic partner of [[elonya]], Ostanya declared 'freedom of navigation patrols' in the Kalyon Sea during the [[kriz]], dispatching guided missile cruisers and nuclear attack submarines to the periphery.",
+    "lead": "The United States of Ostania (USO) is a transoceanic military, technological, and economic superpower occupying a vast continent west of Avren. As the champion of maritime free trade and cutting-edge aerospace standards, Ostania commands nuclear supercarrier strike groups and operates the ARGUS satellite constellation, projecting undisputed naval and orbital presence. A close strategic partner of [[elonya]], Ostania declared 'freedom of navigation patrols' in the Kalyon Sea during the [[kriz]], dispatching guided missile cruisers and nuclear attack submarines to the periphery.",
     "facts": [
       [
         "Government",
@@ -2825,15 +2825,15 @@
     "sections": [
       [
         "Global doctrine and naval supremacy",
-        "Ostanyan security doctrine centers upon keeping international sea lanes and strategic chokepoints open. Megacorporations like 'Iron Dome Aerospace' and 'General Dynamics-Osten' supply fifth-generation stealth fighters and precision munitions worldwide."
+        "Ostanian security doctrine centers upon keeping international sea lanes and strategic chokepoints open. Megacorporations like 'Iron Dome Aerospace' and 'General Dynamics-Osten' supply fifth-generation stealth fighters and precision munitions worldwide."
       ],
       [
         "Posture during the SKYFORTRESS-4 Crisis",
-        "Anataria's independent orbital program at [[sarpburun]] was labeled by Ostanya as an uncontrolled escalation threatening its ally Elonia. While avoiding formal involvement in the declaration of war, Ostanya has supplied real-time reconnaissance feeds to the Elonian Navy."
+        "Anataria's independent orbital program at [[sarpburun]] was labeled by Ostania as an uncontrolled escalation threatening its ally Elonia. While avoiding formal involvement in the declaration of war, Ostania has supplied real-time reconnaissance feeds to the Elonian Navy."
       ],
       [
         "USOS Meridian",
-        "Ostanya’s most visible contribution to the crisis is [[usos-meridian]], a nuclear supercarrier of the 7th Ocean Fleet that sailed into the Kalyon Sea and was placed at the service of [[elonya]]. The ship and its crew remain Ostanyan, while the fighters on its deck belong to Elonia’s [[mizrak]]. Ostanya describes this as running the ship rather than taking part in the war."
+        "Ostania’s most visible contribution to the crisis is [[usos-meridian]], a nuclear supercarrier of the 7th Ocean Fleet that sailed into the Kalyon Sea and was placed at the service of [[elonya]]. The ship and its crew remain Ostanian, while the fighters on its deck belong to Elonia’s [[mizrak]]. Ostania describes this as running the ship rather than taking part in the war."
       ]
     ],
     "related": [
@@ -2882,7 +2882,7 @@
       ],
       [
         "Geopolitical counterweight in the crisis",
-        "Viewing Ostanyan-Elonian naval maneuvers as an encirclement of southern flanks, Ursya has provided Anataria with passive electronic counter-reconnaissance components to balance Western coalition pressure."
+        "Viewing Ostanian-Elonian naval maneuvers as an encirclement of southern flanks, Ursya has provided Anataria with passive electronic counter-reconnaissance components to balance Western coalition pressure."
       ]
     ],
     "related": [
@@ -3672,7 +3672,7 @@
     "sections": [
       [
         "Strategic position",
-        "The İstara Strait is the only nautical transit canal linking the Northern Sea with the Inner Sea. The garrison occupies historical fortress promontories modernized with radar domes, thermal cameras, and hardened underground bunkers."
+        "The Istara Strait is the only nautical transit canal linking the Northern Sea with the Inner Sea. The garrison occupies historical fortress promontories modernized with radar domes, thermal cameras, and hardened underground bunkers."
       ],
       [
         "Maritime traffic management",
@@ -3683,7 +3683,7 @@
         "Truck-mounted KOR-SAN coastal defense missile launchers deployed along the heights can engage hostile naval targets up to 180 km away, effectively denying passage to unauthorized foreign warships."
       ]
     ],
-    "title": "İstara Strait Coastal Defense Garrison",
+    "title": "Istara Strait Coastal Defense Garrison",
     "tags": [
       "garrison",
       "istara",
@@ -3700,7 +3700,7 @@
       "anatarya",
       "korsan"
     ],
-    "lead": "An Anatarian coastal defense garrison equipped with shore-to-ship missiles and surface surveillance radars guarding maritime transit through the İstara Strait.",
+    "lead": "An Anatarian coastal defense garrison equipped with shore-to-ship missiles and surface surveillance radars guarding maritime transit through the Istara Strait.",
     "desc": "Anatarian coastal defense garrison controlling the Istara Strait.",
     "facts": [
       [
@@ -3717,7 +3717,7 @@
       ],
       [
         "Surveillance",
-        "İstara Vessel Traffic Service Radar Tower"
+        "Istara Vessel Traffic Service Radar Tower"
       ],
       [
         "Location",
@@ -5100,8 +5100,8 @@
   "usos-meridian": {
     "title": "USOS Meridian (CVN-96)",
     "category": "Vehicles",
-    "desc": "Ostanyan nuclear supercarrier deployed off Sarpburun with Elonia’s air wing embarked.",
-    "lead": "USOS Meridian (CVN-96) is a Meridian-class nuclear-powered supercarrier of the [[ostenya]] 7th Ocean Fleet. During the [[kriz]] it was sent into the Kalyon Sea and placed at the service of [[elonya]]: the ship, its catapults and its deck crew remain Ostanyan, while the fighters that launch from its deck belong to Elonia’s [[mizrak]]. It gives the [[aigaion]] the airfield at sea that Elonia, which has no carrier of its own, could not otherwise field.",
+    "desc": "Ostanian nuclear supercarrier deployed off Sarpburun with Elonia’s air wing embarked.",
+    "lead": "USOS Meridian (CVN-96) is a Meridian-class nuclear-powered supercarrier of the [[ostenya]] 7th Ocean Fleet. During the [[kriz]] it was sent into the Kalyon Sea and placed at the service of [[elonya]]: the ship, its catapults and its deck crew remain Ostanian, while the fighters that launch from its deck belong to Elonia’s [[mizrak]]. It gives the [[aigaion]] the airfield at sea that Elonia, which has no carrier of its own, could not otherwise field.",
     "facts": [
       [
         "Owner",
@@ -5109,7 +5109,7 @@
       ],
       [
         "Operator",
-        "Ostanyan Navy · 7th Ocean Fleet"
+        "Ostanian Navy · 7th Ocean Fleet"
       ],
       [
         "Class",
@@ -5125,7 +5125,7 @@
       ],
       [
         "Embarked air wing",
-        "[[mizrak]] ([[m12-aster]] M-12N) · Ostanyan support aircraft"
+        "[[mizrak]] ([[m12-aster]] M-12N) · Ostanian support aircraft"
       ],
       [
         "Length",
@@ -5151,7 +5151,7 @@
     "sections": [
       [
         "The Kalyon deployment",
-        "Elonia’s navy fields frigates and support ships but no aircraft carrier, and its defense industry depends on foreign suppliers. When [[ostenya]] declared its freedom of navigation patrols in the Kalyon Sea, it also sailed Meridian into the area and assigned the ship to support Elonian air operations without formally entering the war.\n\nThe arrangement is deliberately divided. Meridian keeps its Ostanyan ensign, captain and crew, who run the reactor, the bridge, the catapults, the arresting gear and the hangar. The aircraft that fly combat missions are Elonian, flown and maintained by Elonian personnel, and an Elonian air wing liaison works beside the ship’s air department in the island. The Elonian flag flies from the mast as the host air wing’s colors. Ostanya presents its role as running the ship, not fighting the war; Anataria regards the distinction as a fiction."
+        "Elonia’s navy fields frigates and support ships but no aircraft carrier, and its defense industry depends on foreign suppliers. When [[ostenya]] declared its freedom of navigation patrols in the Kalyon Sea, it also sailed Meridian into the area and assigned the ship to support Elonian air operations without formally entering the war.\n\nThe arrangement is deliberately divided. Meridian keeps its Ostanian ensign, captain and crew, who run the reactor, the bridge, the catapults, the arresting gear and the hangar. The aircraft that fly combat missions are Elonian, flown and maintained by Elonian personnel, and an Elonian air wing liaison works beside the ship’s air department in the island. The Elonian flag flies from the mast as the host air wing’s colors. Ostania presents its role as running the ship, not fighting the war; Anataria regards the distinction as a fiction."
       ],
       [
         "Flight deck",
@@ -5167,7 +5167,7 @@
       ],
       [
         "Air wing",
-        "Elonia’s [[mizrak]] flies the [[m12n-aster]], the navalized form of the [[m12-aster]], from the ship. Ostanyan crews fly the support aircraft: the [[ew4-halcyon]] airborne early warning aircraft, which feeds the air picture to the Elonian fighters and the [[aigaion]], and the [[sh70-petrel]] helicopters, which provide plane guard, search and rescue and anti-submarine cover."
+        "Elonia’s [[mizrak]] flies the [[m12n-aster]], the navalized form of the [[m12-aster]], from the ship. Ostanian crews fly the support aircraft: the [[ew4-halcyon]] airborne early warning aircraft, which feeds the air picture to the Elonian fighters and the [[aigaion]], and the [[sh70-petrel]] helicopters, which provide plane guard, search and rescue and anti-submarine cover."
       ],
       [
         "In the game",
@@ -5191,7 +5191,7 @@
   "ew4-halcyon": {
     "title": "EW-4 Halcyon",
     "category": "Vehicles",
-    "desc": "Ostanyan carrier-based airborne early warning aircraft.",
+    "desc": "Ostanian carrier-based airborne early warning aircraft.",
     "lead": "The EW-4 Halcyon is a twin-turboprop airborne early warning aircraft of the [[ostenya]] navy, designed to operate from aircraft carriers. A rotating radar dome above the fuselage lets it watch the sea and the sky far beyond the horizon of a ship’s own sensors. Two Halcyons fly from [[usos-meridian]] during the [[kriz]].",
     "facts": [
       [
@@ -5230,7 +5230,7 @@
       ],
       [
         "Crew",
-        "The Halcyons aboard Meridian are flown and operated by Ostanyan crews. Elonian liaison officers receive the picture they produce, but the aircraft themselves are not part of Elonia’s inventory."
+        "The Halcyons aboard Meridian are flown and operated by Ostanian crews. Elonian liaison officers receive the picture they produce, but the aircraft themselves are not part of Elonia’s inventory."
       ]
     ],
     "related": [
@@ -5246,7 +5246,7 @@
   "sh70-petrel": {
     "title": "SH-70 Petrel",
     "category": "Vehicles",
-    "desc": "Ostanyan shipborne multi-mission helicopter.",
+    "desc": "Ostanian shipborne multi-mission helicopter.",
     "lead": "The SH-70 Petrel is a twin-engine multi-mission helicopter of the [[ostenya]] navy. Aboard [[usos-meridian]] it flies plane guard during launches and recoveries, carries out search and rescue and covers the carrier group against submarines.",
     "facts": [
       [
@@ -5293,7 +5293,7 @@
     "title": "M-12N Aster",
     "category": "Vehicles",
     "desc": "Carrier-capable version of the M-12 Aster, flown by Elonia from USOS Meridian.",
-    "lead": "The M-12N Aster is the navalized version of Elonia’s [[m12-aster]] multirole fighter. It was converted so that [[mizrak]] could fly from the Ostanyan supercarrier [[usos-meridian]] during the [[kriz]]. The picture shows aircraft 41-201 of the detachment on the flight deck.",
+    "lead": "The M-12N Aster is the navalized version of Elonia’s [[m12-aster]] multirole fighter. It was converted so that [[mizrak]] could fly from the Ostanian supercarrier [[usos-meridian]] during the [[kriz]]. The picture shows aircraft 41-201 of the detachment on the flight deck.",
     "facts": [
       [
         "Country",
@@ -5335,7 +5335,7 @@
       ],
       [
         "In service",
-        "Elonian pilots and maintainers fly and service the M-12N; the Ostanyan crew of [[usos-meridian]] runs the catapults, arresting gear and hangar. The fighters are supported by Ostanyan [[ew4-halcyon]] early warning aircraft."
+        "Elonian pilots and maintainers fly and service the M-12N; the Ostanian crew of [[usos-meridian]] runs the catapults, arresting gear and hangar. The fighters are supported by Ostanian [[ew4-halcyon]] early warning aircraft."
       ],
       [
         "In the game",
@@ -5356,14 +5356,18 @@
     "title": "AIA",
     "category": "Units",
     "classified": true,
-    "desc": "[REDACTED] — Restricted archive dossier. Clearance Level 5 required.",
-    "lead": "Security Directive ████-09: All operational details, organizational structure, and personnel rosters for AIA have been scrubbed from public archive mirrors. Further access attempts from unverified terminals are automatically logged by Arkent Internal Security.",
+    "desc": "[REDACTED] — Restricted state security dossier. Clearance Level 5 required.",
+    "lead": "Security Directive ████-09: Full statutory title, directorate desks, foreign stations, and officer rosters for AIA have been scrubbed from public archive mirrors. Unauthorized terminal queries are automatically logged by Arkent Internal Security.",
     "facts": [
       [
         "File designation",
         "GÖK-TS-AIA / ████"
       ],
       [
+        "Full designation",
+        "[REDACTED]"
+      ],
+      [
         "Country",
         "[[anatarya]]"
       ],
@@ -5372,55 +5376,56 @@
         "[LEVEL 5 REQUIRED]"
       ],
       [
-        "Status",
-        "ACTIVE — [REDACTED]"
+        "Mandate",
+        "Clandestine Collection & Counter-Measures — [REDACTED]"
       ],
       [
-        "Command authority",
-        "████████ ██████"
+        "Oversight",
+        "Executive Security Council · ████████"
       ],
       [
-        "Station",
+        "Stations & assets",
         "[DATA EXPUNGED]"
-      ],
-      [
-        "Personnel & assets",
-        "[REDACTED]"
       ]
     ],
     "sections": [
       [
-        "01 // Existence & Mandate",
-        "Existence of the AIA designation is acknowledged in [[anatarya]] defense deployment indexes under [LEVEL 5 REQUIRED] restriction. Its charter operates under independent authorization separate from [[sarp-muhafiz]] and [[demir-iz]]. Specific mission parameters and operational directives remain [REDACTED].\n\nCross-references linking AIA activity to ████████████ were sealed following Security Directive ████-09. [DATA EXPUNGED]."
+        "01 // Charter & Directorate Structure",
+        "AIA operates under civilian/executive statutory authorization wholly separate from regular armed forces commands ([[sarp-muhafiz]], [[demir-iz]], [[hancer]]). Its full official title expansion is withheld under Security Directive ████-09, and compartmentalized analytical, signals-intercept, and external-station desks remain [REDACTED]. [DATA EXPUNGED]."
       ],
       [
-        "02 // Deployment & Assets",
-        "Assigned facilities: [REDACTED].\n\nAllocated equipment and platform manifests: ██████████ [DATA EXPUNGED].\n\nRules of engagement and command channels: [EYES ONLY] — physical keycard verification required at Arkent Central Vault."
+        "02 // Counter-Measures & Field Networks",
+        "External stations, diplomatic-cover conduits, and technical collection platforms: [REDACTED].\n\nAllocated surveillance hardware and human/signals handling manifests: ██████████ [DATA EXPUNGED].\n\nCross-monitoring files concerning [[elonya-istihbarati]] and foreign liaison channels: [EYES ONLY] — physical keycard verification required at Arkent Central Vault."
       ],
       [
         "03 // 2036 Crisis Record",
-        "All telemetry and operational logs connecting AIA to [[kriz]] and the period surrounding [[sarpburun-dosyasi]] have been transferred to cold storage. Public archive mirrors retain only the file header; access to underlying appendices is [ACCESS DENIED]."
+        "Pre-crisis warning cables, intercepted transmissions, and source assessments connecting AIA to [[kriz]] and the period surrounding [[sarpburun-dosyasi]] have been transferred to offline cold storage. Public archive mirrors retain only the file header; access to underlying appendices returns [ACCESS DENIED]."
       ]
     ],
     "related": [
       "anatarya",
+      "elonya-istihbarati",
       "skyfortress-4",
       "22nd-srs",
-      "divisions-and-ranks"
+      "sarpburun-dosyasi"
     ],
-    "imageKey": "classified-seal",
+    "imageKey": "classified-aia",
     "draft": false
   },
   "22nd-srs": {
     "title": "22nd SRS",
     "category": "Units",
     "classified": true,
-    "desc": "[REDACTED] — Restricted special unit dossier. Clearance Level 5 required.",
-    "lead": "Special Operations Classification Protocol ██-22: Unit composition, mission profiles, and equipment inventories for the 22nd SRS are strictly restricted from public archive terminals. Unredacted pages are stored offline outside the regional encyclopedia network.",
+    "desc": "[REDACTED] — Restricted special military unit dossier. Clearance Level 5 required.",
+    "lead": "Special Operations Protocol ██-22: Full unit expansion, selection rosters, insertion methods, and equipment inventories for the 22nd SRS are strictly restricted from public archive terminals. Unredacted tasking logs remain offline outside the regional network.",
     "facts": [
       [
         "File designation",
         "GÖK-TS-22SRS / ████"
+      ],
+      [
+        "Full designation",
+        "[REDACTED]"
       ],
       [
         "Country",
@@ -5431,34 +5436,30 @@
         "[LEVEL 5 REQUIRED]"
       ],
       [
-        "Status",
-        "ACTIVE — [REDACTED]"
+        "Unit type",
+        "Tier-1 Special Operations Detachment — [REDACTED]"
       ],
       [
         "Operating theater",
-        "████████ / [[sarpburun]]"
+        "Contested Littoral · ████████ / [[sarpburun]]"
       ],
       [
-        "Inventory",
+        "Strength & call signs",
         "[DATA EXPUNGED]"
-      ],
-      [
-        "Call sign",
-        "[REDACTED]"
       ]
     ],
     "sections": [
       [
-        "01 // Unit Summary",
-        "The 22nd SRS appears on [[anatarya]] Armed Forces deployment rosters without public expansion of its full designation. Oversight records prior to 2036 were purged from regional mirrors under Protocol ██-22. Clearance verification failed: [ACCESS DENIED].\n\nInternal personnel rosters, sub-unit strengths, and officer assignments are [REDACTED]."
+        "01 // Command & Operational Profile",
+        "The 22nd SRS appears on [[anatarya]] Armed Forces deployment rosters strictly by numeric-letter code without public expansion of its full title. Small-footprint teams conduct clandestine forward observation, deep-perimeter target acquisition, and austere insertion tasks; exact mission mandates, team rosters, and officer assignments remain [REDACTED].\n\nOversight records prior to 2036 were purged from regional mirrors under Protocol ██-22: [ACCESS DENIED]."
       ],
       [
-        "02 // Field Presence & Equipment",
-        "Staging coordinates and garrison billets: [REDACTED].\n\nSpecialized loadouts, communications gear, and assigned vehicles: [DATA EXPUNGED].\n\nInter-unit coordination logs referencing [[hancer]] and [[kuzey-isaret]] remain [EYES ONLY] pending Arkent review."
+        "02 // Insertion Assets & Equipment",
+        "Forward staging coordinates, covert maritime craft, and garrison billets: [REDACTED].\n\nLow-observable optics, encrypted burst-comms, and specialized tactical loadouts: [DATA EXPUNGED].\n\nJoint tasking handoffs referencing [[hancer]], [[kuzey-isaret]], and [[sarp-muhafiz]] remain [EYES ONLY] pending Arkent review."
       ],
       [
-        "03 // Incident & Audit Trail",
-        "Audit summaries from early 2036 reference quarantined operational annexes tied to [[kalyon-denizi]] and [[dosya-94-117]], though all substantive findings and witness statements have been removed from the public file: [DATA EXPUNGED]."
+        "03 // 2036 Incident & Audit Trail",
+        "Quarantined operational annexes from early 2036 note unattributed forward-observer transmissions across [[kalyon-denizi]] and reference [[dosya-94-117]], though all patrol tracks, extraction logs, and witness statements have been removed from the public file: [DATA EXPUNGED]."
       ]
     ],
     "related": [
@@ -5468,7 +5469,7 @@
       "dosya-94-117",
       "divisions-and-ranks"
     ],
-    "imageKey": "classified-seal",
+    "imageKey": "classified-22nd-srs",
     "draft": false
   }
 }
