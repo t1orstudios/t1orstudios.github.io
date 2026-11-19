@@ -484,10 +484,10 @@
     ]
   },
   "simsek-iii": {
-    "title": "ŞİMŞEK-III",
+    "title": "ŞIMŞEK-III",
     "category": "Space program",
     "desc": "The launch vehicle intended to carry KARTAL-7.",
-    "lead": "ŞİMŞEK-III is the launch vehicle intended to carry the [[kartal-7]] military reconnaissance satellite into space from the [[skyfortress-4]] complex.",
+    "lead": "ŞIMŞEK-III is the launch vehicle intended to carry the [[kartal-7]] military reconnaissance satellite into space from the [[skyfortress-4]] complex.",
     "facts": [
       [
         "Type",
@@ -878,11 +878,11 @@
     "title": "Elonia National Intelligence Directorate",
     "category": "Organizations",
     "desc": "Elonya’s foreign intelligence and strategic assessment agency.",
-    "lead": "The Elonia National Intelligence Directorate (EUİD) is the intelligence agency that supplies foreign security assessments to the government of [[elonya]]. The [[sarpburun-dosyasi]] it prepared under [[cam-perde]] was decisive in constructing the political justification for war with [[anatarya]].",
+    "lead": "The Elonia National Intelligence Directorate (EUID) is the intelligence agency that supplies foreign security assessments to the government of [[elonya]]. The [[sarpburun-dosyasi]] it prepared under [[cam-perde]] was decisive in constructing the political justification for war with [[anatarya]].",
     "facts": [
       [
         "Abbreviation",
-        "EUİD"
+        "EUID"
       ],
       [
         "Country",
@@ -4782,7 +4782,7 @@
     "title": "Shift system",
     "category": "Game systems",
     "desc": "The continuous 15-minute shift cycle of launch preparation, sabotage and catastrophe.",
-    "lead": "The server of the Skyfortress Military Facility game never ends a match. It runs one shift after another, each about 900 seconds long, until the ŞİMŞEK-III launch window at the end of the shift decides who gains experience. The defenders ([[anatarya]]: soldiers and facility staff) try to prepare and launch [[kartal-7]]; the attackers ([[elonya]]) try to stop the launch, and if they cause a catastrophe the whole facility rushes to the shelters.",
+    "lead": "The server of the Skyfortress Military Facility game never ends a match. It runs one shift after another, each about 900 seconds long, until the ŞIMŞEK-III launch window at the end of the shift decides who gains experience. The defenders ([[anatarya]]: soldiers and facility staff) try to prepare and launch [[kartal-7]]; the attackers ([[elonya]]) try to stop the launch, and if they cause a catastrophe the whole facility rushes to the shelters.",
     "facts": [
       [
         "Shift length",
@@ -5293,7 +5293,7 @@
     "title": "M-12N Aster",
     "category": "Vehicles",
     "desc": "Carrier-capable version of the M-12 Aster, flown by Elonia from USOS Meridian.",
-    "lead": "The M-12N Aster is the navalized version of Elonia’s [[m12-aster]] multirole fighter. It was converted so that [[mizrak]] could fly from the Ostanian supercarrier [[usos-meridian]] during the [[kriz]]. The picture shows aircraft 41-201 of the detachment on the flight deck.",
+    "lead": "The M-12N Aster is the navalized version of Elonia’s [[m12-aster]] multirole fighter. It was converted so that [[mizrak]] could fly from the Ostanian supercarrier [[usos-meridian]] during the [[kriz]]. The picture shows aircraft 38-201 of the detachment on the flight deck.",
     "facts": [
       [
         "Country",
