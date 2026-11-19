@@ -689,10 +689,10 @@
     "draft": false
   },
   "ucaksavar": {
-    "title": "21st Anti-Aircraft Battalion",
+    "title": "28th Zephyr Mobile Air Defense Battalion",
     "category": "Units",
-    "desc": "An Elonian coastal and island air defense battalion.",
-    "lead": "The 21st Anti-Aircraft Battalion belongs to the [[elonya]] Air Force surveillance network over Lerya Bay and the western [[kalyon-adalari]]. During [[kriz]] it protected the coastal return route of the [[aigaion]] task group; it did not directly take part in a flight over [[skyfortress-4]].",
+    "desc": "An Elonian mobile coastal and island air defense battalion.",
+    "lead": "The 28th Zephyr Mobile Air Defense Battalion belongs to the [[elonya]] Air Force mobile air defense and surveillance network over Lerya Bay and the western [[kalyon-adalari]]. During [[kriz]] it deployed mobile batteries protecting the coastal return route of the [[aigaion]] task group; it did not directly take part in operations over [[skyfortress-4]].",
     "facts": [
       [
         "Country",
@@ -700,15 +700,15 @@
       ],
       [
         "Unit type",
-        "Coastal air defense battalion"
+        "Mobile air defense battalion"
       ],
       [
         "Station",
-        "Lerya Bay"
+        "Lerya Bay (forward-deployable)"
       ],
       [
         "Call sign",
-        "Kalkan"
+        "Zephyr"
       ],
       [
         "Operational area",
@@ -718,19 +718,19 @@
     "sections": [
       [
         "Formation and role",
-        "The battalion was formed by bringing the harbor defense units around Lerya Bay under one command. Radar sites, mobile batteries and island observation posts form distinct elements. It remains under [[elonya]] national command; [[kuzey-kusagi]] membership alone does not confer authority for a joint operation."
+        "The battalion was formed by reorganizing harbor and forward air defense units around Lerya Bay under a unified mobile command. Road-mobile missile launchers, mobile radar vehicles and island observation posts form distinct elements capable of rapid redeployment. It remains under [[elonya]] national command; [[kuzey-kusagi]] membership alone does not confer authority for a joint operation."
       ],
       [
         "Kalyon Sea crisis",
-        "When the [[sarpburun-dosyasi]] forged by [[elonya-istihbarati]] became the grounds for war, the battalion went on alert to defend the harbors and the return corridor of the [[aigaion]] group. It shared radar tracks with the [[mizrak]] squadron. Unidentified returns over the eastern islands were not treated as hostile until civilian traffic and military contact were investigated."
+        "When the [[sarpburun-dosyasi]] forged by [[elonya-istihbarati]] became the grounds for war, the battalion deployed mobile batteries on alert to defend the harbors and the return corridor of the [[aigaion]] group. It shared radar tracks with the [[mizrak]] detachment. Unidentified returns over the eastern islands were not treated as hostile until civilian traffic and military contact were investigated."
       ],
       [
         "Supply and limits",
-        "Narrow harbor roads constrain ammunition and fuel delivery to the mountainous island sites. Maritime supply is coordinated with [[kallisto-ikmal]]. Its fixed sites do not cover the [[sarpburun]] coast; it has no organic relationship to Anatarian units around [[skyfortress-4]]."
+        "Narrow harbor roads constrain ammunition and fuel delivery to mobile batteries operating on the mountainous island sites. Maritime supply is coordinated with [[kallisto-ikmal]]. Its mobile deployments do not cover the [[sarpburun]] coast; it has no organic relationship to Anatarian units around [[skyfortress-4]]."
       ],
       [
         "Unit insignia",
-        "Radar arcs and two upward arrows represent its surveillance mission; the number 21 identifies the battalion."
+        "Radar arcs and two upward arrows represent its mobile air defense mission; the number 28 identifies the battalion."
       ]
     ],
     "related": [
@@ -1697,7 +1697,7 @@
     "title": "M-12 Aster",
     "category": "Vehicles",
     "desc": "Multirole fighter aircraft.",
-    "lead": "The M-12 Aster is a multirole fighter aircraft platform used by [[elonya]]. Elonia uses it for air defense and air support to naval forces. It is the principal platform of the 41st Mızrak Squadron.",
+    "lead": "The M-12 Aster is a multirole fighter aircraft platform used by [[elonya]]. Elonia uses it for air defense and air support to naval forces. It is the principal platform of the [[mizrak]].",
     "facts": [
       [
         "Country",
@@ -1723,11 +1723,11 @@
     "sections": [
       [
         "Role",
-        "A multirole aircraft used by Elonia for air defense and air support to naval forces. It is the principal platform of the 41st Mızrak Squadron."
+        "A multirole aircraft used by Elonia for air defense and air support to naval forces. It is the principal platform of the [[mizrak]]."
       ],
       [
         "Design and service",
-        "Aster is a single-seat, twin-engine delta-canard fighter: close-coupled canards sit just behind the cockpit, ahead of a cropped delta wing, and two engines lie side by side in the rear fuselage under a single fin. Aircraft operated by [[mizrak]] squadron protect coastal airspace and island passages."
+        "Aster is a single-seat, twin-engine delta-canard fighter: close-coupled canards sit just behind the cockpit, ahead of a cropped delta wing, and two engines lie side by side in the rear fuselage under a single fin. Aircraft operated by [[mizrak]] detachment protect coastal airspace and island passages."
       ],
       [
         "Naval variant (M-12N)",
@@ -1995,10 +1995,10 @@
     "draft": false
   },
   "mizrak": {
-    "title": "41st Mızrak Tactical Squadron",
+    "title": "38th Gorgon Strike Detachment",
     "category": "Units",
-    "desc": "A tactical air squadron of the Elonian forces.",
-    "lead": "A multirole flying unit of Elonia’s air force. It conducts air missions in the area where the [[aigaion]] group operates. It is a separate organization from the maritime patrol aircraft.",
+    "desc": "A carrier-capable tactical strike detachment of the Elonian air forces.",
+    "lead": "A multirole strike detachment of Elonia’s air force. It conducts air strike and suppression missions in the area where the [[aigaion]] group operates. It is a separate organization from the maritime patrol aircraft.",
     "facts": [
       [
         "Country",
@@ -2006,11 +2006,11 @@
       ],
       [
         "Unit type",
-        "Tactical air squadron"
+        "Tactical strike detachment"
       ],
       [
         "Call sign",
-        "Mızrak"
+        "Gorgon"
       ],
       [
         "Principal aircraft",
@@ -2020,7 +2020,7 @@
     "sections": [
       [
         "Organization and role",
-        "A multirole flying unit of Elonia’s air force. It conducts air missions in the area where the [[aigaion]] group operates. It is a separate organization from the maritime patrol aircraft. The unit is commanded by the national military authorities; membership in [[kuzey-kusagi]] does not automatically place it under pact command."
+        "A multirole strike detachment of Elonia’s air force. It conducts air strike and suppression missions in the area where the [[aigaion]] group operates. It is a separate organization from the maritime patrol aircraft. The detachment is commanded by the national military authorities; membership in [[kuzey-kusagi]] does not automatically place it under pact command."
       ],
       [
         "Aircraft and vehicles",
@@ -2028,15 +2028,15 @@
       ],
       [
         "SKYFORTRESS-4 Crisis",
-        "The unit participates in the regional operation of [[elonya]]’s forces during [[kriz]]."
+        "The detachment participates in the regional operation of [[elonya]]’s forces during [[kriz]]."
       ],
       [
         "Unit insignia",
-        "A silver spear and swept-back wings symbolize the squadron’s name and flying mission. The number 41 is used."
+        "A stylized Gorgon emblem and swept wings symbolize the detachment’s strike and air defense suppression mission. The designation 38 identifies the unit."
       ],
       [
         "Carrier operations",
-        "During [[kriz]] the squadron embarked its M-12N Aster fighters aboard [[usos-meridian]], an Ostanyan supercarrier assigned to support Elonian air operations. Elonian pilots and maintainers fly and service the aircraft; Ostanyan crews run the catapults, arresting gear and hangar. Flying from the carrier lets the squadron reach [[sarpburun]] without depending on airfields on the Elonian mainland."
+        "During [[kriz]] the detachment embarked its M-12N Aster fighters aboard [[usos-meridian]], an Ostanyan supercarrier assigned to support Elonian air operations. Elonian pilots and maintainers fly and service the aircraft; Ostanyan crews run the catapults, arresting gear and hangar. Flying from the carrier lets the detachment reach [[sarpburun]] without depending on airfields on the Elonian mainland."
       ]
     ],
     "related": [
@@ -2439,7 +2439,7 @@
     "title": "3rd Pelagos Maritime Patrol Squadron",
     "category": "Units",
     "desc": "Elonya’s maritime surveillance squadron in the Kalyon Sea.",
-    "lead": "The 3rd Pelagos Maritime Patrol Squadron monitors traffic between the [[elonya]] coast and the [[kalyon-adalari]] with [[p8-pelagos]] aircraft. It has a separate command and mission structure from the [[mizrak]] combat squadron.",
+    "lead": "The 3rd Pelagos Maritime Patrol Squadron monitors traffic between the [[elonya]] coast and the [[kalyon-adalari]] with [[p8-pelagos]] aircraft. It has a separate command and mission structure from the [[mizrak]] strike detachment.",
     "facts": [
       [
         "Country",
@@ -2484,10 +2484,10 @@
     "draft": false
   },
   "demir-iz": {
-    "title": "27th Iron Fist Mechanized Infantry Regiment",
+    "title": "27th Iron Fist Heavy Armored Division",
     "category": "Units",
-    "desc": "Anatarya’s mechanized regiment defending the land approaches to Sarpburun.",
-    "lead": "The 27th Iron Fist Mechanized Infantry Regiment is an [[anatarya]] Army maneuver unit stationed at the land passes leading onto the [[sarpburun]] peninsula. It operates [[kaya-zma]] vehicles under a command separate from the [[sarp-muhafiz]] company responsible for security inside [[skyfortress-4]].",
+    "desc": "Anatarya’s heavy armored division defending the land approaches to Sarpburun.",
+    "lead": "The 27th Iron Fist Heavy Armored Division is an [[anatarya]] Army maneuver unit stationed at the land passes leading onto the [[sarpburun]] peninsula. It operates [[kaya-zma]] vehicles and heavy main battle tanks under a command separate from the [[sarp-muhafiz]] company responsible for security inside [[skyfortress-4]].",
     "facts": [
       [
         "Country",
@@ -2495,7 +2495,7 @@
       ],
       [
         "Unit type",
-        "Mechanized infantry regiment"
+        "Heavy armored division"
       ],
       [
         "Founded",
@@ -2525,23 +2525,23 @@
     "sections": [
       [
         "History and organization",
-        "Founded in 1986 to protect the peninsula’s connection to the interior, the regiment transitioned from infantry battalions to a mechanized organization as roads expanded and [[kaya-zma]] vehicles entered service. Its reconnaissance, infantry and maintenance elements operate as separate battalions."
+        "Founded in 1986 to protect the peninsula’s connection to the interior, the division expanded from early infantry battalions into a heavy armored formation as roads widened and [[kaya-zma]] vehicles and heavy main battle tanks entered service. Its reconnaissance, armor and maintenance elements operate as separate battalions."
       ],
       [
         "Defensive mission",
-        "The regiment is not stationed inside the coastal launch site. It defends mountain passes and bridges against a land threat while keeping civilian exit routes open. It escorts [[doruk-ikmal]] convoys but does not command the logistics regiment. It receives verified reports from [[kuzey-isaret]]."
+        "The division is not stationed inside the coastal launch site. It defends mountain passes and bridges against a land threat while keeping civilian exit routes open. It escorts [[doruk-ikmal]] convoys but does not command the logistics regiment. It receives verified reports from [[kuzey-isaret]]."
       ],
       [
         "SKYFORTRESS-4 Crisis",
-        "During [[kriz]] it monitored both land routes onto the peninsula. As planners assessed possible [[elonya]] airborne movements, the regiment dispersed vehicles near bridge approaches in stages without halting civilian traffic. No engagement with [[iris-indirme]] is documented."
+        "During [[kriz]] it monitored both land routes onto the peninsula. As planners assessed possible [[elonya]] airborne movements, the division dispersed armored vehicles near bridge approaches in stages without halting civilian traffic. No engagement with [[iris-indirme]] is documented."
       ],
       [
         "Unit insignia",
-        "Two peaks represent the mountain passes above a mechanized vehicle track. The number 27 identifies the regiment."
+        "Two peaks represent the mountain passes above an armored vehicle track. The number 27 identifies the division."
       ],
       [
         "Armor in the game",
-        "The regiment’s vehicles are called from the garrison motor pool: the heavy [[altai-mbt]] from IF_1 and IF_2, with a 10-minute cooldown and the fifth rank (Tank Commander), and the armed [[taurus-mtv]] MTV-A from IF_3 and IF_4. A second tank, the [[leopard-2a4-t1]], is in development in the vehicle workshop."
+        "The division’s vehicles are called from the garrison motor pool: the heavy [[altai-mbt]] from IF_1 and IF_2, with a 10-minute cooldown and the fifth rank (Tank Commander), and the armed [[taurus-mtv]] MTV-A from IF_3 and IF_4. A second tank, the [[leopard-2a4-t1]], is in development in the vehicle workshop."
       ]
     ],
     "related": [
@@ -2599,7 +2599,7 @@
       ],
       [
         "Island operations doctrine",
-        "An airborne movement is planned either as a landing at a secured airfield or by parachute. Flight corridors are coordinated with the [[ucaksavar]] radar network and the [[mizrak]] squadron. [[pelagos-devriye]] supplies information on maritime traffic but is not subordinate to the brigade."
+        "An airborne movement is planned either as a landing at a secured airfield or by parachute. Flight corridors are coordinated with the [[ucaksavar]] radar network and the [[mizrak]] detachment. [[pelagos-devriye]] supplies information on maritime traffic but is not subordinate to the brigade."
       ],
       [
         "SKYFORTRESS-4 Crisis",
@@ -3921,7 +3921,7 @@
   "altai-mbt": {
     "title": "ALTAI MBT",
     "category": "Vehicles",
-    "desc": "Heavy main battle tank of the 27th Iron Fist Mechanized Infantry Regiment.",
+    "desc": "Heavy main battle tank of the 27th Iron Fist Heavy Armored Division.",
     "lead": "The ALTAI MBT (lore name Altay) is the heavy main battle tank of [[demir-iz]], modeled on the Altay T1. It is a four-man tank with a 120 mm smoothbore gun, an active protection system and a dedicated driver station, and only Iron Fist crews may drive it.",
     "facts": [
       [
@@ -3968,7 +3968,7 @@
     "sections": [
       [
         "Role",
-        "The ALTAI is the heavy and elite armored asset of the Iron Fist regiment. It is not issued to the [[sarp-muhafiz]] company, whose armored response element uses the [[kaya-zma]] instead. The tank has no passenger seats."
+        "The ALTAI is the heavy and elite armored asset of the Iron Fist division. It is not issued to the [[sarp-muhafiz]] company, whose armored response element uses the [[kaya-zma]] instead. The tank has no passenger seats."
       ],
       [
         "Crew stations",
@@ -4059,7 +4059,7 @@
     "sections": [
       [
         "Role",
-        "The Leopard 2A4 T1 gives the Iron Fist regiment a second tank. The ALTAI remains the heavy, elite choice; the Leopard is the regiment’s more conventional armored platform. As of 13 November it exists in the vehicle workshop only; moving it into the main game is a separate step."
+        "The Leopard 2A4 T1 gives the Iron Fist division a second tank. The ALTAI remains the heavy, elite choice; the Leopard is the division’s more conventional armored platform. As of 13 November it exists in the vehicle workshop only; moving it into the main game is a separate step."
       ],
       [
         "Crew layout",
@@ -4075,7 +4075,7 @@
       ],
       [
         "Appearance",
-        "The turret front is the 2A4’s upright, flat design, distinct from the arrowhead wedge modules of the Altay, and the T1 box modules are bolted on top. The woodland camouflage uses large irregular blotches of green, brown and black. The regiment insignia and number 27-201 appear on the turret sides."
+        "The turret front is the 2A4’s upright, flat design, distinct from the arrowhead wedge modules of the Altay, and the T1 box modules are bolted on top. The woodland camouflage uses large irregular blotches of green, brown and black. The division insignia and number 27-201 appear on the turret sides."
       ]
     ],
     "related": [
@@ -4888,7 +4888,7 @@
       ],
       [
         "Bays and their limits",
-        "Sarp Guard garage: SG_1 and SG_3 to SG_6 issue the [[sentinel-lpv]]; SG_2 issues the [[kaya-zma]] (CRAG ACV), with an 8-minute cooldown and only for the Sarp Armored Response Team; the same bay also offers a desert camouflage option.\n\nIron Fist garage, next to the regiment’s headquarters in SARPBURUN GARRISON: IF_1 and IF_2 issue the [[altai-mbt]] (woodland camouflage option), with a 10-minute cooldown; IF_3 and IF_4 issue the [[taurus-mtv]] MTV-A without limit.\n\nNorthern Signal garage, next to the battalion’s headquarters: NS_1 issues the [[frost-acv]] (first rank, 300 seconds); NS_2 and NS_3 issue the [[taurus-mtv]] MTV-C without limit.\n\nDagger flight line: DG_1 to DG_3 issue the [[k16-alaz]]; DG_4 (HAS 4) issues only the [[k21-kaan]], requiring the eighth rank with a 600-second cooldown. Aircraft are never called while the runway is closed.\n\nRockcove harbor: CG_1 to CG_9 issue the [[dolphin-rhib]], [[seagull-fpb]] and [[northwind-opv]]. Ships are moored in their berths and are marked as parked.\n\nThe [[doruk-ikmal]] has no bays yet: a site beside its logistics depot is reserved for a truck garage that will be sized to the regiment’s heavy trucks."
+        "Sarp Guard garage: SG_1 and SG_3 to SG_6 issue the [[sentinel-lpv]]; SG_2 issues the [[kaya-zma]] (CRAG ACV), with an 8-minute cooldown and only for the Sarp Armored Response Team; the same bay also offers a desert camouflage option.\n\nIron Fist garage, next to the division’s headquarters in SARPBURUN GARRISON: IF_1 and IF_2 issue the [[altai-mbt]] (woodland camouflage option), with a 10-minute cooldown; IF_3 and IF_4 issue the [[taurus-mtv]] MTV-A without limit.\n\nNorthern Signal garage, next to the battalion’s headquarters: NS_1 issues the [[frost-acv]] (first rank, 300 seconds); NS_2 and NS_3 issue the [[taurus-mtv]] MTV-C without limit.\n\nDagger flight line: DG_1 to DG_3 issue the [[k16-alaz]]; DG_4 (HAS 4) issues only the [[k21-kaan]], requiring the eighth rank with a 600-second cooldown. Aircraft are never called while the runway is closed.\n\nRockcove harbor: CG_1 to CG_9 issue the [[dolphin-rhib]], [[seagull-fpb]] and [[northwind-opv]]. Ships are moored in their berths and are marked as parked.\n\nThe [[doruk-ikmal]] has no bays yet: a site beside its logistics depot is reserved for a truck garage that will be sized to the regiment’s heavy trucks."
       ],
       [
         "Vehicle lifetime",
@@ -4969,7 +4969,7 @@
     "facts": [
       [
         "Armed forces",
-        "4th Sarp Guard Company · 27th Iron Fist Mechanized Infantry · 132nd Dagger Tactical Squadron · 6th Northern Signal Battalion · 3rd Coast Guard Command · 18th Doruk Supply Regiment"
+        "4th Sarp Guard Company · 27th Iron Fist Heavy Armored Division · 132nd Dagger Tactical Squadron · 6th Northern Signal Battalion · 3rd Coast Guard Command · 18th Doruk Supply Regiment · AIA [CLASSIFIED] · 22nd SRS [CLASSIFIED]"
       ],
       [
         "Facility staff",
@@ -4977,7 +4977,7 @@
       ],
       [
         "Hostiles",
-        "8th Nereus Naval Commandos · 9th Iris Airborne Brigade"
+        "8th Nereus Naval Commandos · 9th Iris Airborne Brigade · 38th Gorgon Strike Detachment · 28th Zephyr Mobile Air Defense Battalion"
       ],
       [
         "Switching",
@@ -4991,7 +4991,7 @@
     "sections": [
       [
         "Armed forces",
-        "[[sarp-muhafiz]] protects the facility and has two sub-units: Facility Security and the Sarp Armored Response Team. [[demir-iz]] operates the heavy armor. [[hancer]] flies the aircraft. [[kuzey-isaret]] provides communications and sensing. [[coast-guard-command]] patrols the sea. [[doruk-ikmal]] is the military logistics regiment; it spawns at its logistics headquarters in SARPBURUN GARRISON."
+        "[[sarp-muhafiz]] protects the facility and has two sub-units: Facility Security and the Sarp Armored Response Team. [[demir-iz]] operates the heavy armor. [[hancer]] flies the aircraft. [[kuzey-isaret]] provides communications and sensing. [[coast-guard-command]] patrols the sea. [[doruk-ikmal]] is the military logistics regiment; it spawns at its logistics headquarters in SARPBURUN GARRISON. Two restricted entries — [[aia]] and [[22nd-srs]] — appear on deployment rosters under [LEVEL 5 REQUIRED] classification."
       ],
       [
         "Facility staff",
@@ -4999,11 +4999,11 @@
       ],
       [
         "Hostiles",
-        "The Elonya attackers are [[nereus-komando]] and [[iris-indirme]]."
+        "The Elonya attackers are [[nereus-komando]], [[iris-indirme]], [[mizrak]], and [[ucaksavar]]."
       ],
       [
         "Ranks and vehicle access",
-        "Rank is earned with XP. The Sarp Guard rank thresholds are 0, 50, 150, 350, 700, 1,200, 3,000 and 3,500 XP. Joining the Sarp Armored Response Team needs the rank of Guard Captain (3,000 XP); once on the team, anyone can call the CRAG ACV at any rank. Dagger has eight ranks and the top one, Wing Commander, is required to fly the [[k21-kaan]]. In the Iron Fist regiment the fifth rank is Tank Commander, which unlocks the [[altai-mbt]]. The game owner starts at the top rank of every division."
+        "Rank is earned with XP. The Sarp Guard rank thresholds are 0, 50, 150, 350, 700, 1,200, 3,000 and 3,500 XP. Joining the Sarp Armored Response Team needs the rank of Guard Captain (3,000 XP); once on the team, anyone can call the CRAG ACV at any rank. Dagger has eight ranks and the top one, Wing Commander, is required to fly the [[k21-kaan]]. In the Iron Fist division the fifth rank is Tank Commander, which unlocks the [[altai-mbt]]. The game owner starts at the top rank of every division."
       ],
       [
         "Uniforms and appearance",
@@ -5021,7 +5021,11 @@
       "demir-iz",
       "hancer",
       "kuzey-isaret",
-      "coast-guard-command"
+      "coast-guard-command",
+      "aia",
+      "22nd-srs",
+      "mizrak",
+      "ucaksavar"
     ],
     "imageKey": "file:divisions-and-ranks.jpg"
   },
@@ -5289,7 +5293,7 @@
     "title": "M-12N Aster",
     "category": "Vehicles",
     "desc": "Carrier-capable version of the M-12 Aster, flown by Elonia from USOS Meridian.",
-    "lead": "The M-12N Aster is the navalized version of Elonia’s [[m12-aster]] multirole fighter. It was converted so that [[mizrak]] could fly from the Ostanyan supercarrier [[usos-meridian]] during the [[kriz]]. The picture shows aircraft 41-201 of the squadron on the flight deck.",
+    "lead": "The M-12N Aster is the navalized version of Elonia’s [[m12-aster]] multirole fighter. It was converted so that [[mizrak]] could fly from the Ostanyan supercarrier [[usos-meridian]] during the [[kriz]]. The picture shows aircraft 41-201 of the detachment on the flight deck.",
     "facts": [
       [
         "Country",
@@ -5335,7 +5339,7 @@
       ],
       [
         "In the game",
-        "In the Skyfortress Military Facility game the M-12N is a flyable twin-engine fighter of the 41st Spear Tactical Squadron, the game name of [[mizrak]]. Only members of that squadron can take the pilot seat.\n\nIt carries a fixed load: a 23 mm gun with 400 rounds, two PL-9 heat-seeking missiles on the wingtips, two GB-250 guided bombs under the wings, a centerline fuel tank and 30 flares. Keys 1, 2 and 3 select the gun, the missiles and the bombs. The GB-250 glides to a point or a vehicle marked through the HUD and only works inside its release range; it damages vehicles and players but not buildings.\n\nOn the ground the wings fold with K and the tailhook drops with J. The canopy, control surfaces, nozzles, landing gear and cockpit displays all move. Folded wings limit the aircraft to slow taxiing, and damaged hydraulics stop the wings and the hook from moving."
+        "In the Skyfortress Military Facility game the M-12N is a flyable twin-engine fighter of [[mizrak]]. Only members of that detachment can take the pilot seat.\n\nIt carries a fixed load: a 23 mm gun with 400 rounds, two PL-9 heat-seeking missiles on the wingtips, two GB-250 guided bombs under the wings, a centerline fuel tank and 30 flares. Keys 1, 2 and 3 select the gun, the missiles and the bombs. The GB-250 glides to a point or a vehicle marked through the HUD and only works inside its release range; it damages vehicles and players but not buildings.\n\nOn the ground the wings fold with K and the tailhook drops with J. The canopy, control surfaces, nozzles, landing gear and cockpit displays all move. Folded wings limit the aircraft to slow taxiing, and damaged hydraulics stop the wings and the hook from moving."
       ]
     ],
     "related": [
@@ -5346,6 +5350,125 @@
       "ew4-halcyon"
     ],
     "imageKey": "file:m12n-aster.jpg",
+    "draft": false
+  },
+  "aia": {
+    "title": "AIA",
+    "category": "Units",
+    "classified": true,
+    "desc": "[REDACTED] — Restricted archive dossier. Clearance Level 5 required.",
+    "lead": "Security Directive ████-09: All operational details, organizational structure, and personnel rosters for AIA have been scrubbed from public archive mirrors. Further access attempts from unverified terminals are automatically logged by Arkent Internal Security.",
+    "facts": [
+      [
+        "File designation",
+        "GÖK-TS-AIA / ████"
+      ],
+      [
+        "Country",
+        "[[anatarya]]"
+      ],
+      [
+        "Classification",
+        "[LEVEL 5 REQUIRED]"
+      ],
+      [
+        "Status",
+        "ACTIVE — [REDACTED]"
+      ],
+      [
+        "Command authority",
+        "████████ ██████"
+      ],
+      [
+        "Station",
+        "[DATA EXPUNGED]"
+      ],
+      [
+        "Personnel & assets",
+        "[REDACTED]"
+      ]
+    ],
+    "sections": [
+      [
+        "01 // Existence & Mandate",
+        "Existence of the AIA designation is acknowledged in [[anatarya]] defense deployment indexes under [LEVEL 5 REQUIRED] restriction. Its charter operates under independent authorization separate from [[sarp-muhafiz]] and [[demir-iz]]. Specific mission parameters and operational directives remain [REDACTED].\n\nCross-references linking AIA activity to ████████████ were sealed following Security Directive ████-09. [DATA EXPUNGED]."
+      ],
+      [
+        "02 // Deployment & Assets",
+        "Assigned facilities: [REDACTED].\n\nAllocated equipment and platform manifests: ██████████ [DATA EXPUNGED].\n\nRules of engagement and command channels: [EYES ONLY] — physical keycard verification required at Arkent Central Vault."
+      ],
+      [
+        "03 // 2036 Crisis Record",
+        "All telemetry and operational logs connecting AIA to [[kriz]] and the period surrounding [[sarpburun-dosyasi]] have been transferred to cold storage. Public archive mirrors retain only the file header; access to underlying appendices is [ACCESS DENIED]."
+      ]
+    ],
+    "related": [
+      "anatarya",
+      "skyfortress-4",
+      "22nd-srs",
+      "divisions-and-ranks"
+    ],
+    "imageKey": "classified-seal",
+    "draft": false
+  },
+  "22nd-srs": {
+    "title": "22nd SRS",
+    "category": "Units",
+    "classified": true,
+    "desc": "[REDACTED] — Restricted special unit dossier. Clearance Level 5 required.",
+    "lead": "Special Operations Classification Protocol ██-22: Unit composition, mission profiles, and equipment inventories for the 22nd SRS are strictly restricted from public archive terminals. Unredacted pages are stored offline outside the regional encyclopedia network.",
+    "facts": [
+      [
+        "File designation",
+        "GÖK-TS-22SRS / ████"
+      ],
+      [
+        "Country",
+        "[[anatarya]]"
+      ],
+      [
+        "Classification",
+        "[LEVEL 5 REQUIRED]"
+      ],
+      [
+        "Status",
+        "ACTIVE — [REDACTED]"
+      ],
+      [
+        "Operating theater",
+        "████████ / [[sarpburun]]"
+      ],
+      [
+        "Inventory",
+        "[DATA EXPUNGED]"
+      ],
+      [
+        "Call sign",
+        "[REDACTED]"
+      ]
+    ],
+    "sections": [
+      [
+        "01 // Unit Summary",
+        "The 22nd SRS appears on [[anatarya]] Armed Forces deployment rosters without public expansion of its full designation. Oversight records prior to 2036 were purged from regional mirrors under Protocol ██-22. Clearance verification failed: [ACCESS DENIED].\n\nInternal personnel rosters, sub-unit strengths, and officer assignments are [REDACTED]."
+      ],
+      [
+        "02 // Field Presence & Equipment",
+        "Staging coordinates and garrison billets: [REDACTED].\n\nSpecialized loadouts, communications gear, and assigned vehicles: [DATA EXPUNGED].\n\nInter-unit coordination logs referencing [[hancer]] and [[kuzey-isaret]] remain [EYES ONLY] pending Arkent review."
+      ],
+      [
+        "03 // Incident & Audit Trail",
+        "Audit summaries from early 2036 reference quarantined operational annexes tied to [[kalyon-denizi]] and [[dosya-94-117]], though all substantive findings and witness statements have been removed from the public file: [DATA EXPUNGED]."
+      ]
+    ],
+    "related": [
+      "anatarya",
+      "aia",
+      "skyfortress-4",
+      "dosya-94-117",
+      "divisions-and-ranks"
+    ],
+    "imageKey": "classified-seal",
     "draft": false
   }
 }

@@ -115,3 +115,26 @@ footer{color:#9bacc3}footer>span:first-child{color:#b0c6e2}
 header{gap:24px;height:auto;min-height:105px;flex-wrap:wrap;padding-top:18px;padding-bottom:18px}.language-picker{display:flex;align-items:center;gap:8px;margin:0 0 0 auto;flex-shrink:0}.language-picker label{font-size:.875rem;color:#b8cbe4}.language-picker select{font:inherit;font-size:.875rem;min-height:42px;max-width:150px;padding:9px 28px 9px 10px;color:#e1ebf8;background:#18293e;border:1px solid #526983;border-radius:4px}.language-picker button{font:inherit;padding:8px;color:#d4deeb;background:#18293e;border:1px solid #526983}.admin-entry{margin-left:0}.translation-note{padding:12px;border-left:3px solid #7f9bbf;background:#152338}.vehicle-index{margin-top:22px}
 @media(max-width:760px){header{gap:14px}.language-picker{margin-left:auto}.language-picker label{display:none}.language-picker select{max-width:128px}.search{order:3}.brand{min-width:0}.brand small{letter-spacing:1.5px}}
 @media(max-width:760px){header .brand{flex:1 1 170px;font-size:17px}header .brand small{font-size:9px;letter-spacing:1px}header .mark{font-size:34px}.language-picker{order:1}.admin-entry{order:2}.search{order:3}}
+
+/* === CLASSIFIED DOSSIER & REDACTION STYLING (SCP / LEVEL 5) === */
+.classified-badge,.classified-pill{display:inline-block;font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:.6875rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;padding:3px 8px;border-radius:3px;color:#fecaca;background:#2f1116;border:1px solid #b91c1c}
+.index-row .classified-pill{font-size:.6875rem;color:#fecaca;vertical-align:middle}
+.classified-banner{position:relative;margin:0 0 26px;padding:18px 20px 16px;background:#10141d;border:1px solid #991b1b;border-radius:4px;box-shadow:0 8px 24px rgba(0,0,0,.35);overflow:hidden}
+.classified-banner::before{content:'';position:absolute;top:0;left:0;right:0;height:6px;background:repeating-linear-gradient(-45deg,#991b1b,#991b1b 10px,#171c26 10px,#171c26 20px)}
+.classified-banner-top{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:10px;margin:4px 0 10px}
+.classified-stamp{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:.75rem;font-weight:700;letter-spacing:.12em;color:#fca5a5;background:#2a0f14;border:1.5px solid #dc2626;padding:3px 10px;border-radius:2px}
+.classified-log{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:.7rem;letter-spacing:.08em;color:#94a3b8}
+.classified-banner p{margin:0;font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:.8rem;line-height:1.6;color:#e2e8f0}
+.redacted-tag{display:inline-block;font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:.8em;font-weight:700;letter-spacing:.06em;padding:1px 6px;border-radius:2px;color:#fca5a5;background:#2b1116;border:1px solid #7f1d1d;vertical-align:baseline}
+.redacted-bar{display:inline-block;background:#05070a;color:#05070a;border:1px solid #334155;border-radius:2px;padding:0 3px;line-height:1.15;letter-spacing:-.04em;user-select:none;transition:border-color .15s}
+.redacted-bar:hover{border-color:#dc2626}
+.classified-doc h1,.classified-doc section h2,.classified-doc .facts-title{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;letter-spacing:.02em}
+.classified-doc .facts{border-color:#7f1d1d;background:#121722}
+.classified-doc .facts-title{background:#231218;color:#fecaca;border-bottom:1px solid #7f1d1d}
+.classified-doc .facts dl div{border-color:#2b2330}
+.classified-doc section h2{color:#f8d7da;border-bottom-color:#5c1f26}
+.classified-doc .article-toc{border-color:#5c1f26;background:#131722}
+.classified-seal-frame{display:block;line-height:0}
+.article-image.classified-seal{border-color:#7f1d1d;background:#0b0f16}
+.article-image.classified-seal img{padding:0;background:#0b0f16}
+.article-image.classified-seal figcaption{color:#fca5a5;font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;letter-spacing:.05em;border-top-color:#5c1f26}
