@@ -77,7 +77,7 @@
       ],
       [
         "Principal units",
-        "[[hancer]], [[kuzey-isaret]] and [[sarp-muhafiz]] form different elements of the defense around SKYFORTRESS-4. Principal platforms include [[k16-alaz]], [[kalkan-hss]], [[kaya-zma]] and [[ut7-ilgaz]]."
+        "[[hancer]], [[kuzey-isaret]] and [[sarp-muhafiz]] form different elements of the defense around SKYFORTRESS-4. Principal platforms include [[k16-alaz]], [[kalkan-hss]] and [[ut7-ilgaz]]."
       ],
       [
         "Kipraya policy",
@@ -1555,7 +1555,7 @@
       ],
       [
         "In the game",
-        "The K-16 is called from hardened shelters HAS 1 to 3 of [[sarpburun-air-base]] (bays DG_1 to DG_3) at the first rank, with a 600-second cooldown, and only one can be in the field per player. It starts with the engine off and the gear down. The single engine gives about 76 kN of military thrust and 127 kN with afterburner on a 12-tonne airframe, enough for about Mach 1.0 at military power and Mach 1.09 with afterburner; the ceiling in the workshop airspace is 20,000 feet. It has a 20 mm cannon, four KS-9 heat-seeking missiles on rails and flares. Its HSD display shows contacts from the [[frost-acv]] data link."
+        "The K-16 is called from hardened shelters HAS 1 to 3 of [[sarpburun-air-base]] (bays DG_1 to DG_3) at the first rank, with a 600-second cooldown, and only one can be in the field per player. It starts with the engine off and the gear down. The single engine gives about 76 kN of military thrust and 127 kN with afterburner on a 12-tonne airframe, enough for about Mach 1.0 at military power and Mach 1.09 with afterburner; the ceiling in the workshop airspace is 20,000 feet. It has a 20 mm cannon, four KS-9 heat-seeking missiles on rails and flares."
       ]
     ],
     "related": [
@@ -1564,7 +1564,6 @@
       "skyfortress-4",
       "sarpburun-air-base",
       "vehicle-bays",
-      "frost-acv",
       "k21-kaan"
     ],
     "imageKey": "air-k16",
@@ -1608,53 +1607,6 @@
       "sarp-muhafiz"
     ],
     "imageKey": "air-ut7",
-    "draft": false
-  },
-  "kaya-zma": {
-    "title": "CRAG ACV (Kaya ZMA)",
-    "category": "Vehicles",
-    "desc": "Armored combat vehicle of the Sarp Armored Response Team.",
-    "lead": "The Kaya ZMA is an armored personnel carrier platform used by [[anatarya]]. It is a family of wheeled armored vehicles used for road access, personnel transport and protected patrols. It provides ground mobility around the facility.",
-    "facts": [
-      [
-        "Country",
-        "[[anatarya]]"
-      ],
-      [
-        "Class",
-        "Armored personnel carrier"
-      ],
-      [
-        "Crew",
-        "3 crew + personnel compartment"
-      ],
-      [
-        "Associated unit",
-        "[[sarp-muhafiz]]"
-      ],
-      [
-        "Game name",
-        "CRAG ACV"
-      ]
-    ],
-    "sections": [
-      [
-        "Role",
-        "A family of wheeled armored vehicles used for road access, personnel transport and protected patrols. It provides ground mobility around the facility."
-      ],
-      [
-        "In the game: CRAG ACV",
-        "In the game the Kaya ZMA is shown as the CRAG ACV (Armored Combat Vehicle). Its hull is about 36 × 14 × 11 studs. Crew seats are limited to the Sarp Armored Response Team; passenger seats are open to everyone. It is called from bay SG_2 of the Sarp Guard garage with an 8-minute cooldown, regardless of rank, and a desert camouflage option is available there. The vehicle workshop was the first place where the driving, seat, weapon and damage systems of all vehicles were built."
-      ]
-    ],
-    "related": [
-      "anatarya",
-      "sarp-muhafiz",
-      "demir-iz",
-      "vehicle-bays",
-      "sentinel-lpv"
-    ],
-    "imageKey": "veh-kaya",
     "draft": false
   },
   "kalkan-hss": {
@@ -1947,16 +1899,8 @@
         "Sarp"
       ],
       [
-        "Armored vehicle",
-        "[[kaya-zma]]"
-      ],
-      [
         "Transport support",
         "[[ut7-ilgaz]]"
-      ],
-      [
-        "Vehicles",
-        "[[sentinel-lpv]] · [[kaya-zma]] (CRAG ACV)"
       ]
     ],
     "sections": [
@@ -1966,7 +1910,7 @@
       ],
       [
         "Aircraft and vehicles",
-        "Armored vehicle: [[kaya-zma]].\n\nTransport support: [[ut7-ilgaz]].\n\nVehicles allocated for support are considered separately from the unit’s core inventory."
+        "Transport support: [[ut7-ilgaz]].\n\nVehicles allocated for support are considered separately from the unit’s core inventory."
       ],
       [
         "SKYFORTRESS-4 Crisis",
@@ -1978,16 +1922,14 @@
       ],
       [
         "Vehicles and the Armored Response Team",
-        "The company has two sub-units: Facility Security, the general guards, and the Sarp Armored Response Team (SART), its armored element, which operates from the two-story SART HQ with maroon trim in the south-west quarter of [[skyfortress-4]]. Joining SART needs the rank of Guard Captain (3,000 XP). Every Sarp Guard member can call the unarmed [[sentinel-lpv]] without limit; the CRAG ACV ([[kaya-zma]]) crew seats are reserved for SART."
+        "The company has two sub-units: Facility Security, the general guards, and the Sarp Armored Response Team (SART), its armored element, which operates from the two-story SART HQ with maroon trim in the south-west quarter of [[skyfortress-4]]. Joining SART needs the rank of Guard Captain (3,000 XP). The unit’s vehicle fleet is being rebuilt; see [[vehicle-bays]]."
       ]
     ],
     "related": [
       "anatarya",
       "skyfortress-4",
       "kriz",
-      "kaya-zma",
       "ut7-ilgaz",
-      "sentinel-lpv",
       "vehicle-bays",
       "divisions-and-ranks"
     ],
@@ -2336,10 +2278,6 @@
       [
         "Coordination",
         "[[hancer]] · [[sarp-muhafiz]]"
-      ],
-      [
-        "Vehicles",
-        "[[frost-acv]] · [[taurus-mtv]] MTV-C"
       ]
     ],
     "sections": [
@@ -2354,10 +2292,6 @@
       [
         "Doctrine",
         "The battalion distributes verified information rather than issuing orders. When coastal lines fail, portable relays and the [[gozcu-3]] data feed are assessed through separate channels."
-      ],
-      [
-        "Vehicles in the game",
-        "The battalion uses the [[taurus-mtv]] MTV-C communications vehicle and the [[frost-acv]], an armored command vehicle with a sensor mast whose data link feeds the displays of [[k16-alaz]] aircraft and [[altai-mbt]] commanders. The Frost is called from a small garage at the Northern Signal headquarters."
       ]
     ],
     "related": [
@@ -2369,8 +2303,6 @@
       "kriz",
       "sarpburun-radar-istasyonu",
       "dosya-94-117",
-      "frost-acv",
-      "taurus-mtv",
       "vehicle-bays"
     ],
     "imageKey": "patch-kuzey-isaret",
@@ -2395,10 +2327,6 @@
         "Arkent–Sarpburun corridor"
       ],
       [
-        "Vehicle support",
-        "[[kaya-zma]]"
-      ],
-      [
         "In the game",
         "ARMED FORCES · spawns at the garrison logistics HQ"
       ]
@@ -2410,7 +2338,7 @@
       ],
       [
         "Role in the crisis",
-        "As [[kriz]] began, bridges along the main route were secured. The regiment supported movement of [[sarp-muhafiz]] personnel; [[kaya-zma]] vehicles were assigned according to convoy security needs. Launch preparation cargo was recorded separately from other supplies."
+        "As [[kriz]] began, bridges along the main route were secured. The regiment supported movement of [[sarp-muhafiz]] personnel. Launch preparation cargo was recorded separately from other supplies."
       ],
       [
         "Limits",
@@ -2418,7 +2346,7 @@
       ],
       [
         "Vehicles in the game",
-        "The regiment’s workhorse is the [[taurus-mtv]] MTV-L, a cargo version with a tarpaulin-covered load bed that carries four people. Since 14 November 2026 the regiment is part of the ARMED FORCES and spawns in front of its logistics headquarters on the east side of SARPBURUN GARRISON. Behind the headquarters stands the regiment’s central depot, with pallet racks, forklifts and five loading docks facing a truck yard. Part of the yard is marked out for a truck garage, which will be built to the size of the heavy military trucks planned for the regiment."
+        "The regiment’s truck fleet is being rebuilt. Since 14 November 2026 the regiment is part of the ARMED FORCES and spawns in front of its logistics headquarters on the east side of SARPBURUN GARRISON. Behind the headquarters stands the regiment’s central depot, with pallet racks, forklifts and five loading docks facing a truck yard. Part of the yard is marked out for a truck garage, which will be built to the size of the heavy military trucks planned for the regiment."
       ]
     ],
     "related": [
@@ -2426,8 +2354,6 @@
       "sarpburun",
       "skyfortress-4",
       "sarp-muhafiz",
-      "kaya-zma",
-      "taurus-mtv",
       "shift-system",
       "divisions-and-ranks",
       "vehicle-bays"
@@ -2487,7 +2413,7 @@
     "title": "27th Iron Fist Heavy Armored Division",
     "category": "Units",
     "desc": "Anatarya’s heavy armored division defending the land approaches to Sarpburun.",
-    "lead": "The 27th Iron Fist Heavy Armored Division is an [[anatarya]] Army maneuver unit stationed at the land passes leading onto the [[sarpburun]] peninsula. It operates [[kaya-zma]] vehicles and heavy main battle tanks under a command separate from the [[sarp-muhafiz]] company responsible for security inside [[skyfortress-4]].",
+    "lead": "The 27th Iron Fist Heavy Armored Division is an [[anatarya]] Army maneuver unit stationed at the land passes leading onto the [[sarpburun]] peninsula. It operates heavy main battle tanks under a command separate from the [[sarp-muhafiz]] company responsible for security inside [[skyfortress-4]].",
     "facts": [
       [
         "Country",
@@ -2506,26 +2432,18 @@
         "Sarpburun land passes"
       ],
       [
-        "Principal vehicle",
-        "[[kaya-zma]]"
-      ],
-      [
         "Supply",
         "[[doruk-ikmal]]"
       ],
       [
         "Tanks",
-        "[[altai-mbt]] · [[leopard-2a4-t1]]"
-      ],
-      [
-        "Armed vehicle",
-        "[[taurus-mtv]] MTV-A"
+        "[[altai-mbt]]"
       ]
     ],
     "sections": [
       [
         "History and organization",
-        "Founded in 1986 to protect the peninsula’s connection to the interior, the division expanded from early infantry battalions into a heavy armored formation as roads widened and [[kaya-zma]] vehicles and heavy main battle tanks entered service. Its reconnaissance, armor and maintenance elements operate as separate battalions."
+        "Founded in 1986 to protect the peninsula’s connection to the interior, the division expanded from early infantry battalions into a heavy armored formation as roads widened and heavy main battle tanks entered service. Its reconnaissance, armor and maintenance elements operate as separate battalions."
       ],
       [
         "Defensive mission",
@@ -2541,21 +2459,18 @@
       ],
       [
         "Armor in the game",
-        "The division’s vehicles are called from the garrison motor pool: the heavy [[altai-mbt]] from IF_1 and IF_2, with a 10-minute cooldown and the fifth rank (Tank Commander), and the armed [[taurus-mtv]] MTV-A from IF_3 and IF_4. A second tank, the [[leopard-2a4-t1]], is in development in the vehicle workshop."
+        "The division’s vehicles are called from the garrison motor pool: the heavy [[altai-mbt]] from IF_1 and IF_2, with a 10-minute cooldown and the fifth rank (Tank Commander). The rest of its fleet is being rebuilt in the vehicle workshop."
       ]
     ],
     "related": [
       "anatarya",
       "sarpburun",
-      "kaya-zma",
       "doruk-ikmal",
       "kuzey-isaret",
       "sarp-muhafiz",
       "kriz",
       "iris-indirme",
       "altai-mbt",
-      "leopard-2a4-t1",
-      "taurus-mtv",
       "vehicle-bays"
     ],
     "imageKey": "patch-demir-iz",
@@ -3188,7 +3103,7 @@
       ],
       [
         "Stealth signature",
-        "The KAAN has a radar signature of 0.25 and an infrared signature of 0.6 relative to the K-16. The [[frost-acv]] mast sees it only at 1,000 studs instead of 4,000, and KS-9 seekers acquire it at 3,300 studs instead of 5,500. The signature rises to full while a bay or gun door is open and for two seconds afterwards, and the infrared signature rises to full with the afterburner lit. The cockpit display shows STEALTH or VISIBLE accordingly. Losing one engine halves the thrust and turns the nose toward the dead engine."
+        "The KAAN has a radar signature of 0.25 and an infrared signature of 0.6 relative to the K-16. Ground sensors see it only at 1,000 studs instead of 4,000, and KS-9 seekers acquire it at 3,300 studs instead of 5,500. The signature rises to full while a bay or gun door is open and for two seconds afterwards, and the infrared signature rises to full with the afterburner lit. The cockpit display shows STEALTH or VISIBLE accordingly. Losing one engine halves the thrust and turns the nose toward the dead engine."
       ]
     ],
     "related": [
@@ -3199,7 +3114,6 @@
       "k4-boran",
       "kriz",
       "sarpburun-air-base",
-      "frost-acv",
       "vehicle-bays",
       "divisions-and-ranks"
     ],
@@ -3968,11 +3882,11 @@
     "sections": [
       [
         "Role",
-        "The ALTAI is the heavy and elite armored asset of the Iron Fist division. It is not issued to the [[sarp-muhafiz]] company, whose armored response element uses the [[kaya-zma]] instead. The tank has no passenger seats."
+        "The ALTAI is the heavy and elite armored asset of the Iron Fist division. It is not issued to the [[sarp-muhafiz]] company. The tank has no passenger seats."
       ],
       [
         "Crew stations",
-        "The crew boards through hatches. The driver enters through his own hatch, the gunner and commander share the commander’s hatch (the first to board becomes the gunner) and the loader has a separate hatch.\n\nDriver: with the hatch open the driver sits turned out with head and shoulders exposed. With the hatch closed he works from a driver station with three fixed periscopes, a selectable camera view (automatic, front, left, right, rear) with rear distance lines at 1.5, 3 and 6 m, a digital instrument display and a backup analog gauge.\n\nGunner: fires the main gun and coaxial machine gun through an MFD display with APFSDS, HE and coaxial selection, thermal imaging, zoom and a laser rangefinder.\n\nCommander: a 360° cupola with an independent panoramic sight, a SARP view, a 360° camera mode and a gunner repeater. The panoramic sight can hand its target to the turret (hunter-killer) and the commander also controls smoke.\n\nLoader: working from his own hatch he operates a 7.62 mm machine gun when the hatch is open, and halves the main gun reload time. With no loader aboard, reloading takes twice as long.\n\nIn the latest workshop revision of 13 November the control layout is being changed so that the driver also fires the main gun and the coaxial machine gun, while the gunner operates the 12.7 mm SARP station; see [[leopard-2a4-t1]] for the same arrangement."
+        "The crew boards through hatches. The driver enters through his own hatch, the gunner and commander share the commander’s hatch (the first to board becomes the gunner) and the loader has a separate hatch.\n\nDriver: with the hatch open the driver sits turned out with head and shoulders exposed. With the hatch closed he works from a driver station with three fixed periscopes, a selectable camera view (automatic, front, left, right, rear) with rear distance lines at 1.5, 3 and 6 m, a digital instrument display and a backup analog gauge.\n\nGunner: fires the main gun and coaxial machine gun through an MFD display with APFSDS, HE and coaxial selection, thermal imaging, zoom and a laser rangefinder.\n\nCommander: a 360° cupola with an independent panoramic sight, a SARP view, a 360° camera mode and a gunner repeater. The panoramic sight can hand its target to the turret (hunter-killer) and the commander also controls smoke.\n\nLoader: working from his own hatch he operates a 7.62 mm machine gun when the hatch is open, and halves the main gun reload time. With no loader aboard, reloading takes twice as long.\n\nIn the latest workshop revision of 13 November the control layout is being changed so that the driver also fires the main gun and the coaxial machine gun, while the gunner operates the 12.7 mm SARP station."
       ],
       [
         "Protection and survivability",
@@ -3993,302 +3907,9 @@
     ],
     "related": [
       "demir-iz",
-      "leopard-2a4-t1",
-      "taurus-mtv",
-      "kaya-zma",
-      "vehicle-bays",
-      "frost-acv"
+      "vehicle-bays"
     ],
     "imageKey": "file:altai-mbt.jpg"
-  },
-  "leopard-2a4-t1": {
-    "title": "Leopard 2A4 T1",
-    "category": "Vehicles",
-    "desc": "Up-armored Leopard 2A4 in woodland camouflage; second tank of the 27th Iron Fist.",
-    "lead": "The Leopard 2A4 T1 is the second main battle tank of [[demir-iz]], a Leopard 2A4 with the T1 reactive-passive add-on armor package, painted in a three-color woodland camouflage. It serves alongside the heavier [[altai-mbt]]. Its characteristics follow the real vehicle rather than being balanced against the Altay.",
-    "facts": [
-      [
-        "Country",
-        "[[anatarya]]"
-      ],
-      [
-        "Class",
-        "Main battle tank"
-      ],
-      [
-        "Operator",
-        "[[demir-iz]]"
-      ],
-      [
-        "Crew",
-        "4"
-      ],
-      [
-        "Mass",
-        "62 tonnes"
-      ],
-      [
-        "Engine",
-        "MTU MB 873 Ka-501 V12 · 1,500 hp"
-      ],
-      [
-        "Top speed",
-        "72 km/h road · 45 off-road · 31 reverse"
-      ],
-      [
-        "Main gun",
-        "120 mm Rh-120 L/44 smoothbore"
-      ],
-      [
-        "Ammunition",
-        "42 rounds: 15 in the turret ready rack, 27 in the hull"
-      ],
-      [
-        "Machine guns",
-        "2 × 7.62 mm MG3 (coaxial and loader’s hatch)"
-      ],
-      [
-        "Active protection",
-        "None"
-      ],
-      [
-        "Tactical number",
-        "27-201"
-      ]
-    ],
-    "sections": [
-      [
-        "Role",
-        "The Leopard 2A4 T1 gives the Iron Fist division a second tank. The ALTAI remains the heavy, elite choice; the Leopard is the division’s more conventional armored platform. As of 13 November it exists in the vehicle workshop only; moving it into the main game is a separate step."
-      ],
-      [
-        "Crew layout",
-        "The Leopard introduces a layout in which one player can operate the whole tank. The driver steers and also fires the main gun and the coaxial MG3, switching between the driving periscopes and the gunner’s sight with a key. The gunner works the loader’s-hatch MG3 from an open mount and must open the hatch to use it. The commander has the PERI-R17 periscope and a repeater of the gunner’s EMES-15 sight and also controls smoke. The loader halves the reload time but has no weapon of his own.\n\nThe Leopard does not have the 360° camera ring or the data-link NET page, because the real 2A4 T1 does not have them."
-      ],
-      [
-        "Armor and the T1 package",
-        "Open-source estimates put the 2A4 turret front near 590 mm and the hull front near 450 mm against kinetic energy rounds. The T1 package adds composite box modules to the turret front, the gun shield and the turret sides, and slat cage armor along the rear half of the turret and behind the engine deck. The cage armor usually spoils shaped-charge hits from RPGs and similar weapons. The Leopard has no active protection system."
-      ],
-      [
-        "Ammunition and vulnerability",
-        "The Leopard carries its 42 rounds as in the real tank: 15 in the turret bustle on the left, protected by blow-off panels, and 27 in a hull magazine to the left of the driver. The hull magazine is unprotected, so a penetration that ignites it destroys the tank. The ready rack is used first; once it is empty, reloading from the hull is slower (12 seconds with a loader, 20 seconds without)."
-      ],
-      [
-        "Appearance",
-        "The turret front is the 2A4’s upright, flat design, distinct from the arrowhead wedge modules of the Altay, and the T1 box modules are bolted on top. The woodland camouflage uses large irregular blotches of green, brown and black. The division insignia and number 27-201 appear on the turret sides."
-      ]
-    ],
-    "related": [
-      "demir-iz",
-      "altai-mbt",
-      "vehicle-bays",
-      "divisions-and-ranks",
-      "update-log"
-    ],
-    "imageKey": "file:leopard-2a4-t1.jpg"
-  },
-  "sentinel-lpv": {
-    "title": "Sentinel LPV",
-    "category": "Vehicles",
-    "desc": "Unarmed light patrol vehicle of the 4th Sarp Guard Company.",
-    "lead": "The Sentinel LPV (Light Patrol Vehicle) is an unarmed, Defender-110-style patrol car used by every member of the [[sarp-muhafiz]] company. It carries a driver and six passengers and is the everyday vehicle of facility security around [[skyfortress-4]].",
-    "facts": [
-      [
-        "Country",
-        "[[anatarya]]"
-      ],
-      [
-        "Class",
-        "Light patrol vehicle (unarmed)"
-      ],
-      [
-        "Operator",
-        "[[sarp-muhafiz]]"
-      ],
-      [
-        "Seats",
-        "Driver + 6 passengers"
-      ],
-      [
-        "Top speed",
-        "80 studs per second"
-      ],
-      [
-        "Hull strength",
-        "400 HP"
-      ],
-      [
-        "Armor",
-        "3–5 mm (light rifle fire penetrates)"
-      ],
-      [
-        "Plate",
-        "SG 04-117"
-      ]
-    ],
-    "sections": [
-      [
-        "Role",
-        "The Sentinel is a utility vehicle for patrols, escorts and moving guards around the facility. Any Sarp Guard member can drive it; the six passenger seats are open to everyone."
-      ],
-      [
-        "Boarding and controls",
-        "Boarding is by door: the front left door is the driver’s, the front right door the front passenger’s, the rear doors give access to a three-seat bench and the tailgate to two seats facing each other. Leaving the vehicle puts the passenger outside the same door, or the next one if it is blocked, or on the roof as a last resort.\n\nKeys: L roof beacon, K siren, H horn (held), B headlights, X engine off, C change seat, F exit. The driver’s hands rest on the wheel, which turns four times the angle of the front wheels."
-      ],
-      [
-        "Appearance",
-        "The body is navy blue with a silver-gray roof and sills and a white stripe. The front doors carry the unit insignia, the rear sides the Anataria flag, and the hood and spare tire read SARP GUARD."
-      ],
-      [
-        "Availability in the game",
-        "Sarp Guard bays SG_1 and SG_3 to SG_6 issue the Sentinel without a rank requirement, cooldown or limit on numbers. See [[vehicle-bays]]."
-      ]
-    ],
-    "related": [
-      "sarp-muhafiz",
-      "kaya-zma",
-      "taurus-mtv",
-      "vehicle-bays"
-    ],
-    "imageKey": "file:sentinel-lpv.jpg"
-  },
-  "taurus-mtv": {
-    "title": "Taurus MTV",
-    "category": "Vehicles",
-    "desc": "Family of armored multirole tactical vehicles in armed, communications and cargo versions.",
-    "lead": "The Taurus MTV (Multi-role Tactical Vehicle) is a family of armored Humvee-style vehicles built on a common chassis with interchangeable bodies. Three versions serve three different units: the armed MTV-A with [[demir-iz]], the communications MTV-C with [[kuzey-isaret]] and the cargo MTV-L with [[doruk-ikmal]].",
-    "facts": [
-      [
-        "Country",
-        "[[anatarya]]"
-      ],
-      [
-        "Class",
-        "Armored multirole tactical vehicle"
-      ],
-      [
-        "Versions",
-        "MTV-A (armed) · MTV-C (communications) · MTV-L (cargo)"
-      ],
-      [
-        "Top speed",
-        "70 studs per second"
-      ],
-      [
-        "Plates",
-        "AN 27-412 (A) · AN 06-208 (C) · AN 18-115 (L)"
-      ],
-      [
-        "Not used by",
-        "[[sarp-muhafiz]] · [[hancer]]"
-      ]
-    ],
-    "sections": [
-      [
-        "MTV-A",
-        "The armed version of [[demir-iz]]: a four-door armored vehicle with an open roof turret carrying a shielded 12.7 mm heavy machine gun. The gunner stands, aims with the mouse and reloads with R. An Iron Fist member who boards through the rear door becomes the gunner if the position is free. Hull strength is 650 HP and the armor is 14, 12, 10 and 8 mm; the turret shield is 12 mm thick and stops 7.62 mm rounds while leaving the gunner’s head exposed."
-      ],
-      [
-        "MTV-C",
-        "The communications version of [[kuzey-isaret]]: two doors, an unarmed radio cabin and room for two staff in the rear. Hull strength 550 HP, armor 12, 10, 8 and 6 mm. The unit’s heavier command vehicle is the [[frost-acv]]."
-      ],
-      [
-        "MTV-L",
-        "The cargo version of [[doruk-ikmal]]: two doors and a tarpaulin-covered load bed through which four people can be carried. Hull strength 500 HP, armor 12, 6, 6 and 6 mm; the side of the load bed is open to 7.62 mm fire."
-      ],
-      [
-        "Appearance and crews",
-        "All versions are painted dark military green, with the unit insignia on the front doors, the Anataria flag on the rear sides and an MTV-A/C/L stencil beside the hood. Only the owning unit’s members can drive; the passenger seats are open to everyone. The keys are H horn, B headlights, X engine off, C change seat and F exit."
-      ],
-      [
-        "Availability in the game",
-        "Iron Fist bays IF_3 and IF_4 issue the MTV-A without limit or cooldown at the first rank. See [[vehicle-bays]]."
-      ]
-    ],
-    "related": [
-      "demir-iz",
-      "kuzey-isaret",
-      "doruk-ikmal",
-      "frost-acv",
-      "sentinel-lpv",
-      "vehicle-bays"
-    ],
-    "imageKey": "file:taurus-mtv.jpg"
-  },
-  "frost-acv": {
-    "title": "Frost ACV",
-    "category": "Vehicles",
-    "desc": "Armored command vehicle with a deployable sensor mast of the 6th Northern Signal Battalion.",
-    "lead": "The Frost ACV (Armored Command Vehicle) is a 4×4 MRAP-class command vehicle of [[kuzey-isaret]]. It stops, raises a telescopic sensor mast, detects aircraft and ground vehicles and shares those contacts by data link with friendly vehicle displays.",
-    "facts": [
-      [
-        "Country",
-        "[[anatarya]]"
-      ],
-      [
-        "Class",
-        "Armored command vehicle (4×4, V-hull)"
-      ],
-      [
-        "Operator",
-        "[[kuzey-isaret]]"
-      ],
-      [
-        "Crew",
-        "5 (driver, commander, gunner, 2 staff)"
-      ],
-      [
-        "Armament",
-        "12.7 mm remote weapon station on the roof"
-      ],
-      [
-        "Hull strength",
-        "1,000 HP"
-      ],
-      [
-        "Top speed",
-        "About 95 studs per second on road · 60 off-road"
-      ],
-      [
-        "Mast raise / lower",
-        "8 s / 5 s"
-      ],
-      [
-        "Detection range",
-        "Air 4,000 studs · ground 1,000 studs"
-      ],
-      [
-        "Plate",
-        "AN 06-301"
-      ]
-    ],
-    "sections": [
-      [
-        "Role",
-        "The Frost gives the signals battalion an armored, armed command post. The commander sits at the sensor station, the gunner works the remote weapon from inside the vehicle and the battalion’s two staff members ride in the rear."
-      ],
-      [
-        "Sensor mast",
-        "The mast has three telescopic stages and carries a rotating radar dome, a day and thermal camera head and a short antenna. It can be raised only when the vehicle is almost stopped; if the vehicle moves faster than 4 studs per second the mast lowers automatically with a MAST AUTO-STOW warning. Damage to the mast module shuts the sensor down until it is repaired.\n\nWith the mast up the vehicle sees aircraft, hostile drones and missiles to 4,000 studs and ground vehicles to 1,000 studs, provided there is a clear line of sight. Low-observable aircraft such as the [[k21-kaan]] are detected much later: the KAAN’s radar signature of 0.25 shortens the detection range to about 1,000 studs."
-      ],
-      [
-        "Data link",
-        "The Frost merges its contacts with those of any other Frost whose mast is up and writes them to a shared data link. Contacts appear only on vehicle displays: on the commander’s RADAR and CAM pages, on the HSD page of the [[k16-alaz]] and on the NET page of the [[altai-mbt]] commander’s display. Infantry on foot see nothing."
-      ],
-      [
-        "Availability in the game",
-        "The Frost is called from the Northern Signal garage (bay NS_1), a single-bay garage at the north end of the headquarters courtyard, at the first rank with a 300-second cooldown. See [[vehicle-bays]]."
-      ]
-    ],
-    "related": [
-      "kuzey-isaret",
-      "taurus-mtv",
-      "k16-alaz",
-      "k21-kaan",
-      "altai-mbt",
-      "vehicle-bays"
-    ],
-    "imageKey": "file:frost-acv.jpg"
   },
   "dolphin-rhib": {
     "title": "Dolphin RHIB",
@@ -4507,7 +4128,7 @@
       ],
       [
         "Blast lock and vehicle hall",
-        "The blast lock is 44 studs wide and has an inner blast door of the same size as the outer door. Beside it lie a pedestrian air lock, a decontamination room and a guard room. Beyond the inner door is the 100-stud vehicle hall with eight parking bays, large enough for the [[kaya-zma]] to drive in without touching the walls. The 24 evacuation arrival points are in the central lane of this hall."
+        "The blast lock is 44 studs wide and has an inner blast door of the same size as the outer door. Beside it lie a pedestrian air lock, a decontamination room and a guard room. Beyond the inner door is the 100-stud vehicle hall with eight parking bays, large enough for armored vehicles to drive in without touching the walls. The 24 evacuation arrival points are in the central lane of this hall."
       ],
       [
         "Main corridor and rooms",
@@ -4526,8 +4147,7 @@
       "skyfortress-4",
       "shift-system",
       "sarpburun",
-      "sarp-gecidi",
-      "kaya-zma"
+      "sarp-gecidi"
     ]
   },
   "rockcove-station": {
@@ -4888,7 +4508,7 @@
       ],
       [
         "Bays and their limits",
-        "Sarp Guard garage: SG_1 and SG_3 to SG_6 issue the [[sentinel-lpv]]; SG_2 issues the [[kaya-zma]] (CRAG ACV), with an 8-minute cooldown and only for the Sarp Armored Response Team; the same bay also offers a desert camouflage option.\n\nIron Fist garage, next to the division’s headquarters in SARPBURUN GARRISON: IF_1 and IF_2 issue the [[altai-mbt]] (woodland camouflage option), with a 10-minute cooldown; IF_3 and IF_4 issue the [[taurus-mtv]] MTV-A without limit.\n\nNorthern Signal garage, next to the battalion’s headquarters: NS_1 issues the [[frost-acv]] (first rank, 300 seconds); NS_2 and NS_3 issue the [[taurus-mtv]] MTV-C without limit.\n\nDagger flight line: DG_1 to DG_3 issue the [[k16-alaz]]; DG_4 (HAS 4) issues only the [[k21-kaan]], requiring the eighth rank with a 600-second cooldown. Aircraft are never called while the runway is closed.\n\nRockcove harbor: CG_1 to CG_9 issue the [[dolphin-rhib]], [[seagull-fpb]] and [[northwind-opv]]. Ships are moored in their berths and are marked as parked.\n\nThe [[doruk-ikmal]] has no bays yet: a site beside its logistics depot is reserved for a truck garage that will be sized to the regiment’s heavy trucks."
+        "Sarp Guard garage: bays SG_1 to SG_6. Their vehicle list is being rebuilt.\n\nIron Fist garage, next to the division’s headquarters in SARPBURUN GARRISON: IF_1 and IF_2 issue the [[altai-mbt]] (woodland camouflage option), with a 10-minute cooldown; IF_3 and IF_4 are being rebuilt.\n\nNorthern Signal garage, next to the battalion’s headquarters: bays NS_1 to NS_3. Their vehicle list is being rebuilt.\n\nDagger flight line: DG_1 to DG_3 issue the [[k16-alaz]]; DG_4 (HAS 4) issues only the [[k21-kaan]], requiring the eighth rank with a 600-second cooldown. Aircraft are never called while the runway is closed.\n\nRockcove harbor: CG_1 to CG_9 issue the [[dolphin-rhib]], [[seagull-fpb]] and [[northwind-opv]]. Ships are moored in their berths and are marked as parked.\n\nThe [[doruk-ikmal]] has no bays yet: a site beside its logistics depot is reserved for a truck garage that will be sized to the regiment’s heavy trucks."
       ],
       [
         "Vehicle lifetime",
@@ -4903,10 +4523,6 @@
       "divisions-and-ranks",
       "shift-system",
       "altai-mbt",
-      "kaya-zma",
-      "sentinel-lpv",
-      "taurus-mtv",
-      "frost-acv",
       "k16-alaz",
       "k21-kaan",
       "rockcove-station"
@@ -5003,7 +4619,7 @@
       ],
       [
         "Ranks and vehicle access",
-        "Rank is earned with XP. The Sarp Guard rank thresholds are 0, 50, 150, 350, 700, 1,200, 3,000 and 3,500 XP. Joining the Sarp Armored Response Team needs the rank of Guard Captain (3,000 XP); once on the team, anyone can call the CRAG ACV at any rank. Dagger has eight ranks and the top one, Wing Commander, is required to fly the [[k21-kaan]]. In the Iron Fist division the fifth rank is Tank Commander, which unlocks the [[altai-mbt]]. The game owner starts at the top rank of every division."
+        "Rank is earned with XP. The Sarp Guard rank thresholds are 0, 50, 150, 350, 700, 1,200, 3,000 and 3,500 XP. Joining the Sarp Armored Response Team needs the rank of Guard Captain (3,000 XP). Dagger has eight ranks and the top one, Wing Commander, is required to fly the [[k21-kaan]]. In the Iron Fist division the fifth rank is Tank Commander, which unlocks the [[altai-mbt]]. The game owner starts at the top rank of every division."
       ],
       [
         "Uniforms and appearance",
@@ -5037,7 +4653,7 @@
     "facts": [
       [
         "Period",
-        "4–14 November 2026"
+        "4–21 November 2026"
       ],
       [
         "Game",
@@ -5055,11 +4671,11 @@
     "sections": [
       [
         "4 November",
-        "The regional archive was imported (71 entries with a political map) and the vehicle system started with the [[kaya-zma]]."
+        "The regional archive was imported (71 entries with a political map) and the vehicle system was started with its first armored vehicle."
       ],
       [
         "5 November",
-        "The [[shift-system]] and the Sarpburun map were designed, with Naramo-style team selection ([[divisions-and-ranks]]). New vehicles: [[sentinel-lpv]], [[taurus-mtv]] and the first [[altai-mbt]]. [[rockcove-station]] and the [[coast-guard-command]] were added, along with Sarp Guard, Maintenance Crew and Iron Fist uniforms, a realism pass on the facility, road junctions and the Kızılsu forest, and map detail phases 1 and 2."
+        "The [[shift-system]] and the Sarpburun map were designed, with Naramo-style team selection ([[divisions-and-ranks]]). A new vehicle: the first [[altai-mbt]]. [[rockcove-station]] and the [[coast-guard-command]] were added, along with Sarp Guard, Maintenance Crew and Iron Fist uniforms, a realism pass on the facility, road junctions and the Kızılsu forest, and map detail phases 1 and 2."
       ],
       [
         "6 November",
@@ -5067,7 +4683,7 @@
       ],
       [
         "7 November",
-        "[[vehicle-bays]] were added to the main game with ranks, cooldowns and vehicle lifetime rules. [[karadere-village]] was rebuilt in three versions, finishing with the roundabout monument. The [[frost-acv]] was built and the facility was reorganized into four quarters."
+        "[[vehicle-bays]] were added to the main game with ranks, cooldowns and vehicle lifetime rules. [[karadere-village]] was rebuilt in three versions, finishing with the roundabout monument. A command vehicle was built and the facility was reorganized into four quarters."
       ],
       [
         "10 November",
@@ -5079,11 +4695,15 @@
       ],
       [
         "13 November",
-        "Aircraft shelter doors that open on demand were added and HAS 4 was reserved for the K-21 KAAN. The [[leopard-2a4-t1]] and the driver-gunner tank crew layout were designed in the workshop, and a female soldier body was started in Blender."
+        "Aircraft shelter doors that open on demand were added and HAS 4 was reserved for the K-21 KAAN. A second tank and the driver-gunner tank crew layout were designed in the workshop, and a female soldier body was started in Blender."
       ],
       [
         "14 November",
-        "SARPBURUN GARRISON was rebuilt with 48-stud two-lane roads, kerbs, paved sidewalks, road markings, street lights and rows of pines; the armory, MP station and workshop were moved to make room. The 27th Iron Fist and the 6th Northern Signal each received a garage next to their headquarters, and Northern Signal can now call two [[taurus-mtv]] MTV-C as well as the [[frost-acv]] ([[vehicle-bays]]). The [[doruk-ikmal]] moved to ARMED FORCES and now spawns at a new logistics headquarters and central depot on the east side of the garrison, with ground reserved for a future truck garage; the civilian Logistics Crew spawns at the facility depots. A concept for the Elonian side’s aircraft carrier, [[usos-meridian]], was drawn."
+        "SARPBURUN GARRISON was rebuilt with 48-stud two-lane roads, kerbs, paved sidewalks, road markings, street lights and rows of pines; the armory, MP station and workshop were moved to make room. The 27th Iron Fist and the 6th Northern Signal each received a garage next to their headquarters, and Northern Signal gained its own [[vehicle-bays]]. The [[doruk-ikmal]] moved to ARMED FORCES and now spawns at a new logistics headquarters and central depot on the east side of the garrison, with ground reserved for a future truck garage; the civilian Logistics Crew spawns at the facility depots. A concept for the Elonian side’s aircraft carrier, [[usos-meridian]], was drawn."
+      ],
+      [
+        "21 November",
+        "The old vehicle set was retired from the archive. Dozens of new vehicles from the workshop were added to the Vehicles category with their designations withheld, along with five classified vehicle records. The ALTAI MBT image was updated to the new model."
       ]
     ],
     "related": [
@@ -5470,6 +5090,961 @@
       "divisions-and-ranks"
     ],
     "imageKey": "classified-22nd-srs",
+    "draft": false
+  },
+  "unknown-vehicle-01": {
+    "title": "???",
+    "category": "Vehicles",
+    "desc": "Vehicle in the workshop. Designation withheld.",
+    "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+    "facts": [
+      [
+        "Designation",
+        "???"
+      ],
+      [
+        "Class",
+        "Main battle tank"
+      ],
+      [
+        "Status",
+        "In the vehicle workshop"
+      ]
+    ],
+    "sections": [
+      [
+        "Overview",
+        "This vehicle is part of the new vehicle set built in the workshop. Technical details and the official name will be published when it is transferred to the main game. See [[vehicle-bays]] for how vehicles are called in the game."
+      ]
+    ],
+    "related": [
+      "vehicle-bays"
+    ],
+    "imageKey": "file:unknown-01.jpg",
+    "draft": false
+  },
+  "unknown-vehicle-02": {
+    "title": "???",
+    "category": "Vehicles",
+    "desc": "Vehicle in the workshop. Designation withheld.",
+    "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+    "facts": [
+      [
+        "Designation",
+        "???"
+      ],
+      [
+        "Class",
+        "Main battle tank"
+      ],
+      [
+        "Status",
+        "In the vehicle workshop"
+      ]
+    ],
+    "sections": [
+      [
+        "Overview",
+        "This vehicle is part of the new vehicle set built in the workshop. Technical details and the official name will be published when it is transferred to the main game. See [[vehicle-bays]] for how vehicles are called in the game."
+      ]
+    ],
+    "related": [
+      "vehicle-bays"
+    ],
+    "imageKey": "file:unknown-02.jpg",
+    "draft": false
+  },
+  "unknown-vehicle-03": {
+    "title": "???",
+    "category": "Vehicles",
+    "desc": "Vehicle in the workshop. Designation withheld.",
+    "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+    "facts": [
+      [
+        "Designation",
+        "???"
+      ],
+      [
+        "Class",
+        "Tracked infantry fighting vehicle"
+      ],
+      [
+        "Status",
+        "In the vehicle workshop"
+      ]
+    ],
+    "sections": [
+      [
+        "Overview",
+        "This vehicle is part of the new vehicle set built in the workshop. Technical details and the official name will be published when it is transferred to the main game. See [[vehicle-bays]] for how vehicles are called in the game."
+      ]
+    ],
+    "related": [
+      "vehicle-bays"
+    ],
+    "imageKey": "file:unknown-03.jpg",
+    "draft": false
+  },
+  "unknown-vehicle-04": {
+    "title": "???",
+    "category": "Vehicles",
+    "desc": "Vehicle in the workshop. Designation withheld.",
+    "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+    "facts": [
+      [
+        "Designation",
+        "???"
+      ],
+      [
+        "Class",
+        "Tracked armored personnel carrier"
+      ],
+      [
+        "Status",
+        "In the vehicle workshop"
+      ]
+    ],
+    "sections": [
+      [
+        "Overview",
+        "This vehicle is part of the new vehicle set built in the workshop. Technical details and the official name will be published when it is transferred to the main game. See [[vehicle-bays]] for how vehicles are called in the game."
+      ]
+    ],
+    "related": [
+      "vehicle-bays"
+    ],
+    "imageKey": "file:unknown-04.jpg",
+    "draft": false
+  },
+  "unknown-vehicle-05": {
+    "title": "???",
+    "category": "Vehicles",
+    "desc": "Vehicle in the workshop. Designation withheld.",
+    "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+    "facts": [
+      [
+        "Designation",
+        "???"
+      ],
+      [
+        "Class",
+        "Amphibious tracked assault vehicle"
+      ],
+      [
+        "Status",
+        "In the vehicle workshop"
+      ]
+    ],
+    "sections": [
+      [
+        "Overview",
+        "This vehicle is part of the new vehicle set built in the workshop. Technical details and the official name will be published when it is transferred to the main game. See [[vehicle-bays]] for how vehicles are called in the game."
+      ]
+    ],
+    "related": [
+      "vehicle-bays"
+    ],
+    "imageKey": "file:unknown-05.jpg",
+    "draft": false
+  },
+  "unknown-vehicle-06": {
+    "title": "???",
+    "category": "Vehicles",
+    "desc": "Vehicle in the workshop. Designation withheld.",
+    "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+    "facts": [
+      [
+        "Designation",
+        "???"
+      ],
+      [
+        "Class",
+        "Tracked infantry fighting vehicle"
+      ],
+      [
+        "Status",
+        "In the vehicle workshop"
+      ]
+    ],
+    "sections": [
+      [
+        "Overview",
+        "This vehicle is part of the new vehicle set built in the workshop. Technical details and the official name will be published when it is transferred to the main game. See [[vehicle-bays]] for how vehicles are called in the game."
+      ]
+    ],
+    "related": [
+      "vehicle-bays"
+    ],
+    "imageKey": "file:unknown-06.jpg",
+    "draft": false
+  },
+  "unknown-vehicle-07": {
+    "title": "???",
+    "category": "Vehicles",
+    "desc": "Vehicle in the workshop. Designation withheld.",
+    "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+    "facts": [
+      [
+        "Designation",
+        "???"
+      ],
+      [
+        "Class",
+        "8x8 wheeled armored vehicle"
+      ],
+      [
+        "Status",
+        "In the vehicle workshop"
+      ]
+    ],
+    "sections": [
+      [
+        "Overview",
+        "This vehicle is part of the new vehicle set built in the workshop. Technical details and the official name will be published when it is transferred to the main game. See [[vehicle-bays]] for how vehicles are called in the game."
+      ]
+    ],
+    "related": [
+      "vehicle-bays"
+    ],
+    "imageKey": "file:unknown-07.jpg",
+    "draft": false
+  },
+  "unknown-vehicle-08": {
+    "title": "???",
+    "category": "Vehicles",
+    "desc": "Vehicle in the workshop. Designation withheld.",
+    "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+    "facts": [
+      [
+        "Designation",
+        "???"
+      ],
+      [
+        "Class",
+        "Self-propelled howitzer"
+      ],
+      [
+        "Status",
+        "In the vehicle workshop"
+      ]
+    ],
+    "sections": [
+      [
+        "Overview",
+        "This vehicle is part of the new vehicle set built in the workshop. Technical details and the official name will be published when it is transferred to the main game. See [[vehicle-bays]] for how vehicles are called in the game."
+      ]
+    ],
+    "related": [
+      "vehicle-bays"
+    ],
+    "imageKey": "file:unknown-08.jpg",
+    "draft": false
+  },
+  "unknown-vehicle-09": {
+    "title": "???",
+    "category": "Vehicles",
+    "desc": "Vehicle in the workshop. Designation withheld.",
+    "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+    "facts": [
+      [
+        "Designation",
+        "???"
+      ],
+      [
+        "Class",
+        "Short-range air-defense system"
+      ],
+      [
+        "Status",
+        "In the vehicle workshop"
+      ]
+    ],
+    "sections": [
+      [
+        "Overview",
+        "This vehicle is part of the new vehicle set built in the workshop. Technical details and the official name will be published when it is transferred to the main game. See [[vehicle-bays]] for how vehicles are called in the game."
+      ]
+    ],
+    "related": [
+      "vehicle-bays"
+    ],
+    "imageKey": "file:unknown-09.jpg",
+    "draft": false
+  },
+  "unknown-vehicle-10": {
+    "title": "???",
+    "category": "Vehicles",
+    "desc": "Vehicle in the workshop. Designation withheld.",
+    "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+    "facts": [
+      [
+        "Designation",
+        "???"
+      ],
+      [
+        "Class",
+        "Short-range air-defense system"
+      ],
+      [
+        "Status",
+        "In the vehicle workshop"
+      ]
+    ],
+    "sections": [
+      [
+        "Overview",
+        "This vehicle is part of the new vehicle set built in the workshop. Technical details and the official name will be published when it is transferred to the main game. See [[vehicle-bays]] for how vehicles are called in the game."
+      ]
+    ],
+    "related": [
+      "vehicle-bays"
+    ],
+    "imageKey": "file:unknown-10.jpg",
+    "draft": false
+  },
+  "unknown-vehicle-11": {
+    "title": "???",
+    "category": "Vehicles",
+    "desc": "Vehicle in the workshop. Designation withheld.",
+    "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+    "facts": [
+      [
+        "Designation",
+        "???"
+      ],
+      [
+        "Class",
+        "Long-range air-defense system"
+      ],
+      [
+        "Status",
+        "In the vehicle workshop"
+      ]
+    ],
+    "sections": [
+      [
+        "Overview",
+        "This vehicle is part of the new vehicle set built in the workshop. Technical details and the official name will be published when it is transferred to the main game. See [[vehicle-bays]] for how vehicles are called in the game."
+      ]
+    ],
+    "related": [
+      "vehicle-bays"
+    ],
+    "imageKey": "file:unknown-11.jpg",
+    "draft": false
+  },
+  "unknown-vehicle-12": {
+    "title": "???",
+    "category": "Vehicles",
+    "desc": "Vehicle in the workshop. Designation withheld.",
+    "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+    "facts": [
+      [
+        "Designation",
+        "???"
+      ],
+      [
+        "Class",
+        "6x6 armored vehicle"
+      ],
+      [
+        "Status",
+        "In the vehicle workshop"
+      ]
+    ],
+    "sections": [
+      [
+        "Overview",
+        "This vehicle is part of the new vehicle set built in the workshop. Technical details and the official name will be published when it is transferred to the main game. See [[vehicle-bays]] for how vehicles are called in the game."
+      ]
+    ],
+    "related": [
+      "vehicle-bays"
+    ],
+    "imageKey": "file:unknown-12.jpg",
+    "draft": false
+  },
+  "unknown-vehicle-13": {
+    "title": "???",
+    "category": "Vehicles",
+    "desc": "Vehicle in the workshop. Designation withheld.",
+    "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+    "facts": [
+      [
+        "Designation",
+        "???"
+      ],
+      [
+        "Class",
+        "4x4 armored tactical vehicle"
+      ],
+      [
+        "Status",
+        "In the vehicle workshop"
+      ]
+    ],
+    "sections": [
+      [
+        "Overview",
+        "This vehicle is part of the new vehicle set built in the workshop. Technical details and the official name will be published when it is transferred to the main game. See [[vehicle-bays]] for how vehicles are called in the game."
+      ]
+    ],
+    "related": [
+      "vehicle-bays"
+    ],
+    "imageKey": "file:unknown-13.jpg",
+    "draft": false
+  },
+  "unknown-vehicle-14": {
+    "title": "???",
+    "category": "Vehicles",
+    "desc": "Vehicle in the workshop. Designation withheld.",
+    "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+    "facts": [
+      [
+        "Designation",
+        "???"
+      ],
+      [
+        "Class",
+        "4x4 armored tactical vehicle"
+      ],
+      [
+        "Status",
+        "In the vehicle workshop"
+      ]
+    ],
+    "sections": [
+      [
+        "Overview",
+        "This vehicle is part of the new vehicle set built in the workshop. Technical details and the official name will be published when it is transferred to the main game. See [[vehicle-bays]] for how vehicles are called in the game."
+      ]
+    ],
+    "related": [
+      "vehicle-bays"
+    ],
+    "imageKey": "file:unknown-14.jpg",
+    "draft": false
+  },
+  "unknown-vehicle-15": {
+    "title": "???",
+    "category": "Vehicles",
+    "desc": "Vehicle in the workshop. Designation withheld.",
+    "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+    "facts": [
+      [
+        "Designation",
+        "???"
+      ],
+      [
+        "Class",
+        "4x4 armored vehicle"
+      ],
+      [
+        "Status",
+        "In the vehicle workshop"
+      ]
+    ],
+    "sections": [
+      [
+        "Overview",
+        "This vehicle is part of the new vehicle set built in the workshop. Technical details and the official name will be published when it is transferred to the main game. See [[vehicle-bays]] for how vehicles are called in the game."
+      ]
+    ],
+    "related": [
+      "vehicle-bays"
+    ],
+    "imageKey": "file:unknown-15.jpg",
+    "draft": false
+  },
+  "unknown-vehicle-16": {
+    "title": "???",
+    "category": "Vehicles",
+    "desc": "Vehicle in the workshop. Designation withheld.",
+    "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+    "facts": [
+      [
+        "Designation",
+        "???"
+      ],
+      [
+        "Class",
+        "4x4 armored vehicle"
+      ],
+      [
+        "Status",
+        "In the vehicle workshop"
+      ]
+    ],
+    "sections": [
+      [
+        "Overview",
+        "This vehicle is part of the new vehicle set built in the workshop. Technical details and the official name will be published when it is transferred to the main game. See [[vehicle-bays]] for how vehicles are called in the game."
+      ]
+    ],
+    "related": [
+      "vehicle-bays"
+    ],
+    "imageKey": "file:unknown-16.jpg",
+    "draft": false
+  },
+  "unknown-vehicle-17": {
+    "title": "???",
+    "category": "Vehicles",
+    "desc": "Vehicle in the workshop. Designation withheld.",
+    "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+    "facts": [
+      [
+        "Designation",
+        "???"
+      ],
+      [
+        "Class",
+        "4x4 armored vehicle"
+      ],
+      [
+        "Status",
+        "In the vehicle workshop"
+      ]
+    ],
+    "sections": [
+      [
+        "Overview",
+        "This vehicle is part of the new vehicle set built in the workshop. Technical details and the official name will be published when it is transferred to the main game. See [[vehicle-bays]] for how vehicles are called in the game."
+      ]
+    ],
+    "related": [
+      "vehicle-bays"
+    ],
+    "imageKey": "file:unknown-17.jpg",
+    "draft": false
+  },
+  "unknown-vehicle-18": {
+    "title": "???",
+    "category": "Vehicles",
+    "desc": "Vehicle in the workshop. Designation withheld.",
+    "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+    "facts": [
+      [
+        "Designation",
+        "???"
+      ],
+      [
+        "Class",
+        "4x4 tactical vehicle"
+      ],
+      [
+        "Status",
+        "In the vehicle workshop"
+      ]
+    ],
+    "sections": [
+      [
+        "Overview",
+        "This vehicle is part of the new vehicle set built in the workshop. Technical details and the official name will be published when it is transferred to the main game. See [[vehicle-bays]] for how vehicles are called in the game."
+      ]
+    ],
+    "related": [
+      "vehicle-bays"
+    ],
+    "imageKey": "file:unknown-18.jpg",
+    "draft": false
+  },
+  "unknown-vehicle-19": {
+    "title": "???",
+    "category": "Vehicles",
+    "desc": "Vehicle in the workshop. Designation withheld.",
+    "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+    "facts": [
+      [
+        "Designation",
+        "???"
+      ],
+      [
+        "Class",
+        "4x4 armored vehicle"
+      ],
+      [
+        "Status",
+        "In the vehicle workshop"
+      ]
+    ],
+    "sections": [
+      [
+        "Overview",
+        "This vehicle is part of the new vehicle set built in the workshop. Technical details and the official name will be published when it is transferred to the main game. See [[vehicle-bays]] for how vehicles are called in the game."
+      ]
+    ],
+    "related": [
+      "vehicle-bays"
+    ],
+    "imageKey": "file:unknown-19.jpg",
+    "draft": false
+  },
+  "unknown-vehicle-20": {
+    "title": "???",
+    "category": "Vehicles",
+    "desc": "Vehicle in the workshop. Designation withheld.",
+    "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+    "facts": [
+      [
+        "Designation",
+        "???"
+      ],
+      [
+        "Class",
+        "4x4 armored vehicle"
+      ],
+      [
+        "Status",
+        "In the vehicle workshop"
+      ]
+    ],
+    "sections": [
+      [
+        "Overview",
+        "This vehicle is part of the new vehicle set built in the workshop. Technical details and the official name will be published when it is transferred to the main game. See [[vehicle-bays]] for how vehicles are called in the game."
+      ]
+    ],
+    "related": [
+      "vehicle-bays"
+    ],
+    "imageKey": "file:unknown-20.jpg",
+    "draft": false
+  },
+  "unknown-vehicle-21": {
+    "title": "???",
+    "category": "Vehicles",
+    "desc": "Vehicle in the workshop. Designation withheld.",
+    "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+    "facts": [
+      [
+        "Designation",
+        "???"
+      ],
+      [
+        "Class",
+        "4x4 armored vehicle"
+      ],
+      [
+        "Status",
+        "In the vehicle workshop"
+      ]
+    ],
+    "sections": [
+      [
+        "Overview",
+        "This vehicle is part of the new vehicle set built in the workshop. Technical details and the official name will be published when it is transferred to the main game. See [[vehicle-bays]] for how vehicles are called in the game."
+      ]
+    ],
+    "related": [
+      "vehicle-bays"
+    ],
+    "imageKey": "file:unknown-21.jpg",
+    "draft": false
+  },
+  "unknown-vehicle-22": {
+    "title": "???",
+    "category": "Vehicles",
+    "desc": "Vehicle in the workshop. Designation withheld.",
+    "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+    "facts": [
+      [
+        "Designation",
+        "???"
+      ],
+      [
+        "Class",
+        "Light armored vehicle"
+      ],
+      [
+        "Status",
+        "In the vehicle workshop"
+      ]
+    ],
+    "sections": [
+      [
+        "Overview",
+        "This vehicle is part of the new vehicle set built in the workshop. Technical details and the official name will be published when it is transferred to the main game. See [[vehicle-bays]] for how vehicles are called in the game."
+      ]
+    ],
+    "related": [
+      "vehicle-bays"
+    ],
+    "imageKey": "file:unknown-22.jpg",
+    "draft": false
+  },
+  "unknown-vehicle-23": {
+    "title": "???",
+    "category": "Vehicles",
+    "desc": "Vehicle in the workshop. Designation withheld.",
+    "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+    "facts": [
+      [
+        "Designation",
+        "???"
+      ],
+      [
+        "Class",
+        "Light utility vehicle"
+      ],
+      [
+        "Status",
+        "In the vehicle workshop"
+      ]
+    ],
+    "sections": [
+      [
+        "Overview",
+        "This vehicle is part of the new vehicle set built in the workshop. Technical details and the official name will be published when it is transferred to the main game. See [[vehicle-bays]] for how vehicles are called in the game."
+      ]
+    ],
+    "related": [
+      "vehicle-bays"
+    ],
+    "imageKey": "file:unknown-23.jpg",
+    "draft": false
+  },
+  "unknown-vehicle-24": {
+    "title": "???",
+    "category": "Vehicles",
+    "desc": "Vehicle in the workshop. Designation withheld.",
+    "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+    "facts": [
+      [
+        "Designation",
+        "???"
+      ],
+      [
+        "Class",
+        "Light utility vehicle"
+      ],
+      [
+        "Status",
+        "In the vehicle workshop"
+      ]
+    ],
+    "sections": [
+      [
+        "Overview",
+        "This vehicle is part of the new vehicle set built in the workshop. Technical details and the official name will be published when it is transferred to the main game. See [[vehicle-bays]] for how vehicles are called in the game."
+      ]
+    ],
+    "related": [
+      "vehicle-bays"
+    ],
+    "imageKey": "file:unknown-24.jpg",
+    "draft": false
+  },
+  "unknown-vehicle-25": {
+    "title": "???",
+    "category": "Vehicles",
+    "desc": "Vehicle in the workshop. Designation withheld.",
+    "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+    "facts": [
+      [
+        "Designation",
+        "???"
+      ],
+      [
+        "Class",
+        "Security patrol vehicle"
+      ],
+      [
+        "Status",
+        "In the vehicle workshop"
+      ]
+    ],
+    "sections": [
+      [
+        "Overview",
+        "This vehicle is part of the new vehicle set built in the workshop. Technical details and the official name will be published when it is transferred to the main game. See [[vehicle-bays]] for how vehicles are called in the game."
+      ]
+    ],
+    "related": [
+      "vehicle-bays"
+    ],
+    "imageKey": "file:unknown-25.jpg",
+    "draft": false
+  },
+  "classified-vehicle-1": {
+    "title": "[CLASSIFIED] VEHICLE 01",
+    "category": "Vehicles",
+    "classified": true,
+    "desc": "[REDACTED] — Restricted vehicle record. Clearance Level 5 required.",
+    "lead": "Security Directive ████-09: The designation, appearance and specifications of this vehicle are withheld from the public archive.",
+    "facts": [
+      [
+        "Designation",
+        "[REDACTED]"
+      ],
+      [
+        "Class",
+        "[REDACTED]"
+      ],
+      [
+        "Operator",
+        "[REDACTED]"
+      ],
+      [
+        "Classification",
+        "[LEVEL 5 REQUIRED]"
+      ]
+    ],
+    "sections": [
+      [
+        "Record",
+        "[DATA EXPUNGED]. Public archive mirrors retain only the file header; access to the underlying appendices returns [ACCESS DENIED]."
+      ]
+    ],
+    "related": [
+      "aia"
+    ],
+    "imageKey": "classified-seal",
+    "draft": false
+  },
+  "classified-vehicle-2": {
+    "title": "[CLASSIFIED] VEHICLE 02",
+    "category": "Vehicles",
+    "classified": true,
+    "desc": "[REDACTED] — Restricted vehicle record. Clearance Level 5 required.",
+    "lead": "Security Directive ████-09: The designation, appearance and specifications of this vehicle are withheld from the public archive.",
+    "facts": [
+      [
+        "Designation",
+        "[REDACTED]"
+      ],
+      [
+        "Class",
+        "[REDACTED]"
+      ],
+      [
+        "Operator",
+        "[REDACTED]"
+      ],
+      [
+        "Classification",
+        "[LEVEL 5 REQUIRED]"
+      ]
+    ],
+    "sections": [
+      [
+        "Record",
+        "[DATA EXPUNGED]. Public archive mirrors retain only the file header; access to the underlying appendices returns [ACCESS DENIED]."
+      ]
+    ],
+    "related": [
+      "aia"
+    ],
+    "imageKey": "classified-seal",
+    "draft": false
+  },
+  "classified-vehicle-3": {
+    "title": "[CLASSIFIED] VEHICLE 03",
+    "category": "Vehicles",
+    "classified": true,
+    "desc": "[REDACTED] — Restricted vehicle record. Clearance Level 5 required.",
+    "lead": "Security Directive ████-09: The designation, appearance and specifications of this vehicle are withheld from the public archive.",
+    "facts": [
+      [
+        "Designation",
+        "[REDACTED]"
+      ],
+      [
+        "Class",
+        "[REDACTED]"
+      ],
+      [
+        "Operator",
+        "[REDACTED]"
+      ],
+      [
+        "Classification",
+        "[LEVEL 5 REQUIRED]"
+      ]
+    ],
+    "sections": [
+      [
+        "Record",
+        "[DATA EXPUNGED]. Public archive mirrors retain only the file header; access to the underlying appendices returns [ACCESS DENIED]."
+      ]
+    ],
+    "related": [
+      "aia"
+    ],
+    "imageKey": "classified-seal",
+    "draft": false
+  },
+  "classified-vehicle-4": {
+    "title": "[CLASSIFIED] VEHICLE 04",
+    "category": "Vehicles",
+    "classified": true,
+    "desc": "[REDACTED] — Restricted vehicle record. Clearance Level 5 required.",
+    "lead": "Security Directive ████-09: The designation, appearance and specifications of this vehicle are withheld from the public archive.",
+    "facts": [
+      [
+        "Designation",
+        "[REDACTED]"
+      ],
+      [
+        "Class",
+        "[REDACTED]"
+      ],
+      [
+        "Operator",
+        "[REDACTED]"
+      ],
+      [
+        "Classification",
+        "[LEVEL 5 REQUIRED]"
+      ]
+    ],
+    "sections": [
+      [
+        "Record",
+        "[DATA EXPUNGED]. Public archive mirrors retain only the file header; access to the underlying appendices returns [ACCESS DENIED]."
+      ]
+    ],
+    "related": [
+      "aia"
+    ],
+    "imageKey": "classified-seal",
+    "draft": false
+  },
+  "classified-vehicle-5": {
+    "title": "[CLASSIFIED] VEHICLE 05",
+    "category": "Vehicles",
+    "classified": true,
+    "desc": "[REDACTED] — Restricted vehicle record. Clearance Level 5 required.",
+    "lead": "Security Directive ████-09: The designation, appearance and specifications of this vehicle are withheld from the public archive.",
+    "facts": [
+      [
+        "Designation",
+        "[REDACTED]"
+      ],
+      [
+        "Class",
+        "[REDACTED]"
+      ],
+      [
+        "Operator",
+        "[REDACTED]"
+      ],
+      [
+        "Classification",
+        "[LEVEL 5 REQUIRED]"
+      ]
+    ],
+    "sections": [
+      [
+        "Record",
+        "[DATA EXPUNGED]. Public archive mirrors retain only the file header; access to the underlying appendices returns [ACCESS DENIED]."
+      ]
+    ],
+    "related": [
+      "aia"
+    ],
+    "imageKey": "classified-seal",
     "draft": false
   }
 }
