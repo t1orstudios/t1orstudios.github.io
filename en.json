@@ -400,10 +400,10 @@
     ]
   },
   "gozcu-3": {
-    "title": "GÖZCÜ-3",
+    "title": "GOZCU-3",
     "category": "Space program",
     "desc": "A surveillance and data relay satellite operating in orbit.",
-    "lead": "GÖZCÜ-3 is the surveillance and data relay satellite in [[anatarya]]’s space program that is already in orbit. It is associated with the existing satellite operations of the [[skyfortress-4]] complex.",
+    "lead": "GOZCU-3 is the surveillance and data relay satellite in [[anatarya]]’s space program that is already in orbit. It is associated with the existing satellite operations of the [[skyfortress-4]] complex.",
     "facts": [
       [
         "Type",
@@ -425,7 +425,7 @@
     "sections": [
       [
         "Role",
-        "GÖZCÜ-3 represents the existing surveillance and data relay capacity. It is not the same system as [[kartal-7]], which has yet to be launched."
+        "GOZCU-3 represents the existing surveillance and data relay capacity. It is not the same system as [[kartal-7]], which has yet to be launched."
       ],
       [
         "Place in the space program",
@@ -472,7 +472,7 @@
         "[[elonya]] is attempting to prevent the launch before this capability emerges. The dispatch of the [[aigaion]] group toward [[sarpburun]] is part of the military pressure that initiated the conflict around [[skyfortress-4]]."
       ],
       [
-        "Relationship with GÖZCÜ-3",
+        "Relationship with GOZCU-3",
         "[[gozcu-3]] is already in orbit; KARTAL-7 is the new launch payload."
       ]
     ],
@@ -484,10 +484,10 @@
     ]
   },
   "simsek-iii": {
-    "title": "ŞIMŞEK-III",
+    "title": "SIMSEK-III",
     "category": "Space program",
     "desc": "The launch vehicle intended to carry KARTAL-7.",
-    "lead": "ŞIMŞEK-III is the launch vehicle intended to carry the [[kartal-7]] military reconnaissance satellite into space from the [[skyfortress-4]] complex.",
+    "lead": "SIMSEK-III is the launch vehicle intended to carry the [[kartal-7]] military reconnaissance satellite into space from the [[skyfortress-4]] complex.",
     "facts": [
       [
         "Type",
@@ -2661,7 +2661,7 @@
     "facts": [
       [
         "Document code",
-        "GÖK-HVK-94-117/TS"
+        "GOK-HVK-94-117/TS"
       ],
       [
         "Classification",
@@ -4402,7 +4402,7 @@
     "title": "Shift system",
     "category": "Game systems",
     "desc": "The continuous 15-minute shift cycle of launch preparation, sabotage and catastrophe.",
-    "lead": "The server of the Skyfortress Military Facility game never ends a match. It runs one shift after another, each about 900 seconds long, until the ŞIMŞEK-III launch window at the end of the shift decides who gains experience. The defenders ([[anatarya]]: soldiers and facility staff) try to prepare and launch [[kartal-7]]; the attackers ([[elonya]]) try to stop the launch, and if they cause a catastrophe the whole facility rushes to the shelters.",
+    "lead": "The server of the Skyfortress Military Facility game never ends a match. It runs one shift after another, each about 900 seconds long, until the SIMSEK-III launch window at the end of the shift decides who gains experience. The defenders ([[anatarya]]: soldiers and facility staff) try to prepare and launch [[kartal-7]]; the attackers ([[elonya]]) try to stop the launch, and if they cause a catastrophe the whole facility rushes to the shelters.",
     "facts": [
       [
         "Shift length",
@@ -4675,7 +4675,7 @@
       ],
       [
         "5 November",
-        "The [[shift-system]] and the Sarpburun map were designed, with Naramo-style team selection ([[divisions-and-ranks]]). A new vehicle: the first [[altai-mbt]]. [[rockcove-station]] and the [[coast-guard-command]] were added, along with Sarp Guard, Maintenance Crew and Iron Fist uniforms, a realism pass on the facility, road junctions and the Kızılsu forest, and map detail phases 1 and 2."
+        "The [[shift-system]] and the Sarpburun map were designed, with Naramo-style team selection ([[divisions-and-ranks]]). A new vehicle: the first [[altai-mbt]]. [[rockcove-station]] and the [[coast-guard-command]] were added, along with Sarp Guard, Maintenance Crew and Iron Fist uniforms, a realism pass on the facility, road junctions and the Kizilsu forest, and map detail phases 1 and 2."
       ],
       [
         "6 November",
@@ -4981,7 +4981,7 @@
     "facts": [
       [
         "File designation",
-        "GÖK-TS-AIA / ████"
+        "GOK-TS-AIA / ████"
       ],
       [
         "Full designation",
@@ -5041,7 +5041,7 @@
     "facts": [
       [
         "File designation",
-        "GÖK-TS-22SRS / ████"
+        "GOK-TS-22SRS / ████"
       ],
       [
         "Full designation",
