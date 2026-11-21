@@ -975,7 +975,7 @@
       "kriz",
       "kartal-7"
     ],
-    "imageKey": "file:sarpburun-dosyasi.jpg"
+    "imageKey": "file:sarpburun-dosyasi-v2.jpg"
   },
   "cam-perde": {
     "title": "Glass Curtain",
@@ -1016,7 +1016,7 @@
       "kriz",
       "kuzey-kusagi"
     ],
-    "imageKey": "file:cam-perde.jpg"
+    "imageKey": "file:cam-perde-v2.jpg"
   },
   "avrupa": {
     "title": "Avren mainland",
@@ -2707,7 +2707,7 @@
       "cam-perde",
       "kriz"
     ],
-    "imageKey": "file:dosya-94-117.jpg",
+    "imageKey": "file:dosya-94-117-v2.jpg",
     "draft": false
   },
   "ostenya": {
