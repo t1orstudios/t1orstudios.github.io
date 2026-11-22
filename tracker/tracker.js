@@ -15,18 +15,19 @@
   // Strict allowlist for Roblox CDN avatar headshot thumbnails
   const ALLOWED_AVATAR_URL_RE = /^https:\/\/t[r0-9a-z-]*\.rbxcdn\.com\//i;
 
-  const VALID_STATUSES = new Set([
+  const CORE_STATUSES = [
+    'Pending Review',
     'Accepted',
     'Waitlisted',
-    'Not Selected',
-    'Pending Review',
-  ]);
+    'Rejected',
+  ];
 
   const STATUS_CLASS_MAP = {
     'Pending Review': 'status-pill--pending',
     Accepted: 'status-pill--accepted',
     Waitlisted: 'status-pill--waitlisted',
-    'Not Selected': 'status-pill--not-selected',
+    Rejected: 'status-pill--rejected',
+    Disqualified: 'status-pill--rejected',
   };
 
   const collator = new Intl.Collator(undefined, {
@@ -50,15 +51,15 @@
   const kpiAcceptedEl = document.getElementById('kpi-accepted');
   const kpiWaitlistedEl = document.getElementById('kpi-waitlisted');
 
+  const filterBarEl = document.querySelector('.filter-bar');
   const countAllEl = document.getElementById('count-all');
   const countPendingEl = document.getElementById('count-pending');
   const countAcceptedEl = document.getElementById('count-accepted');
   const countWaitlistedEl = document.getElementById('count-waitlisted');
-  const countNotSelectedEl = document.getElementById('count-not-selected');
+  const countRejectedEl = document.getElementById('count-rejected');
 
   const searchInput = document.getElementById('tracker-search');
   const searchClearBtn = document.getElementById('search-clear');
-  const filterButtons = [...document.querySelectorAll('.filter-pill')];
   const resultsStatusEl = document.getElementById('results-status');
 
   const tableEl = document.getElementById('tracker-table');
@@ -89,13 +90,13 @@
   // ==========================================================================
 
   /**
-   * Restrict status to the 4 player-safe values. Never expose raw staff labels.
+   * Normalize default Pending values and allow custom staff statuses through safely.
    */
   function sanitizeStatus(raw) {
-    const value = String(raw ?? '').trim();
-    if (VALID_STATUSES.has(value)) return value;
-    if (value === 'Rejected' || value === 'Disqualified') return 'Not Selected';
-    return 'Pending Review';
+    const value = String(raw ?? '').trim().slice(0, 40);
+    if (!value || value.toLowerCase() === 'pending') return 'Pending Review';
+    if (value.toLowerCase() === 'not selected') return 'Rejected';
+    return value;
   }
 
   /**
@@ -493,7 +494,7 @@
 
   function createStatusBadge(status) {
     const pill = document.createElement('span');
-    const variantClass = STATUS_CLASS_MAP[status] || STATUS_CLASS_MAP['Pending Review'];
+    const variantClass = STATUS_CLASS_MAP[status] || 'status-pill--custom';
     pill.className = `status-pill ${variantClass}`;
 
     const dot = document.createElement('span');
@@ -617,31 +618,79 @@
   // COUNTERS, FILTERING & IN-PLACE SORTING (moveBefore / appendChild)
   // ==========================================================================
 
+  function createDynamicFilterPill(status, count, isPressed) {
+    const btn = document.createElement('button');
+    btn.type = 'button';
+    btn.className = 'filter-pill filter-pill--custom';
+    btn.dataset.filter = status;
+    btn.dataset.dynamic = 'true';
+    btn.setAttribute('aria-pressed', String(isPressed));
+
+    const labelSpan = document.createElement('span');
+    labelSpan.textContent = status;
+
+    const countSpan = document.createElement('span');
+    countSpan.className = 'filter-count';
+    countSpan.textContent = String(count);
+
+    btn.append(labelSpan, countSpan);
+    return btn;
+  }
+
   function updateCounters(records) {
-    const counts = {
-      All: records.length,
-      'Pending Review': 0,
-      Accepted: 0,
-      Waitlisted: 0,
-      'Not Selected': 0,
-    };
+    const coreSet = new Set(CORE_STATUSES);
+    const countsByStatus = new Map();
 
     for (const rec of records) {
-      if (Object.prototype.hasOwnProperty.call(counts, rec.status)) {
-        counts[rec.status] += 1;
-      }
+      countsByStatus.set(rec.status, (countsByStatus.get(rec.status) || 0) + 1);
     }
 
-    kpiTotalEl.textContent = String(counts.All);
-    kpiPendingEl.textContent = String(counts['Pending Review']);
-    kpiAcceptedEl.textContent = String(counts.Accepted);
-    kpiWaitlistedEl.textContent = String(counts.Waitlisted);
+    const totalCount = records.length;
+    const pendingCount = countsByStatus.get('Pending Review') || 0;
+    const acceptedCount = countsByStatus.get('Accepted') || 0;
+    const waitlistedCount = countsByStatus.get('Waitlisted') || 0;
+    const rejectedCount = countsByStatus.get('Rejected') || 0;
 
-    countAllEl.textContent = String(counts.All);
-    countPendingEl.textContent = String(counts['Pending Review']);
-    countAcceptedEl.textContent = String(counts.Accepted);
-    countWaitlistedEl.textContent = String(counts.Waitlisted);
-    countNotSelectedEl.textContent = String(counts['Not Selected']);
+    kpiTotalEl.textContent = String(totalCount);
+    kpiPendingEl.textContent = String(pendingCount);
+    kpiAcceptedEl.textContent = String(acceptedCount);
+    kpiWaitlistedEl.textContent = String(waitlistedCount);
+
+    countAllEl.textContent = String(totalCount);
+    countPendingEl.textContent = String(pendingCount);
+    countAcceptedEl.textContent = String(acceptedCount);
+    countWaitlistedEl.textContent = String(waitlistedCount);
+    countRejectedEl.textContent = String(rejectedCount);
+
+    if (
+      state.statusFilter !== 'All' &&
+      !coreSet.has(state.statusFilter) &&
+      !countsByStatus.has(state.statusFilter)
+    ) {
+      state.statusFilter = 'All';
+    }
+
+    for (const oldDynamic of filterBarEl.querySelectorAll('[data-dynamic="true"]')) {
+      oldDynamic.remove();
+    }
+
+    const customStatuses = [...countsByStatus.keys()]
+      .filter((s) => !coreSet.has(s))
+      .sort((a, b) => collator.compare(a, b));
+
+    for (const status of customStatuses) {
+      const btn = createDynamicFilterPill(
+        status,
+        countsByStatus.get(status) || 0,
+        state.statusFilter === status
+      );
+      filterBarEl.appendChild(btn);
+    }
+
+    for (const pill of filterBarEl.querySelectorAll('.filter-pill')) {
+      const filterVal = pill.dataset.filter || 'All';
+      pill.setAttribute('aria-pressed', String(state.statusFilter === filterVal));
+    }
   }
 
   function getSortCellIndex(sortKey) {
@@ -831,23 +880,23 @@
     searchInput.focus();
   });
 
-  for (const btn of filterButtons) {
-    btn.addEventListener('click', () => {
-      const nextFilter = btn.dataset.filter || 'All';
-      state.statusFilter = nextFilter;
-      for (const pill of filterButtons) {
-        pill.setAttribute('aria-pressed', String(pill === btn));
-      }
-      applySortAndFilter({ animate: false, announce: true, immediateAnnounce: true });
-    });
-  }
+  filterBarEl.addEventListener('click', (event) => {
+    const btn = event.target.closest('button.filter-pill');
+    if (!btn) return;
+    const nextFilter = btn.dataset.filter || 'All';
+    state.statusFilter = nextFilter;
+    for (const pill of filterBarEl.querySelectorAll('.filter-pill')) {
+      pill.setAttribute('aria-pressed', String(pill === btn));
+    }
+    applySortAndFilter({ animate: false, announce: true, immediateAnnounce: true });
+  });
 
   resetFiltersBtn.addEventListener('click', () => {
     searchInput.value = '';
     state.query = '';
     state.statusFilter = 'All';
     syncClearButton();
-    for (const pill of filterButtons) {
+    for (const pill of filterBarEl.querySelectorAll('.filter-pill')) {
       pill.setAttribute('aria-pressed', String(pill.dataset.filter === 'All'));
     }
     applySortAndFilter({ animate: false, announce: true, immediateAnnounce: true });

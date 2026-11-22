@@ -61,8 +61,7 @@
         <h1 class="tracker-title">Playtester Application Tracker</h1>
         <p class="tracker-subtitle">
           Public status ledger for SKYFORTRESS-4 Military Facility playtester recruitment.
-          Evaluation scores, written answers, and personal contact details remain confidential;
-          applications stay <strong>Pending Review</strong> until staff records a final decision.
+          Applications stay <strong>Pending Review</strong> until staff records a final decision.
         </p>
       </div>
 
@@ -154,9 +153,9 @@
             <span>Waitlisted</span>
             <span class="filter-count" id="count-waitlisted">0</span>
           </button>
-          <button type="button" class="filter-pill filter-pill--not-selected" data-filter="Not Selected" aria-pressed="false">
-            <span>Not Selected</span>
-            <span class="filter-count" id="count-not-selected">0</span>
+          <button type="button" class="filter-pill filter-pill--rejected" data-filter="Rejected" aria-pressed="false">
+            <span>Rejected</span>
+            <span class="filter-count" id="count-rejected">0</span>
           </button>
         </div>
       </div>
@@ -240,25 +239,11 @@
         <button type="button" id="reset-filters-btn" class="reset-btn">Reset filters</button>
       </div>
     </div>
-
-    <aside class="privacy-notice" aria-label="Registry privacy policy">
-      <svg class="privacy-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-        <rect x="4" y="11" width="16" height="10" rx="2"/>
-        <path d="M8 11V7a4 4 0 0 1 8 0v4"/>
-      </svg>
-      <div class="privacy-copy">
-        <p class="privacy-heading">CONFIDENTIALITY PROTOCOL</p>
-        <p class="privacy-text">
-          This public registry only displays Application ID, Roblox Username, submission date, and final review status.
-          Email addresses, profile links, written responses, grading scores, and internal staff notes are never published or exposed here.
-        </p>
-      </div>
-    </aside>
   </main>
 
   <footer>
     <span>SKYFORTRESS ARCHIVE</span>
-    <span>Playtester Registry · Public Status Ledger · Personal Data Confidential</span>
+    <span>Playtester Registry · Public Status Ledger</span>
     <a href="/">Return to Archive ↗</a>
   </footer>
 
