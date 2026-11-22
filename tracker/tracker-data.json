@@ -1,0 +1,54 @@
+{
+  "updatedAt": "2026-11-22T15:20:00Z",
+  "rows": [
+    {
+      "appId": "SF-001",
+      "robloxUsername": "Eddeb123",
+      "submittedAt": "2026-11-19",
+      "status": "Not Selected",
+      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-3BBAE76A2EAC4F292623D66A5FF575C0-Png/150/150/AvatarHeadshot/Png/isCircular"
+    },
+    {
+      "appId": "SF-002",
+      "robloxUsername": "pqdraes",
+      "submittedAt": "2026-11-21",
+      "status": "Pending Review",
+      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-5CD4BD4D902BD515963DAA8CCDCEF2A6-Png/150/150/AvatarHeadshot/Png/isCircular"
+    },
+    {
+      "appId": "SF-003",
+      "robloxUsername": "Eddeb123",
+      "submittedAt": "2026-11-21",
+      "status": "Not Selected",
+      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-3BBAE76A2EAC4F292623D66A5FF575C0-Png/150/150/AvatarHeadshot/Png/isCircular"
+    },
+    {
+      "appId": "SF-004",
+      "robloxUsername": "Fallen334564",
+      "submittedAt": "2026-11-21",
+      "status": "Pending Review",
+      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-D084BBF8C34172A17E682CD37599B509-Png/150/150/AvatarHeadshot/Png/isCircular"
+    },
+    {
+      "appId": "SF-005",
+      "robloxUsername": "PzDn12",
+      "submittedAt": "2026-11-21",
+      "status": "Pending Review",
+      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-ACB46F467A94E8C48F12E8DE12129BD6-Png/150/150/AvatarHeadshot/Png/isCircular"
+    },
+    {
+      "appId": "SF-006",
+      "robloxUsername": "carevdexton / carevdexton (Display name same as handle)",
+      "submittedAt": "2026-11-22",
+      "status": "Pending Review",
+      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-30674BE5B81303B50CCEE0EE72450C03-Png/150/150/AvatarHeadshot/Png/isCircular"
+    },
+    {
+      "appId": "SF-007",
+      "robloxUsername": "Yui_lima",
+      "submittedAt": "2026-11-22",
+      "status": "Pending Review",
+      "avatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-4ABCF05C30EAAC50700420513517F0AB-Png/150/150/AvatarHeadshot/Png/isCircular"
+    }
+  ]
+}

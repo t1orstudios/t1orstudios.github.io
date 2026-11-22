@@ -1,0 +1,267 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="theme-color" content="#0b111b">
+  <meta name="color-scheme" content="dark">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Public playtester application status registry for Skyfortress Military Facility (SKYFORTRESS-4). Check application status by Roblox username or Application ID.">
+  <title>Playtester Application Tracker — Skyfortress Archive</title>
+  <link rel="icon" href="/favicon.svg?v=44ebdd2f0fcf" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="/favicon.svg?v=44ebdd2f0fcf">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Serif:wght@500;600&display=swap">
+  <link rel="stylesheet" href="/style.css?v=c5a527345eb9">
+  <link rel="stylesheet" href="./tracker.css">
+  <link rel="canonical" href="https://t1orstudios.github.io/tracker/">
+  <meta property="og:site_name" content="Skyfortress Archive">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:title" content="Playtester Application Tracker — Skyfortress Archive">
+  <meta property="og:description" content="Live public status registry for SKYFORTRESS-4 Military Facility playtester applications.">
+  <meta property="og:image" content="https://t1orstudios.github.io/skyfortress-4.jpg">
+  <meta property="og:url" content="https://t1orstudios.github.io/tracker/">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Playtester Application Tracker — Skyfortress Archive">
+  <meta name="twitter:description" content="Live public status registry for SKYFORTRESS-4 Military Facility playtester applications.">
+  <meta name="twitter:image" content="https://t1orstudios.github.io/skyfortress-4.jpg">
+</head>
+<body class="tracker-page">
+  <a href="#main" class="skip-link">Skip to content</a>
+  <div class="fiction-banner" id="fiction-banner">Everything on this site is fictional.</div>
+  <div class="site-header-sentinel" aria-hidden="true"></div>
+  <div class="site-header-wrap">
+    <header class="site-header tracker-site-header">
+      <a class="brand" href="/">
+        <span class="mark">S<span>4</span></span>
+        <span>SKYFORTRESS <b>ARCHIVE</b><small>REGIONAL ENCYCLOPEDIA</small></span>
+      </a>
+      <nav class="header-actions tracker-nav" aria-label="Primary">
+        <a class="header-action tracker-nav-link" href="/harita-en.html">Political map</a>
+        <a class="header-action tracker-nav-link" href="/">Archive</a>
+        <a
+          class="tracker-apply-btn"
+          href="https://docs.google.com/forms/d/e/1FAIpQLScTXKMCnJEQ3-gg7bEEz-2xwqhw_BdcYDtstu8spu3iiGm84w/viewform"
+          target="_blank"
+          rel="noopener"
+        >
+          <span>Apply for Playtest</span>
+          <span aria-hidden="true">↗</span>
+          <span class="visually-hidden">(opens in a new tab)</span>
+        </a>
+      </nav>
+    </header>
+  </div>
+
+  <main id="main" class="tracker-shell" tabindex="-1">
+    <div class="tracker-hero">
+      <div class="tracker-hero-copy">
+        <p class="tracker-ref">REF: SF4-REC-2036 // PLAYTESTER STATUS REGISTRY</p>
+        <h1 class="tracker-title">Playtester Application Tracker</h1>
+        <p class="tracker-subtitle">
+          Public status ledger for SKYFORTRESS-4 Military Facility playtester recruitment.
+          Evaluation scores, written answers, and personal contact details remain confidential;
+          applications stay <strong>Pending Review</strong> until staff records a final decision.
+        </p>
+      </div>
+
+      <div class="tracker-sync-panel">
+        <div class="sync-row">
+          <span id="sync-status" class="sync-pill" data-source="loading">
+            <span class="sync-dot" aria-hidden="true"></span>
+            <span id="sync-status-label">SYNCING REGISTRY</span>
+          </span>
+          <button type="button" id="refresh-btn" class="tracker-refresh-btn">
+            <svg class="refresh-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <path d="M21 12a9 9 0 1 1-2.64-6.36"/>
+              <path d="M21 3v6h-6"/>
+            </svg>
+            <span>Refresh</span>
+          </button>
+        </div>
+        <p class="sync-meta">
+          <span>Last sync:</span>
+          <time id="last-synced">—</time>
+        </p>
+      </div>
+    </div>
+
+    <div class="tracker-kpis">
+      <h2 class="visually-hidden">Application counts</h2>
+      <ul class="kpi-grid" role="list">
+        <li class="kpi-card kpi-card--total">
+          <span class="kpi-label">Total Applicants</span>
+          <span id="kpi-total" class="kpi-value">—</span>
+          <span class="kpi-code">REG-ALL</span>
+        </li>
+        <li class="kpi-card kpi-card--pending">
+          <span class="kpi-label">Pending Review</span>
+          <span id="kpi-pending" class="kpi-value">—</span>
+          <span class="kpi-code">QUEUE</span>
+        </li>
+        <li class="kpi-card kpi-card--accepted">
+          <span class="kpi-label">Accepted</span>
+          <span id="kpi-accepted" class="kpi-value">—</span>
+          <span class="kpi-code">CLEARED</span>
+        </li>
+        <li class="kpi-card kpi-card--waitlisted">
+          <span class="kpi-label">Waitlisted</span>
+          <span id="kpi-waitlisted" class="kpi-value">—</span>
+          <span class="kpi-code">RESERVE</span>
+        </li>
+      </ul>
+    </div>
+
+    <div class="tracker-controls">
+      <h2 class="visually-hidden">Search and filter registry</h2>
+      <div class="controls-row">
+        <div class="tracker-search-box" role="search">
+          <label for="tracker-search" class="visually-hidden">Search by Roblox username or Application ID</label>
+          <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <circle cx="11" cy="11" r="7"/>
+            <path d="m20 20-3.5-3.5"/>
+          </svg>
+          <input
+            id="tracker-search"
+            type="search"
+            placeholder="Search Roblox username or App ID (e.g. SF-004)…"
+            autocomplete="off"
+            spellcheck="false"
+          >
+          <button type="button" id="search-clear" class="search-clear" aria-label="Clear search" hidden>
+            <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true">
+              <path d="M4 4l8 8M12 4l-8 8"/>
+            </svg>
+          </button>
+          <kbd class="search-kbd" aria-hidden="true">/</kbd>
+        </div>
+
+        <div class="filter-bar" role="group" aria-label="Filter by status">
+          <button type="button" class="filter-pill" data-filter="All" aria-pressed="true">
+            <span>All</span>
+            <span class="filter-count" id="count-all">0</span>
+          </button>
+          <button type="button" class="filter-pill filter-pill--pending" data-filter="Pending Review" aria-pressed="false">
+            <span>Pending Review</span>
+            <span class="filter-count" id="count-pending">0</span>
+          </button>
+          <button type="button" class="filter-pill filter-pill--accepted" data-filter="Accepted" aria-pressed="false">
+            <span>Accepted</span>
+            <span class="filter-count" id="count-accepted">0</span>
+          </button>
+          <button type="button" class="filter-pill filter-pill--waitlisted" data-filter="Waitlisted" aria-pressed="false">
+            <span>Waitlisted</span>
+            <span class="filter-count" id="count-waitlisted">0</span>
+          </button>
+          <button type="button" class="filter-pill filter-pill--not-selected" data-filter="Not Selected" aria-pressed="false">
+            <span>Not Selected</span>
+            <span class="filter-count" id="count-not-selected">0</span>
+          </button>
+        </div>
+      </div>
+
+      <div class="status-strip">
+        <p id="results-status" class="results-status" role="status" aria-live="polite" aria-atomic="true">
+          Loading application registry…
+        </p>
+        <p class="shortcut-hint" aria-hidden="true">
+          <kbd>/</kbd> Search · <kbd>Esc</kbd> Clear · Auto-sync 60s
+        </p>
+      </div>
+    </div>
+
+    <div class="tracker-table-panel">
+      <h2 class="visually-hidden">Application status list</h2>
+      <div
+        tabindex="0"
+        role="region"
+        aria-labelledby="tracker-table-caption"
+        class="table-wrapper"
+      >
+        <table id="tracker-table" class="tracker-table">
+          <caption id="tracker-table-caption" class="visually-hidden">
+            Public Skyfortress-4 Playtester Application Status Registry
+          </caption>
+          <thead>
+            <tr>
+              <th scope="col" data-key="appId" data-type="text" aria-sort="ascending">
+                <button type="button" class="sort-btn" commandfor="tracker-table" command="--sort">
+                  <span>App ID</span>
+                  <svg class="sort-icon" viewBox="0 0 16 16" aria-hidden="true">
+                    <path class="sort-up" d="M8 3.25 11.75 7H4.25L8 3.25Z"/>
+                    <path class="sort-down" d="M8 12.75 4.25 9h7.5L8 12.75Z"/>
+                  </svg>
+                </button>
+              </th>
+              <th scope="col" data-key="robloxUsername" data-type="text">
+                <button type="button" class="sort-btn" commandfor="tracker-table" command="--sort">
+                  <span>Roblox Username</span>
+                  <svg class="sort-icon" viewBox="0 0 16 16" aria-hidden="true">
+                    <path class="sort-up" d="M8 3.25 11.75 7H4.25L8 3.25Z"/>
+                    <path class="sort-down" d="M8 12.75 4.25 9h7.5L8 12.75Z"/>
+                  </svg>
+                </button>
+              </th>
+              <th scope="col" data-key="submittedAt" data-type="number">
+                <button type="button" class="sort-btn" commandfor="tracker-table" command="--sort">
+                  <span>Submitted</span>
+                  <svg class="sort-icon" viewBox="0 0 16 16" aria-hidden="true">
+                    <path class="sort-up" d="M8 3.25 11.75 7H4.25L8 3.25Z"/>
+                    <path class="sort-down" d="M8 12.75 4.25 9h7.5L8 12.75Z"/>
+                  </svg>
+                </button>
+              </th>
+              <th scope="col" data-key="status" data-type="text">
+                <button type="button" class="sort-btn" commandfor="tracker-table" command="--sort">
+                  <span>Status</span>
+                  <svg class="sort-icon" viewBox="0 0 16 16" aria-hidden="true">
+                    <path class="sort-up" d="M8 3.25 11.75 7H4.25L8 3.25Z"/>
+                    <path class="sort-down" d="M8 12.75 4.25 9h7.5L8 12.75Z"/>
+                  </svg>
+                </button>
+              </th>
+            </tr>
+          </thead>
+          <tbody id="tracker-tbody"></tbody>
+        </table>
+      </div>
+
+      <div id="tracker-empty" class="tracker-empty" hidden>
+        <svg class="empty-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <circle cx="11" cy="11" r="7"/>
+          <path d="m20 20-3.5-3.5"/>
+          <path d="M8.5 11h5"/>
+        </svg>
+        <h3 class="empty-title">No matching applications</h3>
+        <p id="empty-message" class="empty-message">
+          No registry records match your current search or status filter.
+        </p>
+        <button type="button" id="reset-filters-btn" class="reset-btn">Reset filters</button>
+      </div>
+    </div>
+
+    <aside class="privacy-notice" aria-label="Registry privacy policy">
+      <svg class="privacy-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <rect x="4" y="11" width="16" height="10" rx="2"/>
+        <path d="M8 11V7a4 4 0 0 1 8 0v4"/>
+      </svg>
+      <div class="privacy-copy">
+        <p class="privacy-heading">CONFIDENTIALITY PROTOCOL</p>
+        <p class="privacy-text">
+          This public registry only displays Application ID, Roblox Username, submission date, and final review status.
+          Email addresses, profile links, written responses, grading scores, and internal staff notes are never published or exposed here.
+        </p>
+      </div>
+    </aside>
+  </main>
+
+  <footer>
+    <span>SKYFORTRESS ARCHIVE</span>
+    <span>Playtester Registry · Public Status Ledger · Personal Data Confidential</span>
+    <a href="/">Return to Archive ↗</a>
+  </footer>
+
+  <script src="./tracker.js" defer></script>
+</body>
+</html>

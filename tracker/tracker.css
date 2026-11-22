@@ -1,0 +1,1118 @@
+/* ============================================================================
+ * SKYFORTRESS ARCHIVE — PLAYTESTER APPLICATION TRACKER (/tracker/)
+ * Tactical archival dark UI built on Skyfortress Archive design tokens.
+ * ============================================================================ */
+
+.tracker-page {
+  min-block-size: 100dvh;
+  display: flex;
+  flex-direction: column;
+  background-color: var(--bg);
+  background-image:
+    radial-gradient(ellipse 80% 420px at 50% 0%, rgba(104, 174, 248, 0.06), transparent 72%);
+}
+
+.tracker-page .visually-hidden {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+/* Header adjustments scoped to tracker page */
+.tracker-site-header {
+  justify-content: space-between;
+}
+
+.tracker-nav {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.65rem;
+  flex-wrap: wrap;
+}
+
+.tracker-apply-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  min-block-size: 2.5rem;
+  padding: 0.45rem 0.95rem;
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--accent);
+  background: var(--accent);
+  color: var(--surface-inset);
+  font-family: var(--font-mono);
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  white-space: nowrap;
+  transition: background-color 0.15s ease, border-color 0.15s ease, transform 0.15s ease;
+}
+
+.tracker-apply-btn:hover {
+  background: var(--accent-strong);
+  border-color: var(--accent-strong);
+  color: var(--surface-inset);
+  text-decoration: none;
+}
+
+.tracker-apply-btn:active {
+  transform: translateY(1px);
+}
+
+/* Main shell */
+.tracker-shell {
+  flex: 1 0 auto;
+  inline-size: 100%;
+  max-inline-size: 1180px;
+  margin-inline: auto;
+  padding: 2.25rem 2.25rem 4rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+/* ============================================================================
+ * ARCHIVAL HERO HEADER
+ * ============================================================================ */
+
+.tracker-hero {
+  position: relative;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 1.5rem 2rem;
+  align-items: end;
+  padding: 1.75rem 1.85rem;
+  background-color: var(--surface);
+  background-image:
+    linear-gradient(to right, rgba(104, 174, 248, 0.04) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(104, 174, 248, 0.04) 1px, transparent 1px);
+  background-size: 28px 28px;
+  border: 1px solid var(--line);
+  border-top: 2px solid var(--accent);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-card);
+}
+
+.tracker-hero::before,
+.tracker-hero::after {
+  content: "";
+  position: absolute;
+  inline-size: 10px;
+  block-size: 10px;
+  pointer-events: none;
+}
+
+.tracker-hero::before {
+  inset-block-end: -1px;
+  inset-inline-start: -1px;
+  border-block-end: 2px solid var(--line-strong);
+  border-inline-start: 2px solid var(--line-strong);
+}
+
+.tracker-hero::after {
+  inset-block-end: -1px;
+  inset-inline-end: -1px;
+  border-block-end: 2px solid var(--line-strong);
+  border-inline-end: 2px solid var(--line-strong);
+}
+
+.tracker-ref {
+  margin: 0 0 0.5rem;
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  font-weight: 500;
+  letter-spacing: 0.13em;
+  color: var(--accent);
+  text-transform: uppercase;
+}
+
+.tracker-title {
+  margin: 0 0 0.65rem;
+  font-family: var(--font-display);
+  font-size: clamp(1.65rem, 2.5vw, 2.25rem);
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: -0.01em;
+  color: var(--ink);
+}
+
+.tracker-subtitle {
+  margin: 0;
+  max-inline-size: 64ch;
+  font-size: 0.9375rem;
+  line-height: 1.6;
+  color: var(--ink-2);
+}
+
+.tracker-subtitle strong {
+  color: var(--anataria);
+  font-weight: 600;
+}
+
+/* Sync HUD Panel */
+.tracker-sync-panel {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 0.55rem;
+  padding: 0.85rem 1rem;
+  background: var(--surface-inset);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-sm);
+  min-inline-size: 15.5rem;
+}
+
+.sync-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  inline-size: 100%;
+}
+
+.sync-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0.25rem 0.6rem;
+  border-radius: var(--radius-sm);
+  font-family: var(--font-mono);
+  font-size: 0.6875rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  border: 1px solid var(--line-strong);
+  background: var(--surface);
+  color: var(--ink-2);
+  white-space: nowrap;
+}
+
+.sync-dot {
+  inline-size: 0.45rem;
+  block-size: 0.45rem;
+  border-radius: 50%;
+  background: currentColor;
+  flex-shrink: 0;
+}
+
+.sync-pill[data-source="live"] {
+  background: var(--elonia-bg);
+  border-color: var(--elonia-border);
+  color: var(--elonia);
+}
+
+.sync-pill[data-source="snapshot"] {
+  background: var(--anataria-bg);
+  border-color: var(--anataria-border);
+  color: var(--anataria);
+}
+
+.sync-pill[data-source="error"] {
+  background: var(--classified-bg);
+  border-color: rgba(252, 165, 165, 0.36);
+  color: var(--classified);
+}
+
+.tracker-refresh-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.4rem;
+  min-block-size: 2.25rem;
+  padding: 0.35rem 0.72rem;
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--line-strong);
+  background: var(--surface);
+  color: var(--ink);
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: border-color 0.15s ease, background-color 0.15s ease, color 0.15s ease;
+}
+
+.tracker-refresh-btn:hover {
+  border-color: var(--accent-border);
+  background: var(--surface-raised);
+  color: var(--accent-strong);
+}
+
+.tracker-refresh-btn[aria-busy="true"] .refresh-icon {
+  animation: tracker-spin 0.75s linear infinite;
+}
+
+.refresh-icon {
+  inline-size: 0.9rem;
+  block-size: 0.9rem;
+  flex-shrink: 0;
+}
+
+@keyframes tracker-spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.sync-meta {
+  margin: 0;
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  color: var(--ink-muted);
+  font-variant-numeric: tabular-nums;
+}
+
+.sync-meta time {
+  color: var(--ink-2);
+}
+
+/* ============================================================================
+ * TACTICAL KPI CARDS
+ * ============================================================================ */
+
+.kpi-grid {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 0.95rem;
+}
+
+.kpi-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  padding: 1.05rem 1.2rem 1rem;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-top: 2px solid var(--kpi-accent, var(--accent));
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-card);
+}
+
+.kpi-card--total {
+  --kpi-accent: var(--accent);
+}
+
+.kpi-card--pending {
+  --kpi-accent: var(--anataria);
+}
+
+.kpi-card--accepted {
+  --kpi-accent: var(--elonia);
+}
+
+.kpi-card--waitlisted {
+  --kpi-accent: var(--ostenya);
+}
+
+.kpi-label {
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--ink-muted);
+}
+
+.kpi-value {
+  font-family: var(--font-sans);
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.15;
+  font-variant-numeric: tabular-nums;
+  color: var(--kpi-accent, var(--ink));
+}
+
+.kpi-code {
+  position: absolute;
+  inset-block-start: 0.75rem;
+  inset-inline-end: 0.85rem;
+  font-family: var(--font-mono);
+  font-size: 0.625rem;
+  letter-spacing: 0.1em;
+  color: var(--line-strong);
+  user-select: none;
+}
+
+/* ============================================================================
+ * SEARCH & FILTER BAR
+ * ============================================================================ */
+
+.tracker-controls {
+  display: flex;
+  flex-direction: column;
+  gap: 0.85rem;
+  padding: 1rem 1.15rem;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-md);
+}
+
+.controls-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.85rem 1rem;
+}
+
+.tracker-search-box {
+  position: relative;
+  flex: 1 1 18rem;
+  min-inline-size: 0;
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  min-block-size: 2.65rem;
+  padding: 0.4rem 0.75rem;
+  background: var(--surface-inset);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-sm);
+  transition: border-color 0.15s ease, background-color 0.15s ease;
+}
+
+.tracker-search-box:focus-within {
+  border-color: var(--accent-border);
+  background: var(--bg);
+}
+
+.tracker-search-box input {
+  flex: 1 1 auto;
+  min-inline-size: 0;
+  border: 0;
+  outline: 0;
+  background: transparent;
+  color: var(--ink);
+  font-size: 0.9375rem;
+}
+
+.tracker-search-box input::placeholder {
+  color: var(--ink-muted);
+}
+
+/* Remove default WebKit clear button so our accessible clear button owns UX */
+.tracker-search-box input::-webkit-search-cancel-button {
+  -webkit-appearance: none;
+  appearance: none;
+}
+
+.search-clear {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-inline-size: 1.75rem;
+  min-block-size: 1.75rem;
+  padding: 0;
+  border: 1px solid transparent;
+  border-radius: var(--radius-sm);
+  background: transparent;
+  color: var(--ink-muted);
+  cursor: pointer;
+  flex-shrink: 0;
+  transition: color 0.14s ease, background-color 0.14s ease, border-color 0.14s ease;
+}
+
+.search-clear[hidden] {
+  display: none;
+}
+
+.search-clear:hover {
+  color: var(--ink);
+  background: var(--surface-raised);
+  border-color: var(--line);
+}
+
+.search-clear svg {
+  inline-size: 0.9rem;
+  block-size: 0.9rem;
+}
+
+.search-kbd {
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  color: var(--ink-muted);
+  border: 1px solid var(--line-strong);
+  background: var(--surface);
+  padding: 0.08rem 0.4rem;
+  border-radius: var(--radius-sm);
+  flex-shrink: 0;
+}
+
+/* Status filter buttons */
+.filter-bar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.45rem;
+}
+
+.filter-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  min-block-size: 2.4rem;
+  padding: 0.35rem 0.75rem;
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--line);
+  background: var(--surface-inset);
+  color: var(--ink-2);
+  font-family: var(--font-mono);
+  font-size: 0.76rem;
+  font-weight: 500;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: background-color 0.14s ease, border-color 0.14s ease, color 0.14s ease;
+}
+
+.filter-pill:hover {
+  background: var(--surface-raised);
+  border-color: var(--line-strong);
+  color: var(--ink);
+}
+
+.filter-pill[aria-pressed="true"] {
+  background: var(--accent-soft);
+  border-color: var(--accent-border);
+  color: var(--accent-strong);
+  font-weight: 600;
+}
+
+.filter-pill--pending[aria-pressed="true"] {
+  background: var(--anataria-bg);
+  border-color: var(--anataria-border);
+  color: var(--anataria);
+}
+
+.filter-pill--accepted[aria-pressed="true"] {
+  background: var(--elonia-bg);
+  border-color: var(--elonia-border);
+  color: var(--elonia);
+}
+
+.filter-pill--waitlisted[aria-pressed="true"] {
+  background: var(--ostenya-bg);
+  border-color: var(--ostenya-border);
+  color: var(--ostenya);
+}
+
+.filter-pill--not-selected[aria-pressed="true"] {
+  background: var(--classified-bg);
+  border-color: rgba(252, 165, 165, 0.44);
+  color: var(--classified);
+}
+
+.filter-count {
+  font-variant-numeric: tabular-nums;
+  font-size: 0.6875rem;
+  padding: 0.05rem 0.38rem;
+  border-radius: var(--radius-sm);
+  background: rgba(9, 14, 23, 0.65);
+  border: 1px solid var(--line);
+  color: inherit;
+}
+
+.status-strip {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem 1rem;
+  padding-block-start: 0.65rem;
+  border-top: 1px solid var(--line);
+}
+
+.results-status {
+  margin: 0;
+  font-family: var(--font-mono);
+  font-size: 0.78rem;
+  color: var(--ink-2);
+  font-variant-numeric: tabular-nums;
+}
+
+.shortcut-hint {
+  margin: 0;
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  color: var(--ink-muted);
+}
+
+.shortcut-hint kbd {
+  font-family: var(--font-mono);
+  font-size: 0.6875rem;
+  padding: 0.05rem 0.32rem;
+  border: 1px solid var(--line-strong);
+  border-radius: var(--radius-sm);
+  background: var(--surface-inset);
+  color: var(--ink-2);
+}
+
+/* ============================================================================
+ * RESPONSIVE, SORTABLE DATA TABLE
+ * ============================================================================ */
+
+.tracker-table-panel {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-card);
+  overflow: hidden;
+}
+
+.table-wrapper {
+  overflow-x: auto;
+  overflow-y: auto;
+  max-inline-size: 100%;
+  max-block-size: min(680px, 72dvh);
+  container-type: inline-size;
+  container-name: tracker-table;
+  scrollbar-gutter: stable;
+}
+
+.table-wrapper:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: -2px;
+}
+
+.tracker-table {
+  inline-size: 100%;
+  min-inline-size: 620px;
+  border-collapse: separate;
+  border-spacing: 0;
+  text-align: start;
+  /* Column labels for stacked narrow-container view */
+  --label-1: "App ID";
+  --label-2: "Roblox Username";
+  --label-3: "Submitted";
+  --label-4: "Status";
+}
+
+.tracker-table thead {
+  position: sticky;
+  inset-block-start: 0;
+  z-index: 2;
+}
+
+.tracker-table thead th {
+  background: var(--surface-raised);
+  border-bottom: 2px solid var(--accent);
+  border-inline-end: 1px solid var(--line);
+  font-family: var(--font-mono);
+  font-size: 0.74rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ink-2);
+  white-space: nowrap;
+  padding: 0.75rem 1rem;
+}
+
+.tracker-table thead th:last-child {
+  border-inline-end: 0;
+}
+
+/* Per sortable-table guide: drop cell padding only when button supplies it */
+.tracker-table thead th:has(> button) {
+  padding: 0;
+}
+
+.sort-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem;
+  inline-size: 100%;
+  min-block-size: 2.85rem;
+  padding: 0.65rem 1rem;
+  border: 0;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  letter-spacing: inherit;
+  text-transform: inherit;
+  text-align: start;
+  cursor: pointer;
+  transition: background-color 0.14s ease, color 0.14s ease;
+}
+
+.sort-btn:hover {
+  background: var(--surface-hover);
+  color: var(--ink);
+}
+
+.sort-btn:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: -2px;
+}
+
+.sort-icon {
+  inline-size: 0.9rem;
+  block-size: 0.9rem;
+  flex-shrink: 0;
+  fill: currentColor;
+}
+
+.sort-icon .sort-up,
+.sort-icon .sort-down {
+  opacity: 0.28;
+  transition: opacity 0.14s ease;
+}
+
+th[aria-sort] .sort-btn {
+  color: var(--ink);
+}
+
+th[aria-sort="ascending"] .sort-icon .sort-up {
+  opacity: 1;
+  fill: var(--accent);
+}
+
+th[aria-sort="descending"] .sort-icon .sort-down {
+  opacity: 1;
+  fill: var(--accent);
+}
+
+/* Body rows */
+.tracker-table tbody tr {
+  background: var(--surface);
+  transition: background-color 0.12s ease;
+  view-transition-name: match-element;
+}
+
+.tracker-table tbody tr:nth-child(even) {
+  background: #0f1726;
+}
+
+.tracker-table tbody tr:hover {
+  background: var(--surface-hover);
+}
+
+.tracker-table tbody tr[hidden] {
+  display: none;
+}
+
+.tracker-table tbody th,
+.tracker-table tbody td {
+  padding: 0.68rem 1rem;
+  border-bottom: 1px solid var(--line);
+  vertical-align: middle;
+}
+
+.tracker-table tbody tr:last-child th,
+.tracker-table tbody tr:last-child td {
+  border-bottom: 0;
+}
+
+/* Column typography */
+.cell-id {
+  inline-size: 8.5rem;
+  font-family: var(--font-mono);
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--accent);
+  white-space: nowrap;
+  font-variant-numeric: tabular-nums;
+}
+
+.cell-username {
+  font-family: var(--font-sans);
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--ink);
+  overflow-wrap: anywhere;
+}
+
+.applicant-cell {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.75rem;
+  min-inline-size: 0;
+  max-inline-size: 100%;
+}
+
+.avatar-wrap {
+  inline-size: 2.25rem;
+  block-size: 2.25rem;
+  border-radius: 50%;
+  background: var(--surface-inset);
+  border: 1px solid var(--line-strong);
+  box-shadow: inset 0 0 0 1px rgba(104, 174, 248, 0.14);
+  overflow: hidden;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.avatar-img {
+  display: block;
+  inline-size: 100%;
+  block-size: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.avatar-monogram {
+  font-family: var(--font-mono);
+  font-size: 0.74rem;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  color: var(--accent-strong);
+  user-select: none;
+}
+
+.applicant-name {
+  min-inline-size: 0;
+  overflow-wrap: anywhere;
+}
+
+.cell-date {
+  inline-size: 9.5rem;
+  font-family: var(--font-mono);
+  font-size: 0.84rem;
+  color: var(--ink-2);
+  white-space: nowrap;
+  font-variant-numeric: tabular-nums;
+}
+
+.cell-status {
+  inline-size: 12rem;
+  white-space: nowrap;
+}
+
+/* Status pills */
+.status-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0.28rem 0.7rem;
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--line-strong);
+  font-family: var(--font-mono);
+  font-size: 0.74rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  line-height: 1.25;
+}
+
+.status-dot {
+  inline-size: 0.42rem;
+  block-size: 0.42rem;
+  border-radius: 50%;
+  background: currentColor;
+  flex-shrink: 0;
+}
+
+.status-pill--pending {
+  background: #2b2113;
+  border-color: var(--anataria-border);
+  color: var(--anataria);
+}
+
+.status-pill--accepted {
+  background: #0e2a35;
+  border-color: var(--elonia-border);
+  color: var(--elonia);
+}
+
+.status-pill--waitlisted {
+  background: #1c203d;
+  border-color: var(--ostenya-border);
+  color: var(--ostenya);
+}
+
+.status-pill--not-selected {
+  background: var(--classified-bg);
+  border-color: rgba(252, 165, 165, 0.36);
+  color: var(--classified);
+}
+
+/* ============================================================================
+ * CONTAINER-QUERY STACKED MOBILE CARD LAYOUT (< 640px)
+ * ============================================================================ */
+
+@container tracker-table (width < 640px) {
+  .tracker-table {
+    min-inline-size: 0;
+  }
+
+  .tracker-table,
+  .tracker-table thead,
+  .tracker-table tbody,
+  .tracker-table tr,
+  .tracker-table th,
+  .tracker-table td {
+    display: block;
+  }
+
+  .tracker-table thead {
+    /* MANDATORY: Hide column header from layout and screen readers in stacked mode. */
+    display: none;
+  }
+
+  .tracker-table tbody {
+    padding: 0.85rem;
+  }
+
+  .tracker-table tbody tr {
+    margin-block-end: 0.85rem;
+    border: 1px solid var(--line);
+    border-radius: var(--radius-md);
+    background: var(--surface-inset);
+    overflow: hidden;
+  }
+
+  .tracker-table tbody tr:nth-child(even) {
+    background: var(--surface-inset);
+  }
+
+  .tracker-table tbody tr:last-child {
+    margin-block-end: 0;
+  }
+
+  .tracker-table tbody th.cell-id {
+    inline-size: auto;
+    padding: 0.65rem 0.9rem;
+    background: var(--surface-raised);
+    border-bottom: 1px solid var(--line);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .tracker-table tbody th.cell-id::before {
+    content: var(--label-1);
+    font-size: 0.6875rem;
+    font-weight: 500;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--ink-muted);
+  }
+
+  .tracker-table tbody td {
+    inline-size: auto;
+    padding: 0.65rem 0.9rem;
+    border-bottom: 1px solid var(--line);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.85rem;
+    white-space: normal;
+  }
+
+  .tracker-table tbody tr td:last-child {
+    border-bottom: 0;
+  }
+
+  .tracker-table tbody td::before {
+    font-family: var(--font-mono);
+    font-size: 0.6875rem;
+    font-weight: 500;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--ink-muted);
+    flex-shrink: 0;
+  }
+
+  .tracker-table tbody td:nth-child(2)::before {
+    content: var(--label-2);
+  }
+
+  .tracker-table tbody td:nth-child(3)::before {
+    content: var(--label-3);
+  }
+
+  .tracker-table tbody td:nth-child(4)::before {
+    content: var(--label-4);
+  }
+
+  .cell-username {
+    text-align: end;
+  }
+
+  .cell-username .applicant-cell {
+    justify-content: flex-end;
+    gap: 0.6rem;
+  }
+}
+
+/* ============================================================================
+ * EMPTY STATE & PRIVACY NOTICE
+ * ============================================================================ */
+
+.tracker-empty {
+  padding: 3rem 1.5rem;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.65rem;
+}
+
+.tracker-empty[hidden] {
+  display: none;
+}
+
+.empty-icon {
+  inline-size: 2.25rem;
+  block-size: 2.25rem;
+  color: var(--ink-muted);
+}
+
+.empty-title {
+  margin: 0;
+  font-family: var(--font-display);
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: var(--ink);
+}
+
+.empty-message {
+  margin: 0 0 0.4rem;
+  max-inline-size: 42ch;
+  font-size: 0.9rem;
+  color: var(--ink-2);
+}
+
+.reset-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-block-size: 2.5rem;
+  padding: 0.45rem 1rem;
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--accent-border);
+  background: var(--accent-soft);
+  color: var(--accent-strong);
+  font-family: var(--font-mono);
+  font-size: 0.8rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 0.14s ease, border-color 0.14s ease;
+}
+
+.reset-btn:hover {
+  background: rgba(104, 174, 248, 0.22);
+  border-color: var(--accent);
+}
+
+.privacy-notice {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.85rem;
+  padding: 0.95rem 1.15rem;
+  background: var(--surface-inset);
+  border: 1px solid var(--line);
+  border-inline-start: 2px solid var(--line-strong);
+  border-radius: var(--radius-sm);
+}
+
+.privacy-icon {
+  inline-size: 1.15rem;
+  block-size: 1.15rem;
+  color: var(--ink-muted);
+  margin-block-start: 0.15rem;
+  flex-shrink: 0;
+}
+
+.privacy-heading {
+  margin: 0 0 0.2rem;
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.11em;
+  color: var(--ink-2);
+}
+
+.privacy-text {
+  margin: 0;
+  font-size: 0.84rem;
+  line-height: 1.55;
+  color: var(--ink-muted);
+}
+
+/* ============================================================================
+ * VIEWPORT RESPONSIVE & ACCESSIBILITY POLISH
+ * ============================================================================ */
+
+@media (max-width: 900px) {
+  .tracker-shell {
+    padding: 1.5rem 1.15rem 3rem;
+  }
+
+  .tracker-hero {
+    grid-template-columns: minmax(0, 1fr);
+    padding: 1.35rem 1.25rem;
+  }
+
+  .tracker-sync-panel {
+    align-items: flex-start;
+    inline-size: 100%;
+    min-inline-size: 0;
+  }
+
+  .kpi-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .shortcut-hint {
+    display: none;
+  }
+}
+
+@media (max-width: 600px) {
+  /* Keep tracker header nav links visible and compact on small viewports */
+  .tracker-nav .tracker-nav-link {
+    display: inline-flex;
+    padding: 0.35rem 0.65rem;
+    font-size: 0.74rem;
+  }
+
+  .tracker-apply-btn {
+    padding: 0.4rem 0.75rem;
+    font-size: 0.74rem;
+  }
+
+  .tracker-nav {
+    inline-size: 100%;
+    justify-content: flex-start;
+    margin-inline-start: 0;
+  }
+
+  .search-kbd {
+    display: none;
+  }
+
+  .kpi-card {
+    padding: 0.85rem 0.95rem;
+  }
+
+  .kpi-value {
+    font-size: 1.65rem;
+  }
+
+  .table-wrapper {
+    max-block-size: none;
+  }
+}
+
+@media (pointer: coarse) {
+  .filter-pill,
+  .tracker-refresh-btn,
+  .sort-btn,
+  .reset-btn,
+  .tracker-apply-btn {
+    min-block-size: 2.75rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  ::view-transition-group(*),
+  ::view-transition-old(*),
+  ::view-transition-new(*) {
+    animation: none;
+  }
+
+  .tracker-refresh-btn[aria-busy="true"] .refresh-icon {
+    animation: none;
+  }
+}
