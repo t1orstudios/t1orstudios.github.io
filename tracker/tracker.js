@@ -41,8 +41,6 @@
   const headerWrap = document.querySelector('.site-header-wrap');
   const headerSentinel = document.querySelector('.site-header-sentinel');
 
-  const syncStatusEl = document.getElementById('sync-status');
-  const syncStatusLabelEl = document.getElementById('sync-status-label');
   const lastSyncedEl = document.getElementById('last-synced');
   const refreshBtn = document.getElementById('refresh-btn');
 
@@ -371,15 +369,11 @@
   }
 
   function setSyncBadge(source, timestampIso) {
-    syncStatusEl.dataset.source = source;
-    if (source === 'live') {
-      syncStatusLabelEl.textContent = 'LIVE GOOGLE SHEETS';
-    } else if (source === 'snapshot') {
-      syncStatusLabelEl.textContent = 'PREVIEW SNAPSHOT';
-    } else if (source === 'error') {
-      syncStatusLabelEl.textContent = 'SYNC UNAVAILABLE';
-    } else {
-      syncStatusLabelEl.textContent = 'SYNCING REGISTRY';
+    if (!lastSyncedEl) return;
+    if (source === 'error') {
+      lastSyncedEl.removeAttribute('datetime');
+      lastSyncedEl.textContent = 'Unavailable';
+      return;
     }
 
     const dt = timestampIso ? new Date(timestampIso) : new Date();
