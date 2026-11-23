@@ -1,0 +1,4282 @@
+{
+  "version": 1,
+  "count": 120,
+  "entries": [
+    {
+      "id": "anatarya",
+      "slug": "anataria",
+      "title": "Republic of Anataria",
+      "category": "Countries",
+      "url": "https://t1orstudios.github.io/countries/anataria",
+      "desc": "A unitary republic east of the Kalyon Sea.",
+      "lead": "The Republic of Anataria is a unitary republic occupying a large peninsula and interior plateaus east of the Kalyon Sea, with its capital at Arkent. Its western border adjoins Elonia, its southern coast borders the Kalyon Sea, and its northern frontier extends into the Avren mainland.",
+      "facts": [
+        [
+          "Official name",
+          "Republic of Anataria"
+        ],
+        [
+          "Capital",
+          "Arkent"
+        ],
+        [
+          "Official language",
+          "Anatarian"
+        ],
+        [
+          "Government",
+          "Unitary parliamentary republic"
+        ],
+        [
+          "Legislature",
+          "Assembly of the Republic"
+        ],
+        [
+          "Geographic location",
+          "East of Kalyon Sea"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/anatarya.svg",
+      "classified": false,
+      "aliases": [
+        "anatarya",
+        "anataria",
+        "republic-of-anataria"
+      ]
+    },
+    {
+      "id": "elonya",
+      "slug": "elonia",
+      "title": "Republic of Elonia",
+      "category": "Countries",
+      "url": "https://t1orstudios.github.io/countries/elonia",
+      "desc": "A maritime republic west of the Kalyon Sea.",
+      "lead": "The Republic of Elonia is a unitary maritime nation situated west of the Kalyon Sea along the southwestern fringe of the Avren mainland, with its capital at Lerya.",
+      "facts": [
+        [
+          "Official name",
+          "Republic of Elonia"
+        ],
+        [
+          "Capital",
+          "Lerya"
+        ],
+        [
+          "Official language",
+          "Elonian"
+        ],
+        [
+          "Government",
+          "Unitary parliamentary republic"
+        ],
+        [
+          "Legislature",
+          "National Assembly"
+        ],
+        [
+          "Geographic location",
+          "West of Kalyon Sea"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/elonya.svg",
+      "classified": false,
+      "aliases": [
+        "elonya",
+        "elonia",
+        "republic-of-elonia"
+      ]
+    },
+    {
+      "id": "skyfortress-4",
+      "slug": "skyfortress-4",
+      "title": "SKYFORTRESS-4",
+      "category": "Facilities",
+      "url": "https://t1orstudios.github.io/facilities/skyfortress-4",
+      "desc": "Satellite control, launch preparation and the center of the conflict.",
+      "lead": "SKYFORTRESS-4 is a satellite control and launch complex operated by Republic of Anataria. The planned launch of the KARTAL-7 military reconnaissance satellite from the site aboard SIMSEK-III places the facility at the center of Republic of Elonia’s attack.",
+      "facts": [
+        [
+          "Facility type",
+          "Satellite control and launch complex"
+        ],
+        [
+          "Country",
+          "Republic of Anataria"
+        ],
+        [
+          "Associated region",
+          "Sarpburun Peninsula"
+        ],
+        [
+          "Existing satellite",
+          "GOZCU-3"
+        ],
+        [
+          "Launch payload",
+          "KARTAL-7"
+        ],
+        [
+          "Launch vehicle",
+          "SIMSEK-III"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/skyfortress-4.jpg",
+      "classified": false,
+      "aliases": [
+        "skyfortress-4",
+        "gokkale-4",
+        "gokkale",
+        "skyfortress"
+      ]
+    },
+    {
+      "id": "sarpburun",
+      "slug": "sarpburun-peninsula",
+      "title": "Sarpburun Peninsula",
+      "category": "Geography",
+      "url": "https://t1orstudios.github.io/geography/sarpburun-peninsula",
+      "desc": "A strategic coastal peninsula connected to mainland Anataria in the east.",
+      "lead": "Sarpburun Peninsula is a coastal projection extending westward from the mainland of Republic of Anataria into Kalyon Sea. It is continuously connected to the main peninsula by the isthmus in the east; it is not an island. The SKYFORTRESS-4 satellite control and launch complex stands on the peninsula.",
+      "facts": [
+        [
+          "Type",
+          "Peninsula"
+        ],
+        [
+          "Country",
+          "Republic of Anataria"
+        ],
+        [
+          "Land connection",
+          "Broad isthmus in the east"
+        ],
+        [
+          "Strategic facility",
+          "SKYFORTRESS-4"
+        ],
+        [
+          "Sea",
+          "Kalyon Sea"
+        ],
+        [
+          "Nearest Elonian mainland coast",
+          "Approximately 180 km across open sea"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/skyfortress-4.jpg",
+      "classified": false,
+      "aliases": [
+        "sarpburun",
+        "sarpburun-peninsula"
+      ]
+    },
+    {
+      "id": "kalyon-denizi",
+      "slug": "kalyon-sea",
+      "title": "Kalyon Sea",
+      "category": "Geography",
+      "url": "https://t1orstudios.github.io/geography/kalyon-sea",
+      "desc": "The setting for the maritime tensions between the two countries.",
+      "lead": "The Kalyon Sea stretches between Republic of Elonia to the west and Republic of Anataria to the east. Kalyon Islands lie in the southern part of the sea. The region is a center of maritime trade and sovereignty disputes between the two countries.",
+      "facts": [
+        [
+          "Type",
+          "Sea"
+        ],
+        [
+          "Associated geography",
+          "Kalyon Islands"
+        ],
+        [
+          "Associated countries",
+          "Republic of Anataria · Republic of Elonia"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/kalyon.jpg",
+      "classified": false,
+      "aliases": [
+        "kalyon-denizi",
+        "kalyon-sea"
+      ]
+    },
+    {
+      "id": "kalyon-adalari",
+      "slug": "kalyon-islands",
+      "title": "Kalyon Islands",
+      "category": "Geography",
+      "url": "https://t1orstudios.github.io/geography/kalyon-islands",
+      "desc": "The island group associated with the Kalyon Sea.",
+      "lead": "The Kalyon Islands are an island group associated with Kalyon Sea. Monitoring island bases and military deployments is one of the principal issues in the crisis between Republic of Anataria and Republic of Elonia.",
+      "facts": [
+        [
+          "Type",
+          "Island group"
+        ],
+        [
+          "Associated sea",
+          "Kalyon Sea"
+        ],
+        [
+          "Individual island names",
+          "Not yet determined"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/kalyon.jpg",
+      "classified": false,
+      "aliases": [
+        "kalyon-adalari",
+        "kalyon-islands"
+      ]
+    },
+    {
+      "id": "gozcu-3",
+      "slug": "gozcu-3",
+      "title": "GOZCU-3",
+      "category": "Space program",
+      "url": "https://t1orstudios.github.io/space-program/gozcu-3",
+      "desc": "A surveillance and data relay satellite operating in orbit.",
+      "lead": "GOZCU-3 is the surveillance and data relay satellite in Republic of Anataria’s space program that is already in orbit. It is associated with the existing satellite operations of the SKYFORTRESS-4 complex.",
+      "facts": [
+        [
+          "Type",
+          "Surveillance and data relay satellite"
+        ],
+        [
+          "Status",
+          "In orbit"
+        ],
+        [
+          "Country",
+          "Republic of Anataria"
+        ],
+        [
+          "Associated facility",
+          "SKYFORTRESS-4"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/gozcu-3.jpg",
+      "classified": false,
+      "aliases": [
+        "gozcu-3"
+      ]
+    },
+    {
+      "id": "kartal-7",
+      "slug": "kartal-7",
+      "title": "KARTAL-7",
+      "category": "Space program",
+      "url": "https://t1orstudios.github.io/space-program/kartal-7",
+      "desc": "A new military reconnaissance satellite awaiting launch.",
+      "lead": "KARTAL-7 is a new military reconnaissance satellite that Republic of Anataria plans to launch from the SKYFORTRESS-4 complex aboard SIMSEK-III. The launch preparations are the fundamental cause of the conflict with Republic of Elonia.",
+      "facts": [
+        [
+          "Type",
+          "Military reconnaissance satellite"
+        ],
+        [
+          "Status",
+          "Prelaunch"
+        ],
+        [
+          "Launch site",
+          "SKYFORTRESS-4"
+        ],
+        [
+          "Carrier",
+          "SIMSEK-III"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/kartal.jpg",
+      "classified": false,
+      "aliases": [
+        "kartal-7"
+      ]
+    },
+    {
+      "id": "simsek-iii",
+      "slug": "simsek-iii",
+      "title": "SIMSEK-III",
+      "category": "Space program",
+      "url": "https://t1orstudios.github.io/space-program/simsek-iii",
+      "desc": "The launch vehicle intended to carry KARTAL-7.",
+      "lead": "SIMSEK-III is the launch vehicle intended to carry the KARTAL-7 military reconnaissance satellite into space from the SKYFORTRESS-4 complex.",
+      "facts": [
+        [
+          "Type",
+          "Launch vehicle"
+        ],
+        [
+          "Payload",
+          "KARTAL-7"
+        ],
+        [
+          "Launch site",
+          "SKYFORTRESS-4"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/skyfortress-4.jpg",
+      "classified": false,
+      "aliases": [
+        "simsek-iii"
+      ]
+    },
+    {
+      "id": "aigaion",
+      "slug": "aigaion",
+      "title": "AIGAION Battle Group",
+      "category": "Units",
+      "url": "https://t1orstudios.github.io/units/aigaion",
+      "desc": "The combined naval force dispatched by Elonia to Sarpburun.",
+      "lead": "The AIGAION Battle Group is the naval group dispatched by Republic of Elonia toward Sarpburun Peninsula. The frigates AIGAION and THALASSA, NEREUS Landing Ship and KALLISTO Supply Ship are its principal components. During SKYFORTRESS-4 Crisis, they jointly perform maritime surveillance, escort, force transport and logistics duties.",
+      "facts": [
+        [
+          "Country",
+          "Republic of Elonia"
+        ],
+        [
+          "Type",
+          "Naval battle group"
+        ],
+        [
+          "Frigates",
+          "AIGAION · THALASSA"
+        ],
+        [
+          "Amphibious ship",
+          "NEREUS Landing Ship"
+        ],
+        [
+          "Supply ship",
+          "KALLISTO Supply Ship"
+        ],
+        [
+          "Naval special unit",
+          "8th Nereus Naval Commando Group"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/aigaion-v2.png",
+      "classified": false,
+      "aliases": [
+        "aigaion",
+        "aigaion-battle-group"
+      ]
+    },
+    {
+      "id": "hancer",
+      "slug": "132nd-dagger-squadron",
+      "title": "132nd Dagger Tactical Squadron",
+      "category": "Units",
+      "url": "https://t1orstudios.github.io/units/132nd-dagger-squadron",
+      "desc": "An Anatarian air squadron founded in 1978; the legacy of DAGGER 06 and Black November.",
+      "lead": "The 132nd Dagger Tactical Squadron is an Republic of Anataria air unit established in 1978 to provide air defense for the Sarpburun region. It uses the call sign “Dagger.” Regarded as one of the symbols of Anatarian air superiority, the squadron is known both for its role in the defense of SKYFORTRESS-4 and for DAGGER 06, which disappeared on 17 November 1994, and the commemorative plaque at its headquarters.",
+      "facts": [
+        [
+          "Country",
+          "Republic of Anataria"
+        ],
+        [
+          "Established",
+          "1978"
+        ],
+        [
+          "Unit type",
+          "Tactical air squadron"
+        ],
+        [
+          "Call sign",
+          "Dagger"
+        ],
+        [
+          "Historic aircraft",
+          "K-4 Boran"
+        ],
+        [
+          "Modernization",
+          "K-16 Alaz from 2019"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/hancer.png",
+      "classified": false,
+      "aliases": [
+        "hancer",
+        "132nd-dagger-squadron",
+        "dagger-squadron",
+        "dagger",
+        "132-hancer-taktik-filosu",
+        "132nd-hancer-tactical-squadron",
+        "132nd-dagger-tactical-squadron"
+      ]
+    },
+    {
+      "id": "ucaksavar",
+      "slug": "28th-zephyr-air-defense-battalion",
+      "title": "28th Zephyr Mobile Air Defense Battalion",
+      "category": "Units",
+      "url": "https://t1orstudios.github.io/units/28th-zephyr-air-defense-battalion",
+      "desc": "An Elonian mobile coastal and island air defense battalion.",
+      "lead": "The 28th Zephyr Mobile Air Defense Battalion belongs to the Republic of Elonia Air Force mobile air defense and surveillance network over Lerya Bay and the western Kalyon Islands. During SKYFORTRESS-4 Crisis it deployed mobile batteries protecting the coastal return route of the AIGAION Battle Group task group; it did not directly take part in operations over SKYFORTRESS-4.",
+      "facts": [
+        [
+          "Country",
+          "Republic of Elonia"
+        ],
+        [
+          "Unit type",
+          "Mobile air defense battalion"
+        ],
+        [
+          "Station",
+          "Lerya Bay (forward-deployable)"
+        ],
+        [
+          "Call sign",
+          "Zephyr"
+        ],
+        [
+          "Operational area",
+          "Kalyon Islands"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/ucaksavar-v2.png",
+      "classified": false,
+      "aliases": [
+        "ucaksavar",
+        "28th-zephyr-air-defense-battalion",
+        "21st-anti-aircraft-battalion",
+        "28th-zephyr-mobile-air-defense-battalion"
+      ]
+    },
+    {
+      "id": "kriz",
+      "slug": "skyfortress-4-crisis",
+      "title": "SKYFORTRESS-4 Crisis",
+      "category": "Events",
+      "url": "https://t1orstudios.github.io/events/skyfortress-4-crisis",
+      "desc": "The conflict surrounding the KARTAL-7 launch.",
+      "lead": "The SKYFORTRESS-4 Crisis is a political and security crisis that became an armed conflict when the government of Republic of Elonia decided to go to war against Republic of Anataria. The Sarpburun Dossier was presented as the official justification for war; the operation’s principal objective was to prevent the launch of the KARTAL-7 reconnaissance satellite from the SKYFORTRESS-4 complex. Northern Belt Defense Pact did not participate militarily in the war because of disagreements surrounding the forged documents.",
+      "facts": [
+        [
+          "Defending side",
+          "Republic of Anataria"
+        ],
+        [
+          "Attacking side",
+          "Republic of Elonia"
+        ],
+        [
+          "Focal point",
+          "SKYFORTRESS-4"
+        ],
+        [
+          "Outcome",
+          "Not yet determined"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/skyfortress-4.jpg",
+      "classified": false,
+      "aliases": [
+        "kriz",
+        "skyfortress-4-crisis"
+      ]
+    },
+    {
+      "id": "kuzey-kusagi",
+      "slug": "northern-belt-defense-pact",
+      "title": "Northern Belt Defense Pact",
+      "category": "Organizations",
+      "url": "https://t1orstudios.github.io/organizations/northern-belt-defense-pact",
+      "desc": "An alliance for the collective defense and security of its member states.",
+      "lead": "The Northern Belt Defense Pact (KKSP) is an alliance providing collective defense and military coordination among Republic of Anataria, Republic of Elonia, Federation of Velaria, Republic of Dalmeria, Republic of Vardena and Federation of Rovenia. The pact’s military remit is separate from the institutions of Avren Union. Republic of Kipraya and North Kipraya Republic are not pact members. War between two member states during SKYFORTRESS-4 Crisis has deadlocked the collective defense decision-making process.",
+      "facts": [
+        [
+          "Abbreviation",
+          "KKSP"
+        ],
+        [
+          "Type",
+          "Collective defense alliance"
+        ],
+        [
+          "Members",
+          "Republic of Anataria · Republic of Elonia · Federation of Velaria · Republic of Dalmeria · Republic of Vardena · Federation of Rovenia"
+        ],
+        [
+          "Decision-making body",
+          "Pact Council"
+        ],
+        [
+          "Decision-making method",
+          "Consensus"
+        ],
+        [
+          "Kipraya",
+          "Not a member"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/kuzey-kusagi.svg",
+      "classified": false,
+      "aliases": [
+        "kuzey-kusagi",
+        "northern-belt-defense-pact"
+      ]
+    },
+    {
+      "id": "elonya-istihbarati",
+      "slug": "elonia-intelligence-directorate",
+      "title": "Elonia National Intelligence Directorate",
+      "category": "Organizations",
+      "url": "https://t1orstudios.github.io/organizations/elonia-intelligence-directorate",
+      "desc": "Elonya’s foreign intelligence and strategic assessment agency.",
+      "lead": "The Elonia National Intelligence Directorate (EUID) is the intelligence agency that supplies foreign security assessments to the government of Republic of Elonia. The Sarpburun Dossier it prepared under Glass Curtain was decisive in constructing the political justification for war with Republic of Anataria.",
+      "facts": [
+        [
+          "Abbreviation",
+          "EUID"
+        ],
+        [
+          "Country",
+          "Republic of Elonia"
+        ],
+        [
+          "Principal role",
+          "Foreign intelligence and strategic assessment"
+        ],
+        [
+          "Associated activity",
+          "Glass Curtain"
+        ],
+        [
+          "Associated dossier",
+          "Sarpburun Dossier"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/elonya-istihbarati.png",
+      "classified": false,
+      "aliases": [
+        "elonya-istihbarati",
+        "elonia-intelligence-directorate",
+        "elonia-national-intelligence-directorate"
+      ]
+    },
+    {
+      "id": "sarpburun-dosyasi",
+      "slug": "sarpburun-dossier",
+      "title": "Sarpburun Dossier",
+      "category": "Documents",
+      "url": "https://t1orstudios.github.io/documents/sarpburun-dossier",
+      "desc": "The collection of forged documents presented by Elonia as its justification for war.",
+      "lead": "The Sarpburun Dossier is the collective name for forged documents prepared by Elonia National Intelligence Directorate under Glass Curtain and presented as if they belonged to the government of Republic of Anataria. The dossier alleged that Anataria was planning a first strike around Kalyon Islands and was used by the government of Republic of Elonia as its justification for declaring war.",
+      "facts": [
+        [
+          "Type",
+          "Forged intelligence dossier"
+        ],
+        [
+          "Prepared by",
+          "Elonia National Intelligence Directorate"
+        ],
+        [
+          "Activity",
+          "Glass Curtain"
+        ],
+        [
+          "Targeted state",
+          "Republic of Anataria"
+        ],
+        [
+          "Political outcome",
+          "Justification for war and deadlock in alliance decisions"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/sarpburun-dosyasi-v2.jpg",
+      "classified": false,
+      "aliases": [
+        "sarpburun-dosyasi",
+        "sarpburun-dossier"
+      ]
+    },
+    {
+      "id": "cam-perde",
+      "slug": "glass-curtain",
+      "title": "Glass Curtain",
+      "category": "Events",
+      "url": "https://t1orstudios.github.io/events/glass-curtain",
+      "desc": "The covert political influence activity based on preparing the Sarpburun Dossier.",
+      "lead": "Glass Curtain is the code name of the covert activity conducted by Elonia National Intelligence Directorate to construct a justification for war against Republic of Anataria. Its principal product was Sarpburun Dossier, and it aimed to create political uncertainty that would prevent joint military intervention within Northern Belt Defense Pact.",
+      "facts": [
+        [
+          "Conducted by",
+          "Elonia National Intelligence Directorate"
+        ],
+        [
+          "Country",
+          "Republic of Elonia"
+        ],
+        [
+          "Principal product",
+          "Sarpburun Dossier"
+        ],
+        [
+          "Objective",
+          "Justifying war and delaying an alliance decision"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/cam-perde-v2.jpg",
+      "classified": false,
+      "aliases": [
+        "cam-perde",
+        "glass-curtain"
+      ]
+    },
+    {
+      "id": "avrupa",
+      "slug": "avren-mainland",
+      "title": "Avren mainland",
+      "category": "Geography",
+      "url": "https://t1orstudios.github.io/geography/avren-mainland",
+      "desc": "The northwestern mainland connected to Elonia and Anataria’s Avren side.",
+      "lead": "Avren is the northwestern mainland encompassing Federation of Velaria, Republic of Dalmeria, Republic of Vardena, Federation of Rovenia and Republic of Elonia, as well as Anataria’s territory west of the strait. Republic of Anataria and Republic of Elonia share a land border west of Istara.",
+      "facts": [
+        [
+          "Type",
+          "Continent / mainland"
+        ],
+        [
+          "Associated countries",
+          "Republic of Elonia · Republic of Anataria"
+        ],
+        [
+          "Critical passage",
+          "Istara Strait"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/avrupa.jpg",
+      "classified": false,
+      "aliases": [
+        "avrupa",
+        "avren-mainland"
+      ]
+    },
+    {
+      "id": "istara",
+      "slug": "istara",
+      "title": "Istara",
+      "category": "Geography",
+      "url": "https://t1orstudios.github.io/geography/istara",
+      "desc": "The strait city connecting Anataria’s two shores.",
+      "lead": "Istara is a port and transit city within Republic of Anataria that developed around Istara Strait. The settlement extends between the Avren side and the main peninsula. Linking the shores of two continents, the city is one of the region’s most important trade passages. Anataria’s capital is Arkent.",
+      "facts": [
+        [
+          "Country",
+          "Republic of Anataria"
+        ],
+        [
+          "Location",
+          "Istara Strait"
+        ],
+        [
+          "Avren connection",
+          "Avren mainland"
+        ],
+        [
+          "Function",
+          "Port, trade and intercontinental transit"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/istara.jpg",
+      "classified": false,
+      "aliases": [
+        "istara"
+      ]
+    },
+    {
+      "id": "istara-bogazi",
+      "slug": "istara-strait",
+      "title": "Istara Strait",
+      "category": "Geography",
+      "url": "https://t1orstudios.github.io/geography/istara-strait",
+      "desc": "The narrow waterway connecting the Northern Sea and the Inland Sea.",
+      "lead": "The Istara Strait is a narrow maritime chokepoint connecting the exit of the Kalyon Sea to southern shipping routes along the Avren mainland.",
+      "facts": [
+        [
+          "Type",
+          "Strait"
+        ],
+        [
+          "Coastal state",
+          "Republic of Anataria"
+        ],
+        [
+          "Principal city",
+          "Istara"
+        ],
+        [
+          "Waters connected",
+          "Northern Sea · Inland Sea"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/istara-bogazi.jpg",
+      "classified": false,
+      "aliases": [
+        "istara-bogazi",
+        "istara-strait"
+      ]
+    },
+    {
+      "id": "veloria",
+      "slug": "velaria",
+      "title": "Federation of Velaria",
+      "category": "Countries",
+      "url": "https://t1orstudios.github.io/countries/velaria",
+      "desc": "A regional state in northwestern Avren.",
+      "lead": "The Federation of Velaria is a state in northwestern Avren with its capital at Veler. It is a federation that developed along extensive northwestern coasts and inland industrial basins. Port cities, financial centers and advanced manufacturing regions form the backbone of its economy. It is a member of Northern Belt Defense Pact and Avren Union.",
+      "facts": [
+        [
+          "Capital",
+          "Veler"
+        ],
+        [
+          "Government",
+          "Federal parliamentary republic"
+        ],
+        [
+          "Continent",
+          "Avren mainland"
+        ],
+        [
+          "Defense alliance",
+          "Northern Belt Defense Pact"
+        ],
+        [
+          "Political and economic union",
+          "Avren Union"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/veloria.svg",
+      "classified": false,
+      "aliases": [
+        "veloria",
+        "velaria",
+        "velarya",
+        "federation-of-velaria"
+      ]
+    },
+    {
+      "id": "dalmerya",
+      "slug": "dalmeria",
+      "title": "Republic of Dalmeria",
+      "category": "Countries",
+      "url": "https://t1orstudios.github.io/countries/dalmeria",
+      "desc": "A regional state on the western Avren coast.",
+      "lead": "The Republic of Dalmeria is a state on the western Avren coast with its capital at Dalmera. It occupies a long peninsula extending southward from western Avren. There are pronounced economic and cultural differences between its coastal cities and mountainous interior. It is a member of Northern Belt Defense Pact and Avren Union.",
+      "facts": [
+        [
+          "Capital",
+          "Dalmera"
+        ],
+        [
+          "Government",
+          "Parliamentary republic"
+        ],
+        [
+          "Continent",
+          "Avren mainland"
+        ],
+        [
+          "Defense alliance",
+          "Northern Belt Defense Pact"
+        ],
+        [
+          "Political and economic union",
+          "Avren Union"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/dalmerya.svg",
+      "classified": false,
+      "aliases": [
+        "dalmerya",
+        "dalmeria",
+        "republic-of-dalmeria"
+      ]
+    },
+    {
+      "id": "vardena",
+      "slug": "vardena",
+      "title": "Republic of Vardena",
+      "category": "Countries",
+      "url": "https://t1orstudios.github.io/countries/vardena",
+      "desc": "A regional state in central Avren’s transition belt.",
+      "lead": "The Republic of Vardena is a state in central Avren’s transition belt with its capital at Vardis. It lies north of Elonia around mountain passes and river basins. Land routes between western and eastern Avren determine the country’s strategic value. It is a member of Northern Belt Defense Pact and Avren Union.",
+      "facts": [
+        [
+          "Capital",
+          "Vardis"
+        ],
+        [
+          "Government",
+          "Parliamentary republic"
+        ],
+        [
+          "Continent",
+          "Avren mainland"
+        ],
+        [
+          "Defense alliance",
+          "Northern Belt Defense Pact"
+        ],
+        [
+          "Political and economic union",
+          "Avren Union"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/vardena.svg",
+      "classified": false,
+      "aliases": [
+        "vardena",
+        "republic-of-vardena"
+      ]
+    },
+    {
+      "id": "rovenya",
+      "slug": "rovenia",
+      "title": "Federation of Rovenia",
+      "category": "Countries",
+      "url": "https://t1orstudios.github.io/countries/rovenia",
+      "desc": "A regional state in northeastern Avren.",
+      "lead": "The Federation of Rovenia is a state in northeastern Avren with its capital at Roven. It is a broad federation opening onto the western and northern shores of the Northern Sea. Forested plateaus, river cities and northern ports form distinct economic regions. It is a member of Northern Belt Defense Pact and Avren Union.",
+      "facts": [
+        [
+          "Capital",
+          "Roven"
+        ],
+        [
+          "Government",
+          "Federal republic"
+        ],
+        [
+          "Continent",
+          "Avren mainland"
+        ],
+        [
+          "Defense alliance",
+          "Northern Belt Defense Pact"
+        ],
+        [
+          "Political and economic union",
+          "Avren Union"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/rovenya.svg",
+      "classified": false,
+      "aliases": [
+        "rovenya",
+        "rovenia",
+        "federation-of-rovenia"
+      ]
+    },
+    {
+      "id": "kipraya",
+      "slug": "kipraya",
+      "title": "Republic of Kipraya",
+      "category": "Countries",
+      "url": "https://t1orstudios.github.io/countries/kipraya",
+      "desc": "An Avren Union member republic governing the south of Kipraya island.",
+      "lead": "The Republic of Kipraya is a state on Kipraya Island, south of the coast of Republic of Anataria. The government recognized across the island in practice administers its southern part; North Kipraya Republic has established a separate administration in the north. The capital, Kipra, is divided by Kipraya Buffer Line, which separates the two parts. The republic is a member of Avren Union, but not of Northern Belt Defense Pact.",
+      "facts": [
+        [
+          "Capital",
+          "South Kipra"
+        ],
+        [
+          "Government",
+          "Parliamentary republic"
+        ],
+        [
+          "Area of de facto administration",
+          "Southern part of the island"
+        ],
+        [
+          "International status",
+          "Government recognized across the island"
+        ],
+        [
+          "Union membership",
+          "Avren Union"
+        ],
+        [
+          "KKSP membership",
+          "Not a member"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/kipraya.svg",
+      "classified": false,
+      "aliases": [
+        "kipraya",
+        "republic-of-kipraya"
+      ]
+    },
+    {
+      "id": "avren-birligi",
+      "slug": "avren-union",
+      "title": "Avren Union",
+      "category": "Organizations",
+      "url": "https://t1orstudios.github.io/organizations/avren-union",
+      "desc": "A political and economic union bringing together the Avren countries and Kipraya.",
+      "lead": "The Avren Union (AB) is an interstate union working in the areas of a common market, movement, trade standards and regional development. Its members are Federation of Velaria, Republic of Dalmeria, Republic of Vardena, Federation of Rovenia, Republic of Elonia and Republic of Kipraya. The union’s political and economic institutions are separate from the military structure of Northern Belt Defense Pact.",
+      "facts": [
+        [
+          "Abbreviation",
+          "AB"
+        ],
+        [
+          "Type",
+          "Political and economic union"
+        ],
+        [
+          "Members",
+          "Federation of Velaria · Republic of Dalmeria · Republic of Vardena · Federation of Rovenia · Republic of Elonia · Republic of Kipraya"
+        ],
+        [
+          "Anatarya’s status",
+          "Partnership and customs agreements; not a full member"
+        ],
+        [
+          "Principal bodies",
+          "Avren Council · Common Assembly · Union Commission"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/avren-birligi.svg",
+      "classified": false,
+      "aliases": [
+        "avren-birligi",
+        "avren-union"
+      ]
+    },
+    {
+      "id": "k16-alaz",
+      "slug": "k16-alaz",
+      "title": "K-16 Alaz",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/k16-alaz",
+      "desc": "Anatarya’s single-engine multirole fighter aircraft.",
+      "lead": "The K-16 Alaz is a single-pilot, single-engine multirole fighter aircraft used by Republic of Anataria’s air force. It is the principal platform of the modernization that began in 132nd Dagger Tactical Squadron squadron in 2019. It serves in protecting the airspace around SKYFORTRESS-4.",
+      "facts": [
+        [
+          "Country",
+          "Republic of Anataria"
+        ],
+        [
+          "Class",
+          "Multirole fighter aircraft"
+        ],
+        [
+          "Crew",
+          "1 pilot"
+        ],
+        [
+          "Engine configuration",
+          "Single jet engine"
+        ],
+        [
+          "Operator",
+          "132nd Dagger Tactical Squadron"
+        ],
+        [
+          "Squadron modernization",
+          "2019"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/k16-alaz.jpg",
+      "classified": false,
+      "aliases": [
+        "k16-alaz",
+        "k-16-alaz"
+      ]
+    },
+    {
+      "id": "ut7-ilgaz",
+      "slug": "ut7-ilgaz",
+      "title": "UT-7 Ilgaz",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/ut7-ilgaz",
+      "desc": "Utility helicopter.",
+      "lead": "The UT-7 Ilgaz is a utility helicopter platform used by Republic of Anataria. It is suitable for personnel transport, search and rescue, and medical evacuation missions. It provides transport support to the Sarp Guard unit as required.",
+      "facts": [
+        [
+          "Country",
+          "Republic of Anataria"
+        ],
+        [
+          "Class",
+          "Utility helicopter"
+        ],
+        [
+          "Crew",
+          "2 pilots + mission crew"
+        ],
+        [
+          "Associated unit",
+          "4th Sarp Guard Company"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/ut7-ilgaz.jpg",
+      "classified": false,
+      "aliases": [
+        "ut7-ilgaz",
+        "ut-7-ilgaz"
+      ]
+    },
+    {
+      "id": "kalkan-hss",
+      "slug": "kalkan-hss",
+      "title": "Kalkan HSS",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/kalkan-hss",
+      "desc": "Mobile air defense system.",
+      "lead": "The Kalkan HSS is a mobile air defense system platform used by Republic of Anataria. It is a family of systems comprising radar, a command vehicle and air defense vehicles.",
+      "facts": [
+        [
+          "Country",
+          "Republic of Anataria"
+        ],
+        [
+          "Class",
+          "Mobile air defense system"
+        ],
+        [
+          "Crew",
+          "Varies by vehicle and mission crew"
+        ],
+        [
+          "Associated unit",
+          "4th Sarp Guard Company"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/kalkan-hss.jpg",
+      "classified": false,
+      "aliases": [
+        "kalkan-hss"
+      ]
+    },
+    {
+      "id": "m12-aster",
+      "slug": "m12-aster",
+      "title": "M-12 Aster",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/m12-aster",
+      "desc": "Multirole fighter aircraft.",
+      "lead": "The M-12 Aster is a multirole fighter aircraft platform used by Republic of Elonia. Elonia uses it for air defense and air support to naval forces. It is the principal platform of the 38th Gorgon Strike Detachment.",
+      "facts": [
+        [
+          "Country",
+          "Republic of Elonia"
+        ],
+        [
+          "Class",
+          "Multirole fighter aircraft"
+        ],
+        [
+          "Crew",
+          "1 pilot"
+        ],
+        [
+          "Associated unit",
+          "38th Gorgon Strike Detachment"
+        ],
+        [
+          "Naval variant",
+          "M-12N Aster (carrier-capable)"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/m12-aster.jpg",
+      "classified": false,
+      "aliases": [
+        "m12-aster",
+        "m-12-aster"
+      ]
+    },
+    {
+      "id": "p8-pelagos",
+      "slug": "p8-pelagos",
+      "title": "P-8 Pelagos",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/p8-pelagos",
+      "desc": "Maritime patrol aircraft.",
+      "lead": "The P-8 Pelagos is a maritime patrol aircraft platform used by Republic of Elonia. It is a turboprop aircraft assigned to maritime observation, search-and-rescue coordination and long-duration patrols. It provides information support to the AIGAION group; it is not part of a fighter squadron’s organic inventory.",
+      "facts": [
+        [
+          "Country",
+          "Republic of Elonia"
+        ],
+        [
+          "Class",
+          "Maritime patrol aircraft"
+        ],
+        [
+          "Crew",
+          "2 pilots + mission crew"
+        ],
+        [
+          "Associated unit",
+          "AIGAION Battle Group support elements"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/p8-pelagos.jpg",
+      "classified": false,
+      "aliases": [
+        "p8-pelagos",
+        "p-8-pelagos"
+      ]
+    },
+    {
+      "id": "triton-botu",
+      "slug": "triton-fast-boat",
+      "title": "Triton Fast Boat",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/triton-fast-boat",
+      "desc": "Fast personnel transport boat.",
+      "lead": "The Triton Fast Boat is a fast personnel transport boat platform used by Republic of Elonia. It is used for short-distance sea transport, coastal patrols and personnel transfers. It is operated by the Nereus Naval Commando Group.",
+      "facts": [
+        [
+          "Country",
+          "Republic of Elonia"
+        ],
+        [
+          "Class",
+          "Fast personnel transport boat"
+        ],
+        [
+          "Crew",
+          "2 crew + mission team"
+        ],
+        [
+          "Associated unit",
+          "8th Nereus Naval Commando Group"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/triton-botu.jpg",
+      "classified": false,
+      "aliases": [
+        "triton-botu",
+        "triton-fast-boat"
+      ]
+    },
+    {
+      "id": "aigaion-firkateyni",
+      "slug": "aigaion-class-frigate",
+      "title": "AIGAION-class Frigate",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/aigaion-class-frigate",
+      "desc": "Multipurpose frigate.",
+      "lead": "The AIGAION-class Frigate is a multipurpose frigate platform used by Republic of Elonia. AIGAION and THALASSA belong to this frigate class. It undertakes the battle group’s escort, maritime surveillance and command liaison duties.",
+      "facts": [
+        [
+          "Country",
+          "Republic of Elonia"
+        ],
+        [
+          "Class",
+          "Multipurpose frigate"
+        ],
+        [
+          "Crew",
+          "Ship’s operational complement"
+        ],
+        [
+          "Associated unit",
+          "AIGAION Battle Group"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/aigaion-firkateyni.jpg",
+      "classified": false,
+      "aliases": [
+        "aigaion-firkateyni",
+        "aigaion-class-frigate"
+      ]
+    },
+    {
+      "id": "nereus-cikarma",
+      "slug": "nereus-landing-ship",
+      "title": "NEREUS Landing Ship",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/nereus-landing-ship",
+      "desc": "Amphibious transport and support ship.",
+      "lead": "The NEREUS Landing Ship is an amphibious transport and support ship platform used by Republic of Elonia. It is an amphibious ship carrying personnel, vehicles and support supplies. It shares its name with the 8th Nereus Naval Commando Group, but the ship and unit are separate entities.",
+      "facts": [
+        [
+          "Country",
+          "Republic of Elonia"
+        ],
+        [
+          "Class",
+          "Amphibious transport and support ship"
+        ],
+        [
+          "Crew",
+          "Ship’s crew + embarked unit"
+        ],
+        [
+          "Associated unit",
+          "AIGAION Battle Group · 8th Nereus Naval Commando Group"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/nereus-cikarma.jpg",
+      "classified": false,
+      "aliases": [
+        "nereus-cikarma",
+        "nereus-landing-ship"
+      ]
+    },
+    {
+      "id": "kallisto-ikmal",
+      "slug": "kallisto-supply-ship",
+      "title": "KALLISTO Supply Ship",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/kallisto-supply-ship",
+      "desc": "Naval logistics ship.",
+      "lead": "The KALLISTO Supply Ship is a naval logistics ship platform used by Republic of Elonia. It supports the battle group’s requirements for fuel, provisions and maintenance supplies. It helps the group sustain a prolonged presence at sea.",
+      "facts": [
+        [
+          "Country",
+          "Republic of Elonia"
+        ],
+        [
+          "Class",
+          "Naval logistics ship"
+        ],
+        [
+          "Crew",
+          "Ship’s operational complement"
+        ],
+        [
+          "Associated unit",
+          "AIGAION Battle Group"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/kallisto-ikmal.jpg",
+      "classified": false,
+      "aliases": [
+        "kallisto-ikmal",
+        "kallisto-supply-ship"
+      ]
+    },
+    {
+      "id": "sarp-muhafiz",
+      "slug": "4th-sarp-guard-company",
+      "title": "4th Sarp Guard Company",
+      "category": "Units",
+      "url": "https://t1orstudios.github.io/units/4th-sarp-guard-company",
+      "desc": "A facility protection and response unit of the Anatarian forces.",
+      "lead": "A company tasked with military security and response, protecting critical infrastructure on Sarpburun Peninsula. It focuses on the mainland connection, personnel safety and maintaining civilian evacuation arrangements during the crisis.",
+      "facts": [
+        [
+          "Country",
+          "Republic of Anataria"
+        ],
+        [
+          "Unit type",
+          "Facility protection and response unit"
+        ],
+        [
+          "Call sign",
+          "Sarp"
+        ],
+        [
+          "Transport support",
+          "UT-7 Ilgaz"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/sarp-muhafiz.png",
+      "classified": false,
+      "aliases": [
+        "sarp-muhafiz",
+        "4th-sarp-guard-company"
+      ]
+    },
+    {
+      "id": "mizrak",
+      "slug": "38th-gorgon-strike-detachment",
+      "title": "38th Gorgon Strike Detachment",
+      "category": "Units",
+      "url": "https://t1orstudios.github.io/units/38th-gorgon-strike-detachment",
+      "desc": "A carrier-capable tactical strike detachment of the Elonian air forces.",
+      "lead": "A multirole strike detachment of Elonia’s air force. It conducts air strike and suppression missions in the area where the AIGAION Battle Group group operates. It is a separate organization from the maritime patrol aircraft.",
+      "facts": [
+        [
+          "Country",
+          "Republic of Elonia"
+        ],
+        [
+          "Unit type",
+          "Tactical strike detachment"
+        ],
+        [
+          "Call sign",
+          "Gorgon"
+        ],
+        [
+          "Principal aircraft",
+          "M-12 Aster"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/mizrak-v2.png",
+      "classified": false,
+      "aliases": [
+        "mizrak",
+        "38th-gorgon-strike-detachment",
+        "41st-mizrak-tactical-squadron",
+        "41st-spear-tactical-squadron"
+      ]
+    },
+    {
+      "id": "nereus-komando",
+      "slug": "8th-nereus-naval-commando-group",
+      "title": "8th Nereus Naval Commando Group",
+      "category": "Units",
+      "url": "https://t1orstudios.github.io/units/8th-nereus-naval-commando-group",
+      "desc": "A naval special mission unit of the Elonian forces.",
+      "lead": "One of Elonia’s special units operating in the maritime environment. It conducts activities such as personnel protection, movement by sea and search-and-rescue support on missions attached to the AIGAION Battle Group group.",
+      "facts": [
+        [
+          "Country",
+          "Republic of Elonia"
+        ],
+        [
+          "Unit type",
+          "Naval special mission unit"
+        ],
+        [
+          "Call sign",
+          "Nereus"
+        ],
+        [
+          "Fast boat",
+          "Triton Fast Boat"
+        ],
+        [
+          "Sea transport",
+          "NEREUS Landing Ship"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/nereus-komando.png",
+      "classified": false,
+      "aliases": [
+        "nereus-komando",
+        "8th-nereus-naval-commando-group"
+      ]
+    },
+    {
+      "id": "k4-boran",
+      "slug": "k4-boran",
+      "title": "K-4 Boran",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/k4-boran",
+      "desc": "Dagger squadron’s historic twin-engine interceptor.",
+      "lead": "The K-4 Boran is a two-crew, twin-engine interceptor and tactical mission aircraft of Republic of Anataria’s air force. It was the first principal platform of 132nd Dagger Tactical Squadron squadron, established in 1978. DAGGER 06, which disappeared on 17 November 1994, belongs to this aircraft family.",
+      "facts": [
+        [
+          "Country",
+          "Republic of Anataria"
+        ],
+        [
+          "Role",
+          "Interception and tactical air missions"
+        ],
+        [
+          "Crew",
+          "Pilot and weapons systems officer"
+        ],
+        [
+          "Engine configuration",
+          "Twin jet engines"
+        ],
+        [
+          "Operator",
+          "132nd Dagger Tactical Squadron"
+        ],
+        [
+          "Service status",
+          "Training and limited duties"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/k4-boran.jpg",
+      "classified": false,
+      "aliases": [
+        "k4-boran",
+        "k-4-boran"
+      ]
+    },
+    {
+      "id": "kuzey-kipraya",
+      "slug": "north-kipraya",
+      "title": "North Kipraya Republic",
+      "category": "Countries",
+      "url": "https://t1orstudios.github.io/countries/north-kipraya",
+      "desc": "The administration in northern Kipraya island, recognized only by Anataria.",
+      "lead": "The North Kipraya Republic is a state governed through separate institutions in the north of Kipraya Island. Its independence is recognized only by Republic of Anataria. The government of Republic of Kipraya and Avren Union regard the north as part of the Republic of Kipraya. Its administrative center is North Kipra.",
+      "facts": [
+        [
+          "Administrative center",
+          "North Kipra"
+        ],
+        [
+          "Government",
+          "Parliamentary republic"
+        ],
+        [
+          "Recognition",
+          "Only Republic of Anataria"
+        ],
+        [
+          "Avren Union",
+          "No separate membership"
+        ],
+        [
+          "KKSP",
+          "Not a member"
+        ],
+        [
+          "Security partner",
+          "Republic of Anataria"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/kuzey-kipraya.svg",
+      "classified": false,
+      "aliases": [
+        "kuzey-kipraya",
+        "north-kipraya",
+        "north-kipraya-republic"
+      ]
+    },
+    {
+      "id": "kipraya-adasi",
+      "slug": "kipraya-island",
+      "title": "Kipraya Island",
+      "category": "Geography",
+      "url": "https://t1orstudios.github.io/geography/kipraya-island",
+      "desc": "An island in the Southern Sea divided between two administrations and a buffer line.",
+      "lead": "Kipraya is an island south of the coast of Republic of Anataria and at the southeastern outlet of Kalyon Sea. Republic of Kipraya administers its southern part and North Kipraya Republic its northern part. The Kipraya Buffer Line between the two administrations also runs through the capital, Kipra.",
+      "facts": [
+        [
+          "Location",
+          "Southern Sea"
+        ],
+        [
+          "Southern administration",
+          "Republic of Kipraya"
+        ],
+        [
+          "Northern administration",
+          "North Kipraya Republic"
+        ],
+        [
+          "Divided city",
+          "Kipra"
+        ],
+        [
+          "Dividing line",
+          "Kipraya Buffer Line"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/kipraya-adasi.jpg",
+      "classified": false,
+      "aliases": [
+        "kipraya-adasi",
+        "kipraya-island"
+      ]
+    },
+    {
+      "id": "kipraya-tampon-hatti",
+      "slug": "kipraya-buffer-line",
+      "title": "Kipraya Buffer Line",
+      "category": "Geography",
+      "url": "https://t1orstudios.github.io/geography/kipraya-buffer-line",
+      "desc": "The monitoring zone separating the northern and southern administrations.",
+      "lead": "The Kipraya Buffer Line is a monitoring zone established to preserve the ceasefire arrangements on Kipraya Island. It extends between Republic of Kipraya and North Kipraya Republic and divides the city of Kipra in two. The line is monitored by the neutral Ceasefire Observation Mission.",
+      "facts": [
+        [
+          "Location",
+          "Kipraya Island"
+        ],
+        [
+          "Status",
+          "Ceasefire and monitoring zone"
+        ],
+        [
+          "Monitoring",
+          "Ceasefire Observation Mission"
+        ],
+        [
+          "Crossings",
+          "Designated checkpoints"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/kipraya-tampon-hatti.jpg",
+      "classified": false,
+      "aliases": [
+        "kipraya-tampon-hatti",
+        "kipraya-buffer-line"
+      ]
+    },
+    {
+      "id": "kuzey-isaret",
+      "slug": "6th-northern-signal-battalion",
+      "title": "6th Northern Signal Battalion",
+      "category": "Units",
+      "url": "https://t1orstudios.github.io/units/6th-northern-signal-battalion",
+      "desc": "Anatarya’s Sarpburun communications and early warning unit.",
+      "lead": "The 6th Northern Signal Battalion combines radar data, radio traffic and civil warnings for Republic of Anataria forces on the Sarpburun Peninsula peninsula. It provides a common operational picture for forces protecting SKYFORTRESS-4.",
+      "facts": [
+        [
+          "Country",
+          "Republic of Anataria"
+        ],
+        [
+          "Unit type",
+          "Signals and early warning"
+        ],
+        [
+          "Station",
+          "Sarpburun Peninsula"
+        ],
+        [
+          "Coordination",
+          "132nd Dagger Tactical Squadron · 4th Sarp Guard Company"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/kuzey-isaret.png",
+      "classified": false,
+      "aliases": [
+        "kuzey-isaret",
+        "6th-northern-signal-battalion"
+      ]
+    },
+    {
+      "id": "doruk-ikmal",
+      "slug": "18th-doruk-supply-regiment",
+      "title": "18th Doruk Supply Regiment",
+      "category": "Units",
+      "url": "https://t1orstudios.github.io/units/18th-doruk-supply-regiment",
+      "desc": "Anatarya’s supply unit for the peninsula road corridor.",
+      "lead": "The 18th Doruk Supply Regiment manages fuel, medical supplies and maintenance shipments from the Republic of Anataria interior to the passes of Sarpburun Peninsula. Its network helps sustain SKYFORTRESS-4.",
+      "facts": [
+        [
+          "Country",
+          "Republic of Anataria"
+        ],
+        [
+          "Unit type",
+          "Logistics regiment"
+        ],
+        [
+          "Operational area",
+          "Arkent–Sarpburun corridor"
+        ],
+        [
+          "In the game",
+          "ARMED FORCES · spawns at the garrison logistics HQ"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/doruk-ikmal.png",
+      "classified": false,
+      "aliases": [
+        "doruk-ikmal",
+        "18th-doruk-supply-regiment"
+      ]
+    },
+    {
+      "id": "pelagos-devriye",
+      "slug": "3rd-pelagos-maritime-patrol-squadron",
+      "title": "3rd Pelagos Maritime Patrol Squadron",
+      "category": "Units",
+      "url": "https://t1orstudios.github.io/units/3rd-pelagos-maritime-patrol-squadron",
+      "desc": "Elonya’s maritime surveillance squadron in the Kalyon Sea.",
+      "lead": "The 3rd Pelagos Maritime Patrol Squadron monitors traffic between the Republic of Elonia coast and the Kalyon Islands with P-8 Pelagos aircraft. It has a separate command and mission structure from the 38th Gorgon Strike Detachment strike detachment.",
+      "facts": [
+        [
+          "Country",
+          "Republic of Elonia"
+        ],
+        [
+          "Unit type",
+          "Maritime patrol squadron"
+        ],
+        [
+          "Principal aircraft",
+          "P-8 Pelagos"
+        ],
+        [
+          "Coordination",
+          "AIGAION Battle Group"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/pelagos-devriye.png",
+      "classified": false,
+      "aliases": [
+        "pelagos-devriye",
+        "3rd-pelagos-maritime-patrol-squadron"
+      ]
+    },
+    {
+      "id": "demir-iz",
+      "slug": "27th-iron-fist-heavy-armored-division",
+      "title": "27th Iron Fist Heavy Armored Division",
+      "category": "Units",
+      "url": "https://t1orstudios.github.io/units/27th-iron-fist-heavy-armored-division",
+      "desc": "Anatarya’s heavy armored division defending the land approaches to Sarpburun.",
+      "lead": "The 27th Iron Fist Heavy Armored Division is an Republic of Anataria Army maneuver unit stationed at the land passes leading onto the Sarpburun Peninsula peninsula. It operates heavy main battle tanks under a command separate from the 4th Sarp Guard Company company responsible for security inside SKYFORTRESS-4.",
+      "facts": [
+        [
+          "Country",
+          "Republic of Anataria"
+        ],
+        [
+          "Unit type",
+          "Heavy armored division"
+        ],
+        [
+          "Founded",
+          "1986"
+        ],
+        [
+          "Station",
+          "Sarpburun land passes"
+        ],
+        [
+          "Supply",
+          "18th Doruk Supply Regiment"
+        ],
+        [
+          "Tanks",
+          "ALTAI MBT"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/demir-iz.png",
+      "classified": false,
+      "aliases": [
+        "demir-iz",
+        "27th-iron-fist-heavy-armored-division",
+        "27th-iron-fist-mechanized-infantry-regiment"
+      ]
+    },
+    {
+      "id": "iris-indirme",
+      "slug": "9th-iris-airborne-brigade",
+      "title": "9th Iris Airborne Brigade",
+      "category": "Units",
+      "url": "https://t1orstudios.github.io/units/9th-iris-airborne-brigade",
+      "desc": "Elonya’s airborne brigade assigned to the island chain.",
+      "lead": "The 9th Iris Airborne Brigade is a rapidly deployable unit of the Republic of Elonia Army. Its mission area covers the western Kalyon Islands and airfields on the Elonian mainland. It is organizationally separate from the 8th Nereus Naval Commando Group naval units serving with the AIGAION Battle Group group.",
+      "facts": [
+        [
+          "Country",
+          "Republic of Elonia"
+        ],
+        [
+          "Unit type",
+          "Airborne brigade"
+        ],
+        [
+          "Founded",
+          "1991"
+        ],
+        [
+          "Operational area",
+          "Western Kalyon Islands"
+        ],
+        [
+          "Air support",
+          "38th Gorgon Strike Detachment"
+        ],
+        [
+          "Naval coordination",
+          "AIGAION Battle Group"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/iris-indirme.png",
+      "classified": false,
+      "aliases": [
+        "iris-indirme",
+        "9th-iris-airborne-brigade"
+      ]
+    },
+    {
+      "id": "sarpburun-radar-istasyonu",
+      "slug": "sarpburun-radar-station",
+      "title": "Sarpburun Radar Station",
+      "category": "Facilities",
+      "url": "https://t1orstudios.github.io/facilities/sarpburun-radar-station",
+      "desc": "Anatarya's early warning radar installation overlooking Sarpburun and the Kalyon Sea.",
+      "lead": "Sarpburun Radar Station is an Republic of Anataria early warning and coastal surveillance facility perched upon the high ridges of the Sarpburun Peninsula peninsula. Located on the bluffs east of the SKYFORTRESS-4 complex, it is operated by 6th Northern Signal Battalion. It relays real-time radar tracks of the Kalyon Sea and approach corridors to 132nd Dagger Tactical Squadron and air defense forces.",
+      "facts": [
+        [
+          "Facility type",
+          "Early warning and coastal radar"
+        ],
+        [
+          "Operating country",
+          "Republic of Anataria"
+        ],
+        [
+          "Operating unit",
+          "6th Northern Signal Battalion"
+        ],
+        [
+          "Location",
+          "Sarpburun Peninsula mountain ridges"
+        ],
+        [
+          "Data distribution",
+          "132nd Dagger Tactical Squadron · Kalkan HSS · SKYFORTRESS-4"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/sarpburun-radar-istasyonu.jpg",
+      "classified": false,
+      "aliases": [
+        "sarpburun-radar-istasyonu",
+        "sarpburun-radar-station"
+      ]
+    },
+    {
+      "id": "kara-kasim",
+      "slug": "black-november",
+      "title": "Black November Incident",
+      "category": "Events",
+      "url": "https://t1orstudios.github.io/events/black-november",
+      "desc": "The mysterious disappearance of DAGGER 06 off Sarpburun on 17 November 1994.",
+      "lead": "The Black November Incident was a military aviation mystery occurring on 17 November 1994, when an Republic of Anataria Air Force K-4 Boran flying under callsign DAGGER 06 from the 132nd Dagger Tactical Squadron vanished from radar off the coast of Sarpburun Peninsula. Just 11 seconds after its last radio transmission, all radar and telemetry contact ceased; no trace of the airframe or its two-man crew was ever recovered. The event sparked a lasting squadron tradition and formed the basis of the Classified File 94-117 investigation.",
+      "facts": [
+        [
+          "Date",
+          "17 November 1994"
+        ],
+        [
+          "Involved unit",
+          "132nd Dagger Tactical Squadron"
+        ],
+        [
+          "Missing aircraft",
+          "DAGGER 06 (K-4 Boran)"
+        ],
+        [
+          "Location",
+          "Off Sarpburun Peninsula, Kalyon Sea"
+        ],
+        [
+          "Crew",
+          "Pilot Captain and Weapons System Officer"
+        ],
+        [
+          "Investigation",
+          "Classified File 94-117"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/hancer.png",
+      "classified": false,
+      "aliases": [
+        "kara-kasim",
+        "black-november",
+        "black-november-incident"
+      ]
+    },
+    {
+      "id": "dosya-94-117",
+      "slug": "classified-file-94-117",
+      "title": "Classified File 94-117",
+      "category": "Documents",
+      "url": "https://t1orstudios.github.io/documents/classified-file-94-117",
+      "desc": "Top secret investigation into the loss of DAGGER 06 and the 2036 beacon transmission.",
+      "lead": "Classified File 94-117 is a restricted dossier maintained by the Republic of Anataria Air Force Command and Intelligence Directorate investigating the 17 November 1994 loss of DAGGER 06 and the anomalous transmission received on identical frequencies in 2036. The file compiles telemetry logs, radar strip charts, signal intercepts, and assessments of potential electronic warfare by Elonia National Intelligence Directorate.",
+      "facts": [
+        [
+          "Document code",
+          "GOK-HVK-94-117/TS"
+        ],
+        [
+          "Classification",
+          "Top Secret (Authorized Eyes Only)"
+        ],
+        [
+          "Compiling authority",
+          "Anatarya Air Force and Intelligence Directorate"
+        ],
+        [
+          "Linked event",
+          "Black November Incident"
+        ],
+        [
+          "Associated units",
+          "132nd Dagger Tactical Squadron · 6th Northern Signal Battalion"
+        ],
+        [
+          "Key milestones",
+          "1994 / 2036"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/dosya-94-117-v2.jpg",
+      "classified": false,
+      "aliases": [
+        "dosya-94-117",
+        "classified-file-94-117"
+      ]
+    },
+    {
+      "id": "ostenya",
+      "slug": "ostania",
+      "title": "United States of Ostania",
+      "category": "Countries",
+      "url": "https://t1orstudios.github.io/countries/ostania",
+      "desc": "Transoceanic superpower and operator of the ARGUS global positioning constellation.",
+      "lead": "The United States of Ostania (USO) is a transoceanic military, technological, and economic superpower occupying a vast continent west of Avren. As the champion of maritime free trade and cutting-edge aerospace standards, Ostania commands nuclear supercarrier strike groups and operates the ARGUS satellite constellation, projecting undisputed naval and orbital presence. A close strategic partner of Republic of Elonia, Ostania declared 'freedom of navigation patrols' in the Kalyon Sea during the SKYFORTRESS-4 Crisis, dispatching guided missile cruisers and nuclear attack submarines to the periphery.",
+      "facts": [
+        [
+          "Government",
+          "Federal presidential republic"
+        ],
+        [
+          "Capital",
+          "Port Sterling"
+        ],
+        [
+          "Global role",
+          "Military and economic superpower"
+        ],
+        [
+          "Regional partners",
+          "Republic of Elonia · Northern Belt Defense Pact"
+        ],
+        [
+          "Key systems",
+          "ARGUS Satellite Constellation · 7th Fleet"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/ostenya.svg",
+      "classified": false,
+      "aliases": [
+        "ostenya",
+        "ostania",
+        "united-states-of-ostania"
+      ]
+    },
+    {
+      "id": "ursya",
+      "slug": "ursia",
+      "title": "Ursian Federation",
+      "category": "Countries",
+      "url": "https://t1orstudios.github.io/countries/ursia",
+      "desc": "Continental superpower spanning northern tundras with vast heavy industry and nuclear arsenals.",
+      "lead": "The Ursian Federation is a vast continental superpower spanning the frozen tundras, taiga, and interior mountain ranges northeast of Avren. Holding the world's largest landmass and colossal energy reserves, Ursya is recognized for heavy metallurgy, rocket propulsion, and strategic deterrence. Historically maintaining balanced defense ties with Republic of Anataria, Ursya licensed the engine designs and baseline telemetry for Anataria's workhorse K-4 Boran strike jets and heavy space launch stages.",
+      "facts": [
+        [
+          "Government",
+          "Federal semi-presidential republic"
+        ],
+        [
+          "Capital",
+          "Severograd"
+        ],
+        [
+          "Global role",
+          "Continental superpower and energy titan"
+        ],
+        [
+          "Defense exports",
+          "K-4 Boran jet engines · Heavy rocket stages"
+        ],
+        [
+          "Doctrine",
+          "Strategic depth and multipolar balance"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/ursya.svg",
+      "classified": false,
+      "aliases": [
+        "ursya",
+        "ursia",
+        "ursian-federation"
+      ]
+    },
+    {
+      "id": "huaxia",
+      "slug": "huaxia",
+      "title": "People's Republic of Huaxia",
+      "category": "Countries",
+      "url": "https://t1orstudios.github.io/countries/huaxia",
+      "desc": "Eastern manufacturing, microelectronics, and orbital component titan.",
+      "lead": "The People's Republic of Huaxia is an eastern industrial titan and demographic heavyweight serving as the primary foundry of global electronics. Producing the lion's share of high-purity silicon wafers, rare earth minerals, and solar array wafers, Huaxia supplied the dense photovoltaic cells and optical beam splitters utilized on SKYFORTRESS-4.",
+      "facts": [
+        [
+          "Government",
+          "Unitary socialist republic"
+        ],
+        [
+          "Capital",
+          "Tiandu"
+        ],
+        [
+          "Global role",
+          "Global electronics and manufacturing center"
+        ],
+        [
+          "Program share",
+          "SKYFORTRESS-4 high-efficiency solar cells"
+        ],
+        [
+          "Foreign policy",
+          "Pragmatic neutrality and commercial corridors"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/huaxia.svg",
+      "classified": false,
+      "aliases": [
+        "huaxia",
+        "people-s-republic-of-huaxia"
+      ]
+    },
+    {
+      "id": "anasas",
+      "slug": "anasas",
+      "title": "ANASAS Aerospace",
+      "category": "Organizations",
+      "url": "https://t1orstudios.github.io/organizations/anasas",
+      "desc": "Anataria Aerospace Industries; the nation's premier aircraft and launch system prime contractor.",
+      "lead": "ANASAS (Anataria Aerospace Industries) is the industrial cornerstone of Republic of Anataria's sovereignty in the skies and orbital space. Founded following historical foreign arms embargoes, the company is the lead integrator of the K-21 KAAN 5th-generation stealth fighter, the SIMSEK-III space launch vehicle, and the primary bus structures for the SKYFORTRESS-4 satellite constellation.",
+      "facts": [
+        [
+          "Founded",
+          "1975"
+        ],
+        [
+          "Headquarters",
+          "Arkent Aerospace Valley"
+        ],
+        [
+          "State affiliate",
+          "Republic of Anataria"
+        ],
+        [
+          "Flagship programs",
+          "K-21 KAAN · SIMSEK-III · SKYFORTRESS-4"
+        ],
+        [
+          "Industrial partners",
+          "SARPSAN Electronics · KORSAN Missile Systems · Baykut Defense Technologies"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/anasas.png",
+      "classified": false,
+      "aliases": [
+        "anasas",
+        "anasas-aerospace"
+      ]
+    },
+    {
+      "id": "baykut",
+      "slug": "baykut",
+      "title": "Baykut Defense Technologies",
+      "category": "Organizations",
+      "url": "https://t1orstudios.github.io/organizations/baykut",
+      "desc": "Pioneer of autonomous combat drones, AI flight algorithms, and unmanned stealth aircraft.",
+      "lead": "Baykut Defense Technologies is a world-renowned Republic of Anataria defense firm pioneering armed unmanned aerial vehicles (UCAVs) and autonomous combat systems. Producing the iconic BAYRAK-T2 tactical drone, the twin-turboprop AKIN-3 heavy strike drone, and the AL-ELMA K-01 supersonic unmanned stealth jet, Baykut has fundamentally transformed modern maritime and aerial warfare doctrines.",
+      "facts": [
+        [
+          "Founded",
+          "1988"
+        ],
+        [
+          "Headquarters",
+          "Arkent Autonomous Systems Campus"
+        ],
+        [
+          "State affiliate",
+          "Republic of Anataria"
+        ],
+        [
+          "Core platforms",
+          "BAYRAK-T2 · AKIN-3 · AL-ELMA K-01"
+        ],
+        [
+          "Core competencies",
+          "Autonomous flight · Machine vision · Loyal wingman swarming"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/baykut.png",
+      "classified": false,
+      "aliases": [
+        "baykut",
+        "baykut-defense-technologies"
+      ]
+    },
+    {
+      "id": "sarpsan",
+      "slug": "sarpsan",
+      "title": "SARPSAN Electronics",
+      "category": "Organizations",
+      "url": "https://t1orstudios.github.io/organizations/sarpsan",
+      "desc": "National designer of phased-array radars, electronic warfare suites, and electro-optical sensors.",
+      "lead": "SARPSAN (Sarpburun Defense Electronics) is the premier electronic warfare and radar design house for the Republic of Anataria Armed Forces. It designs the phased-array surveillance radars at Sarpburun Radar Station, the nose-mounted AESA radar for the K-21 KAAN, and optical targeting pods deployed across unmanned fleets.",
+      "facts": [
+        [
+          "Founded",
+          "1976"
+        ],
+        [
+          "Headquarters",
+          "Arkent Radar & Avionics Park"
+        ],
+        [
+          "State affiliate",
+          "Republic of Anataria"
+        ],
+        [
+          "Core capabilities",
+          "AESA Radar · Electronic Warfare · Cryptology"
+        ],
+        [
+          "Equipped units",
+          "Sarpburun Radar Station · Kalkan HSS · K-21 KAAN"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/sarpsan.png",
+      "classified": false,
+      "aliases": [
+        "sarpsan",
+        "sarpsan-electronics"
+      ]
+    },
+    {
+      "id": "korsan",
+      "slug": "korsan",
+      "title": "KORSAN Missile Systems",
+      "category": "Organizations",
+      "url": "https://t1orstudios.github.io/organizations/korsan",
+      "desc": "Manufacturer of solid rocket motors, air defense interceptors, and precision smart munitions.",
+      "lead": "KORSAN (Kor Munitions & Rocket Systems) is the primary rocket propulsion and guided ordnance contractor in Republic of Anataria. It manufactures interceptors for the Kalkan HSS system, solid-propellant booster stages for the SIMSEK-III space rocket, and laser-guided micro-munitions for the BAYRAK-T2 fleet.",
+      "facts": [
+        [
+          "Founded",
+          "1984"
+        ],
+        [
+          "Headquarters",
+          "Arkent Rocketry Complex"
+        ],
+        [
+          "State affiliate",
+          "Republic of Anataria"
+        ],
+        [
+          "Product lines",
+          "Kalkan interceptor missiles · MAM precision glide munitions"
+        ],
+        [
+          "Crisis readiness",
+          "Round-the-clock replenishment of coastal batteries"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/korsan.png",
+      "classified": false,
+      "aliases": [
+        "korsan",
+        "korsan-missile-systems"
+      ]
+    },
+    {
+      "id": "k21-kaan",
+      "slug": "k21-kaan",
+      "title": "K-21 KAAN",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/k21-kaan",
+      "desc": "Anataria’s twin-engine, low-observable 5th-generation national combat stealth fighter.",
+      "lead": "The K-21 KAAN is a twin-engine, super-cruising, low-observable (stealth) 5th-generation air superiority and deep strike fighter developed by ANASAS Aerospace for the Republic of Anataria Air Force. Featuring internal weapons bays, an advanced SARPSAN Electronics AESA radar, and an integrated helmet-mounted cueing system, the KAAN replaces legacy K-4 Boran aircraft. During the 2036 SKYFORTRESS-4 Crisis, initial operational prototypes were mobilized at Arkent Air Base, conducting deterrent combat patrols over Sarpburun and the Kalyon Sea.",
+      "facts": [
+        [
+          "Aircraft type",
+          "5th-gen multirole stealth fighter"
+        ],
+        [
+          "Manufacturer",
+          "ANASAS Aerospace (avionics: SARPSAN Electronics · KORSAN Missile Systems)"
+        ],
+        [
+          "Operator",
+          "Republic of Anataria Air Force (132nd Dagger Tactical Squadron)"
+        ],
+        [
+          "Max speed",
+          "Mach 1.8+ (Supercruise capable)"
+        ],
+        [
+          "Combat radius",
+          "1,100 nautical miles"
+        ],
+        [
+          "Sensors",
+          "SARPSAN Nose AESA Radar · Electro-Optical Targeting (EOTS)"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/k21-kaan.jpg",
+      "classified": false,
+      "aliases": [
+        "k21-kaan",
+        "kaan",
+        "k-21",
+        "k-21-kaan"
+      ]
+    },
+    {
+      "id": "bayrak-t2",
+      "slug": "bayrak-t2",
+      "title": "BAYRAK-T2",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/bayrak-t2",
+      "desc": "Anataria’s 27-hour endurance tactical armed reconnaissance drone system.",
+      "lead": "The BAYRAK-T2 is a medium-altitude long-endurance (MALE) tactical unmanned combat aerial vehicle developed by Baykut Defense Technologies Defense. Characterized by its inverted V-tail, redundant avionics, and autonomous triple-redundant flight control, the T2 carries four laser-guided smart micro-munitions engineered by KORSAN Missile Systems. Throughout the 2036 SKYFORTRESS-4 Crisis, T2 squadrons maintained relentless day-and-night surveillance over the Kalyon Sea and the Istara Strait.",
+      "facts": [
+        [
+          "Vehicle type",
+          "Tactical Armed Drone (UCAV)"
+        ],
+        [
+          "Manufacturer",
+          "Baykut Defense Technologies Defense"
+        ],
+        [
+          "Operators",
+          "Republic of Anataria Army, Navy & Air Force"
+        ],
+        [
+          "Endurance",
+          "27 hours continuous"
+        ],
+        [
+          "Service ceiling",
+          "25,000 ft"
+        ],
+        [
+          "Armament",
+          "4 x KOR-SAN Laser-Guided Smart Munitions"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/bayrak-t2.jpg",
+      "classified": false,
+      "aliases": [
+        "bayrak-t2",
+        "bayraktar",
+        "tb2"
+      ]
+    },
+    {
+      "id": "akin-3",
+      "slug": "akin-3",
+      "title": "AKIN-3",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/akin-3",
+      "desc": "Twin-turboprop heavy strategic strike UCAV capable of launching standoff cruise missiles.",
+      "lead": "The AKIN-3 is a high-altitude long-endurance (HALE) twin-turboprop heavy strike unmanned aerial vehicle developed by Baykut Defense Technologies Defense. Boasting an unprecedented 1,500 kg payload capacity comparable to light attack jets, the AKIN-3 features a nose AESA radar, satellite communications link, and carriage capability for standoff cruise missiles.",
+      "facts": [
+        [
+          "Vehicle type",
+          "Heavy Combat UCAV"
+        ],
+        [
+          "Manufacturer",
+          "Baykut Defense Technologies Defense"
+        ],
+        [
+          "Powerplant",
+          "2 x Turboprop engines"
+        ],
+        [
+          "Payload",
+          "1,500 kg"
+        ],
+        [
+          "Ceiling",
+          "40,000 ft"
+        ],
+        [
+          "Connectivity",
+          "Encrypted SATCOM via SKYFORTRESS Constellation"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/akin-3.jpg",
+      "classified": false,
+      "aliases": [
+        "akin-3",
+        "akinci"
+      ]
+    },
+    {
+      "id": "al-elma",
+      "slug": "al-elma",
+      "title": "AL-ELMA K-01",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/al-elma",
+      "desc": "AI-driven supersonic unmanned stealth combat fighter jet.",
+      "lead": "The AL-ELMA K-01 is a single-engine supersonic unmanned combat stealth fighter (UCAV-Jet) engineered by Baykut Defense Technologies Defense. Designed with low-observable canards, radar-absorbent materials, and an aggressive flight envelope, AL-ELMA is crafted for autonomous air-to-air dogfighting, air defense suppression (SEAD), and cooperative 'loyal wingman' operations alongside the manned K-21 KAAN.",
+      "facts": [
+        [
+          "Vehicle type",
+          "Unmanned Stealth Combat Jet"
+        ],
+        [
+          "Manufacturer",
+          "Baykut Defense Technologies Defense"
+        ],
+        [
+          "Propulsion",
+          "Afterburning turbofan engine"
+        ],
+        [
+          "Speed",
+          "Supersonic (Mach 1.2)"
+        ],
+        [
+          "Tactical role",
+          "Loyal wingman to K-21 KAAN · Autonomous dogfighting"
+        ],
+        [
+          "Basing",
+          "Conventional runways and short-deck amphibious carriers"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/al-elma.jpg",
+      "classified": false,
+      "aliases": [
+        "al-elma",
+        "kizilelma",
+        "al-elma-k-01"
+      ]
+    },
+    {
+      "id": "pelagos-karakolu",
+      "slug": "pelagos-coast-guard-station",
+      "title": "Pelagos Forward Coast Guard Station",
+      "category": "Facilities",
+      "url": "https://t1orstudios.github.io/facilities/pelagos-coast-guard-station",
+      "desc": "Elonia's forward coast guard outpost on the western approach to the Kalyon Islands.",
+      "lead": "A forward monitoring outpost and rapid-interception patrol boat station operated by Elonia on the western approaches to the Kalyon Islands.",
+      "facts": [
+        [
+          "Type",
+          "Forward Maritime Watchpost & Patrol Station"
+        ],
+        [
+          "Operator",
+          "Elonia Maritime Safety Authority"
+        ],
+        [
+          "Vessels",
+          "4 x Rapid Interceptor Patrol Craft"
+        ],
+        [
+          "Surveillance",
+          "Optoelectronic Mast & Marine Radar"
+        ],
+        [
+          "Location",
+          "Western Kalyon Islets"
+        ],
+        [
+          "Status",
+          "Operational"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/pelagos-karakolu.jpg",
+      "classified": false,
+      "aliases": [
+        "pelagos-karakolu",
+        "pelagos-coast-guard-station",
+        "pelagos-forward-coast-guard-station"
+      ]
+    },
+    {
+      "id": "kara-kasim-feneri",
+      "slug": "kalyon-memorial-lighthouse",
+      "title": "Kalyon Mariners' Memorial Lighthouse",
+      "category": "Facilities",
+      "url": "https://t1orstudios.github.io/facilities/kalyon-memorial-lighthouse",
+      "desc": "A memorial lighthouse for sailors lost in the 2026 Kalyon naval clash.",
+      "lead": "A navigational beacon and memorial lighthouse erected in remembrance of the naval casualties of the 2026 Kalyon Sea skirmish.",
+      "facts": [
+        [
+          "Type",
+          "Memorial Navigation Beacon & Monument"
+        ],
+        [
+          "Light Characteristic",
+          "Fl(3) W 15s (White, 15 nm range)"
+        ],
+        [
+          "Height",
+          "34 meters (Granite & Bronze Pedestal)"
+        ],
+        [
+          "Inaugurated",
+          "November 12, 2028"
+        ],
+        [
+          "Location",
+          "Kalyon Sea Shoals"
+        ],
+        [
+          "Status",
+          "Operational (Protected Heritage Status)"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/kara-kasim-feneri.jpg",
+      "classified": false,
+      "aliases": [
+        "kara-kasim-feneri",
+        "kalyon-memorial-lighthouse",
+        "kalyon-mariners-memorial-lighthouse"
+      ]
+    },
+    {
+      "id": "kor-kalkan-bataryasi",
+      "slug": "kor-kalkan-air-defense-battery",
+      "title": "Kalyon Air Defense & Missile Battery (KOR-KALKAN)",
+      "category": "Facilities",
+      "url": "https://t1orstudios.github.io/facilities/kor-kalkan-air-defense-battery",
+      "desc": "A long-range air defense battery guarding SKYFORTRESS-4 and Sarpburun airspace.",
+      "lead": "A long-range surface-to-air missile installation operated by Anataria, safeguarding Sarpburun airspace and SKYFORTRESS-4 from standoff aerial and missile strikes.",
+      "facts": [
+        [
+          "Type",
+          "Long-Range Air & Missile Defense Battery"
+        ],
+        [
+          "Operator",
+          "Anataria 22nd Air Defense Battalion"
+        ],
+        [
+          "Weapon Systems",
+          "Kalkan HSS, KORSAN Missile Systems Hisar-K Interceptor Missiles"
+        ],
+        [
+          "Max Altitude",
+          "30,000 meters (Stratosphere)"
+        ],
+        [
+          "Engagement Range",
+          "150 km aerodynamic"
+        ],
+        [
+          "Location",
+          "Southwest Sarpburun Plateau"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/kor-kalkan-bataryasi.jpg",
+      "classified": false,
+      "aliases": [
+        "kor-kalkan-bataryasi",
+        "kor-kalkan-air-defense-battery",
+        "kalyon-air-defense-missile-battery-kor-kalkan"
+      ]
+    },
+    {
+      "id": "lerya-jet-ussu",
+      "slug": "lerya-5th-tactical-jet-base",
+      "title": "Lerya 5th Tactical Jet Base (Pelican)",
+      "category": "Facilities",
+      "url": "https://t1orstudios.github.io/facilities/lerya-5th-tactical-jet-base",
+      "desc": "Elonia's tactical air base on the Kalyon coast.",
+      "lead": "The Republic of Elonia's primary tactical air base on the Kalyon coast, conducting island air patrols and coastal air defense.",
+      "facts": [
+        [
+          "Type",
+          "Tactical Interceptor & Coastal Air Base"
+        ],
+        [
+          "Operator",
+          "Elonia Air Defense Forces"
+        ],
+        [
+          "Stationed Wings",
+          "32nd Tactical Squadron (M12-Aster), Pelican Recon Detachment"
+        ],
+        [
+          "Runways",
+          "1 (2,800 m Asphalt/Concrete)"
+        ],
+        [
+          "Location",
+          "Northwest of Lerya"
+        ],
+        [
+          "Status",
+          "Operational"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/lerya-jet-ussu.jpg",
+      "classified": false,
+      "aliases": [
+        "lerya-jet-ussu",
+        "lerya-5th-tactical-jet-base",
+        "lerya-5th-tactical-jet-base-pelican"
+      ]
+    },
+    {
+      "id": "sarp-gecidi",
+      "slug": "sarpburun-gate-bridge",
+      "title": "Sarpburun Gate Suspension Bridge",
+      "category": "Facilities",
+      "url": "https://t1orstudios.github.io/facilities/sarpburun-gate-bridge",
+      "desc": "A fortified bridge and land crossing connecting the Sarpburun Peninsula to mainland Anataria.",
+      "lead": "The strategic heavy suspension bridge and fortified causeway linking the Sarpburun Peninsula to mainland Anataria; the lifeline of SKYFORTRESS-4 logistics.",
+      "facts": [
+        [
+          "Type",
+          "Strategic Suspension Bridge & Causeway"
+        ],
+        [
+          "Length",
+          "1,850 m (Main Span: 1,100 m)"
+        ],
+        [
+          "Lanes",
+          "4 Highway Lanes + Dual Heavy Rail"
+        ],
+        [
+          "Security",
+          "Gate Guard Battalion & Pylon Bunkers"
+        ],
+        [
+          "Location",
+          "Sarpburun Isthmus"
+        ],
+        [
+          "Status",
+          "Operational (Military Logistics Priority)"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/sarp-gecidi.jpg",
+      "classified": false,
+      "aliases": [
+        "sarp-gecidi",
+        "sarpburun-gate-bridge",
+        "sarpburun-gate-suspension-bridge"
+      ]
+    },
+    {
+      "id": "istara-garnizonu",
+      "slug": "istara-strait-garrison",
+      "title": "Istara Strait Coastal Defense Garrison",
+      "category": "Facilities",
+      "url": "https://t1orstudios.github.io/facilities/istara-strait-garrison",
+      "desc": "Anatarian coastal defense garrison controlling the Istara Strait.",
+      "lead": "An Anatarian coastal defense garrison equipped with shore-to-ship missiles and surface surveillance radars guarding maritime transit through the Istara Strait.",
+      "facts": [
+        [
+          "Type",
+          "Strait Fortress & Coastal Missile Battery"
+        ],
+        [
+          "Operator",
+          "Anataria Coastal Command"
+        ],
+        [
+          "Armament",
+          "KORSAN Missile Systems Atmaca-K Coastal Defense Missiles, 76 mm Coastal Guns"
+        ],
+        [
+          "Surveillance",
+          "Istara Vessel Traffic Service Radar Tower"
+        ],
+        [
+          "Location",
+          "Istara Strait Maritime Gate"
+        ],
+        [
+          "Status",
+          "Operational"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/istara-garnizonu.jpg",
+      "classified": false,
+      "aliases": [
+        "istara-garnizonu",
+        "istara-strait-garrison",
+        "istara-strait-coastal-defense-garrison"
+      ]
+    },
+    {
+      "id": "lerya-deniz-ussu",
+      "slug": "lerya-naval-headquarters",
+      "title": "Lerya Naval Headquarters & Pelagos Fleet Base",
+      "category": "Facilities",
+      "url": "https://t1orstudios.github.io/facilities/lerya-naval-headquarters",
+      "desc": "The Elonian navy's principal Kalyon Sea operating base.",
+      "lead": "The primary naval operating base, drydock shipyard, and frigate flotilla station for the Republic of Elonia Navy in the Kalyon Sea.",
+      "facts": [
+        [
+          "Type",
+          "Main Naval Base & Naval Shipyard"
+        ],
+        [
+          "Operator",
+          "Republic of Elonia Navy"
+        ],
+        [
+          "Attached Units",
+          "1st Frigate Flotilla, Kalyon Fast Attack Craft Division"
+        ],
+        [
+          "Berthing Capacity",
+          "12 Major Warships, 2 Drydocks"
+        ],
+        [
+          "Location",
+          "Lerya Bay / Kalyon Coastline"
+        ],
+        [
+          "Status",
+          "Operational (Mobilization Readiness)"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/lerya-deniz-ussu.jpg",
+      "classified": false,
+      "aliases": [
+        "lerya-deniz-ussu",
+        "lerya-naval-headquarters",
+        "lerya-naval-headquarters-pelagos-fleet-base"
+      ]
+    },
+    {
+      "id": "arkent-jet-ussu",
+      "slug": "arkent-1st-main-jet-base",
+      "title": "Arkent 1st Main Jet Base Command (Karakartal)",
+      "category": "Facilities",
+      "url": "https://t1orstudios.github.io/facilities/arkent-1st-main-jet-base",
+      "desc": "The main fighter base for Anataria's capital defense and western air operations.",
+      "lead": "The premier fighter air base defending Anataria's capital and western operational theater, home to K-21 KAAN, K16-Alaz, and unmanned combat fighter squadrons.",
+      "facts": [
+        [
+          "Type",
+          "Main Combat Air Base"
+        ],
+        [
+          "Operator",
+          "Anataria Air Force"
+        ],
+        [
+          "Assigned Squadrons",
+          "101st Karakartal Squadron (K-21 KAAN), 132nd Dagger Squadron (K-16 Alaz), 14th Unmanned Fighter Squadron (AL-ELMA K-01)"
+        ],
+        [
+          "Runways",
+          "2 (Reinforced Concrete, 3,400 m)"
+        ],
+        [
+          "Location",
+          "West of Arkent"
+        ],
+        [
+          "Status",
+          "Operational (Combat Readiness Condition 1)"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/arkent-jet-ussu.jpg",
+      "classified": false,
+      "aliases": [
+        "arkent-jet-ussu",
+        "arkent-1st-main-jet-base",
+        "arkent-1st-main-jet-base-command-karakartal"
+      ]
+    },
+    {
+      "id": "sarpburun-radar",
+      "slug": "sarpburun-radar",
+      "title": "Sarpburun Early Warning Radar Complex (SARP-RAD)",
+      "category": "Facilities",
+      "url": "https://t1orstudios.github.io/facilities/sarpburun-radar",
+      "desc": "An early warning radar and electronic warfare complex on Sarpburun's northern ridge.",
+      "lead": "An active electronically scanned array (AESA) early warning and electronic warfare complex deployed on the northern crest of the Sarpburun Peninsula, monitoring a 600 km radius across the Kalyon Sea and Avren airspace.",
+      "facts": [
+        [
+          "Type",
+          "Early Warning & Air Surveillance Radar"
+        ],
+        [
+          "Operator",
+          "Anataria Air Defense Command"
+        ],
+        [
+          "Manufacturer",
+          "SARPSAN Electronics"
+        ],
+        [
+          "Detection Range",
+          "600 km aerodynamic, 1,000 km ballistic"
+        ],
+        [
+          "Location",
+          "Sarpburun Peninsula Northern Ridge"
+        ],
+        [
+          "Protection",
+          "Kalyon Air Defense & Missile Battery (KOR-KALKAN)"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/sarpburun-radar.jpg",
+      "classified": false,
+      "aliases": [
+        "sarpburun-radar",
+        "sarp-rad",
+        "sarpburun-early-warning-radar-complex-sarp-rad"
+      ]
+    },
+    {
+      "id": "altai-mbt",
+      "slug": "altai-mbt",
+      "title": "ALTAI MBT",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/altai-mbt",
+      "desc": "Heavy main battle tank of the 27th Iron Fist Heavy Armored Division.",
+      "lead": "The ALTAI MBT (lore name Altay) is the heavy main battle tank of 27th Iron Fist Heavy Armored Division, modeled on the Altay T1. It is a four-man tank with a 120 mm smoothbore gun, an active protection system and a dedicated driver station, and only Iron Fist crews may drive it.",
+      "facts": [
+        [
+          "Country",
+          "Republic of Anataria"
+        ],
+        [
+          "Class",
+          "Main battle tank"
+        ],
+        [
+          "Operator",
+          "27th Iron Fist Heavy Armored Division"
+        ],
+        [
+          "Crew",
+          "4 (driver, gunner, commander, loader)"
+        ],
+        [
+          "Main gun",
+          "120 mm L/55 smoothbore (APFSDS and HE)"
+        ],
+        [
+          "Secondary armament",
+          "7.62 mm coaxial machine gun · 12.7 mm SARP remote weapon station"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/altai-mbt-v2.jpg",
+      "classified": false,
+      "aliases": [
+        "altai-mbt",
+        "altay",
+        "altai"
+      ]
+    },
+    {
+      "id": "dolphin-rhib",
+      "slug": "dolphin-rhib",
+      "title": "Dolphin RHIB",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/dolphin-rhib",
+      "desc": "Rigid-hull inflatable boat of the 3rd Coast Guard Command.",
+      "lead": "The Dolphin RHIB is the smallest vessel of the 3rd Coast Guard Command, a rigid-hull inflatable boat about 30 studs long used for patrols, boarding and rescue in the Rockcove bay and the sea beyond. Four boats, CG-3R1 to CG-3R4, are based at the station.",
+      "facts": [
+        [
+          "Country",
+          "Republic of Anataria"
+        ],
+        [
+          "Class",
+          "Rigid-hull inflatable boat"
+        ],
+        [
+          "Operator",
+          "3rd Coast Guard Command"
+        ],
+        [
+          "Hull numbers",
+          "CG-3R1 to CG-3R4"
+        ],
+        [
+          "Size",
+          "About 30 × 10 studs"
+        ],
+        [
+          "Hull strength",
+          "450 HP"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/dolphin-rhib.jpg",
+      "classified": false,
+      "aliases": [
+        "dolphin-rhib"
+      ]
+    },
+    {
+      "id": "seagull-fpb",
+      "slug": "seagull-fpb",
+      "title": "Seagull FPB",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/seagull-fpb",
+      "desc": "Fast patrol boat of the 3rd Coast Guard Command.",
+      "lead": "The Seagull-class fast patrol boat is the mid-size vessel of the 3rd Coast Guard Command, about 75 studs long with a deep-V hull, an enclosed bridge and a 12.7 mm remote-controlled weapon at the bow. Three boats, CG-331 to CG-333, are based at Rockcove.",
+      "facts": [
+        [
+          "Country",
+          "Republic of Anataria"
+        ],
+        [
+          "Class",
+          "Fast patrol boat"
+        ],
+        [
+          "Operator",
+          "3rd Coast Guard Command"
+        ],
+        [
+          "Hull numbers",
+          "CG-331 · CG-332 · CG-333"
+        ],
+        [
+          "Size",
+          "About 75 × 18 studs"
+        ],
+        [
+          "Armament",
+          "12.7 mm remote weapon station"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/seagull-fpb.jpg",
+      "classified": false,
+      "aliases": [
+        "seagull-fpb"
+      ]
+    },
+    {
+      "id": "northwind-opv",
+      "slug": "northwind-opv",
+      "title": "Northwind OPV",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/northwind-opv",
+      "desc": "Offshore patrol vessel, the largest ship of the 3rd Coast Guard Command.",
+      "lead": "The Northwind-class offshore patrol vessel is the flagship type of the 3rd Coast Guard Command. Two ships serve at Rockcove: CG-301 NORTHWIND and CG-302 STORMRIDER. At about 165 studs they are the largest vessels of Anataria’s coast guard.",
+      "facts": [
+        [
+          "Country",
+          "Republic of Anataria"
+        ],
+        [
+          "Class",
+          "Offshore patrol vessel"
+        ],
+        [
+          "Operator",
+          "3rd Coast Guard Command"
+        ],
+        [
+          "Ships",
+          "CG-301 NORTHWIND · CG-302 STORMRIDER"
+        ],
+        [
+          "Size",
+          "About 165 × 27 studs"
+        ],
+        [
+          "Armament",
+          "40 mm bow gun · 2 × 12.7 mm mounts"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/northwind-opv.jpg",
+      "classified": false,
+      "aliases": [
+        "northwind-opv"
+      ]
+    },
+    {
+      "id": "sarp-south-shelter",
+      "slug": "sarp-south-shelter",
+      "title": "Sarp South Shelter",
+      "category": "Facilities",
+      "url": "https://t1orstudios.github.io/facilities/sarp-south-shelter",
+      "desc": "Deep military bunker cut into the Sarp mountain range, used as an evacuation shelter.",
+      "lead": "The Sarp South Shelter is a deep military shelter excavated into the Sarp mountain range at the eastern edge of the region. A long tunnel with a bend, a blast lock and a vehicle hall lead to a main corridor with eleven rooms. During a catastrophe alarm it is the place where the facility’s personnel are evacuated to survive the blast.",
+      "facts": [
+        [
+          "Country",
+          "Republic of Anataria"
+        ],
+        [
+          "Facility type",
+          "Deep military shelter"
+        ],
+        [
+          "Location",
+          "Sarp mountain range, eastern edge of the region"
+        ],
+        [
+          "Entrance",
+          "Portal with a 24 × 20 stud blast door"
+        ],
+        [
+          "Main hall",
+          "Vehicle hall with 8 bays"
+        ],
+        [
+          "Rooms",
+          "11 along the main corridor"
+        ]
+      ],
+      "imageUrl": "",
+      "classified": false,
+      "aliases": [
+        "sarp-south-shelter"
+      ]
+    },
+    {
+      "id": "rockcove-station",
+      "slug": "rockcove-station",
+      "title": "Rockcove Coast Guard Station",
+      "category": "Facilities",
+      "url": "https://t1orstudios.github.io/facilities/rockcove-station",
+      "desc": "Naval base on the southwestern bay of Sarpburun, home of the 3rd Coast Guard Command.",
+      "lead": "Rockcove Coast Guard Station is the base of the 3rd Coast Guard Command on the east shore of a bay southwest of SKYFORTRESS-4. It consists of two levels, an upper terrace with the headquarters and a lower quay with berths for nine ships.",
+      "facts": [
+        [
+          "Country",
+          "Republic of Anataria"
+        ],
+        [
+          "Facility type",
+          "Coast guard station and harbor"
+        ],
+        [
+          "Operator",
+          "3rd Coast Guard Command"
+        ],
+        [
+          "Location",
+          "Bay southwest of SKYFORTRESS-4"
+        ],
+        [
+          "Berths",
+          "9: 2 OPV, 3 FPB, 4 RHIB"
+        ],
+        [
+          "Upper terrace",
+          "About +45 elevation"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/rockcove-station.jpg",
+      "classified": false,
+      "aliases": [
+        "rockcove-station",
+        "rockcove-coast-guard-station"
+      ]
+    },
+    {
+      "id": "sarpburun-air-base",
+      "slug": "sarpburun-air-base",
+      "title": "Sarpburun Air Base",
+      "category": "Facilities",
+      "url": "https://t1orstudios.github.io/facilities/sarpburun-air-base",
+      "desc": "Home base of the 132nd Dagger Tactical Squadron with four hardened shelters and a hidden mountain hangar.",
+      "lead": "Sarpburun Air Base is the airfield of the 132nd Dagger Tactical Squadron squadron, rebuilt on 10 November on its original site. It has a 2,400-stud runway, a parallel taxiway, four hardened aircraft shelters, a headquarters building and, at the east end of the runway, a hidden hangar cut into the mountain that is reserved for the squadron’s most elite aircraft.",
+      "facts": [
+        [
+          "Country",
+          "Republic of Anataria"
+        ],
+        [
+          "Facility type",
+          "Military air base"
+        ],
+        [
+          "Operator",
+          "132nd Dagger Tactical Squadron"
+        ],
+        [
+          "Runway",
+          "2,400 × 150 studs, runways 08 / 26"
+        ],
+        [
+          "Shelters",
+          "4 hardened aircraft shelters (HAS 1–4)"
+        ],
+        [
+          "Aircraft",
+          "K-16 Alaz (HAS 1–3) · K-21 KAAN (HAS 4)"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/sarpburun-air-base.jpg",
+      "classified": false,
+      "aliases": [
+        "sarpburun-air-base"
+      ]
+    },
+    {
+      "id": "karadere-village",
+      "slug": "karadere-village",
+      "title": "Karadere Village",
+      "category": "Facilities",
+      "url": "https://t1orstudios.github.io/facilities/karadere-village",
+      "desc": "Two-neighborhood hillside village around a clock tower square and a monument roundabout.",
+      "lead": "Karadere is a village on the hinterland roads of Sarpburun Peninsula, laid out as two orderly neighborhoods linked by asphalt streets with sidewalks. Its center is a square with a clock tower, and the crossing of the Karadere and Liman roads is a roundabout with a limestone monument that is also the center of the village’s capture zone.",
+      "facts": [
+        [
+          "Country",
+          "Republic of Anataria"
+        ],
+        [
+          "Settlement type",
+          "Village"
+        ],
+        [
+          "Neighborhoods",
+          "East and West"
+        ],
+        [
+          "Houses",
+          "At least 44, of which at least 10 can be entered"
+        ],
+        [
+          "Square",
+          "72 × 70 studs with a clock tower"
+        ],
+        [
+          "Roundabout",
+          "Island radius 9 studs, monument and “KARADERE” plaque"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/karadere-village.jpg",
+      "classified": false,
+      "aliases": [
+        "karadere-village"
+      ]
+    },
+    {
+      "id": "coast-guard-command",
+      "slug": "coast-guard-command",
+      "title": "3rd Coast Guard Command",
+      "category": "Units",
+      "url": "https://t1orstudios.github.io/units/coast-guard-command",
+      "desc": "Anatarya’s coastal patrol and rescue command based at Rockcove.",
+      "lead": "The 3rd Coast Guard Command is a unit of the Anatarya Coast Guard Command, the body that also operates Istara. It was established in 2029 with the construction of SKYFORTRESS-4 and patrols the restricted sea area on the sea side of the facility, intercepts Republic of Elonia reconnaissance and landing craft and carries out search and rescue. In the crisis it is the first line of defense on the coast.",
+      "facts": [
+        [
+          "Country",
+          "Republic of Anataria"
+        ],
+        [
+          "Unit type",
+          "Coast guard command"
+        ],
+        [
+          "Established",
+          "2029"
+        ],
+        [
+          "Base",
+          "Rockcove Coast Guard Station"
+        ],
+        [
+          "Colors",
+          "Navy blue and white with a pale orange stripe (team color “Storm blue”)"
+        ],
+        [
+          "Insignia",
+          "Anchor, shield and the number 3"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/coast-guard-command.png",
+      "classified": false,
+      "aliases": [
+        "coast-guard-command",
+        "3rd-coast-guard-command"
+      ]
+    },
+    {
+      "id": "shift-system",
+      "slug": "shift-system",
+      "title": "Shift system",
+      "category": "Game systems",
+      "url": "https://t1orstudios.github.io/game-systems/shift-system",
+      "desc": "The continuous 15-minute shift cycle of launch preparation, sabotage and catastrophe.",
+      "lead": "The server of the Skyfortress Military Facility game never ends a match. It runs one shift after another, each about 900 seconds long, until the SIMSEK-III launch window at the end of the shift decides who gains experience. The defenders (Republic of Anataria: soldiers and facility staff) try to prepare and launch KARTAL-7; the attackers (Republic of Elonia) try to stop the launch, and if they cause a catastrophe the whole facility rushes to the shelters.",
+      "facts": [
+        [
+          "Shift length",
+          "About 900 seconds of active play"
+        ],
+        [
+          "Phases",
+          "Briefing · Active · Result · Alarm · Lockdown"
+        ],
+        [
+          "Launch window",
+          "T-0 at the end of the Active phase"
+        ],
+        [
+          "Defenders",
+          "Armed forces and facility staff of Republic of Anataria"
+        ],
+        [
+          "Attackers",
+          "Hostiles of Republic of Elonia"
+        ],
+        [
+          "Shelters",
+          "Sarp South Shelter · Main Control shelter floor"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/shift-system.jpg",
+      "classified": false,
+      "aliases": [
+        "shift-system"
+      ]
+    },
+    {
+      "id": "vehicle-bays",
+      "slug": "vehicle-bays",
+      "title": "Vehicle bays",
+      "category": "Game systems",
+      "url": "https://t1orstudios.github.io/game-systems/vehicle-bays",
+      "desc": "How vehicles, aircraft and ships are called, parked and recalled.",
+      "lead": "Vehicles of the Skyfortress Military Facility game are not found lying around the map; they are called from numbered vehicle bays in the garages beside each unit’s headquarters, shelters and berths of each unit. A bay panel opens a menu that lists the vehicles the player’s unit may call, with their rank requirements and cooldowns.",
+      "facts": [
+        [
+          "Call points",
+          "Garages, hangar shelters and ship berths"
+        ],
+        [
+          "Menu",
+          "Vehicle Bay prompt, vehicle list, 3D preview, DEPLOY"
+        ],
+        [
+          "Limit",
+          "One vehicle per player at a time"
+        ],
+        [
+          "Despawn",
+          "30 seconds without a driver, unless parked"
+        ],
+        [
+          "Park key",
+          "P (gamepad: up arrow)"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/vehicle-bays.jpg",
+      "classified": false,
+      "aliases": [
+        "vehicle-bays"
+      ]
+    },
+    {
+      "id": "day-night-cycle",
+      "slug": "day-night-cycle",
+      "title": "Day–night cycle",
+      "category": "Game systems",
+      "url": "https://t1orstudios.github.io/game-systems/day-night-cycle",
+      "desc": "The 48-minute cycle of dawn, day, dusk and night with a real sun and moon.",
+      "lead": "The Skyfortress Military Facility game has a shared day–night cycle: every player sees the same time of day, and the sun and moon move smoothly across the sky of Sarpburun Peninsula. The facility’s outdoor lamps come on at dusk and go off at dawn, except during a power outage.",
+      "facts": [
+        [
+          "Cycle length",
+          "48 minutes (2,880 seconds)"
+        ],
+        [
+          "Day share",
+          "Two thirds: about 32 minutes of day and 16 of night"
+        ],
+        [
+          "Sunrise / sunset",
+          "06:00 / 20:00 game time"
+        ],
+        [
+          "Start time",
+          "07:00"
+        ],
+        [
+          "Latitude",
+          "38°"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/day-night-cycle.jpg",
+      "classified": false,
+      "aliases": [
+        "day-night-cycle"
+      ]
+    },
+    {
+      "id": "divisions-and-ranks",
+      "slug": "divisions-and-ranks",
+      "title": "Divisions and ranks",
+      "category": "Game systems",
+      "url": "https://t1orstudios.github.io/game-systems/divisions-and-ranks",
+      "desc": "The units players can join, their sub-units and the rank requirements for vehicles.",
+      "lead": "Players of the Skyfortress Military Facility game choose a division on the team selection screen, which has three columns: ARMED FORCES, FACILITY STAFF and HOSTILES. Each division is a separate team with its own spawn point, uniform and vehicles. Capacity is enforced only by the server and never shown on screen.",
+      "facts": [
+        [
+          "Armed forces",
+          "4th Sarp Guard Company · 27th Iron Fist Heavy Armored Division · 132nd Dagger Tactical Squadron · 6th Northern Signal Battalion · 3rd Coast Guard Command · 18th Doruk Supply Regiment · AIA [CLASSIFIED] · 22nd SRS [CLASSIFIED]"
+        ],
+        [
+          "Facility staff",
+          "Launch Scientists · Maintenance Crew · Logistics Crew"
+        ],
+        [
+          "Hostiles",
+          "8th Nereus Naval Commandos · 9th Iris Airborne Brigade · 38th Gorgon Strike Detachment · 28th Zephyr Mobile Air Defense Battalion"
+        ],
+        [
+          "Switching",
+          "Divisions can be changed every 10 seconds"
+        ],
+        [
+          "Capacity",
+          "Attackers 30 · defenders 60"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/divisions-and-ranks.jpg",
+      "classified": false,
+      "aliases": [
+        "divisions-and-ranks"
+      ]
+    },
+    {
+      "id": "update-log",
+      "slug": "update-log",
+      "title": "Skyfortress update log",
+      "category": "Game systems",
+      "url": "https://t1orstudios.github.io/game-systems/update-log",
+      "desc": "Development timeline of the Skyfortress Military Facility game, 4–14 November 2026.",
+      "lead": "This log lists the main updates to the Skyfortress Military Facility game in order, from the import of this archive on 4 November to the garrison rebuild of 14 November 2026. It was compiled from the project’s design documents and progress ledgers.",
+      "facts": [
+        [
+          "Period",
+          "4–21 November 2026"
+        ],
+        [
+          "Game",
+          "Skyfortress Military Facility (Roblox)"
+        ],
+        [
+          "Main place",
+          "Sarpburun map"
+        ],
+        [
+          "Vehicle workshop",
+          "Separate test place for new vehicles"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/update-log.jpg",
+      "classified": false,
+      "aliases": [
+        "update-log",
+        "changelog",
+        "skyfortress-update-log"
+      ]
+    },
+    {
+      "id": "usos-meridian",
+      "slug": "usos-meridian",
+      "title": "USOS Meridian (CVN-96)",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/usos-meridian",
+      "desc": "Ostanian nuclear supercarrier deployed off Sarpburun with Elonia’s air wing embarked.",
+      "lead": "USOS Meridian (CVN-96) is a Meridian-class nuclear-powered supercarrier of the United States of Ostania 7th Ocean Fleet. During the SKYFORTRESS-4 Crisis it was sent into the Kalyon Sea and placed at the service of Republic of Elonia: the ship, its catapults and its deck crew remain Ostanian, while the fighters that launch from its deck belong to Elonia’s 38th Gorgon Strike Detachment. It gives the AIGAION Battle Group the airfield at sea that Elonia, which has no carrier of its own, could not otherwise field.",
+      "facts": [
+        [
+          "Owner",
+          "United States of Ostania"
+        ],
+        [
+          "Operator",
+          "Ostanian Navy · 7th Ocean Fleet"
+        ],
+        [
+          "Class",
+          "Meridian-class nuclear supercarrier"
+        ],
+        [
+          "Hull number",
+          "CVN-96"
+        ],
+        [
+          "Deployment",
+          "Kalyon Sea, with the AIGAION Battle Group"
+        ],
+        [
+          "Embarked air wing",
+          "38th Gorgon Strike Detachment (M-12 Aster M-12N) · Ostanian support aircraft"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/usos-meridian.jpg",
+      "classified": false,
+      "aliases": [
+        "usos-meridian",
+        "usos-meridian-cvn-96"
+      ]
+    },
+    {
+      "id": "ew4-halcyon",
+      "slug": "ew4-halcyon",
+      "title": "EW-4 Halcyon",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/ew4-halcyon",
+      "desc": "Ostanian carrier-based airborne early warning aircraft.",
+      "lead": "The EW-4 Halcyon is a twin-turboprop airborne early warning aircraft of the United States of Ostania navy, designed to operate from aircraft carriers. A rotating radar dome above the fuselage lets it watch the sea and the sky far beyond the horizon of a ship’s own sensors. Two Halcyons fly from USOS Meridian (CVN-96) during the SKYFORTRESS-4 Crisis.",
+      "facts": [
+        [
+          "Country",
+          "United States of Ostania"
+        ],
+        [
+          "Class",
+          "Carrier airborne early warning aircraft"
+        ],
+        [
+          "Crew",
+          "2 pilots + 3 mission operators"
+        ],
+        [
+          "Engines",
+          "Twin turboprop"
+        ],
+        [
+          "Radar",
+          "Rotating radome, about 7 m across"
+        ],
+        [
+          "Deployed on",
+          "USOS Meridian (CVN-96)"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/ew4-halcyon.jpg",
+      "classified": false,
+      "aliases": [
+        "ew4-halcyon",
+        "ew-4-halcyon"
+      ]
+    },
+    {
+      "id": "sh70-petrel",
+      "slug": "sh70-petrel",
+      "title": "SH-70 Petrel",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/sh70-petrel",
+      "desc": "Ostanian shipborne multi-mission helicopter.",
+      "lead": "The SH-70 Petrel is a twin-engine multi-mission helicopter of the United States of Ostania navy. Aboard USOS Meridian (CVN-96) it flies plane guard during launches and recoveries, carries out search and rescue and covers the carrier group against submarines.",
+      "facts": [
+        [
+          "Country",
+          "United States of Ostania"
+        ],
+        [
+          "Class",
+          "Shipborne multi-mission helicopter"
+        ],
+        [
+          "Crew",
+          "2 pilots + 2 crew"
+        ],
+        [
+          "Rotor",
+          "Four blades, folding"
+        ],
+        [
+          "Deployed on",
+          "USOS Meridian (CVN-96)"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/sh70-petrel.jpg",
+      "classified": false,
+      "aliases": [
+        "sh70-petrel",
+        "sh-70-petrel"
+      ]
+    },
+    {
+      "id": "m12n-aster",
+      "slug": "m12n-aster",
+      "title": "M-12N Aster",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/m12n-aster",
+      "desc": "Carrier-capable version of the M-12 Aster, flown by Elonia from USOS Meridian.",
+      "lead": "The M-12N Aster is the navalized version of Elonia’s M-12 Aster multirole fighter. It was converted so that 38th Gorgon Strike Detachment could fly from the Ostanian supercarrier USOS Meridian (CVN-96) during the SKYFORTRESS-4 Crisis. The picture shows aircraft 38-201 of the detachment on the flight deck.",
+      "facts": [
+        [
+          "Country",
+          "Republic of Elonia"
+        ],
+        [
+          "Base type",
+          "M-12 Aster"
+        ],
+        [
+          "Role",
+          "Carrier-based multirole fighter"
+        ],
+        [
+          "Operator",
+          "38th Gorgon Strike Detachment"
+        ],
+        [
+          "Deployed on",
+          "USOS Meridian (CVN-96)"
+        ],
+        [
+          "Prototype",
+          "N01"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/m12n-aster.jpg",
+      "classified": false,
+      "aliases": [
+        "m12n-aster",
+        "m-12n-aster"
+      ]
+    },
+    {
+      "id": "aia",
+      "slug": "aia",
+      "title": "AIA",
+      "category": "Units",
+      "url": "https://t1orstudios.github.io/units/aia",
+      "desc": "[REDACTED] — Restricted state security dossier. Clearance Level 5 required.",
+      "lead": "Security Directive ████-09: Full statutory title, directorate desks, foreign stations, and officer rosters for AIA have been scrubbed from public archive mirrors. Unauthorized terminal queries are automatically logged by Arkent Internal Security.",
+      "facts": [
+        [
+          "File designation",
+          "GOK-TS-AIA / ████"
+        ],
+        [
+          "Full designation",
+          "[REDACTED]"
+        ],
+        [
+          "Country",
+          "Republic of Anataria"
+        ],
+        [
+          "Classification",
+          "[LEVEL 5 REQUIRED]"
+        ],
+        [
+          "Mandate",
+          "Clandestine Collection & Counter-Measures — [REDACTED]"
+        ],
+        [
+          "Oversight",
+          "Executive Security Council · ████████"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/classified-aia.svg",
+      "classified": true,
+      "aliases": [
+        "aia"
+      ]
+    },
+    {
+      "id": "22nd-srs",
+      "slug": "22nd-srs",
+      "title": "22nd SRS",
+      "category": "Units",
+      "url": "https://t1orstudios.github.io/units/22nd-srs",
+      "desc": "[REDACTED] — Restricted special military unit dossier. Clearance Level 5 required.",
+      "lead": "Special Operations Protocol ██-22: Full unit expansion, selection rosters, insertion methods, and equipment inventories for the 22nd SRS are strictly restricted from public archive terminals. Unredacted tasking logs remain offline outside the regional network.",
+      "facts": [
+        [
+          "File designation",
+          "GOK-TS-22SRS / ████"
+        ],
+        [
+          "Full designation",
+          "[REDACTED]"
+        ],
+        [
+          "Country",
+          "Republic of Anataria"
+        ],
+        [
+          "Classification",
+          "[LEVEL 5 REQUIRED]"
+        ],
+        [
+          "Unit type",
+          "Tier-1 Special Operations Detachment — [REDACTED]"
+        ],
+        [
+          "Operating theater",
+          "Contested Littoral · ████████ / Sarpburun Peninsula"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/classified-22nd-srs.svg",
+      "classified": true,
+      "aliases": [
+        "22nd-srs"
+      ]
+    },
+    {
+      "id": "unknown-vehicle-01",
+      "slug": "unknown-vehicle-01",
+      "title": "???",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/unknown-vehicle-01",
+      "desc": "Vehicle in the workshop. Designation withheld.",
+      "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+      "facts": [
+        [
+          "Designation",
+          "???"
+        ],
+        [
+          "Class",
+          "Main battle tank"
+        ],
+        [
+          "Status",
+          "In the vehicle workshop"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/unknown-01.jpg",
+      "classified": false,
+      "aliases": [
+        "unknown-vehicle-01"
+      ]
+    },
+    {
+      "id": "unknown-vehicle-02",
+      "slug": "unknown-vehicle-02",
+      "title": "???",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/unknown-vehicle-02",
+      "desc": "Vehicle in the workshop. Designation withheld.",
+      "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+      "facts": [
+        [
+          "Designation",
+          "???"
+        ],
+        [
+          "Class",
+          "Main battle tank"
+        ],
+        [
+          "Status",
+          "In the vehicle workshop"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/unknown-02.jpg",
+      "classified": false,
+      "aliases": [
+        "unknown-vehicle-02"
+      ]
+    },
+    {
+      "id": "unknown-vehicle-03",
+      "slug": "unknown-vehicle-03",
+      "title": "???",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/unknown-vehicle-03",
+      "desc": "Vehicle in the workshop. Designation withheld.",
+      "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+      "facts": [
+        [
+          "Designation",
+          "???"
+        ],
+        [
+          "Class",
+          "Tracked infantry fighting vehicle"
+        ],
+        [
+          "Status",
+          "In the vehicle workshop"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/unknown-03.jpg",
+      "classified": false,
+      "aliases": [
+        "unknown-vehicle-03"
+      ]
+    },
+    {
+      "id": "unknown-vehicle-04",
+      "slug": "unknown-vehicle-04",
+      "title": "???",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/unknown-vehicle-04",
+      "desc": "Vehicle in the workshop. Designation withheld.",
+      "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+      "facts": [
+        [
+          "Designation",
+          "???"
+        ],
+        [
+          "Class",
+          "Tracked armored personnel carrier"
+        ],
+        [
+          "Status",
+          "In the vehicle workshop"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/unknown-04.jpg",
+      "classified": false,
+      "aliases": [
+        "unknown-vehicle-04"
+      ]
+    },
+    {
+      "id": "unknown-vehicle-05",
+      "slug": "unknown-vehicle-05",
+      "title": "???",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/unknown-vehicle-05",
+      "desc": "Vehicle in the workshop. Designation withheld.",
+      "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+      "facts": [
+        [
+          "Designation",
+          "???"
+        ],
+        [
+          "Class",
+          "Amphibious tracked assault vehicle"
+        ],
+        [
+          "Status",
+          "In the vehicle workshop"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/unknown-05.jpg",
+      "classified": false,
+      "aliases": [
+        "unknown-vehicle-05"
+      ]
+    },
+    {
+      "id": "unknown-vehicle-06",
+      "slug": "unknown-vehicle-06",
+      "title": "???",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/unknown-vehicle-06",
+      "desc": "Vehicle in the workshop. Designation withheld.",
+      "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+      "facts": [
+        [
+          "Designation",
+          "???"
+        ],
+        [
+          "Class",
+          "Tracked infantry fighting vehicle"
+        ],
+        [
+          "Status",
+          "In the vehicle workshop"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/unknown-06.jpg",
+      "classified": false,
+      "aliases": [
+        "unknown-vehicle-06"
+      ]
+    },
+    {
+      "id": "unknown-vehicle-07",
+      "slug": "unknown-vehicle-07",
+      "title": "???",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/unknown-vehicle-07",
+      "desc": "Vehicle in the workshop. Designation withheld.",
+      "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+      "facts": [
+        [
+          "Designation",
+          "???"
+        ],
+        [
+          "Class",
+          "8x8 wheeled armored vehicle"
+        ],
+        [
+          "Status",
+          "In the vehicle workshop"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/unknown-07.jpg",
+      "classified": false,
+      "aliases": [
+        "unknown-vehicle-07"
+      ]
+    },
+    {
+      "id": "unknown-vehicle-08",
+      "slug": "unknown-vehicle-08",
+      "title": "???",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/unknown-vehicle-08",
+      "desc": "Vehicle in the workshop. Designation withheld.",
+      "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+      "facts": [
+        [
+          "Designation",
+          "???"
+        ],
+        [
+          "Class",
+          "Self-propelled howitzer"
+        ],
+        [
+          "Status",
+          "In the vehicle workshop"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/unknown-08.jpg",
+      "classified": false,
+      "aliases": [
+        "unknown-vehicle-08"
+      ]
+    },
+    {
+      "id": "unknown-vehicle-09",
+      "slug": "unknown-vehicle-09",
+      "title": "???",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/unknown-vehicle-09",
+      "desc": "Vehicle in the workshop. Designation withheld.",
+      "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+      "facts": [
+        [
+          "Designation",
+          "???"
+        ],
+        [
+          "Class",
+          "Short-range air-defense system"
+        ],
+        [
+          "Status",
+          "In the vehicle workshop"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/unknown-09.jpg",
+      "classified": false,
+      "aliases": [
+        "unknown-vehicle-09"
+      ]
+    },
+    {
+      "id": "unknown-vehicle-10",
+      "slug": "unknown-vehicle-10",
+      "title": "???",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/unknown-vehicle-10",
+      "desc": "Vehicle in the workshop. Designation withheld.",
+      "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+      "facts": [
+        [
+          "Designation",
+          "???"
+        ],
+        [
+          "Class",
+          "Short-range air-defense system"
+        ],
+        [
+          "Status",
+          "In the vehicle workshop"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/unknown-10.jpg",
+      "classified": false,
+      "aliases": [
+        "unknown-vehicle-10"
+      ]
+    },
+    {
+      "id": "unknown-vehicle-11",
+      "slug": "unknown-vehicle-11",
+      "title": "???",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/unknown-vehicle-11",
+      "desc": "Vehicle in the workshop. Designation withheld.",
+      "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+      "facts": [
+        [
+          "Designation",
+          "???"
+        ],
+        [
+          "Class",
+          "Long-range air-defense system"
+        ],
+        [
+          "Status",
+          "In the vehicle workshop"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/unknown-11.jpg",
+      "classified": false,
+      "aliases": [
+        "unknown-vehicle-11"
+      ]
+    },
+    {
+      "id": "unknown-vehicle-12",
+      "slug": "unknown-vehicle-12",
+      "title": "???",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/unknown-vehicle-12",
+      "desc": "Vehicle in the workshop. Designation withheld.",
+      "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+      "facts": [
+        [
+          "Designation",
+          "???"
+        ],
+        [
+          "Class",
+          "6x6 armored vehicle"
+        ],
+        [
+          "Status",
+          "In the vehicle workshop"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/unknown-12.jpg",
+      "classified": false,
+      "aliases": [
+        "unknown-vehicle-12"
+      ]
+    },
+    {
+      "id": "unknown-vehicle-13",
+      "slug": "unknown-vehicle-13",
+      "title": "???",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/unknown-vehicle-13",
+      "desc": "Vehicle in the workshop. Designation withheld.",
+      "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+      "facts": [
+        [
+          "Designation",
+          "???"
+        ],
+        [
+          "Class",
+          "4x4 armored tactical vehicle"
+        ],
+        [
+          "Status",
+          "In the vehicle workshop"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/unknown-13.jpg",
+      "classified": false,
+      "aliases": [
+        "unknown-vehicle-13"
+      ]
+    },
+    {
+      "id": "unknown-vehicle-14",
+      "slug": "unknown-vehicle-14",
+      "title": "???",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/unknown-vehicle-14",
+      "desc": "Vehicle in the workshop. Designation withheld.",
+      "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+      "facts": [
+        [
+          "Designation",
+          "???"
+        ],
+        [
+          "Class",
+          "4x4 armored tactical vehicle"
+        ],
+        [
+          "Status",
+          "In the vehicle workshop"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/unknown-14.jpg",
+      "classified": false,
+      "aliases": [
+        "unknown-vehicle-14"
+      ]
+    },
+    {
+      "id": "unknown-vehicle-15",
+      "slug": "unknown-vehicle-15",
+      "title": "???",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/unknown-vehicle-15",
+      "desc": "Vehicle in the workshop. Designation withheld.",
+      "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+      "facts": [
+        [
+          "Designation",
+          "???"
+        ],
+        [
+          "Class",
+          "4x4 armored vehicle"
+        ],
+        [
+          "Status",
+          "In the vehicle workshop"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/unknown-15.jpg",
+      "classified": false,
+      "aliases": [
+        "unknown-vehicle-15"
+      ]
+    },
+    {
+      "id": "unknown-vehicle-16",
+      "slug": "unknown-vehicle-16",
+      "title": "???",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/unknown-vehicle-16",
+      "desc": "Vehicle in the workshop. Designation withheld.",
+      "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+      "facts": [
+        [
+          "Designation",
+          "???"
+        ],
+        [
+          "Class",
+          "4x4 armored vehicle"
+        ],
+        [
+          "Status",
+          "In the vehicle workshop"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/unknown-16.jpg",
+      "classified": false,
+      "aliases": [
+        "unknown-vehicle-16"
+      ]
+    },
+    {
+      "id": "unknown-vehicle-17",
+      "slug": "unknown-vehicle-17",
+      "title": "???",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/unknown-vehicle-17",
+      "desc": "Vehicle in the workshop. Designation withheld.",
+      "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+      "facts": [
+        [
+          "Designation",
+          "???"
+        ],
+        [
+          "Class",
+          "4x4 armored vehicle"
+        ],
+        [
+          "Status",
+          "In the vehicle workshop"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/unknown-17.jpg",
+      "classified": false,
+      "aliases": [
+        "unknown-vehicle-17"
+      ]
+    },
+    {
+      "id": "unknown-vehicle-18",
+      "slug": "unknown-vehicle-18",
+      "title": "???",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/unknown-vehicle-18",
+      "desc": "Vehicle in the workshop. Designation withheld.",
+      "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+      "facts": [
+        [
+          "Designation",
+          "???"
+        ],
+        [
+          "Class",
+          "4x4 tactical vehicle"
+        ],
+        [
+          "Status",
+          "In the vehicle workshop"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/unknown-18.jpg",
+      "classified": false,
+      "aliases": [
+        "unknown-vehicle-18"
+      ]
+    },
+    {
+      "id": "unknown-vehicle-19",
+      "slug": "unknown-vehicle-19",
+      "title": "???",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/unknown-vehicle-19",
+      "desc": "Vehicle in the workshop. Designation withheld.",
+      "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+      "facts": [
+        [
+          "Designation",
+          "???"
+        ],
+        [
+          "Class",
+          "4x4 armored vehicle"
+        ],
+        [
+          "Status",
+          "In the vehicle workshop"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/unknown-19.jpg",
+      "classified": false,
+      "aliases": [
+        "unknown-vehicle-19"
+      ]
+    },
+    {
+      "id": "unknown-vehicle-20",
+      "slug": "unknown-vehicle-20",
+      "title": "???",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/unknown-vehicle-20",
+      "desc": "Vehicle in the workshop. Designation withheld.",
+      "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+      "facts": [
+        [
+          "Designation",
+          "???"
+        ],
+        [
+          "Class",
+          "4x4 armored vehicle"
+        ],
+        [
+          "Status",
+          "In the vehicle workshop"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/unknown-20.jpg",
+      "classified": false,
+      "aliases": [
+        "unknown-vehicle-20"
+      ]
+    },
+    {
+      "id": "unknown-vehicle-21",
+      "slug": "unknown-vehicle-21",
+      "title": "???",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/unknown-vehicle-21",
+      "desc": "Vehicle in the workshop. Designation withheld.",
+      "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+      "facts": [
+        [
+          "Designation",
+          "???"
+        ],
+        [
+          "Class",
+          "4x4 armored vehicle"
+        ],
+        [
+          "Status",
+          "In the vehicle workshop"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/unknown-21.jpg",
+      "classified": false,
+      "aliases": [
+        "unknown-vehicle-21"
+      ]
+    },
+    {
+      "id": "unknown-vehicle-22",
+      "slug": "unknown-vehicle-22",
+      "title": "???",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/unknown-vehicle-22",
+      "desc": "Vehicle in the workshop. Designation withheld.",
+      "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+      "facts": [
+        [
+          "Designation",
+          "???"
+        ],
+        [
+          "Class",
+          "Light armored vehicle"
+        ],
+        [
+          "Status",
+          "In the vehicle workshop"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/unknown-22.jpg",
+      "classified": false,
+      "aliases": [
+        "unknown-vehicle-22"
+      ]
+    },
+    {
+      "id": "unknown-vehicle-23",
+      "slug": "unknown-vehicle-23",
+      "title": "???",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/unknown-vehicle-23",
+      "desc": "Vehicle in the workshop. Designation withheld.",
+      "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+      "facts": [
+        [
+          "Designation",
+          "???"
+        ],
+        [
+          "Class",
+          "Light utility vehicle"
+        ],
+        [
+          "Status",
+          "In the vehicle workshop"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/unknown-23.jpg",
+      "classified": false,
+      "aliases": [
+        "unknown-vehicle-23"
+      ]
+    },
+    {
+      "id": "unknown-vehicle-24",
+      "slug": "unknown-vehicle-24",
+      "title": "???",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/unknown-vehicle-24",
+      "desc": "Vehicle in the workshop. Designation withheld.",
+      "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+      "facts": [
+        [
+          "Designation",
+          "???"
+        ],
+        [
+          "Class",
+          "Light utility vehicle"
+        ],
+        [
+          "Status",
+          "In the vehicle workshop"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/unknown-24.jpg",
+      "classified": false,
+      "aliases": [
+        "unknown-vehicle-24"
+      ]
+    },
+    {
+      "id": "unknown-vehicle-25",
+      "slug": "unknown-vehicle-25",
+      "title": "???",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/unknown-vehicle-25",
+      "desc": "Vehicle in the workshop. Designation withheld.",
+      "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+      "facts": [
+        [
+          "Designation",
+          "???"
+        ],
+        [
+          "Class",
+          "Security patrol vehicle"
+        ],
+        [
+          "Status",
+          "In the vehicle workshop"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/unknown-25.jpg",
+      "classified": false,
+      "aliases": [
+        "unknown-vehicle-25"
+      ]
+    },
+    {
+      "id": "classified-vehicle-1",
+      "slug": "classified-vehicle-1",
+      "title": "[CLASSIFIED] VEHICLE 01",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/classified-vehicle-1",
+      "desc": "[REDACTED] — Restricted vehicle record. Clearance Level 5 required.",
+      "lead": "Security Directive ████-09: The designation, appearance and specifications of this vehicle are withheld from the public archive.",
+      "facts": [
+        [
+          "Designation",
+          "[REDACTED]"
+        ],
+        [
+          "Class",
+          "[REDACTED]"
+        ],
+        [
+          "Operator",
+          "[REDACTED]"
+        ],
+        [
+          "Classification",
+          "[LEVEL 5 REQUIRED]"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/classified-generic.svg",
+      "classified": true,
+      "aliases": [
+        "classified-vehicle-1",
+        "classified-vehicle-01"
+      ]
+    },
+    {
+      "id": "classified-vehicle-2",
+      "slug": "classified-vehicle-2",
+      "title": "[CLASSIFIED] VEHICLE 02",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/classified-vehicle-2",
+      "desc": "[REDACTED] — Restricted vehicle record. Clearance Level 5 required.",
+      "lead": "Security Directive ████-09: The designation, appearance and specifications of this vehicle are withheld from the public archive.",
+      "facts": [
+        [
+          "Designation",
+          "[REDACTED]"
+        ],
+        [
+          "Class",
+          "[REDACTED]"
+        ],
+        [
+          "Operator",
+          "[REDACTED]"
+        ],
+        [
+          "Classification",
+          "[LEVEL 5 REQUIRED]"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/classified-generic.svg",
+      "classified": true,
+      "aliases": [
+        "classified-vehicle-2",
+        "classified-vehicle-02"
+      ]
+    },
+    {
+      "id": "classified-vehicle-3",
+      "slug": "classified-vehicle-3",
+      "title": "[CLASSIFIED] VEHICLE 03",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/classified-vehicle-3",
+      "desc": "[REDACTED] — Restricted vehicle record. Clearance Level 5 required.",
+      "lead": "Security Directive ████-09: The designation, appearance and specifications of this vehicle are withheld from the public archive.",
+      "facts": [
+        [
+          "Designation",
+          "[REDACTED]"
+        ],
+        [
+          "Class",
+          "[REDACTED]"
+        ],
+        [
+          "Operator",
+          "[REDACTED]"
+        ],
+        [
+          "Classification",
+          "[LEVEL 5 REQUIRED]"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/classified-generic.svg",
+      "classified": true,
+      "aliases": [
+        "classified-vehicle-3",
+        "classified-vehicle-03"
+      ]
+    },
+    {
+      "id": "classified-vehicle-4",
+      "slug": "classified-vehicle-4",
+      "title": "[CLASSIFIED] VEHICLE 04",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/classified-vehicle-4",
+      "desc": "[REDACTED] — Restricted vehicle record. Clearance Level 5 required.",
+      "lead": "Security Directive ████-09: The designation, appearance and specifications of this vehicle are withheld from the public archive.",
+      "facts": [
+        [
+          "Designation",
+          "[REDACTED]"
+        ],
+        [
+          "Class",
+          "[REDACTED]"
+        ],
+        [
+          "Operator",
+          "[REDACTED]"
+        ],
+        [
+          "Classification",
+          "[LEVEL 5 REQUIRED]"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/classified-generic.svg",
+      "classified": true,
+      "aliases": [
+        "classified-vehicle-4",
+        "classified-vehicle-04"
+      ]
+    },
+    {
+      "id": "classified-vehicle-5",
+      "slug": "classified-vehicle-5",
+      "title": "[CLASSIFIED] VEHICLE 05",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/classified-vehicle-5",
+      "desc": "[REDACTED] — Restricted vehicle record. Clearance Level 5 required.",
+      "lead": "Security Directive ████-09: The designation, appearance and specifications of this vehicle are withheld from the public archive.",
+      "facts": [
+        [
+          "Designation",
+          "[REDACTED]"
+        ],
+        [
+          "Class",
+          "[REDACTED]"
+        ],
+        [
+          "Operator",
+          "[REDACTED]"
+        ],
+        [
+          "Classification",
+          "[LEVEL 5 REQUIRED]"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/classified-generic.svg",
+      "classified": true,
+      "aliases": [
+        "classified-vehicle-5",
+        "classified-vehicle-05"
+      ]
+    }
+  ]
+}

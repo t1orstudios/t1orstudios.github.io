@@ -22,7 +22,60 @@ function getCategoryKey(catVal) {
 }
 
 const articleSlugOverrides = {
-  'hancer': '132nd-dagger-squadron'
+  // Countries
+  'anatarya': 'anataria',
+  'elonya': 'elonia',
+  'veloria': 'velaria',
+  'dalmerya': 'dalmeria',
+  'rovenya': 'rovenia',
+  'kuzey-kipraya': 'north-kipraya',
+  'ostenya': 'ostania',
+  'ursya': 'ursia',
+  // Geography
+  'sarpburun': 'sarpburun-peninsula',
+  'kalyon-denizi': 'kalyon-sea',
+  'kalyon-adalari': 'kalyon-islands',
+  'avrupa': 'avren-mainland',
+  'istara-bogazi': 'istara-strait',
+  'kipraya-adasi': 'kipraya-island',
+  'kipraya-tampon-hatti': 'kipraya-buffer-line',
+  // Events
+  'kriz': 'skyfortress-4-crisis',
+  'cam-perde': 'glass-curtain',
+  'kara-kasim': 'black-november',
+  // Documents
+  'sarpburun-dosyasi': 'sarpburun-dossier',
+  'dosya-94-117': 'classified-file-94-117',
+  // Organizations
+  'kuzey-kusagi': 'northern-belt-defense-pact',
+  'elonya-istihbarati': 'elonia-intelligence-directorate',
+  'avren-birligi': 'avren-union',
+  // Units
+  'hancer': '132nd-dagger-squadron',
+  'ucaksavar': '28th-zephyr-air-defense-battalion',
+  'sarp-muhafiz': '4th-sarp-guard-company',
+  'mizrak': '38th-gorgon-strike-detachment',
+  'nereus-komando': '8th-nereus-naval-commando-group',
+  'kuzey-isaret': '6th-northern-signal-battalion',
+  'doruk-ikmal': '18th-doruk-supply-regiment',
+  'pelagos-devriye': '3rd-pelagos-maritime-patrol-squadron',
+  'demir-iz': '27th-iron-fist-heavy-armored-division',
+  'iris-indirme': '9th-iris-airborne-brigade',
+  // Facilities
+  'sarpburun-radar-istasyonu': 'sarpburun-radar-station',
+  'pelagos-karakolu': 'pelagos-coast-guard-station',
+  'kara-kasim-feneri': 'kalyon-memorial-lighthouse',
+  'kor-kalkan-bataryasi': 'kor-kalkan-air-defense-battery',
+  'lerya-jet-ussu': 'lerya-5th-tactical-jet-base',
+  'sarp-gecidi': 'sarpburun-gate-bridge',
+  'istara-garnizonu': 'istara-strait-garrison',
+  'lerya-deniz-ussu': 'lerya-naval-headquarters',
+  'arkent-jet-ussu': 'arkent-1st-main-jet-base',
+  // Vehicles
+  'triton-botu': 'triton-fast-boat',
+  'aigaion-firkateyni': 'aigaion-class-frigate',
+  'nereus-cikarma': 'nereus-landing-ship',
+  'kallisto-ikmal': 'kallisto-supply-ship'
 };
 
 const articleAliases = {
@@ -493,6 +546,8 @@ function currentRouteKey() {
 function initArticleAliases() {
   for (const [id, p] of Object.entries(dataEN)) {
     articleAliases[id] = id;
+    const overrideSlug = getArticleSlug(id);
+    if (overrideSlug) articleAliases[overrideSlug] = id;
     if (p.title) {
       const slug = p.title.toLowerCase()
         .replace(/ğ/g, 'g').replace(/ü/g, 'u').replace(/ş/g, 's').replace(/ı/g, 'i').replace(/ö/g, 'o').replace(/ç/g, 'c')
@@ -732,17 +787,26 @@ function render() {
     document.title = 'Not found — ' + siteTitle;
   }
 
-  if (location.hash && location.hash.startsWith('#/')) {
-    let canonical = '/';
-    if (route.type === 'home') canonical = '/home';
-    else if (route.type === 'all') canonical = '/all-articles';
-    else if (route.type === 'category') canonical = getCategoryPageUrl(route.categoryKey);
-    else if (route.type === 'article' && pages[route.id]) canonical = getArticleUrl(route.id, 'en', pages);
+  let canonical = null;
+  if (route.type === 'home') canonical = '/home';
+  else if (route.type === 'all') canonical = '/all-articles';
+  else if (route.type === 'category') canonical = getCategoryPageUrl(route.categoryKey);
+  else if (route.type === 'article' && pages[route.id]) canonical = getArticleUrl(route.id, 'en', pages);
 
+  if (canonical) {
+    const isRootHome = (route.type === 'home' && location.pathname === '/' && !(location.hash && location.hash.startsWith('#/')));
     const search = location.search || '';
-    if (window.history && window.history.replaceState) {
-      window.history.replaceState(null, '', canonical + search);
+    const sectionHash = (location.hash && !location.hash.startsWith('#/')) ? location.hash : '';
+    if (!isRootHome && (location.pathname !== canonical || (location.hash && location.hash.startsWith('#/')))) {
+      if (window.history && window.history.replaceState) {
+        window.history.replaceState(null, '', canonical + search + sectionHash);
+      }
     }
+    const fullCanonicalUrl = 'https://t1orstudios.github.io' + (isRootHome ? '/' : canonical);
+    const canonicalLink = document.querySelector('link[rel="canonical"]');
+    if (canonicalLink) canonicalLink.setAttribute('href', fullCanonicalUrl);
+    const ogUrl = document.querySelector('meta[property="og:url"]');
+    if (ogUrl) ogUrl.setAttribute('content', fullCanonicalUrl);
   }
 
   lastRouteKey = currentRouteKey();
