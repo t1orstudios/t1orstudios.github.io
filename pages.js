@@ -910,7 +910,7 @@ document.addEventListener('click', (e) => {
   if (href.startsWith('/') || href.startsWith('#/')) {
     const pathOnly = href.split('?')[0].split('#')[0].toLowerCase();
     const staticExts = ['.svg', '.png', '.jpg', '.jpeg', '.webp', '.css', '.js', '.json', '.xml', '.txt', '.html'];
-    const isStaticFile = staticExts.some(ext => pathOnly.endsWith(ext)) || pathOnly.startsWith('/uploads') || pathOnly === '/harita' || pathOnly === '/harita-en' || pathOnly === '/edit';
+    const isStaticFile = staticExts.some(ext => pathOnly.endsWith(ext)) || pathOnly.startsWith('/uploads') || pathOnly.startsWith('/privacy') || pathOnly.startsWith('/terms') || pathOnly.startsWith('/tracker') || pathOnly === '/harita' || pathOnly === '/harita-en' || pathOnly === '/edit';
     if (isStaticFile) return;
     e.preventDefault();
     const cleanUrl = href.startsWith('#/') ? href.slice(1) : href;
