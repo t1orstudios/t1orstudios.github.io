@@ -105,10 +105,29 @@
     return ALLOWED_AVATAR_URL_RE.test(url) ? url : '';
   }
 
+  const PROFILE_URL_RE = /roblox\.com\/(?:[a-z]{2}(?:-[a-z]{2})?\/)?users\/(\d+)/i;
+  const NUMERIC_USER_ID_RE = /^(?:(?:roblox\s*)?(?:user\s*id|userid|uid|id)\s*[:=#-]?\s*|#)?(\d+)(?:[\s(/,;|-]|$)/i;
+
+  function extractRobloxId(rawUsername) {
+    const trimmed = String(rawUsername ?? '').trim();
+    if (!trimmed) return '';
+    const urlMatch = PROFILE_URL_RE.exec(trimmed);
+    if (urlMatch) return urlMatch[1];
+    const cleaned = trimmed.replace(/^@+\s*/, '').trim();
+    const idMatch = NUMERIC_USER_ID_RE.exec(cleaned);
+    return idMatch ? idMatch[1] : '';
+  }
+
   /**
-   * Extract clean Roblox handle for display while keeping full raw username searchable.
+   * Extract clean Roblox handle (or canonical resolved username / User ID) for display.
    */
-  function extractDisplayHandle(rawUsername) {
+  function extractDisplayHandle(rawUsername, resolvedUsername) {
+    const resolvedClean = String(resolvedUsername ?? '').trim();
+    if (resolvedClean) return resolvedClean;
+
+    const extractedId = extractRobloxId(rawUsername);
+    if (extractedId) return `ID: ${extractedId}`;
+
     const trimmed = String(rawUsername ?? '').trim().replace(/^@+\s*/, '');
     if (!trimmed) return '—';
     const match = /^[A-Za-z0-9_]+/.exec(trimmed);
@@ -174,13 +193,23 @@
     return Date.UTC(Number(match[1]), Number(match[2]) - 1, Number(match[3]));
   }
 
-  function normalizeRecord(rawAppId, rawUsername, rawDate, rawStatus, rawAvatarUrl, formattedDate) {
+  function normalizeRecord(
+    rawAppId,
+    rawUsername,
+    rawDate,
+    rawStatus,
+    rawAvatarUrl,
+    formattedDate,
+    resolvedUsername = ''
+  ) {
     const appId = String(rawAppId ?? '').trim();
     if (!appId || appId.toLowerCase() === 'app_id' || appId.toLowerCase() === 'app id') {
       return null;
     }
     const robloxUsername = String(rawUsername ?? '').trim() || '—';
-    const displayHandle = extractDisplayHandle(robloxUsername);
+    const resolvedClean = String(resolvedUsername ?? '').trim();
+    const extractedId = extractRobloxId(robloxUsername);
+    const displayHandle = extractDisplayHandle(robloxUsername, resolvedClean);
     const submittedAt = normalizeDateString(rawDate, formattedDate) || '—';
     const submittedSort = dateToSortNumber(submittedAt);
     const status = sanitizeStatus(rawStatus);
@@ -194,7 +223,7 @@
       submittedSort,
       status,
       avatarUrl,
-      searchHaystack: `${appId} ${displayHandle} ${robloxUsername}`.toLowerCase(),
+      searchHaystack: `${appId} ${displayHandle} ${resolvedClean} ${robloxUsername} ${extractedId}`.toLowerCase(),
     };
   }
 
@@ -261,6 +290,8 @@
     const dateIdx = hasHeader && firstRow.indexOf('submitted_at') !== -1 ? firstRow.indexOf('submitted_at') : 2;
     const statusIdx = hasHeader && firstRow.indexOf('status') !== -1 ? firstRow.indexOf('status') : 3;
     const avatarIdx = hasHeader && firstRow.indexOf('avatar_url') !== -1 ? firstRow.indexOf('avatar_url') : 4;
+    const resolvedIdx =
+      hasHeader && firstRow.indexOf('resolved_username') !== -1 ? firstRow.indexOf('resolved_username') : 5;
 
     const startRow = hasHeader ? 1 : 0;
     const out = [];
@@ -272,7 +303,8 @@
         cols[dateIdx],
         cols[statusIdx],
         cols[avatarIdx],
-        ''
+        '',
+        cols[resolvedIdx]
       );
       if (rec) out.push(rec);
     }
@@ -280,7 +312,7 @@
   }
 
   /**
-   * Parse Google Sheets GViz JSONP response safely (columns A..E).
+   * Parse Google Sheets GViz JSONP response safely (columns A..F).
    */
   function recordsFromGvizText(responseText) {
     const match = /google\.visualization\.Query\.setResponse\(([\s\S]*)\);?\s*$/.exec(responseText);
@@ -300,6 +332,7 @@
       const c2 = cells[2];
       const c3 = cells[3];
       const c4 = cells[4];
+      const c5 = cells[5];
 
       const rec = normalizeRecord(
         c0 ? (c0.f ?? c0.v) : '',
@@ -307,7 +340,8 @@
         c2 ? c2.v : '',
         c3 ? (c3.f ?? c3.v) : '',
         c4 ? (c4.v ?? c4.f) : '',
-        c2 ? c2.f : ''
+        c2 ? c2.f : '',
+        c5 ? (c5.f ?? c5.v) : ''
       );
       if (rec) out.push(rec);
     }
@@ -324,7 +358,8 @@
         item.submittedAt,
         item.status,
         item.avatarUrl,
-        ''
+        '',
+        item.resolvedUsername
       );
       if (rec) out.push(rec);
     }
