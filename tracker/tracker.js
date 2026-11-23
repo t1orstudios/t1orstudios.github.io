@@ -109,7 +109,7 @@
    * Extract clean Roblox handle for display while keeping full raw username searchable.
    */
   function extractDisplayHandle(rawUsername) {
-    const trimmed = String(rawUsername ?? '').trim();
+    const trimmed = String(rawUsername ?? '').trim().replace(/^@+\s*/, '');
     if (!trimmed) return '—';
     const match = /^[A-Za-z0-9_]+/.exec(trimmed);
     return match ? match[0] : trimmed;
