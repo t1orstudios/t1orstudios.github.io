@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "count": 120,
+  "count": 119,
   "entries": [
     {
       "id": "anatarya",
@@ -3137,40 +3137,6 @@
       "classified": false,
       "aliases": [
         "divisions-and-ranks"
-      ]
-    },
-    {
-      "id": "update-log",
-      "slug": "update-log",
-      "title": "Skyfortress update log",
-      "category": "Game systems",
-      "url": "https://t1orstudios.github.io/game-systems/update-log",
-      "desc": "Development timeline of the Skyfortress Military Facility game, 4–14 November 2026.",
-      "lead": "This log lists the main updates to the Skyfortress Military Facility game in order, from the import of this archive on 4 November to the garrison rebuild of 14 November 2026. It was compiled from the project’s design documents and progress ledgers.",
-      "facts": [
-        [
-          "Period",
-          "4–21 November 2026"
-        ],
-        [
-          "Game",
-          "Skyfortress Military Facility (Roblox)"
-        ],
-        [
-          "Main place",
-          "Sarpburun map"
-        ],
-        [
-          "Vehicle workshop",
-          "Separate test place for new vehicles"
-        ]
-      ],
-      "imageUrl": "https://t1orstudios.github.io/update-log.jpg",
-      "classified": false,
-      "aliases": [
-        "update-log",
-        "changelog",
-        "skyfortress-update-log"
       ]
     },
     {
