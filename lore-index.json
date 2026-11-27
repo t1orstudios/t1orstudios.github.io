@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "count": 155,
+  "count": 152,
   "entries": [
     {
       "id": "anatarya",
@@ -3985,102 +3985,6 @@
       "classified": false,
       "aliases": [
         "unknown-vehicle-19"
-      ]
-    },
-    {
-      "id": "unknown-vehicle-20",
-      "slug": "unknown-vehicle-20",
-      "title": "???",
-      "category": "Vehicles",
-      "url": "https://t1orstudios.github.io/vehicles/unknown-vehicle-20",
-      "desc": "Vehicle in the workshop. Designation withheld.",
-      "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
-      "facts": [
-        [
-          "Designation",
-          "???"
-        ],
-        [
-          "Country",
-          "[[anatarya]]"
-        ],
-        [
-          "Class",
-          "4x4 armored vehicle"
-        ],
-        [
-          "Status",
-          "In the vehicle workshop"
-        ]
-      ],
-      "imageUrl": "https://t1orstudios.github.io/unknown-20-v2.jpg",
-      "classified": false,
-      "aliases": [
-        "unknown-vehicle-20"
-      ]
-    },
-    {
-      "id": "unknown-vehicle-21",
-      "slug": "unknown-vehicle-21",
-      "title": "???",
-      "category": "Vehicles",
-      "url": "https://t1orstudios.github.io/vehicles/unknown-vehicle-21",
-      "desc": "Vehicle in the workshop. Designation withheld.",
-      "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
-      "facts": [
-        [
-          "Designation",
-          "???"
-        ],
-        [
-          "Country",
-          "[[anatarya]]"
-        ],
-        [
-          "Class",
-          "4x4 armored vehicle"
-        ],
-        [
-          "Status",
-          "In the vehicle workshop"
-        ]
-      ],
-      "imageUrl": "https://t1orstudios.github.io/unknown-21-v2.jpg",
-      "classified": false,
-      "aliases": [
-        "unknown-vehicle-21"
-      ]
-    },
-    {
-      "id": "unknown-vehicle-22",
-      "slug": "unknown-vehicle-22",
-      "title": "???",
-      "category": "Vehicles",
-      "url": "https://t1orstudios.github.io/vehicles/unknown-vehicle-22",
-      "desc": "Vehicle in the workshop. Designation withheld.",
-      "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
-      "facts": [
-        [
-          "Designation",
-          "???"
-        ],
-        [
-          "Country",
-          "[[anatarya]]"
-        ],
-        [
-          "Class",
-          "Light armored vehicle"
-        ],
-        [
-          "Status",
-          "In the vehicle workshop"
-        ]
-      ],
-      "imageUrl": "https://t1orstudios.github.io/unknown-22-v2.jpg",
-      "classified": false,
-      "aliases": [
-        "unknown-vehicle-22"
       ]
     },
     {
