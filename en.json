@@ -3117,7 +3117,7 @@
       "vehicle-bays",
       "divisions-and-ranks"
     ],
-    "imageKey": "file:k21-kaan.jpg",
+    "imageKey": "file:k21-kaan-game.jpg",
     "draft": false
   },
   "bayrak-t2": {
@@ -3169,7 +3169,7 @@
       "al-elma",
       "kriz"
     ],
-    "imageKey": "file:bayrak-t2.jpg",
+    "imageKey": "file:bayrak-t2-game.jpg",
     "draft": false
   },
   "akin-3": {
@@ -3221,7 +3221,7 @@
       "skyfortress-4",
       "kriz"
     ],
-    "imageKey": "file:akin-3.jpg",
+    "imageKey": "file:akin-3-game.jpg",
     "draft": false
   },
   "al-elma": {
@@ -3273,7 +3273,7 @@
       "sarpsan",
       "kriz"
     ],
-    "imageKey": "file:al-elma.jpg",
+    "imageKey": "file:al-elma-game.jpg",
     "draft": false
   },
   "pelagos-karakolu": {
@@ -3909,7 +3909,7 @@
       "demir-iz",
       "vehicle-bays"
     ],
-    "imageKey": "file:altai-mbt-v2.jpg"
+    "imageKey": "file:altai-mbt-v3.jpg"
   },
   "dolphin-rhib": {
     "title": "Dolphin RHIB",
@@ -3962,7 +3962,7 @@
       "northwind-opv",
       "rockcove-station"
     ],
-    "imageKey": "file:dolphin-rhib.jpg"
+    "imageKey": "file:dolphin-rhib-game.jpg"
   },
   "seagull-fpb": {
     "title": "Seagull FPB",
@@ -4019,7 +4019,7 @@
       "northwind-opv",
       "rockcove-station"
     ],
-    "imageKey": "file:seagull-fpb.jpg"
+    "imageKey": "file:seagull-fpb-game.jpg"
   },
   "northwind-opv": {
     "title": "Northwind OPV",
@@ -4080,7 +4080,7 @@
       "dolphin-rhib",
       "rockcove-station"
     ],
-    "imageKey": "file:northwind-opv.jpg"
+    "imageKey": "file:northwind-opv-game.jpg"
   },
   "sarp-south-shelter": {
     "title": "Sarp South Shelter",
@@ -4835,7 +4835,7 @@
       "aigaion"
     ],
     "draft": false,
-    "imageKey": "file:sh70-petrel.jpg"
+    "imageKey": "file:sh70-petrel-game.jpg"
   },
   "m12n-aster": {
     "title": "M-12N Aster",
@@ -4897,7 +4897,7 @@
       "elonya",
       "ew4-halcyon"
     ],
-    "imageKey": "file:m12n-aster.jpg",
+    "imageKey": "file:m12n-aster-game.jpg",
     "draft": false
   },
   "aia": {
@@ -5053,7 +5053,7 @@
       "vehicle-bays",
       "anatarya"
     ],
-    "imageKey": "file:unknown-01.jpg",
+    "imageKey": "file:unknown-01-v2.jpg",
     "draft": false
   },
   "unknown-vehicle-02": {
@@ -5089,7 +5089,7 @@
       "vehicle-bays",
       "anatarya"
     ],
-    "imageKey": "file:unknown-02.jpg",
+    "imageKey": "file:unknown-02-v2.jpg",
     "draft": false
   },
   "unknown-vehicle-03": {
@@ -5125,7 +5125,7 @@
       "vehicle-bays",
       "anatarya"
     ],
-    "imageKey": "file:unknown-03.jpg",
+    "imageKey": "file:unknown-03-v2.jpg",
     "draft": false
   },
   "unknown-vehicle-04": {
@@ -5161,7 +5161,7 @@
       "vehicle-bays",
       "anatarya"
     ],
-    "imageKey": "file:unknown-04.jpg",
+    "imageKey": "file:unknown-04-v2.jpg",
     "draft": false
   },
   "unknown-vehicle-05": {
@@ -5197,7 +5197,7 @@
       "vehicle-bays",
       "elonya"
     ],
-    "imageKey": "file:unknown-05.jpg",
+    "imageKey": "file:unknown-05-v2.jpg",
     "draft": false
   },
   "unknown-vehicle-06": {
@@ -5233,7 +5233,7 @@
       "vehicle-bays",
       "elonya"
     ],
-    "imageKey": "file:unknown-06.jpg",
+    "imageKey": "file:unknown-06-v2.jpg",
     "draft": false
   },
   "unknown-vehicle-07": {
@@ -5269,7 +5269,7 @@
       "vehicle-bays",
       "anatarya"
     ],
-    "imageKey": "file:unknown-07.jpg",
+    "imageKey": "file:unknown-07-v2.jpg",
     "draft": false
   },
   "unknown-vehicle-08": {
@@ -5305,7 +5305,7 @@
       "vehicle-bays",
       "anatarya"
     ],
-    "imageKey": "file:unknown-08.jpg",
+    "imageKey": "file:unknown-08-v2.jpg",
     "draft": false
   },
   "unknown-vehicle-09": {
@@ -5341,7 +5341,7 @@
       "vehicle-bays",
       "elonya"
     ],
-    "imageKey": "file:unknown-09.jpg",
+    "imageKey": "file:unknown-09-v2.jpg",
     "draft": false
   },
   "unknown-vehicle-10": {
@@ -5377,7 +5377,7 @@
       "vehicle-bays",
       "elonya"
     ],
-    "imageKey": "file:unknown-10.jpg",
+    "imageKey": "file:unknown-10-v2.jpg",
     "draft": false
   },
   "unknown-vehicle-11": {
@@ -5413,7 +5413,7 @@
       "vehicle-bays",
       "elonya"
     ],
-    "imageKey": "file:unknown-11.jpg",
+    "imageKey": "file:unknown-11-v2.jpg",
     "draft": false
   },
   "unknown-vehicle-12": {
@@ -5449,7 +5449,7 @@
       "vehicle-bays",
       "anatarya"
     ],
-    "imageKey": "file:unknown-12.jpg",
+    "imageKey": "file:unknown-12-v2.jpg",
     "draft": false
   },
   "unknown-vehicle-13": {
@@ -5485,7 +5485,7 @@
       "vehicle-bays",
       "anatarya"
     ],
-    "imageKey": "file:unknown-13.jpg",
+    "imageKey": "file:unknown-13-v2.jpg",
     "draft": false
   },
   "unknown-vehicle-14": {
@@ -5521,7 +5521,7 @@
       "vehicle-bays",
       "anatarya"
     ],
-    "imageKey": "file:unknown-14.jpg",
+    "imageKey": "file:unknown-14-v2.jpg",
     "draft": false
   },
   "unknown-vehicle-15": {
@@ -5557,7 +5557,7 @@
       "vehicle-bays",
       "anatarya"
     ],
-    "imageKey": "file:unknown-15.jpg",
+    "imageKey": "file:unknown-15-v2.jpg",
     "draft": false
   },
   "unknown-vehicle-16": {
@@ -5593,7 +5593,7 @@
       "vehicle-bays",
       "anatarya"
     ],
-    "imageKey": "file:unknown-16.jpg",
+    "imageKey": "file:unknown-16-v2.jpg",
     "draft": false
   },
   "unknown-vehicle-17": {
@@ -5629,7 +5629,7 @@
       "vehicle-bays",
       "anatarya"
     ],
-    "imageKey": "file:unknown-17.jpg",
+    "imageKey": "file:unknown-17-v2.jpg",
     "draft": false
   },
   "unknown-vehicle-18": {
@@ -5665,7 +5665,7 @@
       "vehicle-bays",
       "anatarya"
     ],
-    "imageKey": "file:unknown-18.jpg",
+    "imageKey": "file:unknown-18-v2.jpg",
     "draft": false
   },
   "unknown-vehicle-19": {
@@ -5701,7 +5701,7 @@
       "vehicle-bays",
       "anatarya"
     ],
-    "imageKey": "file:unknown-19.jpg",
+    "imageKey": "file:unknown-19-v2.jpg",
     "draft": false
   },
   "unknown-vehicle-20": {
@@ -5737,7 +5737,7 @@
       "vehicle-bays",
       "anatarya"
     ],
-    "imageKey": "file:unknown-20.jpg",
+    "imageKey": "file:unknown-20-v2.jpg",
     "draft": false
   },
   "unknown-vehicle-21": {
@@ -5773,7 +5773,7 @@
       "vehicle-bays",
       "anatarya"
     ],
-    "imageKey": "file:unknown-21.jpg",
+    "imageKey": "file:unknown-21-v2.jpg",
     "draft": false
   },
   "unknown-vehicle-22": {
@@ -5809,7 +5809,7 @@
       "vehicle-bays",
       "anatarya"
     ],
-    "imageKey": "file:unknown-22.jpg",
+    "imageKey": "file:unknown-22-v2.jpg",
     "draft": false
   },
   "unknown-vehicle-23": {
@@ -5845,7 +5845,7 @@
       "vehicle-bays",
       "elonya"
     ],
-    "imageKey": "file:unknown-23.jpg",
+    "imageKey": "file:unknown-23-v2.jpg",
     "draft": false
   },
   "unknown-vehicle-24": {
@@ -5881,7 +5881,7 @@
       "vehicle-bays",
       "elonya"
     ],
-    "imageKey": "file:unknown-24.jpg",
+    "imageKey": "file:unknown-24-v2.jpg",
     "draft": false
   },
   "unknown-vehicle-25": {
@@ -5917,7 +5917,7 @@
       "vehicle-bays",
       "anatarya"
     ],
-    "imageKey": "file:unknown-25.jpg",
+    "imageKey": "file:unknown-25-v2.jpg",
     "draft": false
   },
   "classified-vehicle-1": {
