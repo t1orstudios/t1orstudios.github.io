@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "count": 119,
+  "count": 155,
   "entries": [
     {
       "id": "anatarya",
@@ -3393,6 +3393,10 @@
           "???"
         ],
         [
+          "Country",
+          "[[anatarya]]"
+        ],
+        [
           "Class",
           "Main battle tank"
         ],
@@ -3419,6 +3423,10 @@
         [
           "Designation",
           "???"
+        ],
+        [
+          "Country",
+          "[[anatarya]]"
         ],
         [
           "Class",
@@ -3449,6 +3457,10 @@
           "???"
         ],
         [
+          "Country",
+          "[[anatarya]]"
+        ],
+        [
           "Class",
           "Tracked infantry fighting vehicle"
         ],
@@ -3475,6 +3487,10 @@
         [
           "Designation",
           "???"
+        ],
+        [
+          "Country",
+          "[[anatarya]]"
         ],
         [
           "Class",
@@ -3505,6 +3521,10 @@
           "???"
         ],
         [
+          "Country",
+          "[[elonya]]"
+        ],
+        [
           "Class",
           "Amphibious tracked assault vehicle"
         ],
@@ -3531,6 +3551,10 @@
         [
           "Designation",
           "???"
+        ],
+        [
+          "Country",
+          "[[elonya]]"
         ],
         [
           "Class",
@@ -3561,6 +3585,10 @@
           "???"
         ],
         [
+          "Country",
+          "[[anatarya]]"
+        ],
+        [
           "Class",
           "8x8 wheeled armored vehicle"
         ],
@@ -3587,6 +3615,10 @@
         [
           "Designation",
           "???"
+        ],
+        [
+          "Country",
+          "[[anatarya]]"
         ],
         [
           "Class",
@@ -3617,6 +3649,10 @@
           "???"
         ],
         [
+          "Country",
+          "[[elonya]]"
+        ],
+        [
           "Class",
           "Short-range air-defense system"
         ],
@@ -3643,6 +3679,10 @@
         [
           "Designation",
           "???"
+        ],
+        [
+          "Country",
+          "[[elonya]]"
         ],
         [
           "Class",
@@ -3673,6 +3713,10 @@
           "???"
         ],
         [
+          "Country",
+          "[[elonya]]"
+        ],
+        [
           "Class",
           "Long-range air-defense system"
         ],
@@ -3699,6 +3743,10 @@
         [
           "Designation",
           "???"
+        ],
+        [
+          "Country",
+          "[[anatarya]]"
         ],
         [
           "Class",
@@ -3729,6 +3777,10 @@
           "???"
         ],
         [
+          "Country",
+          "[[anatarya]]"
+        ],
+        [
           "Class",
           "4x4 armored tactical vehicle"
         ],
@@ -3755,6 +3807,10 @@
         [
           "Designation",
           "???"
+        ],
+        [
+          "Country",
+          "[[anatarya]]"
         ],
         [
           "Class",
@@ -3785,6 +3841,10 @@
           "???"
         ],
         [
+          "Country",
+          "[[anatarya]]"
+        ],
+        [
           "Class",
           "4x4 armored vehicle"
         ],
@@ -3811,6 +3871,10 @@
         [
           "Designation",
           "???"
+        ],
+        [
+          "Country",
+          "[[anatarya]]"
         ],
         [
           "Class",
@@ -3841,6 +3905,10 @@
           "???"
         ],
         [
+          "Country",
+          "[[anatarya]]"
+        ],
+        [
           "Class",
           "4x4 armored vehicle"
         ],
@@ -3867,6 +3935,10 @@
         [
           "Designation",
           "???"
+        ],
+        [
+          "Country",
+          "[[anatarya]]"
         ],
         [
           "Class",
@@ -3897,6 +3969,10 @@
           "???"
         ],
         [
+          "Country",
+          "[[anatarya]]"
+        ],
+        [
           "Class",
           "4x4 armored vehicle"
         ],
@@ -3923,6 +3999,10 @@
         [
           "Designation",
           "???"
+        ],
+        [
+          "Country",
+          "[[anatarya]]"
         ],
         [
           "Class",
@@ -3953,6 +4033,10 @@
           "???"
         ],
         [
+          "Country",
+          "[[anatarya]]"
+        ],
+        [
           "Class",
           "4x4 armored vehicle"
         ],
@@ -3979,6 +4063,10 @@
         [
           "Designation",
           "???"
+        ],
+        [
+          "Country",
+          "[[anatarya]]"
         ],
         [
           "Class",
@@ -4009,6 +4097,10 @@
           "???"
         ],
         [
+          "Country",
+          "[[elonya]]"
+        ],
+        [
           "Class",
           "Light utility vehicle"
         ],
@@ -4037,6 +4129,10 @@
           "???"
         ],
         [
+          "Country",
+          "[[elonya]]"
+        ],
+        [
           "Class",
           "Light utility vehicle"
         ],
@@ -4063,6 +4159,10 @@
         [
           "Designation",
           "???"
+        ],
+        [
+          "Country",
+          "[[anatarya]]"
         ],
         [
           "Class",
@@ -4108,8 +4208,7 @@
       "imageUrl": "https://t1orstudios.github.io/classified-generic.svg",
       "classified": true,
       "aliases": [
-        "classified-vehicle-1",
-        "classified-vehicle-01"
+        "classified-vehicle-1"
       ]
     },
     {
@@ -4141,8 +4240,7 @@
       "imageUrl": "https://t1orstudios.github.io/classified-generic.svg",
       "classified": true,
       "aliases": [
-        "classified-vehicle-2",
-        "classified-vehicle-02"
+        "classified-vehicle-2"
       ]
     },
     {
@@ -4174,8 +4272,7 @@
       "imageUrl": "https://t1orstudios.github.io/classified-generic.svg",
       "classified": true,
       "aliases": [
-        "classified-vehicle-3",
-        "classified-vehicle-03"
+        "classified-vehicle-3"
       ]
     },
     {
@@ -4207,8 +4304,7 @@
       "imageUrl": "https://t1orstudios.github.io/classified-generic.svg",
       "classified": true,
       "aliases": [
-        "classified-vehicle-4",
-        "classified-vehicle-04"
+        "classified-vehicle-4"
       ]
     },
     {
@@ -4240,8 +4336,1159 @@
       "imageUrl": "https://t1orstudios.github.io/classified-generic.svg",
       "classified": true,
       "aliases": [
-        "classified-vehicle-5",
-        "classified-vehicle-05"
+        "classified-vehicle-5"
+      ]
+    },
+    {
+      "id": "unknown-vehicle-26",
+      "slug": "unknown-vehicle-26",
+      "title": "???",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/unknown-vehicle-26",
+      "desc": "Vehicle in the workshop. Designation withheld.",
+      "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+      "facts": [
+        [
+          "Designation",
+          "???"
+        ],
+        [
+          "Country",
+          "[[elonya]]"
+        ],
+        [
+          "Class",
+          "Main battle tank"
+        ],
+        [
+          "Status",
+          "In the vehicle workshop"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/unknown-26.jpg",
+      "classified": false,
+      "aliases": [
+        "unknown-vehicle-26"
+      ]
+    },
+    {
+      "id": "unknown-vehicle-27",
+      "slug": "unknown-vehicle-27",
+      "title": "???",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/unknown-vehicle-27",
+      "desc": "Vehicle in the workshop. Designation withheld.",
+      "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+      "facts": [
+        [
+          "Designation",
+          "???"
+        ],
+        [
+          "Country",
+          "[[elonya]]"
+        ],
+        [
+          "Class",
+          "Main battle tank"
+        ],
+        [
+          "Status",
+          "In the vehicle workshop"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/unknown-27.jpg",
+      "classified": false,
+      "aliases": [
+        "unknown-vehicle-27"
+      ]
+    },
+    {
+      "id": "unknown-vehicle-28",
+      "slug": "unknown-vehicle-28",
+      "title": "???",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/unknown-vehicle-28",
+      "desc": "Vehicle in the workshop. Designation withheld.",
+      "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+      "facts": [
+        [
+          "Designation",
+          "???"
+        ],
+        [
+          "Country",
+          "[[elonya]]"
+        ],
+        [
+          "Class",
+          "Tracked infantry fighting vehicle"
+        ],
+        [
+          "Status",
+          "In the vehicle workshop"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/unknown-28.jpg",
+      "classified": false,
+      "aliases": [
+        "unknown-vehicle-28"
+      ]
+    },
+    {
+      "id": "unknown-vehicle-29",
+      "slug": "unknown-vehicle-29",
+      "title": "???",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/unknown-vehicle-29",
+      "desc": "Vehicle in the workshop. Designation withheld.",
+      "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+      "facts": [
+        [
+          "Designation",
+          "???"
+        ],
+        [
+          "Country",
+          "[[elonya]]"
+        ],
+        [
+          "Class",
+          "8x8 armored infantry carrier"
+        ],
+        [
+          "Status",
+          "In the vehicle workshop"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/unknown-29.jpg",
+      "classified": false,
+      "aliases": [
+        "unknown-vehicle-29"
+      ]
+    },
+    {
+      "id": "unknown-vehicle-30",
+      "slug": "unknown-vehicle-30",
+      "title": "???",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/unknown-vehicle-30",
+      "desc": "Vehicle in the workshop. Designation withheld.",
+      "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+      "facts": [
+        [
+          "Designation",
+          "???"
+        ],
+        [
+          "Country",
+          "[[elonya]]"
+        ],
+        [
+          "Class",
+          "Wheeled armored personnel carrier"
+        ],
+        [
+          "Status",
+          "In the vehicle workshop"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/unknown-30.jpg",
+      "classified": false,
+      "aliases": [
+        "unknown-vehicle-30"
+      ]
+    },
+    {
+      "id": "unknown-vehicle-31",
+      "slug": "unknown-vehicle-31",
+      "title": "???",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/unknown-vehicle-31",
+      "desc": "Vehicle in the workshop. Designation withheld.",
+      "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+      "facts": [
+        [
+          "Designation",
+          "???"
+        ],
+        [
+          "Country",
+          "[[elonya]]"
+        ],
+        [
+          "Class",
+          "Tracked armored personnel carrier"
+        ],
+        [
+          "Status",
+          "In the vehicle workshop"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/unknown-31.jpg",
+      "classified": false,
+      "aliases": [
+        "unknown-vehicle-31"
+      ]
+    },
+    {
+      "id": "unknown-vehicle-32",
+      "slug": "unknown-vehicle-32",
+      "title": "???",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/unknown-vehicle-32",
+      "desc": "Vehicle in the workshop. Designation withheld.",
+      "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+      "facts": [
+        [
+          "Designation",
+          "???"
+        ],
+        [
+          "Country",
+          "[[elonya]]"
+        ],
+        [
+          "Class",
+          "Tracked medical evacuation vehicle"
+        ],
+        [
+          "Status",
+          "In the vehicle workshop"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/unknown-32.jpg",
+      "classified": false,
+      "aliases": [
+        "unknown-vehicle-32"
+      ]
+    },
+    {
+      "id": "unknown-vehicle-33",
+      "slug": "unknown-vehicle-33",
+      "title": "???",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/unknown-vehicle-33",
+      "desc": "Vehicle in the workshop. Designation withheld.",
+      "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+      "facts": [
+        [
+          "Designation",
+          "???"
+        ],
+        [
+          "Country",
+          "[[elonya]]"
+        ],
+        [
+          "Class",
+          "Tracked smoke-generator carrier"
+        ],
+        [
+          "Status",
+          "In the vehicle workshop"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/unknown-33.jpg",
+      "classified": false,
+      "aliases": [
+        "unknown-vehicle-33"
+      ]
+    },
+    {
+      "id": "unknown-vehicle-34",
+      "slug": "unknown-vehicle-34",
+      "title": "???",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/unknown-vehicle-34",
+      "desc": "Vehicle in the workshop. Designation withheld.",
+      "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+      "facts": [
+        [
+          "Designation",
+          "???"
+        ],
+        [
+          "Country",
+          "[[elonya]]"
+        ],
+        [
+          "Class",
+          "Self-propelled howitzer"
+        ],
+        [
+          "Status",
+          "In the vehicle workshop"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/unknown-34.jpg",
+      "classified": false,
+      "aliases": [
+        "unknown-vehicle-34"
+      ]
+    },
+    {
+      "id": "unknown-vehicle-35",
+      "slug": "unknown-vehicle-35",
+      "title": "???",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/unknown-vehicle-35",
+      "desc": "Vehicle in the workshop. Designation withheld.",
+      "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+      "facts": [
+        [
+          "Designation",
+          "???"
+        ],
+        [
+          "Country",
+          "[[elonya]]"
+        ],
+        [
+          "Class",
+          "4x4 armored security vehicle"
+        ],
+        [
+          "Status",
+          "In the vehicle workshop"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/unknown-35.jpg",
+      "classified": false,
+      "aliases": [
+        "unknown-vehicle-35"
+      ]
+    },
+    {
+      "id": "unknown-vehicle-36",
+      "slug": "unknown-vehicle-36",
+      "title": "???",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/unknown-vehicle-36",
+      "desc": "Vehicle in the workshop. Designation withheld.",
+      "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+      "facts": [
+        [
+          "Designation",
+          "???"
+        ],
+        [
+          "Country",
+          "[[elonya]]"
+        ],
+        [
+          "Class",
+          "4x4 mine-resistant armored vehicle"
+        ],
+        [
+          "Status",
+          "In the vehicle workshop"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/unknown-36.jpg",
+      "classified": false,
+      "aliases": [
+        "unknown-vehicle-36"
+      ]
+    },
+    {
+      "id": "unknown-vehicle-37",
+      "slug": "unknown-vehicle-37",
+      "title": "???",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/unknown-vehicle-37",
+      "desc": "Vehicle in the workshop. Designation withheld.",
+      "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+      "facts": [
+        [
+          "Designation",
+          "???"
+        ],
+        [
+          "Country",
+          "[[elonya]]"
+        ],
+        [
+          "Class",
+          "4x4 armored anti-tank vehicle"
+        ],
+        [
+          "Status",
+          "In the vehicle workshop"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/unknown-37.jpg",
+      "classified": false,
+      "aliases": [
+        "unknown-vehicle-37"
+      ]
+    },
+    {
+      "id": "unknown-vehicle-38",
+      "slug": "unknown-vehicle-38",
+      "title": "???",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/unknown-vehicle-38",
+      "desc": "Vehicle in the workshop. Designation withheld.",
+      "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+      "facts": [
+        [
+          "Designation",
+          "???"
+        ],
+        [
+          "Country",
+          "[[elonya]]"
+        ],
+        [
+          "Class",
+          "Light armored reconnaissance vehicle"
+        ],
+        [
+          "Status",
+          "In the vehicle workshop"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/unknown-38.jpg",
+      "classified": false,
+      "aliases": [
+        "unknown-vehicle-38"
+      ]
+    },
+    {
+      "id": "unknown-vehicle-39",
+      "slug": "unknown-vehicle-39",
+      "title": "???",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/unknown-vehicle-39",
+      "desc": "Vehicle in the workshop. Designation withheld.",
+      "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+      "facts": [
+        [
+          "Designation",
+          "???"
+        ],
+        [
+          "Country",
+          "[[elonya]]"
+        ],
+        [
+          "Class",
+          "4x4 medical evacuation vehicle"
+        ],
+        [
+          "Status",
+          "In the vehicle workshop"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/unknown-39.jpg",
+      "classified": false,
+      "aliases": [
+        "unknown-vehicle-39"
+      ]
+    },
+    {
+      "id": "unknown-vehicle-40",
+      "slug": "unknown-vehicle-40",
+      "title": "???",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/unknown-vehicle-40",
+      "desc": "Vehicle in the workshop. Designation withheld.",
+      "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+      "facts": [
+        [
+          "Designation",
+          "???"
+        ],
+        [
+          "Country",
+          "[[elonya]]"
+        ],
+        [
+          "Class",
+          "4x4 ambulance"
+        ],
+        [
+          "Status",
+          "In the vehicle workshop"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/unknown-40.jpg",
+      "classified": false,
+      "aliases": [
+        "unknown-vehicle-40"
+      ]
+    },
+    {
+      "id": "unknown-vehicle-41",
+      "slug": "unknown-vehicle-41",
+      "title": "???",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/unknown-vehicle-41",
+      "desc": "Vehicle in the workshop. Designation withheld.",
+      "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+      "facts": [
+        [
+          "Designation",
+          "???"
+        ],
+        [
+          "Country",
+          "[[elonya]]"
+        ],
+        [
+          "Class",
+          "Special forces light utility vehicle"
+        ],
+        [
+          "Status",
+          "In the vehicle workshop"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/unknown-41.jpg",
+      "classified": false,
+      "aliases": [
+        "unknown-vehicle-41"
+      ]
+    },
+    {
+      "id": "unknown-vehicle-42",
+      "slug": "unknown-vehicle-42",
+      "title": "???",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/unknown-vehicle-42",
+      "desc": "Vehicle in the workshop. Designation withheld.",
+      "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+      "facts": [
+        [
+          "Designation",
+          "???"
+        ],
+        [
+          "Country",
+          "[[elonya]]"
+        ],
+        [
+          "Class",
+          "Light strike vehicle"
+        ],
+        [
+          "Status",
+          "In the vehicle workshop"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/unknown-42.jpg",
+      "classified": false,
+      "aliases": [
+        "unknown-vehicle-42"
+      ]
+    },
+    {
+      "id": "unknown-vehicle-43",
+      "slug": "unknown-vehicle-43",
+      "title": "???",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/unknown-vehicle-43",
+      "desc": "Vehicle in the workshop. Designation withheld.",
+      "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+      "facts": [
+        [
+          "Designation",
+          "???"
+        ],
+        [
+          "Country",
+          "[[elonya]]"
+        ],
+        [
+          "Class",
+          "Attack helicopter"
+        ],
+        [
+          "Status",
+          "In the vehicle workshop"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/unknown-43.jpg",
+      "classified": false,
+      "aliases": [
+        "unknown-vehicle-43"
+      ]
+    },
+    {
+      "id": "unknown-vehicle-44",
+      "slug": "unknown-vehicle-44",
+      "title": "???",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/unknown-vehicle-44",
+      "desc": "Vehicle in the workshop. Designation withheld.",
+      "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+      "facts": [
+        [
+          "Designation",
+          "???"
+        ],
+        [
+          "Country",
+          "[[elonya]]"
+        ],
+        [
+          "Class",
+          "Armed scout helicopter"
+        ],
+        [
+          "Status",
+          "In the vehicle workshop"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/unknown-44.jpg",
+      "classified": false,
+      "aliases": [
+        "unknown-vehicle-44"
+      ]
+    },
+    {
+      "id": "unknown-vehicle-45",
+      "slug": "unknown-vehicle-45",
+      "title": "???",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/unknown-vehicle-45",
+      "desc": "Vehicle in the workshop. Designation withheld.",
+      "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+      "facts": [
+        [
+          "Designation",
+          "???"
+        ],
+        [
+          "Country",
+          "[[elonya]]"
+        ],
+        [
+          "Class",
+          "Heavy transport helicopter"
+        ],
+        [
+          "Status",
+          "In the vehicle workshop"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/unknown-45.jpg",
+      "classified": false,
+      "aliases": [
+        "unknown-vehicle-45"
+      ]
+    },
+    {
+      "id": "unknown-vehicle-46",
+      "slug": "unknown-vehicle-46",
+      "title": "???",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/unknown-vehicle-46",
+      "desc": "Vehicle in the workshop. Designation withheld.",
+      "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+      "facts": [
+        [
+          "Designation",
+          "???"
+        ],
+        [
+          "Country",
+          "[[anatarya]]"
+        ],
+        [
+          "Class",
+          "Light utility vehicle"
+        ],
+        [
+          "Status",
+          "In the vehicle workshop"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/unknown-46.jpg",
+      "classified": false,
+      "aliases": [
+        "unknown-vehicle-46"
+      ]
+    },
+    {
+      "id": "unknown-vehicle-47",
+      "slug": "unknown-vehicle-47",
+      "title": "???",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/unknown-vehicle-47",
+      "desc": "Vehicle in the workshop. Designation withheld.",
+      "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+      "facts": [
+        [
+          "Designation",
+          "???"
+        ],
+        [
+          "Country",
+          "[[anatarya]]"
+        ],
+        [
+          "Class",
+          "Armed unmanned ground vehicle"
+        ],
+        [
+          "Status",
+          "In the vehicle workshop"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/unknown-47.jpg",
+      "classified": false,
+      "aliases": [
+        "unknown-vehicle-47"
+      ]
+    },
+    {
+      "id": "unknown-vehicle-48",
+      "slug": "unknown-vehicle-48",
+      "title": "???",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/unknown-vehicle-48",
+      "desc": "Vehicle in the workshop. Designation withheld.",
+      "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+      "facts": [
+        [
+          "Designation",
+          "???"
+        ],
+        [
+          "Country",
+          "[[anatarya]]"
+        ],
+        [
+          "Class",
+          "Armed unmanned ground vehicle"
+        ],
+        [
+          "Status",
+          "In the vehicle workshop"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/unknown-48.jpg",
+      "classified": false,
+      "aliases": [
+        "unknown-vehicle-48"
+      ]
+    },
+    {
+      "id": "unknown-vehicle-49",
+      "slug": "unknown-vehicle-49",
+      "title": "???",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/unknown-vehicle-49",
+      "desc": "Vehicle in the workshop. Designation withheld.",
+      "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+      "facts": [
+        [
+          "Designation",
+          "???"
+        ],
+        [
+          "Country",
+          "[[anatarya]]"
+        ],
+        [
+          "Class",
+          "Armed unmanned ground vehicle"
+        ],
+        [
+          "Status",
+          "In the vehicle workshop"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/unknown-49.jpg",
+      "classified": false,
+      "aliases": [
+        "unknown-vehicle-49"
+      ]
+    },
+    {
+      "id": "unknown-vehicle-50",
+      "slug": "unknown-vehicle-50",
+      "title": "???",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/unknown-vehicle-50",
+      "desc": "Vehicle in the workshop. Designation withheld.",
+      "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+      "facts": [
+        [
+          "Designation",
+          "???"
+        ],
+        [
+          "Country",
+          "[[anatarya]]"
+        ],
+        [
+          "Class",
+          "6x6 armed unmanned ground vehicle"
+        ],
+        [
+          "Status",
+          "In the vehicle workshop"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/unknown-50.jpg",
+      "classified": false,
+      "aliases": [
+        "unknown-vehicle-50"
+      ]
+    },
+    {
+      "id": "unknown-vehicle-51",
+      "slug": "unknown-vehicle-51",
+      "title": "???",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/unknown-vehicle-51",
+      "desc": "Vehicle in the workshop. Designation withheld.",
+      "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+      "facts": [
+        [
+          "Designation",
+          "???"
+        ],
+        [
+          "Country",
+          "[[anatarya]]"
+        ],
+        [
+          "Class",
+          "Armed unmanned ground vehicle"
+        ],
+        [
+          "Status",
+          "In the vehicle workshop"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/unknown-51.jpg",
+      "classified": false,
+      "aliases": [
+        "unknown-vehicle-51"
+      ]
+    },
+    {
+      "id": "unknown-vehicle-52",
+      "slug": "unknown-vehicle-52",
+      "title": "???",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/unknown-vehicle-52",
+      "desc": "Vehicle in the workshop. Designation withheld.",
+      "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+      "facts": [
+        [
+          "Designation",
+          "???"
+        ],
+        [
+          "Country",
+          "[[anatarya]]"
+        ],
+        [
+          "Class",
+          "Reconnaissance unmanned ground vehicle"
+        ],
+        [
+          "Status",
+          "In the vehicle workshop"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/unknown-52.jpg",
+      "classified": false,
+      "aliases": [
+        "unknown-vehicle-52"
+      ]
+    },
+    {
+      "id": "unknown-vehicle-53",
+      "slug": "unknown-vehicle-53",
+      "title": "???",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/unknown-vehicle-53",
+      "desc": "Vehicle in the workshop. Designation withheld.",
+      "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+      "facts": [
+        [
+          "Designation",
+          "???"
+        ],
+        [
+          "Country",
+          "[[anatarya]]"
+        ],
+        [
+          "Class",
+          "Reconnaissance unmanned ground vehicle"
+        ],
+        [
+          "Status",
+          "In the vehicle workshop"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/unknown-53.jpg",
+      "classified": false,
+      "aliases": [
+        "unknown-vehicle-53"
+      ]
+    },
+    {
+      "id": "unknown-vehicle-54",
+      "slug": "unknown-vehicle-54",
+      "title": "???",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/unknown-vehicle-54",
+      "desc": "Vehicle in the workshop. Designation withheld.",
+      "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+      "facts": [
+        [
+          "Designation",
+          "???"
+        ],
+        [
+          "Country",
+          "[[anatarya]]"
+        ],
+        [
+          "Class",
+          "Bomb-disposal unmanned ground vehicle"
+        ],
+        [
+          "Status",
+          "In the vehicle workshop"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/unknown-54.jpg",
+      "classified": false,
+      "aliases": [
+        "unknown-vehicle-54"
+      ]
+    },
+    {
+      "id": "unknown-vehicle-55",
+      "slug": "unknown-vehicle-55",
+      "title": "???",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/unknown-vehicle-55",
+      "desc": "Vehicle in the workshop. Designation withheld.",
+      "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+      "facts": [
+        [
+          "Designation",
+          "???"
+        ],
+        [
+          "Country",
+          "[[anatarya]]"
+        ],
+        [
+          "Class",
+          "Explosive-ordnance unmanned ground vehicle"
+        ],
+        [
+          "Status",
+          "In the vehicle workshop"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/unknown-55.jpg",
+      "classified": false,
+      "aliases": [
+        "unknown-vehicle-55"
+      ]
+    },
+    {
+      "id": "unknown-vehicle-56",
+      "slug": "unknown-vehicle-56",
+      "title": "???",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/unknown-vehicle-56",
+      "desc": "Vehicle in the workshop. Designation withheld.",
+      "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+      "facts": [
+        [
+          "Designation",
+          "???"
+        ],
+        [
+          "Country",
+          "[[anatarya]]"
+        ],
+        [
+          "Class",
+          "6x6 explosive-ordnance unmanned ground vehicle"
+        ],
+        [
+          "Status",
+          "In the vehicle workshop"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/unknown-56.jpg",
+      "classified": false,
+      "aliases": [
+        "unknown-vehicle-56"
+      ]
+    },
+    {
+      "id": "unknown-vehicle-57",
+      "slug": "unknown-vehicle-57",
+      "title": "???",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/unknown-vehicle-57",
+      "desc": "Vehicle in the workshop. Designation withheld.",
+      "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+      "facts": [
+        [
+          "Designation",
+          "???"
+        ],
+        [
+          "Country",
+          "[[anatarya]]"
+        ],
+        [
+          "Class",
+          "Explosive-ordnance unmanned ground vehicle"
+        ],
+        [
+          "Status",
+          "In the vehicle workshop"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/unknown-57.jpg",
+      "classified": false,
+      "aliases": [
+        "unknown-vehicle-57"
+      ]
+    },
+    {
+      "id": "classified-vehicle-6",
+      "slug": "classified-vehicle-6",
+      "title": "[CLASSIFIED] VEHICLE 06",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/classified-vehicle-6",
+      "desc": "[REDACTED] — Restricted vehicle record. Clearance Level 5 required.",
+      "lead": "Security Directive ████-09: The designation, appearance and specifications of this vehicle are withheld from the public archive.",
+      "facts": [
+        [
+          "Designation",
+          "[REDACTED]"
+        ],
+        [
+          "Class",
+          "[REDACTED]"
+        ],
+        [
+          "Operator",
+          "[REDACTED]"
+        ],
+        [
+          "Classification",
+          "[LEVEL 5 REQUIRED]"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/classified-generic.svg",
+      "classified": true,
+      "aliases": [
+        "classified-vehicle-6"
+      ]
+    },
+    {
+      "id": "classified-vehicle-7",
+      "slug": "classified-vehicle-7",
+      "title": "[CLASSIFIED] VEHICLE 07",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/classified-vehicle-7",
+      "desc": "[REDACTED] — Restricted vehicle record. Clearance Level 5 required.",
+      "lead": "Security Directive ████-09: The designation, appearance and specifications of this vehicle are withheld from the public archive.",
+      "facts": [
+        [
+          "Designation",
+          "[REDACTED]"
+        ],
+        [
+          "Class",
+          "[REDACTED]"
+        ],
+        [
+          "Operator",
+          "[REDACTED]"
+        ],
+        [
+          "Classification",
+          "[LEVEL 5 REQUIRED]"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/classified-generic.svg",
+      "classified": true,
+      "aliases": [
+        "classified-vehicle-7"
+      ]
+    },
+    {
+      "id": "classified-vehicle-8",
+      "slug": "classified-vehicle-8",
+      "title": "[CLASSIFIED] VEHICLE 08",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/classified-vehicle-8",
+      "desc": "[REDACTED] — Restricted vehicle record. Clearance Level 5 required.",
+      "lead": "Security Directive ████-09: The designation, appearance and specifications of this vehicle are withheld from the public archive.",
+      "facts": [
+        [
+          "Designation",
+          "[REDACTED]"
+        ],
+        [
+          "Class",
+          "[REDACTED]"
+        ],
+        [
+          "Operator",
+          "[REDACTED]"
+        ],
+        [
+          "Classification",
+          "[LEVEL 5 REQUIRED]"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/classified-generic.svg",
+      "classified": true,
+      "aliases": [
+        "classified-vehicle-8"
+      ]
+    },
+    {
+      "id": "classified-vehicle-9",
+      "slug": "classified-vehicle-9",
+      "title": "[CLASSIFIED] VEHICLE 09",
+      "category": "Vehicles",
+      "url": "https://t1orstudios.github.io/vehicles/classified-vehicle-9",
+      "desc": "[REDACTED] — Restricted vehicle record. Clearance Level 5 required.",
+      "lead": "Security Directive ████-09: The designation, appearance and specifications of this vehicle are withheld from the public archive.",
+      "facts": [
+        [
+          "Designation",
+          "[REDACTED]"
+        ],
+        [
+          "Class",
+          "[REDACTED]"
+        ],
+        [
+          "Operator",
+          "[REDACTED]"
+        ],
+        [
+          "Classification",
+          "[LEVEL 5 REQUIRED]"
+        ]
+      ],
+      "imageUrl": "https://t1orstudios.github.io/classified-generic.svg",
+      "classified": true,
+      "aliases": [
+        "classified-vehicle-9"
       ]
     }
   ]

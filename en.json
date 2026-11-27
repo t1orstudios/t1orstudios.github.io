@@ -5031,6 +5031,10 @@
         "???"
       ],
       [
+        "Country",
+        "[[anatarya]]"
+      ],
+      [
         "Class",
         "Main battle tank"
       ],
@@ -5046,7 +5050,8 @@
       ]
     ],
     "related": [
-      "vehicle-bays"
+      "vehicle-bays",
+      "anatarya"
     ],
     "imageKey": "file:unknown-01.jpg",
     "draft": false
@@ -5062,6 +5067,10 @@
         "???"
       ],
       [
+        "Country",
+        "[[anatarya]]"
+      ],
+      [
         "Class",
         "Main battle tank"
       ],
@@ -5077,7 +5086,8 @@
       ]
     ],
     "related": [
-      "vehicle-bays"
+      "vehicle-bays",
+      "anatarya"
     ],
     "imageKey": "file:unknown-02.jpg",
     "draft": false
@@ -5091,6 +5101,10 @@
       [
         "Designation",
         "???"
+      ],
+      [
+        "Country",
+        "[[anatarya]]"
       ],
       [
         "Class",
@@ -5108,7 +5122,8 @@
       ]
     ],
     "related": [
-      "vehicle-bays"
+      "vehicle-bays",
+      "anatarya"
     ],
     "imageKey": "file:unknown-03.jpg",
     "draft": false
@@ -5122,6 +5137,10 @@
       [
         "Designation",
         "???"
+      ],
+      [
+        "Country",
+        "[[anatarya]]"
       ],
       [
         "Class",
@@ -5139,7 +5158,8 @@
       ]
     ],
     "related": [
-      "vehicle-bays"
+      "vehicle-bays",
+      "anatarya"
     ],
     "imageKey": "file:unknown-04.jpg",
     "draft": false
@@ -5153,6 +5173,10 @@
       [
         "Designation",
         "???"
+      ],
+      [
+        "Country",
+        "[[elonya]]"
       ],
       [
         "Class",
@@ -5170,7 +5194,8 @@
       ]
     ],
     "related": [
-      "vehicle-bays"
+      "vehicle-bays",
+      "elonya"
     ],
     "imageKey": "file:unknown-05.jpg",
     "draft": false
@@ -5184,6 +5209,10 @@
       [
         "Designation",
         "???"
+      ],
+      [
+        "Country",
+        "[[elonya]]"
       ],
       [
         "Class",
@@ -5201,7 +5230,8 @@
       ]
     ],
     "related": [
-      "vehicle-bays"
+      "vehicle-bays",
+      "elonya"
     ],
     "imageKey": "file:unknown-06.jpg",
     "draft": false
@@ -5215,6 +5245,10 @@
       [
         "Designation",
         "???"
+      ],
+      [
+        "Country",
+        "[[anatarya]]"
       ],
       [
         "Class",
@@ -5232,7 +5266,8 @@
       ]
     ],
     "related": [
-      "vehicle-bays"
+      "vehicle-bays",
+      "anatarya"
     ],
     "imageKey": "file:unknown-07.jpg",
     "draft": false
@@ -5246,6 +5281,10 @@
       [
         "Designation",
         "???"
+      ],
+      [
+        "Country",
+        "[[anatarya]]"
       ],
       [
         "Class",
@@ -5263,7 +5302,8 @@
       ]
     ],
     "related": [
-      "vehicle-bays"
+      "vehicle-bays",
+      "anatarya"
     ],
     "imageKey": "file:unknown-08.jpg",
     "draft": false
@@ -5279,6 +5319,10 @@
         "???"
       ],
       [
+        "Country",
+        "[[elonya]]"
+      ],
+      [
         "Class",
         "Short-range air-defense system"
       ],
@@ -5294,7 +5338,8 @@
       ]
     ],
     "related": [
-      "vehicle-bays"
+      "vehicle-bays",
+      "elonya"
     ],
     "imageKey": "file:unknown-09.jpg",
     "draft": false
@@ -5310,6 +5355,10 @@
         "???"
       ],
       [
+        "Country",
+        "[[elonya]]"
+      ],
+      [
         "Class",
         "Short-range air-defense system"
       ],
@@ -5325,7 +5374,8 @@
       ]
     ],
     "related": [
-      "vehicle-bays"
+      "vehicle-bays",
+      "elonya"
     ],
     "imageKey": "file:unknown-10.jpg",
     "draft": false
@@ -5339,6 +5389,10 @@
       [
         "Designation",
         "???"
+      ],
+      [
+        "Country",
+        "[[elonya]]"
       ],
       [
         "Class",
@@ -5356,7 +5410,8 @@
       ]
     ],
     "related": [
-      "vehicle-bays"
+      "vehicle-bays",
+      "elonya"
     ],
     "imageKey": "file:unknown-11.jpg",
     "draft": false
@@ -5370,6 +5425,10 @@
       [
         "Designation",
         "???"
+      ],
+      [
+        "Country",
+        "[[anatarya]]"
       ],
       [
         "Class",
@@ -5387,7 +5446,8 @@
       ]
     ],
     "related": [
-      "vehicle-bays"
+      "vehicle-bays",
+      "anatarya"
     ],
     "imageKey": "file:unknown-12.jpg",
     "draft": false
@@ -5403,6 +5463,10 @@
         "???"
       ],
       [
+        "Country",
+        "[[anatarya]]"
+      ],
+      [
         "Class",
         "4x4 armored tactical vehicle"
       ],
@@ -5418,7 +5482,8 @@
       ]
     ],
     "related": [
-      "vehicle-bays"
+      "vehicle-bays",
+      "anatarya"
     ],
     "imageKey": "file:unknown-13.jpg",
     "draft": false
@@ -5434,6 +5499,10 @@
         "???"
       ],
       [
+        "Country",
+        "[[anatarya]]"
+      ],
+      [
         "Class",
         "4x4 armored tactical vehicle"
       ],
@@ -5449,7 +5518,8 @@
       ]
     ],
     "related": [
-      "vehicle-bays"
+      "vehicle-bays",
+      "anatarya"
     ],
     "imageKey": "file:unknown-14.jpg",
     "draft": false
@@ -5465,6 +5535,10 @@
         "???"
       ],
       [
+        "Country",
+        "[[anatarya]]"
+      ],
+      [
         "Class",
         "4x4 armored vehicle"
       ],
@@ -5480,7 +5554,8 @@
       ]
     ],
     "related": [
-      "vehicle-bays"
+      "vehicle-bays",
+      "anatarya"
     ],
     "imageKey": "file:unknown-15.jpg",
     "draft": false
@@ -5496,6 +5571,10 @@
         "???"
       ],
       [
+        "Country",
+        "[[anatarya]]"
+      ],
+      [
         "Class",
         "4x4 armored vehicle"
       ],
@@ -5511,7 +5590,8 @@
       ]
     ],
     "related": [
-      "vehicle-bays"
+      "vehicle-bays",
+      "anatarya"
     ],
     "imageKey": "file:unknown-16.jpg",
     "draft": false
@@ -5527,6 +5607,10 @@
         "???"
       ],
       [
+        "Country",
+        "[[anatarya]]"
+      ],
+      [
         "Class",
         "4x4 armored vehicle"
       ],
@@ -5542,7 +5626,8 @@
       ]
     ],
     "related": [
-      "vehicle-bays"
+      "vehicle-bays",
+      "anatarya"
     ],
     "imageKey": "file:unknown-17.jpg",
     "draft": false
@@ -5556,6 +5641,10 @@
       [
         "Designation",
         "???"
+      ],
+      [
+        "Country",
+        "[[anatarya]]"
       ],
       [
         "Class",
@@ -5573,7 +5662,8 @@
       ]
     ],
     "related": [
-      "vehicle-bays"
+      "vehicle-bays",
+      "anatarya"
     ],
     "imageKey": "file:unknown-18.jpg",
     "draft": false
@@ -5589,6 +5679,10 @@
         "???"
       ],
       [
+        "Country",
+        "[[anatarya]]"
+      ],
+      [
         "Class",
         "4x4 armored vehicle"
       ],
@@ -5604,7 +5698,8 @@
       ]
     ],
     "related": [
-      "vehicle-bays"
+      "vehicle-bays",
+      "anatarya"
     ],
     "imageKey": "file:unknown-19.jpg",
     "draft": false
@@ -5620,6 +5715,10 @@
         "???"
       ],
       [
+        "Country",
+        "[[anatarya]]"
+      ],
+      [
         "Class",
         "4x4 armored vehicle"
       ],
@@ -5635,7 +5734,8 @@
       ]
     ],
     "related": [
-      "vehicle-bays"
+      "vehicle-bays",
+      "anatarya"
     ],
     "imageKey": "file:unknown-20.jpg",
     "draft": false
@@ -5651,6 +5751,10 @@
         "???"
       ],
       [
+        "Country",
+        "[[anatarya]]"
+      ],
+      [
         "Class",
         "4x4 armored vehicle"
       ],
@@ -5666,7 +5770,8 @@
       ]
     ],
     "related": [
-      "vehicle-bays"
+      "vehicle-bays",
+      "anatarya"
     ],
     "imageKey": "file:unknown-21.jpg",
     "draft": false
@@ -5680,6 +5785,10 @@
       [
         "Designation",
         "???"
+      ],
+      [
+        "Country",
+        "[[anatarya]]"
       ],
       [
         "Class",
@@ -5697,7 +5806,8 @@
       ]
     ],
     "related": [
-      "vehicle-bays"
+      "vehicle-bays",
+      "anatarya"
     ],
     "imageKey": "file:unknown-22.jpg",
     "draft": false
@@ -5713,6 +5823,10 @@
         "???"
       ],
       [
+        "Country",
+        "[[elonya]]"
+      ],
+      [
         "Class",
         "Light utility vehicle"
       ],
@@ -5728,7 +5842,8 @@
       ]
     ],
     "related": [
-      "vehicle-bays"
+      "vehicle-bays",
+      "elonya"
     ],
     "imageKey": "file:unknown-23.jpg",
     "draft": false
@@ -5744,6 +5859,10 @@
         "???"
       ],
       [
+        "Country",
+        "[[elonya]]"
+      ],
+      [
         "Class",
         "Light utility vehicle"
       ],
@@ -5759,7 +5878,8 @@
       ]
     ],
     "related": [
-      "vehicle-bays"
+      "vehicle-bays",
+      "elonya"
     ],
     "imageKey": "file:unknown-24.jpg",
     "draft": false
@@ -5773,6 +5893,10 @@
       [
         "Designation",
         "???"
+      ],
+      [
+        "Country",
+        "[[anatarya]]"
       ],
       [
         "Class",
@@ -5790,7 +5914,8 @@
       ]
     ],
     "related": [
-      "vehicle-bays"
+      "vehicle-bays",
+      "anatarya"
     ],
     "imageKey": "file:unknown-25.jpg",
     "draft": false
@@ -5941,6 +6066,1302 @@
   },
   "classified-vehicle-5": {
     "title": "[CLASSIFIED] VEHICLE 05",
+    "category": "Vehicles",
+    "classified": true,
+    "desc": "[REDACTED] — Restricted vehicle record. Clearance Level 5 required.",
+    "lead": "Security Directive ████-09: The designation, appearance and specifications of this vehicle are withheld from the public archive.",
+    "facts": [
+      [
+        "Designation",
+        "[REDACTED]"
+      ],
+      [
+        "Class",
+        "[REDACTED]"
+      ],
+      [
+        "Operator",
+        "[REDACTED]"
+      ],
+      [
+        "Classification",
+        "[LEVEL 5 REQUIRED]"
+      ]
+    ],
+    "sections": [
+      [
+        "Record",
+        "[DATA EXPUNGED]. Public archive mirrors retain only the file header; access to the underlying appendices returns [ACCESS DENIED]."
+      ]
+    ],
+    "related": [
+      "aia"
+    ],
+    "imageKey": "classified-seal",
+    "draft": false
+  },
+  "unknown-vehicle-26": {
+    "title": "???",
+    "category": "Vehicles",
+    "desc": "Vehicle in the workshop. Designation withheld.",
+    "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+    "facts": [
+      [
+        "Designation",
+        "???"
+      ],
+      [
+        "Country",
+        "[[elonya]]"
+      ],
+      [
+        "Class",
+        "Main battle tank"
+      ],
+      [
+        "Status",
+        "In the vehicle workshop"
+      ]
+    ],
+    "sections": [
+      [
+        "Overview",
+        "This vehicle is part of the new vehicle set built in the workshop. Technical details and the official name will be published when it is transferred to the main game. See [[vehicle-bays]] for how vehicles are called in the game."
+      ]
+    ],
+    "related": [
+      "vehicle-bays",
+      "elonya"
+    ],
+    "imageKey": "file:unknown-26.jpg",
+    "draft": false
+  },
+  "unknown-vehicle-27": {
+    "title": "???",
+    "category": "Vehicles",
+    "desc": "Vehicle in the workshop. Designation withheld.",
+    "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+    "facts": [
+      [
+        "Designation",
+        "???"
+      ],
+      [
+        "Country",
+        "[[elonya]]"
+      ],
+      [
+        "Class",
+        "Main battle tank"
+      ],
+      [
+        "Status",
+        "In the vehicle workshop"
+      ]
+    ],
+    "sections": [
+      [
+        "Overview",
+        "This vehicle is part of the new vehicle set built in the workshop. Technical details and the official name will be published when it is transferred to the main game. See [[vehicle-bays]] for how vehicles are called in the game."
+      ]
+    ],
+    "related": [
+      "vehicle-bays",
+      "elonya"
+    ],
+    "imageKey": "file:unknown-27.jpg",
+    "draft": false
+  },
+  "unknown-vehicle-28": {
+    "title": "???",
+    "category": "Vehicles",
+    "desc": "Vehicle in the workshop. Designation withheld.",
+    "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+    "facts": [
+      [
+        "Designation",
+        "???"
+      ],
+      [
+        "Country",
+        "[[elonya]]"
+      ],
+      [
+        "Class",
+        "Tracked infantry fighting vehicle"
+      ],
+      [
+        "Status",
+        "In the vehicle workshop"
+      ]
+    ],
+    "sections": [
+      [
+        "Overview",
+        "This vehicle is part of the new vehicle set built in the workshop. Technical details and the official name will be published when it is transferred to the main game. See [[vehicle-bays]] for how vehicles are called in the game."
+      ]
+    ],
+    "related": [
+      "vehicle-bays",
+      "elonya"
+    ],
+    "imageKey": "file:unknown-28.jpg",
+    "draft": false
+  },
+  "unknown-vehicle-29": {
+    "title": "???",
+    "category": "Vehicles",
+    "desc": "Vehicle in the workshop. Designation withheld.",
+    "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+    "facts": [
+      [
+        "Designation",
+        "???"
+      ],
+      [
+        "Country",
+        "[[elonya]]"
+      ],
+      [
+        "Class",
+        "8x8 armored infantry carrier"
+      ],
+      [
+        "Status",
+        "In the vehicle workshop"
+      ]
+    ],
+    "sections": [
+      [
+        "Overview",
+        "This vehicle is part of the new vehicle set built in the workshop. Technical details and the official name will be published when it is transferred to the main game. See [[vehicle-bays]] for how vehicles are called in the game."
+      ]
+    ],
+    "related": [
+      "vehicle-bays",
+      "elonya"
+    ],
+    "imageKey": "file:unknown-29.jpg",
+    "draft": false
+  },
+  "unknown-vehicle-30": {
+    "title": "???",
+    "category": "Vehicles",
+    "desc": "Vehicle in the workshop. Designation withheld.",
+    "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+    "facts": [
+      [
+        "Designation",
+        "???"
+      ],
+      [
+        "Country",
+        "[[elonya]]"
+      ],
+      [
+        "Class",
+        "Wheeled armored personnel carrier"
+      ],
+      [
+        "Status",
+        "In the vehicle workshop"
+      ]
+    ],
+    "sections": [
+      [
+        "Overview",
+        "This vehicle is part of the new vehicle set built in the workshop. Technical details and the official name will be published when it is transferred to the main game. See [[vehicle-bays]] for how vehicles are called in the game."
+      ]
+    ],
+    "related": [
+      "vehicle-bays",
+      "elonya"
+    ],
+    "imageKey": "file:unknown-30.jpg",
+    "draft": false
+  },
+  "unknown-vehicle-31": {
+    "title": "???",
+    "category": "Vehicles",
+    "desc": "Vehicle in the workshop. Designation withheld.",
+    "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+    "facts": [
+      [
+        "Designation",
+        "???"
+      ],
+      [
+        "Country",
+        "[[elonya]]"
+      ],
+      [
+        "Class",
+        "Tracked armored personnel carrier"
+      ],
+      [
+        "Status",
+        "In the vehicle workshop"
+      ]
+    ],
+    "sections": [
+      [
+        "Overview",
+        "This vehicle is part of the new vehicle set built in the workshop. Technical details and the official name will be published when it is transferred to the main game. See [[vehicle-bays]] for how vehicles are called in the game."
+      ]
+    ],
+    "related": [
+      "vehicle-bays",
+      "elonya"
+    ],
+    "imageKey": "file:unknown-31.jpg",
+    "draft": false
+  },
+  "unknown-vehicle-32": {
+    "title": "???",
+    "category": "Vehicles",
+    "desc": "Vehicle in the workshop. Designation withheld.",
+    "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+    "facts": [
+      [
+        "Designation",
+        "???"
+      ],
+      [
+        "Country",
+        "[[elonya]]"
+      ],
+      [
+        "Class",
+        "Tracked medical evacuation vehicle"
+      ],
+      [
+        "Status",
+        "In the vehicle workshop"
+      ]
+    ],
+    "sections": [
+      [
+        "Overview",
+        "This vehicle is part of the new vehicle set built in the workshop. Technical details and the official name will be published when it is transferred to the main game. See [[vehicle-bays]] for how vehicles are called in the game."
+      ]
+    ],
+    "related": [
+      "vehicle-bays",
+      "elonya"
+    ],
+    "imageKey": "file:unknown-32.jpg",
+    "draft": false
+  },
+  "unknown-vehicle-33": {
+    "title": "???",
+    "category": "Vehicles",
+    "desc": "Vehicle in the workshop. Designation withheld.",
+    "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+    "facts": [
+      [
+        "Designation",
+        "???"
+      ],
+      [
+        "Country",
+        "[[elonya]]"
+      ],
+      [
+        "Class",
+        "Tracked smoke-generator carrier"
+      ],
+      [
+        "Status",
+        "In the vehicle workshop"
+      ]
+    ],
+    "sections": [
+      [
+        "Overview",
+        "This vehicle is part of the new vehicle set built in the workshop. Technical details and the official name will be published when it is transferred to the main game. See [[vehicle-bays]] for how vehicles are called in the game."
+      ]
+    ],
+    "related": [
+      "vehicle-bays",
+      "elonya"
+    ],
+    "imageKey": "file:unknown-33.jpg",
+    "draft": false
+  },
+  "unknown-vehicle-34": {
+    "title": "???",
+    "category": "Vehicles",
+    "desc": "Vehicle in the workshop. Designation withheld.",
+    "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+    "facts": [
+      [
+        "Designation",
+        "???"
+      ],
+      [
+        "Country",
+        "[[elonya]]"
+      ],
+      [
+        "Class",
+        "Self-propelled howitzer"
+      ],
+      [
+        "Status",
+        "In the vehicle workshop"
+      ]
+    ],
+    "sections": [
+      [
+        "Overview",
+        "This vehicle is part of the new vehicle set built in the workshop. Technical details and the official name will be published when it is transferred to the main game. See [[vehicle-bays]] for how vehicles are called in the game."
+      ]
+    ],
+    "related": [
+      "vehicle-bays",
+      "elonya"
+    ],
+    "imageKey": "file:unknown-34.jpg",
+    "draft": false
+  },
+  "unknown-vehicle-35": {
+    "title": "???",
+    "category": "Vehicles",
+    "desc": "Vehicle in the workshop. Designation withheld.",
+    "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+    "facts": [
+      [
+        "Designation",
+        "???"
+      ],
+      [
+        "Country",
+        "[[elonya]]"
+      ],
+      [
+        "Class",
+        "4x4 armored security vehicle"
+      ],
+      [
+        "Status",
+        "In the vehicle workshop"
+      ]
+    ],
+    "sections": [
+      [
+        "Overview",
+        "This vehicle is part of the new vehicle set built in the workshop. Technical details and the official name will be published when it is transferred to the main game. See [[vehicle-bays]] for how vehicles are called in the game."
+      ]
+    ],
+    "related": [
+      "vehicle-bays",
+      "elonya"
+    ],
+    "imageKey": "file:unknown-35.jpg",
+    "draft": false
+  },
+  "unknown-vehicle-36": {
+    "title": "???",
+    "category": "Vehicles",
+    "desc": "Vehicle in the workshop. Designation withheld.",
+    "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+    "facts": [
+      [
+        "Designation",
+        "???"
+      ],
+      [
+        "Country",
+        "[[elonya]]"
+      ],
+      [
+        "Class",
+        "4x4 mine-resistant armored vehicle"
+      ],
+      [
+        "Status",
+        "In the vehicle workshop"
+      ]
+    ],
+    "sections": [
+      [
+        "Overview",
+        "This vehicle is part of the new vehicle set built in the workshop. Technical details and the official name will be published when it is transferred to the main game. See [[vehicle-bays]] for how vehicles are called in the game."
+      ]
+    ],
+    "related": [
+      "vehicle-bays",
+      "elonya"
+    ],
+    "imageKey": "file:unknown-36.jpg",
+    "draft": false
+  },
+  "unknown-vehicle-37": {
+    "title": "???",
+    "category": "Vehicles",
+    "desc": "Vehicle in the workshop. Designation withheld.",
+    "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+    "facts": [
+      [
+        "Designation",
+        "???"
+      ],
+      [
+        "Country",
+        "[[elonya]]"
+      ],
+      [
+        "Class",
+        "4x4 armored anti-tank vehicle"
+      ],
+      [
+        "Status",
+        "In the vehicle workshop"
+      ]
+    ],
+    "sections": [
+      [
+        "Overview",
+        "This vehicle is part of the new vehicle set built in the workshop. Technical details and the official name will be published when it is transferred to the main game. See [[vehicle-bays]] for how vehicles are called in the game."
+      ]
+    ],
+    "related": [
+      "vehicle-bays",
+      "elonya"
+    ],
+    "imageKey": "file:unknown-37.jpg",
+    "draft": false
+  },
+  "unknown-vehicle-38": {
+    "title": "???",
+    "category": "Vehicles",
+    "desc": "Vehicle in the workshop. Designation withheld.",
+    "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+    "facts": [
+      [
+        "Designation",
+        "???"
+      ],
+      [
+        "Country",
+        "[[elonya]]"
+      ],
+      [
+        "Class",
+        "Light armored reconnaissance vehicle"
+      ],
+      [
+        "Status",
+        "In the vehicle workshop"
+      ]
+    ],
+    "sections": [
+      [
+        "Overview",
+        "This vehicle is part of the new vehicle set built in the workshop. Technical details and the official name will be published when it is transferred to the main game. See [[vehicle-bays]] for how vehicles are called in the game."
+      ]
+    ],
+    "related": [
+      "vehicle-bays",
+      "elonya"
+    ],
+    "imageKey": "file:unknown-38.jpg",
+    "draft": false
+  },
+  "unknown-vehicle-39": {
+    "title": "???",
+    "category": "Vehicles",
+    "desc": "Vehicle in the workshop. Designation withheld.",
+    "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+    "facts": [
+      [
+        "Designation",
+        "???"
+      ],
+      [
+        "Country",
+        "[[elonya]]"
+      ],
+      [
+        "Class",
+        "4x4 medical evacuation vehicle"
+      ],
+      [
+        "Status",
+        "In the vehicle workshop"
+      ]
+    ],
+    "sections": [
+      [
+        "Overview",
+        "This vehicle is part of the new vehicle set built in the workshop. Technical details and the official name will be published when it is transferred to the main game. See [[vehicle-bays]] for how vehicles are called in the game."
+      ]
+    ],
+    "related": [
+      "vehicle-bays",
+      "elonya"
+    ],
+    "imageKey": "file:unknown-39.jpg",
+    "draft": false
+  },
+  "unknown-vehicle-40": {
+    "title": "???",
+    "category": "Vehicles",
+    "desc": "Vehicle in the workshop. Designation withheld.",
+    "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+    "facts": [
+      [
+        "Designation",
+        "???"
+      ],
+      [
+        "Country",
+        "[[elonya]]"
+      ],
+      [
+        "Class",
+        "4x4 ambulance"
+      ],
+      [
+        "Status",
+        "In the vehicle workshop"
+      ]
+    ],
+    "sections": [
+      [
+        "Overview",
+        "This vehicle is part of the new vehicle set built in the workshop. Technical details and the official name will be published when it is transferred to the main game. See [[vehicle-bays]] for how vehicles are called in the game."
+      ]
+    ],
+    "related": [
+      "vehicle-bays",
+      "elonya"
+    ],
+    "imageKey": "file:unknown-40.jpg",
+    "draft": false
+  },
+  "unknown-vehicle-41": {
+    "title": "???",
+    "category": "Vehicles",
+    "desc": "Vehicle in the workshop. Designation withheld.",
+    "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+    "facts": [
+      [
+        "Designation",
+        "???"
+      ],
+      [
+        "Country",
+        "[[elonya]]"
+      ],
+      [
+        "Class",
+        "Special forces light utility vehicle"
+      ],
+      [
+        "Status",
+        "In the vehicle workshop"
+      ]
+    ],
+    "sections": [
+      [
+        "Overview",
+        "This vehicle is part of the new vehicle set built in the workshop. Technical details and the official name will be published when it is transferred to the main game. See [[vehicle-bays]] for how vehicles are called in the game."
+      ]
+    ],
+    "related": [
+      "vehicle-bays",
+      "elonya"
+    ],
+    "imageKey": "file:unknown-41.jpg",
+    "draft": false
+  },
+  "unknown-vehicle-42": {
+    "title": "???",
+    "category": "Vehicles",
+    "desc": "Vehicle in the workshop. Designation withheld.",
+    "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+    "facts": [
+      [
+        "Designation",
+        "???"
+      ],
+      [
+        "Country",
+        "[[elonya]]"
+      ],
+      [
+        "Class",
+        "Light strike vehicle"
+      ],
+      [
+        "Status",
+        "In the vehicle workshop"
+      ]
+    ],
+    "sections": [
+      [
+        "Overview",
+        "This vehicle is part of the new vehicle set built in the workshop. Technical details and the official name will be published when it is transferred to the main game. See [[vehicle-bays]] for how vehicles are called in the game."
+      ]
+    ],
+    "related": [
+      "vehicle-bays",
+      "elonya"
+    ],
+    "imageKey": "file:unknown-42.jpg",
+    "draft": false
+  },
+  "unknown-vehicle-43": {
+    "title": "???",
+    "category": "Vehicles",
+    "desc": "Vehicle in the workshop. Designation withheld.",
+    "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+    "facts": [
+      [
+        "Designation",
+        "???"
+      ],
+      [
+        "Country",
+        "[[elonya]]"
+      ],
+      [
+        "Class",
+        "Attack helicopter"
+      ],
+      [
+        "Status",
+        "In the vehicle workshop"
+      ]
+    ],
+    "sections": [
+      [
+        "Overview",
+        "This vehicle is part of the new vehicle set built in the workshop. Technical details and the official name will be published when it is transferred to the main game. See [[vehicle-bays]] for how vehicles are called in the game."
+      ]
+    ],
+    "related": [
+      "vehicle-bays",
+      "elonya"
+    ],
+    "imageKey": "file:unknown-43.jpg",
+    "draft": false
+  },
+  "unknown-vehicle-44": {
+    "title": "???",
+    "category": "Vehicles",
+    "desc": "Vehicle in the workshop. Designation withheld.",
+    "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+    "facts": [
+      [
+        "Designation",
+        "???"
+      ],
+      [
+        "Country",
+        "[[elonya]]"
+      ],
+      [
+        "Class",
+        "Armed scout helicopter"
+      ],
+      [
+        "Status",
+        "In the vehicle workshop"
+      ]
+    ],
+    "sections": [
+      [
+        "Overview",
+        "This vehicle is part of the new vehicle set built in the workshop. Technical details and the official name will be published when it is transferred to the main game. See [[vehicle-bays]] for how vehicles are called in the game."
+      ]
+    ],
+    "related": [
+      "vehicle-bays",
+      "elonya"
+    ],
+    "imageKey": "file:unknown-44.jpg",
+    "draft": false
+  },
+  "unknown-vehicle-45": {
+    "title": "???",
+    "category": "Vehicles",
+    "desc": "Vehicle in the workshop. Designation withheld.",
+    "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+    "facts": [
+      [
+        "Designation",
+        "???"
+      ],
+      [
+        "Country",
+        "[[elonya]]"
+      ],
+      [
+        "Class",
+        "Heavy transport helicopter"
+      ],
+      [
+        "Status",
+        "In the vehicle workshop"
+      ]
+    ],
+    "sections": [
+      [
+        "Overview",
+        "This vehicle is part of the new vehicle set built in the workshop. Technical details and the official name will be published when it is transferred to the main game. See [[vehicle-bays]] for how vehicles are called in the game."
+      ]
+    ],
+    "related": [
+      "vehicle-bays",
+      "elonya"
+    ],
+    "imageKey": "file:unknown-45.jpg",
+    "draft": false
+  },
+  "unknown-vehicle-46": {
+    "title": "???",
+    "category": "Vehicles",
+    "desc": "Vehicle in the workshop. Designation withheld.",
+    "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+    "facts": [
+      [
+        "Designation",
+        "???"
+      ],
+      [
+        "Country",
+        "[[anatarya]]"
+      ],
+      [
+        "Class",
+        "Light utility vehicle"
+      ],
+      [
+        "Status",
+        "In the vehicle workshop"
+      ]
+    ],
+    "sections": [
+      [
+        "Overview",
+        "This vehicle is part of the new vehicle set built in the workshop. Technical details and the official name will be published when it is transferred to the main game. See [[vehicle-bays]] for how vehicles are called in the game."
+      ]
+    ],
+    "related": [
+      "vehicle-bays",
+      "anatarya"
+    ],
+    "imageKey": "file:unknown-46.jpg",
+    "draft": false
+  },
+  "unknown-vehicle-47": {
+    "title": "???",
+    "category": "Vehicles",
+    "desc": "Vehicle in the workshop. Designation withheld.",
+    "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+    "facts": [
+      [
+        "Designation",
+        "???"
+      ],
+      [
+        "Country",
+        "[[anatarya]]"
+      ],
+      [
+        "Class",
+        "Armed unmanned ground vehicle"
+      ],
+      [
+        "Status",
+        "In the vehicle workshop"
+      ]
+    ],
+    "sections": [
+      [
+        "Overview",
+        "This vehicle is part of the new vehicle set built in the workshop. Technical details and the official name will be published when it is transferred to the main game. See [[vehicle-bays]] for how vehicles are called in the game."
+      ]
+    ],
+    "related": [
+      "vehicle-bays",
+      "anatarya"
+    ],
+    "imageKey": "file:unknown-47.jpg",
+    "draft": false
+  },
+  "unknown-vehicle-48": {
+    "title": "???",
+    "category": "Vehicles",
+    "desc": "Vehicle in the workshop. Designation withheld.",
+    "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+    "facts": [
+      [
+        "Designation",
+        "???"
+      ],
+      [
+        "Country",
+        "[[anatarya]]"
+      ],
+      [
+        "Class",
+        "Armed unmanned ground vehicle"
+      ],
+      [
+        "Status",
+        "In the vehicle workshop"
+      ]
+    ],
+    "sections": [
+      [
+        "Overview",
+        "This vehicle is part of the new vehicle set built in the workshop. Technical details and the official name will be published when it is transferred to the main game. See [[vehicle-bays]] for how vehicles are called in the game."
+      ]
+    ],
+    "related": [
+      "vehicle-bays",
+      "anatarya"
+    ],
+    "imageKey": "file:unknown-48.jpg",
+    "draft": false
+  },
+  "unknown-vehicle-49": {
+    "title": "???",
+    "category": "Vehicles",
+    "desc": "Vehicle in the workshop. Designation withheld.",
+    "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+    "facts": [
+      [
+        "Designation",
+        "???"
+      ],
+      [
+        "Country",
+        "[[anatarya]]"
+      ],
+      [
+        "Class",
+        "Armed unmanned ground vehicle"
+      ],
+      [
+        "Status",
+        "In the vehicle workshop"
+      ]
+    ],
+    "sections": [
+      [
+        "Overview",
+        "This vehicle is part of the new vehicle set built in the workshop. Technical details and the official name will be published when it is transferred to the main game. See [[vehicle-bays]] for how vehicles are called in the game."
+      ]
+    ],
+    "related": [
+      "vehicle-bays",
+      "anatarya"
+    ],
+    "imageKey": "file:unknown-49.jpg",
+    "draft": false
+  },
+  "unknown-vehicle-50": {
+    "title": "???",
+    "category": "Vehicles",
+    "desc": "Vehicle in the workshop. Designation withheld.",
+    "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+    "facts": [
+      [
+        "Designation",
+        "???"
+      ],
+      [
+        "Country",
+        "[[anatarya]]"
+      ],
+      [
+        "Class",
+        "6x6 armed unmanned ground vehicle"
+      ],
+      [
+        "Status",
+        "In the vehicle workshop"
+      ]
+    ],
+    "sections": [
+      [
+        "Overview",
+        "This vehicle is part of the new vehicle set built in the workshop. Technical details and the official name will be published when it is transferred to the main game. See [[vehicle-bays]] for how vehicles are called in the game."
+      ]
+    ],
+    "related": [
+      "vehicle-bays",
+      "anatarya"
+    ],
+    "imageKey": "file:unknown-50.jpg",
+    "draft": false
+  },
+  "unknown-vehicle-51": {
+    "title": "???",
+    "category": "Vehicles",
+    "desc": "Vehicle in the workshop. Designation withheld.",
+    "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+    "facts": [
+      [
+        "Designation",
+        "???"
+      ],
+      [
+        "Country",
+        "[[anatarya]]"
+      ],
+      [
+        "Class",
+        "Armed unmanned ground vehicle"
+      ],
+      [
+        "Status",
+        "In the vehicle workshop"
+      ]
+    ],
+    "sections": [
+      [
+        "Overview",
+        "This vehicle is part of the new vehicle set built in the workshop. Technical details and the official name will be published when it is transferred to the main game. See [[vehicle-bays]] for how vehicles are called in the game."
+      ]
+    ],
+    "related": [
+      "vehicle-bays",
+      "anatarya"
+    ],
+    "imageKey": "file:unknown-51.jpg",
+    "draft": false
+  },
+  "unknown-vehicle-52": {
+    "title": "???",
+    "category": "Vehicles",
+    "desc": "Vehicle in the workshop. Designation withheld.",
+    "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+    "facts": [
+      [
+        "Designation",
+        "???"
+      ],
+      [
+        "Country",
+        "[[anatarya]]"
+      ],
+      [
+        "Class",
+        "Reconnaissance unmanned ground vehicle"
+      ],
+      [
+        "Status",
+        "In the vehicle workshop"
+      ]
+    ],
+    "sections": [
+      [
+        "Overview",
+        "This vehicle is part of the new vehicle set built in the workshop. Technical details and the official name will be published when it is transferred to the main game. See [[vehicle-bays]] for how vehicles are called in the game."
+      ]
+    ],
+    "related": [
+      "vehicle-bays",
+      "anatarya"
+    ],
+    "imageKey": "file:unknown-52.jpg",
+    "draft": false
+  },
+  "unknown-vehicle-53": {
+    "title": "???",
+    "category": "Vehicles",
+    "desc": "Vehicle in the workshop. Designation withheld.",
+    "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+    "facts": [
+      [
+        "Designation",
+        "???"
+      ],
+      [
+        "Country",
+        "[[anatarya]]"
+      ],
+      [
+        "Class",
+        "Reconnaissance unmanned ground vehicle"
+      ],
+      [
+        "Status",
+        "In the vehicle workshop"
+      ]
+    ],
+    "sections": [
+      [
+        "Overview",
+        "This vehicle is part of the new vehicle set built in the workshop. Technical details and the official name will be published when it is transferred to the main game. See [[vehicle-bays]] for how vehicles are called in the game."
+      ]
+    ],
+    "related": [
+      "vehicle-bays",
+      "anatarya"
+    ],
+    "imageKey": "file:unknown-53.jpg",
+    "draft": false
+  },
+  "unknown-vehicle-54": {
+    "title": "???",
+    "category": "Vehicles",
+    "desc": "Vehicle in the workshop. Designation withheld.",
+    "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+    "facts": [
+      [
+        "Designation",
+        "???"
+      ],
+      [
+        "Country",
+        "[[anatarya]]"
+      ],
+      [
+        "Class",
+        "Bomb-disposal unmanned ground vehicle"
+      ],
+      [
+        "Status",
+        "In the vehicle workshop"
+      ]
+    ],
+    "sections": [
+      [
+        "Overview",
+        "This vehicle is part of the new vehicle set built in the workshop. Technical details and the official name will be published when it is transferred to the main game. See [[vehicle-bays]] for how vehicles are called in the game."
+      ]
+    ],
+    "related": [
+      "vehicle-bays",
+      "anatarya"
+    ],
+    "imageKey": "file:unknown-54.jpg",
+    "draft": false
+  },
+  "unknown-vehicle-55": {
+    "title": "???",
+    "category": "Vehicles",
+    "desc": "Vehicle in the workshop. Designation withheld.",
+    "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+    "facts": [
+      [
+        "Designation",
+        "???"
+      ],
+      [
+        "Country",
+        "[[anatarya]]"
+      ],
+      [
+        "Class",
+        "Explosive-ordnance unmanned ground vehicle"
+      ],
+      [
+        "Status",
+        "In the vehicle workshop"
+      ]
+    ],
+    "sections": [
+      [
+        "Overview",
+        "This vehicle is part of the new vehicle set built in the workshop. Technical details and the official name will be published when it is transferred to the main game. See [[vehicle-bays]] for how vehicles are called in the game."
+      ]
+    ],
+    "related": [
+      "vehicle-bays",
+      "anatarya"
+    ],
+    "imageKey": "file:unknown-55.jpg",
+    "draft": false
+  },
+  "unknown-vehicle-56": {
+    "title": "???",
+    "category": "Vehicles",
+    "desc": "Vehicle in the workshop. Designation withheld.",
+    "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+    "facts": [
+      [
+        "Designation",
+        "???"
+      ],
+      [
+        "Country",
+        "[[anatarya]]"
+      ],
+      [
+        "Class",
+        "6x6 explosive-ordnance unmanned ground vehicle"
+      ],
+      [
+        "Status",
+        "In the vehicle workshop"
+      ]
+    ],
+    "sections": [
+      [
+        "Overview",
+        "This vehicle is part of the new vehicle set built in the workshop. Technical details and the official name will be published when it is transferred to the main game. See [[vehicle-bays]] for how vehicles are called in the game."
+      ]
+    ],
+    "related": [
+      "vehicle-bays",
+      "anatarya"
+    ],
+    "imageKey": "file:unknown-56.jpg",
+    "draft": false
+  },
+  "unknown-vehicle-57": {
+    "title": "???",
+    "category": "Vehicles",
+    "desc": "Vehicle in the workshop. Designation withheld.",
+    "lead": "A vehicle from the vehicle workshop whose designation is withheld. Its working name matches a real-world designation and will be replaced with an in-universe name when it moves to the main game.",
+    "facts": [
+      [
+        "Designation",
+        "???"
+      ],
+      [
+        "Country",
+        "[[anatarya]]"
+      ],
+      [
+        "Class",
+        "Explosive-ordnance unmanned ground vehicle"
+      ],
+      [
+        "Status",
+        "In the vehicle workshop"
+      ]
+    ],
+    "sections": [
+      [
+        "Overview",
+        "This vehicle is part of the new vehicle set built in the workshop. Technical details and the official name will be published when it is transferred to the main game. See [[vehicle-bays]] for how vehicles are called in the game."
+      ]
+    ],
+    "related": [
+      "vehicle-bays",
+      "anatarya"
+    ],
+    "imageKey": "file:unknown-57.jpg",
+    "draft": false
+  },
+  "classified-vehicle-6": {
+    "title": "[CLASSIFIED] VEHICLE 06",
+    "category": "Vehicles",
+    "classified": true,
+    "desc": "[REDACTED] — Restricted vehicle record. Clearance Level 5 required.",
+    "lead": "Security Directive ████-09: The designation, appearance and specifications of this vehicle are withheld from the public archive.",
+    "facts": [
+      [
+        "Designation",
+        "[REDACTED]"
+      ],
+      [
+        "Class",
+        "[REDACTED]"
+      ],
+      [
+        "Operator",
+        "[REDACTED]"
+      ],
+      [
+        "Classification",
+        "[LEVEL 5 REQUIRED]"
+      ]
+    ],
+    "sections": [
+      [
+        "Record",
+        "[DATA EXPUNGED]. Public archive mirrors retain only the file header; access to the underlying appendices returns [ACCESS DENIED]."
+      ]
+    ],
+    "related": [
+      "aia"
+    ],
+    "imageKey": "classified-seal",
+    "draft": false
+  },
+  "classified-vehicle-7": {
+    "title": "[CLASSIFIED] VEHICLE 07",
+    "category": "Vehicles",
+    "classified": true,
+    "desc": "[REDACTED] — Restricted vehicle record. Clearance Level 5 required.",
+    "lead": "Security Directive ████-09: The designation, appearance and specifications of this vehicle are withheld from the public archive.",
+    "facts": [
+      [
+        "Designation",
+        "[REDACTED]"
+      ],
+      [
+        "Class",
+        "[REDACTED]"
+      ],
+      [
+        "Operator",
+        "[REDACTED]"
+      ],
+      [
+        "Classification",
+        "[LEVEL 5 REQUIRED]"
+      ]
+    ],
+    "sections": [
+      [
+        "Record",
+        "[DATA EXPUNGED]. Public archive mirrors retain only the file header; access to the underlying appendices returns [ACCESS DENIED]."
+      ]
+    ],
+    "related": [
+      "aia"
+    ],
+    "imageKey": "classified-seal",
+    "draft": false
+  },
+  "classified-vehicle-8": {
+    "title": "[CLASSIFIED] VEHICLE 08",
+    "category": "Vehicles",
+    "classified": true,
+    "desc": "[REDACTED] — Restricted vehicle record. Clearance Level 5 required.",
+    "lead": "Security Directive ████-09: The designation, appearance and specifications of this vehicle are withheld from the public archive.",
+    "facts": [
+      [
+        "Designation",
+        "[REDACTED]"
+      ],
+      [
+        "Class",
+        "[REDACTED]"
+      ],
+      [
+        "Operator",
+        "[REDACTED]"
+      ],
+      [
+        "Classification",
+        "[LEVEL 5 REQUIRED]"
+      ]
+    ],
+    "sections": [
+      [
+        "Record",
+        "[DATA EXPUNGED]. Public archive mirrors retain only the file header; access to the underlying appendices returns [ACCESS DENIED]."
+      ]
+    ],
+    "related": [
+      "aia"
+    ],
+    "imageKey": "classified-seal",
+    "draft": false
+  },
+  "classified-vehicle-9": {
+    "title": "[CLASSIFIED] VEHICLE 09",
     "category": "Vehicles",
     "classified": true,
     "desc": "[REDACTED] — Restricted vehicle record. Clearance Level 5 required.",
